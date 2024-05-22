@@ -1,9 +1,9 @@
 {
     "name": "SamsungTVPlus TV by HL",
-    "author": "Actualizada 22/05/2024 12:53",
+    "author": "Actualizada 22/05/2024 13:35",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
-    "image": "https://helmerluzo.github.io/SamsungTvPlus_HL/samsung.png",
-    "url": "https://helmerluzo.github.io/SamsungTvPlus_HL/tv/w3u/SamsungTvPlus_tv.w3u",
+    "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/samsung.png",
+    "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
     "groups": [
         {
             "name": "Noticias",
@@ -312,7 +312,7 @@
                     "name": "Trace Sportstars",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300035DP_20220323T081930SQUARE.png_20220323081932.png",
                     "number": "4513",
-                    "url": "https://tracesportstars-samsunges.amagi.tv/amRdirect/device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&tc_string=%7BTC_STRING%7D&app_name=%7BAPP_NAME%7D&coppa=0&uid=1huftfk2d-pg48-kt-w49u-6kh0xgntad4/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8",
+                    "url": "http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8",
                     "epgId": "ESBA3300035DP"
                 }
             ]
@@ -325,7 +325,7 @@
                     "name": "Televisión Consciente",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20220511T011722SQUARE.png_20220511011723.png",
                     "number": "4402",
-                    "url": "https://fractaltv-samsungspain.amagi.tv/amRdirect/device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&coppa=0&tc_string=%7BTC_STRING%7D&uid=1huftfksr-npsb-1rg-nxyu-yt2eymwpqpj/hls/amagi_hls_data_samsungsp-fractal-televison-concientes-samsunges/CDN/playlist.m3u8",
+                    "url": "https://fractaltv-samsungspain.amagi.tv/amRdirect/device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&coppa=0&tc_string=%7BTC_STRING%7D&uid=1hug0sjbl-tu12-808-13ka-2stc3m0gxz6/hls/amagi_hls_data_samsungsp-fractal-televison-concientes-samsunges/CDN/playlist.m3u8",
                     "epgId": "ESBC1700002IM"
                 },
                 {
