@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus TV by HL",
-    "author": "Actualizada 22/05/2024 13:35",
+    "author": "Actualizada 13/06/2024 15:10",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/samsung.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -45,6 +45,13 @@
                     "epgId": "ESBD36000026Z"
                 },
                 {
+                    "name": "DW",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1300001QC_20240611T061838SQUARE.png",
+                    "number": "4313",
+                    "url": "https://d2p3wzdhcwv1ny.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-akj1iaj2bm093/index.m3u8",
+                    "epgId": "ES1300001QC"
+                },
+                {
                     "name": "CNN FAST",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20230614T005931SQUARE.png_20230614005932.png",
                     "number": "4315",
@@ -86,6 +93,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entretenimiento.png",
             "stations": [
                 {
+                    "name": "La 1",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20240611T061840SQUARE.png",
+                    "number": "4001",
+                    "url": "https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8",
+                    "epgId": "ESBC4100001NZ"
+                },
+                {
                     "name": "Estilo y Vida – Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900003ND_20240117T032717SQUARE.png_20240117032717.png",
                     "number": "4004",
@@ -93,25 +107,18 @@
                     "epgId": "ESAJ2900003ND"
                 },
                 {
-                    "name": "Canal Sur Andalucía",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20240507T094203SQUARE.png",
-                    "number": "4005",
-                    "url": "https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8",
-                    "epgId": "ESBD3000002GP"
-                },
-                {
-                    "name": "La 1",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20240117T032718SQUARE.png_20240117032719.png",
-                    "number": "4007",
-                    "url": "https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8",
-                    "epgId": "ESBC4100001NZ"
-                },
-                {
                     "name": "La 2",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20221109T010944SQUARE.png_20221109010944.png",
                     "number": "4105",
                     "url": "https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8",
                     "epgId": "ESBC4100002AG"
+                },
+                {
+                    "name": "Canal Sur Andalucía",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20240611T061832SQUARE.png",
+                    "number": "4107",
+                    "url": "https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8",
+                    "epgId": "ESBD3000002GP"
                 },
                 {
                     "name": "Azteca Internacional",
@@ -184,20 +191,6 @@
                     "epgId": "ESBC3900002L8"
                 },
                 {
-                    "name": "Sony One Shark Tank",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300004C9_20240423T033412SQUARE.png",
-                    "number": "4126",
-                    "url": "https://d1tomhv15cxg2v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dtc5y63vaqs1k/out/v1/d1f23c919be44276ac70592e72370bd5/HLS_CMAF_DRM/index.m3u8",
-                    "epgId": "ES300004C9"
-                },
-                {
-                    "name": "Sony One Éxitos",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20240423T033417SQUARE.png",
-                    "number": "4127",
-                    "url": "https://d1qqqzgawx8dm4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kqcynrqfphc5x/out/v1/2c5247457e9943aabb80cef94cc9efc9/HLS_CMAF_DRM/index.m3u8",
-                    "epgId": "ES300003D4"
-                },
-                {
                     "name": "Comedia Made in Spain",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20240402T134057SQUARE.png",
                     "number": "4128",
@@ -219,13 +212,6 @@
                     "epgId": "ESBC1700004PX"
                 },
                 {
-                    "name": "Sony One Series Comedia",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000145_20240423T033407SQUARE.png",
-                    "number": "4135",
-                    "url": "https://d2rofeqf0673th.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ybo3s6v9q9crw/out/v1/33d556048d4c4e7ca5341ed32945dffd/HLS_CMAF_DRM/index.m3u8",
-                    "epgId": "ES30000145"
-                },
-                {
                     "name": "Just For Laughs",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png",
                     "number": "4136",
@@ -240,18 +226,11 @@
                     "epgId": "ESBA1400007MR"
                 },
                 {
-                    "name": "Sony One Series Thriller",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20240423T033409SQUARE.png",
-                    "number": "4145",
-                    "url": "https://d3mxfxhle3xd0s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nkxft2gtqb450/out/v1/df7a8f8311ce4090ab2f0720d1940ec4/HLS_CMAF_DRM/index.m3u8",
-                    "epgId": "ES300002Y6"
-                },
-                {
-                    "name": "Sony One The Blacklist",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300005EL_20240423T033414SQUARE.png",
-                    "number": "4161",
-                    "url": "https://d2tc4lji6pdfcr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q1mg82fm9383m/out/v1/28639bbd70644979b9ea12d02568a273/HLS_CMAF_DRM/index.m3u8",
-                    "epgId": "ES300005EL"
+                    "name": "Beyblade",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400001T8_20240611T061830SQUARE.png",
+                    "number": "4144",
+                    "url": "https://amg01796-amg01796c8-samsung-es-3537.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-samsunges/playlist.m3u8",
+                    "epgId": "ES1400001T8"
                 }
             ]
         },
@@ -260,11 +239,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Deportes.png",
             "stations": [
                 {
-                    "name": "La Liga",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240507T094211SQUARE.png",
-                    "number": "4006",
-                    "url": "https://d392irezi4x0in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-k0p8cvikc8tyj/index.m3u8",
-                    "epgId": "ESBD3600001Q1"
+                    "name": "Teledeporte",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20240611T061853SQUARE.png",
+                    "number": "4005",
+                    "url": "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8",
+                    "epgId": "ESBC410000577"
                 },
                 {
                     "name": "La Liga Inside",
@@ -274,11 +253,11 @@
                     "epgId": "ESBD4700001T2"
                 },
                 {
-                    "name": "Teledeporte",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20231213T103944SQUARE.png_20231213103945.png",
-                    "number": "4504",
-                    "url": "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8",
-                    "epgId": "ESBC410000577"
+                    "name": "La Liga",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240611T061844SQUARE.png",
+                    "number": "4502",
+                    "url": "https://d392irezi4x0in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-k0p8cvikc8tyj/index.m3u8",
+                    "epgId": "ESBD3600001Q1"
                 },
                 {
                     "name": "FIFA+",
@@ -325,7 +304,7 @@
                     "name": "Televisión Consciente",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20220511T011722SQUARE.png_20220511011723.png",
                     "number": "4402",
-                    "url": "https://fractaltv-samsungspain.amagi.tv/amRdirect/device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&coppa=0&tc_string=%7BTC_STRING%7D&uid=1hug0sjbl-tu12-808-13ka-2stc3m0gxz6/hls/amagi_hls_data_samsungsp-fractal-televison-concientes-samsunges/CDN/playlist.m3u8",
+                    "url": "https://fractaltv-samsungspain.amagi.tv/amRdirect/device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&coppa=0&tc_string=%7BTC_STRING%7D&uid=1i08rf5bc-0js2-cvg-rzll-q1ajtbfg91/hls/amagi_hls_data_samsungsp-fractal-televison-concientes-samsunges/CDN/playlist.m3u8",
                     "epgId": "ESBC1700002IM"
                 },
                 {
@@ -427,7 +406,7 @@
                 },
                 {
                     "name": "SuperToons TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20240214T035702SQUARE.png_20240214035703.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20240611T061825SQUARE.png",
                     "number": "4613",
                     "url": "https://d1swszxzumm47b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-og0iw9ikdkebc/feed/samsung/streams/SUPERTOONS_ES/master.m3u8",
                     "epgId": "ESBD5100001G0"
@@ -509,6 +488,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Películas.png",
             "stations": [
                 {
+                    "name": "Runtime Familia",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20240611T061846SQUARE.png",
+                    "number": "4006",
+                    "url": "https://d1k8d66ey1ll85.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7dhno1v7okiy1/rt_tr_es.m3u8",
+                    "epgId": "ES700004C8"
+                },
+                {
                     "name": "Grjngo - Películas Del Oeste",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20230510T044206SQUARE.png_20230510044207.png",
                     "number": "4957",
@@ -572,13 +558,6 @@
                     "epgId": "ESBD8000033W"
                 },
                 {
-                    "name": "Runtime Familia",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20240402T134124SQUARE.png",
-                    "number": "4978",
-                    "url": "https://d1k8d66ey1ll85.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7dhno1v7okiy1/rt_tr_es.m3u8",
-                    "epgId": "ES700004C8"
-                },
-                {
                     "name": "Runtime Romance",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20240313T073251SQUARE.png",
                     "number": "4979",
@@ -619,20 +598,6 @@
                     "number": "4985",
                     "url": "https://amg00477-samsungelectron-cineclassico-samsungspain-ad-ee.amagi.tv/playlist/amg00477-samsungelectron-cineclassico-samsungspain/playlist.m3u8",
                     "epgId": "ESBD230000143"
-                },
-                {
-                    "name": "Sony One Hits Acción",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20240423T033402SQUARE.png",
-                    "number": "4987",
-                    "url": "https://d3jssbmdfgo4wq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5t28rne706qj/out/v1/1bb6cebf6ece479b9246b040ef68cb5e/HLS_CMAF_DRM/index.m3u8",
-                    "epgId": "ES300006QJ"
-                },
-                {
-                    "name": "Sony One Hits Comedia",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20240423T033404SQUARE.png",
-                    "number": "4988",
-                    "url": "https://diz9ba16t1pi6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hpcvog4i9e0qx/out/v1/560811e0050b4928a9f715b0c95a048b/HLS_CMAF_DRM/index.m3u8",
-                    "epgId": "ES300007KS"
                 },
                 {
                     "name": "Comedias - Rakuten TV",
@@ -725,11 +690,18 @@
                     "epgId": "ESBA1500001C4"
                 },
                 {
-                    "name": "Staccs TV",
+                    "name": "Staccs Music TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD270000108_20240521T042553SQUARE.png",
                     "number": "4724",
                     "url": "https://3cf9b1046f5f4735911350e41a9de7f2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_STACCSTV/playlist.m3u8",
                     "epgId": "ESBD270000108"
+                },
+                {
+                    "name": "Staccs TV Throwback",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1900001OE_20240611T061850SQUARE.png",
+                    "number": "4725",
+                    "url": "https://b9c1982ea06743cca84fc96bd88dad38.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_STACCSTVThrowback/playlist.m3u8",
+                    "epgId": "ES1900001OE"
                 },
                 {
                     "name": "Vivaldi TV",
@@ -745,25 +717,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Drama.png",
             "stations": [
                 {
-                    "name": "Acacias 38",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4000016U_20240507T094157SQUARE.png",
-                    "number": "4001",
-                    "url": "https://d1lo7r7nl2pmeg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-urys7l6jhm8az/index.m3u8",
-                    "epgId": "ES4000016U"
-                },
-                {
-                    "name": "Todo Crimen",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3900002EV_20231101T032823SQUARE.png_20231101032824.png",
-                    "number": "4002",
-                    "url": "https://d1htv2e9yxvqgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-acdwnb8vzvd8t/out/v1/339ff90dbfd94a82a90c74a4100d9069/TODO_CRIMEN_ES_HLS_CMAF_DRM/index.m3u8",
-                    "epgId": "ESBD3900002EV"
-                },
-                {
                     "name": "Cuéntame cómo pasó",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20240507T094207SQUARE.png",
-                    "number": "4152",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20240611T061836SQUARE.png",
+                    "number": "4002",
                     "url": "https://d3lym88u8n1a2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t3b15ehnw7chp/index.m3u8",
                     "epgId": "ES400002P5"
+                },
+                {
+                    "name": "Acacias 38",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4000016U_20240611T061827SQUARE.png",
+                    "number": "4151",
+                    "url": "https://d1lo7r7nl2pmeg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-urys7l6jhm8az/index.m3u8",
+                    "epgId": "ES4000016U"
                 },
                 {
                     "name": "Baywatch – Los Vigilantes de la Playa",
@@ -773,11 +738,11 @@
                     "epgId": "ESBD1300001EP"
                 },
                 {
-                    "name": "Corazón",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20231115T012147SQUARE.png_20231115012147.png",
-                    "number": "4158",
-                    "url": "https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8",
-                    "epgId": "ESBD1300003VN"
+                    "name": "Todo Crimen",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3900002EV_20240611T061857SQUARE.png",
+                    "number": "4159",
+                    "url": "https://d1htv2e9yxvqgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-acdwnb8vzvd8t/out/v1/339ff90dbfd94a82a90c74a4100d9069/TODO_CRIMEN_ES_HLS_CMAF_DRM/index.m3u8",
+                    "epgId": "ESBD3900002EV"
                 },
                 {
                     "name": "Los Asesinatos de Midsomer",
@@ -797,7 +762,7 @@
                     "name": "FreeTV Estelar",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20240214T035644SQUARE.png_20240214035644.png",
                     "number": "4163",
-                    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8",
+                    "url": "https://amg01024-olympusat-tucineeurope-samsungspain-ad-7d.amagi.tv/playlist/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8",
                     "epgId": "ESBA3300039ZX"
                 },
                 {
@@ -806,6 +771,13 @@
                     "number": "4166",
                     "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v1/stitch/embed/hls/channel/5f1acb4eebe0f0000767b40f/master.m3u8",
                     "epgId": "ESBA3300027H5"
+                },
+                {
+                    "name": "Corazón",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20240611T061834SQUARE.png",
+                    "number": "4167",
+                    "url": "https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8",
+                    "epgId": "ESBD1300003VN"
                 },
                 {
                     "name": "Stormcast Novelas",
@@ -818,7 +790,7 @@
                     "name": "Todo Novelas",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png",
                     "number": "4170",
-                    "url": "https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0go87ctcenys-ssai-prd/master.m3u8",
+                    "url": "https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0go87ctcenys-ssai-prd/index.m3u8",
                     "epgId": "ESBC43000013T"
                 },
                 {
