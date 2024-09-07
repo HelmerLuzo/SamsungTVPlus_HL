@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus TV by HL",
-    "author": "Actualizada 06/09/2024 20:15",
+    "author": "Actualizada 07/09/2024 14:01",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/samsung.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -39,7 +39,7 @@
                 },
                 {
                     "name": "CNBC",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD36000026Z_20231115T012151SQUARE.png_20231115012151.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD36000026Z_20240829T163241SQUARE.png",
                     "number": "4312",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBD36000026Z.m3u8",
                     "epgId": "ESBD36000026Z"
@@ -53,35 +53,35 @@
                 },
                 {
                     "name": "CNN FAST",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20230614T005931SQUARE.png_20230614005932.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20240829T163245SQUARE.png",
                     "number": "4315",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBD190000137.m3u8",
                     "epgId": "ESBD190000137"
                 },
                 {
                     "name": "NBC News NOW",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400003YM_20230913T030606SQUARE.png_20230913030607.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400003YM_20240829T163253SQUARE.png",
                     "number": "4316",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBC400003YM.m3u8",
                     "epgId": "ESBC400003YM"
                 },
                 {
                     "name": "El País",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20230809T053828SQUARE.png_20230809053829.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20240829T163248SQUARE.png",
                     "number": "4318",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBC39000033J.m3u8",
                     "epgId": "ESBC39000033J"
                 },
                 {
                     "name": "FRANCE 24 FAST",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1100001PQ_20230823T033055SQUARE.png_20230823033056.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1100001PQ_20240829T163250SQUARE.png",
                     "number": "4319",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBD1100001PQ.m3u8",
                     "epgId": "ESBD1100001PQ"
                 },
                 {
                     "name": "Bloomberg TV+",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300024AJ_20221026T004524SQUARE.png_20221026004525.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300024AJ_20240829T163238SQUARE.png",
                     "number": "4320",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBA3300024AJ.m3u8",
                     "epgId": "ESBA3300024AJ"
@@ -136,7 +136,7 @@
                 },
                 {
                     "name": "MTV Cribs",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20231213T033347SQUARE.png_20231213033348.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20240904T135804SQUARE.png",
                     "number": "4113",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESAJ3800006TT.m3u8",
                     "epgId": "ESAJ3800006TT"
@@ -199,7 +199,7 @@
                 },
                 {
                     "name": "Teen Vee",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20230412T042445SQUARE.png_20230412042445.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20240904T135724SQUARE.png",
                     "number": "4130",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBC4700003RJ.m3u8",
                     "epgId": "ESBC4700003RJ"
@@ -220,14 +220,14 @@
                 },
                 {
                     "name": "Yu-Gi-Oh!",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400007MR_20230823T033059SQUARE.png_20230823033100.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400007MR_20240904T135732SQUARE.png",
                     "number": "4142",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBA1400007MR.m3u8",
                     "epgId": "ESBA1400007MR"
                 },
                 {
                     "name": "Beyblade",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400001T8_20240611T061830SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400001T8_20240904T135720SQUARE.png",
                     "number": "4144",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ES1400001T8.m3u8",
                     "epgId": "ES1400001T8"
@@ -246,18 +246,18 @@
                     "epgId": "ESBC410000577"
                 },
                 {
+                    "name": "FIFA+",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20240827T040400SQUARE.png",
+                    "number": "4010",
+                    "url": "https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8",
+                    "epgId": "ESBC2700009B4"
+                },
+                {
                     "name": "La Liga Inside",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240730T065330SQUARE.png",
                     "number": "4502",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBD3600001Q1.m3u8",
                     "epgId": "ESBD3600001Q1"
-                },
-                {
-                    "name": "FIFA+",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png",
-                    "number": "4506",
-                    "url": "https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8",
-                    "epgId": "ESBC2700009B4"
                 },
                 {
                     "name": "Tennis Channel",
@@ -288,7 +288,7 @@
                 },
                 {
                     "name": "Hoguera",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20240507T094153SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20240904T135808SQUARE.png",
                     "number": "4403",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBD1500001SD.m3u8",
                     "epgId": "ESBD1500001SD"
@@ -323,7 +323,7 @@
                 },
                 {
                     "name": "GoUSA TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20230726T033527SQUARE.png_20230726033528.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20240904T135753SQUARE.png",
                     "number": "4414",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBC27000040I.m3u8",
                     "epgId": "ESBC27000040I"
@@ -341,13 +341,6 @@
                     "number": "4435",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESAJ3800007PC.m3u8",
                     "epgId": "ESAJ3800007PC"
-                },
-                {
-                    "name": "Tastemade",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200006B4_20220810T012723SQUARE.png_20220810012723.png",
-                    "number": "4438",
-                    "url": "https://i.mjh.nz/SamsungTVPlus/ESBA2200006B4.m3u8",
-                    "epgId": "ESBA2200006B4"
                 }
             ]
         },
@@ -378,7 +371,7 @@
                 },
                 {
                     "name": "Peter Rabbit",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400002W4_20240228T030529SQUARE.png_20240228030530.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400002W4_20240904T135715SQUARE.png",
                     "number": "4608",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBD1400002W4.m3u8",
                     "epgId": "ESBD1400002W4"
@@ -391,22 +384,29 @@
                     "epgId": "ES900001SH"
                 },
                 {
+                    "name": "Rantaró, El Ninja Boy",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000010YY_20240827T040406SQUARE.png",
+                    "number": "4612",
+                    "url": "https://i.mjh.nz/SamsungTVPlus/ES3000010YY.m3u8",
+                    "epgId": "ES3000010YY"
+                },
+                {
                     "name": "SuperToons TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20240611T061825SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20240904T135718SQUARE.png",
                     "number": "4613",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBD5100001G0.m3u8",
                     "epgId": "ESBD5100001G0"
                 },
                 {
                     "name": "Familiares - Rakuten TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300017FA_20240117T032708SQUARE.png_20240117032709.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300017FA_20240904T135735SQUARE.png",
                     "number": "4615",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBA3300017FA.m3u8",
                     "epgId": "ESBA3300017FA"
                 },
                 {
-                    "name": "Gormiti & Friends",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200002V5_20240507T094155SQUARE.png",
+                    "name": "Mini Me",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200002V5_20240827T040347SQUARE.png",
                     "number": "4616",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBD3200002V5.m3u8",
                     "epgId": "ESBD3200002V5"
@@ -427,14 +427,14 @@
                 },
                 {
                     "name": "Rabbids : La invasion",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20240813T155930SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20240904T135712SQUARE.png",
                     "number": "4623",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBD2300003S5.m3u8",
                     "epgId": "ESBD2300003S5"
                 },
                 {
                     "name": "Bob Esponja",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20221026T004517SQUARE.png_20221026004518.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20240904T135709SQUARE.png",
                     "number": "4625",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBA33000262Z.m3u8",
                     "epgId": "ESBA33000262Z"
@@ -580,7 +580,7 @@
                 },
                 {
                     "name": "FreeTV Clásico",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000143_20240214T035648SQUARE.png_20240214035649.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000143_20240829T163147SQUARE.png",
                     "number": "4985",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBD230000143.m3u8",
                     "epgId": "ESBD230000143"
@@ -594,10 +594,10 @@
                 },
                 {
                     "name": "Películas Top - Rakuten TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700005EE_20221012T021024SQUARE.png_20221012021024.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20240827T040403SQUARE.png",
                     "number": "4994",
-                    "url": "https://i.mjh.nz/SamsungTVPlus/ESBC2700005EE.m3u8",
-                    "epgId": "ESBC2700005EE"
+                    "url": "https://i.mjh.nz/SamsungTVPlus/ES2600013H4.m3u8",
+                    "epgId": "ES2600013H4"
                 },
                 {
                     "name": "Dramas - Rakuten TV",
@@ -608,10 +608,10 @@
                 },
                 {
                     "name": "Acción - Rakuten TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ45000181E_20220323T081350SQUARE.png_20220323081353.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20240827T040355SQUARE.png",
                     "number": "4999",
-                    "url": "https://i.mjh.nz/SamsungTVPlus/ESAJ45000181E.m3u8",
-                    "epgId": "ESAJ45000181E"
+                    "url": "https://i.mjh.nz/SamsungTVPlus/ES2600004BD.m3u8",
+                    "epgId": "ES2600004BD"
                 }
             ]
         },
@@ -677,7 +677,7 @@
                 },
                 {
                     "name": "Staccs Music TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD270000108_20240521T042553SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD270000108_20240903T055912SQUARE.png",
                     "number": "4724",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBD270000108.m3u8",
                     "epgId": "ESBD270000108"
@@ -691,7 +691,7 @@
                 },
                 {
                     "name": "Cool Summer Channel",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2500001F9_20240813T155924SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2500001F9_20240904T135757SQUARE.png",
                     "number": "4732",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ES2500001F9.m3u8",
                     "epgId": "ES2500001F9"
@@ -760,7 +760,7 @@
                 },
                 {
                     "name": "Las Reglas Del Juego",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300027H5_20231011T084704SQUARE.png_20231011084705.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300027H5_20240904T135800SQUARE.png",
                     "number": "4166",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBA3300027H5.m3u8",
                     "epgId": "ESBA3300027H5"
@@ -781,17 +781,17 @@
                 },
                 {
                     "name": "Todo Novelas",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20240904T135823SQUARE.png",
                     "number": "4170",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBC43000013T.m3u8",
                     "epgId": "ESBC43000013T"
                 },
                 {
                     "name": "Doctor Who",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400001OG_20221012T021006SQUARE.png_20221012021006.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700001G5_20240827T040358SQUARE.png",
                     "number": "4172",
-                    "url": "https://i.mjh.nz/SamsungTVPlus/ESBA1400001OG.m3u8",
-                    "epgId": "ESBA1400001OG"
+                    "url": "https://i.mjh.nz/SamsungTVPlus/ES2700001G5.m3u8",
+                    "epgId": "ES2700001G5"
                 },
                 {
                     "name": "BBC Drama",
@@ -829,7 +829,7 @@
                 },
                 {
                     "name": "Forensic Files",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600001MC_20240730T065336SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600001MC_20240904T135815SQUARE.png",
                     "number": "4208",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ES2600001MC.m3u8",
                     "epgId": "ES2600001MC"
@@ -857,7 +857,7 @@
                 },
                 {
                     "name": "Love the Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20240131T031146SQUARE.png_20240131031146.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20240904T135811SQUARE.png",
                     "number": "4239",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESBC4700002TD.m3u8",
                     "epgId": "ESBC4700002TD"
@@ -897,7 +897,7 @@
             "stations": [
                 {
                     "name": "Top Gear en Español",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20240214T035705SQUARE.png_20240214035705.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20240904T135746SQUARE.png",
                     "number": "4480",
                     "url": "https://i.mjh.nz/SamsungTVPlus/ESAJ2900001Y3.m3u8",
                     "epgId": "ESAJ2900001Y3"
