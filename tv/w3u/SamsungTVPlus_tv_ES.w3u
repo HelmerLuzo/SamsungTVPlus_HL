@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus TV by HL",
-    "author": "Actualizada 23/10/2024 00:19",
+    "author": "Actualizada 24/10/2024 00:19",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/samsung.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -19,79 +19,86 @@
                 {
                     "name": "24H",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20241022T050444SQUARE.png",
-                    "number": "4305",
+                    "number": "4551",
                     "url": "https://jmp2.uk/sam-ESBC4100004J1.m3u8",
                     "epgId": "ESBC4100004J1"
                 },
                 {
-                    "name": "CNN en Español",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES34000039I_20241022T050503SQUARE.png",
-                    "number": "4306",
-                    "url": "https://jmp2.uk/sam-ES34000039I.m3u8",
-                    "epgId": "ES34000039I"
-                },
-                {
                     "name": "Negocios TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20241022T050601SQUARE.png",
-                    "number": "4307",
+                    "number": "4553",
                     "url": "https://jmp2.uk/sam-ESBD3400001AA.m3u8",
                     "epgId": "ESBD3400001AA"
                 },
                 {
-                    "name": "El Confidencial",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20241022T050529SQUARE.png",
-                    "number": "4310",
-                    "url": "https://jmp2.uk/sam-ESBC1400001L8.m3u8",
-                    "epgId": "ESBC1400001L8"
-                },
-                {
-                    "name": "CNBC",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD36000026Z_20241022T050459SQUARE.png",
-                    "number": "4312",
-                    "url": "https://jmp2.uk/sam-ESBD36000026Z.m3u8",
-                    "epgId": "ESBD36000026Z"
-                },
-                {
-                    "name": "DW",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1300001QC_20241022T050524SQUARE.png",
-                    "number": "4313",
-                    "url": "https://jmp2.uk/sam-ES1300001QC.m3u8",
-                    "epgId": "ES1300001QC"
-                },
-                {
-                    "name": "CNN FAST",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20241022T050501SQUARE.png",
-                    "number": "4315",
-                    "url": "https://jmp2.uk/sam-ESBD190000137.m3u8",
-                    "epgId": "ESBD190000137"
-                },
-                {
-                    "name": "NBC News NOW",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400003YM_20241022T050559SQUARE.png",
-                    "number": "4316",
-                    "url": "https://jmp2.uk/sam-ESBC400003YM.m3u8",
-                    "epgId": "ESBC400003YM"
-                },
-                {
                     "name": "El País",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20241022T050530SQUARE.png",
-                    "number": "4318",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20241023T143142SQUARE.png",
+                    "number": "4555",
                     "url": "https://jmp2.uk/sam-ESBC39000033J.m3u8",
                     "epgId": "ESBC39000033J"
                 },
                 {
+                    "name": "El Confidencial",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20241022T050529SQUARE.png",
+                    "number": "4557",
+                    "url": "https://jmp2.uk/sam-ESBC1400001L8.m3u8",
+                    "epgId": "ESBC1400001L8"
+                },
+                {
+                    "name": "CNN FAST",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20241023T143140SQUARE.png",
+                    "number": "4561",
+                    "url": "https://jmp2.uk/sam-ESBD190000137.m3u8",
+                    "epgId": "ESBD190000137"
+                },
+                {
+                    "name": "CNBC",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD36000026Z_20241023T143137SQUARE.png",
+                    "number": "4563",
+                    "url": "https://jmp2.uk/sam-ESBD36000026Z.m3u8",
+                    "epgId": "ESBD36000026Z"
+                },
+                {
+                    "name": "NBC News NOW",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400003YM_20241023T143147SQUARE.png",
+                    "number": "4565",
+                    "url": "https://jmp2.uk/sam-ESBC400003YM.m3u8",
+                    "epgId": "ESBC400003YM"
+                },
+                {
+                    "name": "CNN en Español",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES34000039I_20241022T050503SQUARE.png",
+                    "number": "4569",
+                    "url": "https://jmp2.uk/sam-ES34000039I.m3u8",
+                    "epgId": "ES34000039I"
+                },
+                {
                     "name": "FRANCE 24 FAST",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1100001PQ_20241022T050534SQUARE.png",
-                    "number": "4319",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1100001PQ_20241023T143144SQUARE.png",
+                    "number": "4573",
                     "url": "https://jmp2.uk/sam-ESBD1100001PQ.m3u8",
                     "epgId": "ESBD1100001PQ"
                 },
                 {
+                    "name": "DW",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1300001QC_20241022T050524SQUARE.png",
+                    "number": "4575",
+                    "url": "https://jmp2.uk/sam-ES1300001QC.m3u8",
+                    "epgId": "ES1300001QC"
+                },
+                {
                     "name": "Bloomberg TV+",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300024AJ_20241022T050215SQUARE.png",
-                    "number": "4320",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300024AJ_20241023T143134SQUARE.png",
+                    "number": "4577",
                     "url": "https://jmp2.uk/sam-ESBA3300024AJ.m3u8",
                     "epgId": "ESBA3300024AJ"
+                },
+                {
+                    "name": "Bloomberg Originals",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900002J4_20241022T051004SQUARE.png",
+                    "number": "4579",
+                    "url": "https://jmp2.uk/sam-ESAJ2900002J4.m3u8",
+                    "epgId": "ESAJ2900002J4"
                 }
             ]
         },
@@ -107,144 +114,116 @@
                     "epgId": "ESAJ2900003ND"
                 },
                 {
+                    "name": "Hoguera",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20241023T143159SQUARE.png",
+                    "number": "4006",
+                    "url": "https://jmp2.uk/sam-ESBD1500001SD.m3u8",
+                    "epgId": "ESBD1500001SD"
+                },
+                {
                     "name": "La 1",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241016T141007SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241023T143120SQUARE.png",
                     "number": "4007",
                     "url": "https://jmp2.uk/sam-ESBC4100001NZ.m3u8",
                     "epgId": "ESBC4100001NZ"
                 },
                 {
-                    "name": "La 2",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20241022T050543SQUARE.png",
-                    "number": "4105",
-                    "url": "https://jmp2.uk/sam-ESBC4100002AG.m3u8",
-                    "epgId": "ESBC4100002AG"
-                },
-                {
                     "name": "Canal Sur Andalucía",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20241022T050505SQUARE.png",
-                    "number": "4107",
+                    "number": "4031",
                     "url": "https://jmp2.uk/sam-ESBD3000002GP.m3u8",
                     "epgId": "ESBD3000002GP"
                 },
                 {
-                    "name": "Azteca Internacional",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20241022T050448SQUARE.png",
-                    "number": "4108",
-                    "url": "https://jmp2.uk/sam-ESBD1300004IG.m3u8",
-                    "epgId": "ESBD1300004IG"
-                },
-                {
-                    "name": "MTV Catfish",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20241022T050742SQUARE.png",
-                    "number": "4110",
-                    "url": "https://jmp2.uk/sam-ESAJ3800003LX.m3u8",
-                    "epgId": "ESAJ3800003LX"
+                    "name": "La 2",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20241022T050543SQUARE.png",
+                    "number": "4035",
+                    "url": "https://jmp2.uk/sam-ESBC4100002AG.m3u8",
+                    "epgId": "ESBC4100002AG"
                 },
                 {
                     "name": "MTV Cribs",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20241022T050328SQUARE.png",
-                    "number": "4113",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20241023T143115SQUARE.png",
+                    "number": "4064",
                     "url": "https://jmp2.uk/sam-ESAJ3800006TT.m3u8",
                     "epgId": "ESAJ3800006TT"
                 },
                 {
                     "name": "MTV Originals",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20241022T050331SQUARE.png",
-                    "number": "4115",
+                    "number": "4066",
                     "url": "https://jmp2.uk/sam-ESAJ380000226.m3u8",
                     "epgId": "ESAJ380000226"
                 },
                 {
-                    "name": "FailArmy",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20241022T050721SQUARE.png",
-                    "number": "4116",
-                    "url": "https://jmp2.uk/sam-ESBA1400006NP.m3u8",
-                    "epgId": "ESBA1400006NP"
+                    "name": "Yu-Gi-Oh!",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400007MR_20241023T143055SQUARE.png",
+                    "number": "4186",
+                    "url": "https://jmp2.uk/sam-ESBA1400007MR.m3u8",
+                    "epgId": "ESBA1400007MR"
                 },
                 {
-                    "name": "People Are Awesome",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500023Y5_20241022T050750SQUARE.png",
-                    "number": "4119",
-                    "url": "https://jmp2.uk/sam-ESAJ4500023Y5.m3u8",
-                    "epgId": "ESAJ4500023Y5"
+                    "name": "Beyblade",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400001T8_20241023T143050SQUARE.png",
+                    "number": "4188",
+                    "url": "https://jmp2.uk/sam-ES1400001T8.m3u8",
+                    "epgId": "ES1400001T8"
                 },
                 {
-                    "name": "Encantador de Perros",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20241022T050532SQUARE.png",
-                    "number": "4121",
-                    "url": "https://jmp2.uk/sam-ESBA3300033PL.m3u8",
-                    "epgId": "ESBA3300033PL"
+                    "name": "¡Hola! Play",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400008NE_20241022T050951SQUARE.png",
+                    "number": "4201",
+                    "url": "https://jmp2.uk/sam-ESBA1400008NE.m3u8",
+                    "epgId": "ESBA1400008NE"
                 },
                 {
-                    "name": "The Pet Collective",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500016BH_20241022T050852SQUARE.png",
-                    "number": "4122",
-                    "url": "https://jmp2.uk/sam-ESAJ4500016BH.m3u8",
-                    "epgId": "ESAJ4500016BH"
+                    "name": "Ideas en 5 Minutos",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png",
+                    "number": "4203",
+                    "url": "https://jmp2.uk/sam-ESBC3500002PW.m3u8",
+                    "epgId": "ESBC3500002PW"
+                },
+                {
+                    "name": "Fashion TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500017Y1_20241022T050724SQUARE.png",
+                    "number": "4205",
+                    "url": "https://jmp2.uk/sam-ESAJ4500017Y1.m3u8",
+                    "epgId": "ESAJ4500017Y1"
                 },
                 {
                     "name": "Vivir con Perros",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900001G6_20241022T051156SQUARE.png",
-                    "number": "4123",
+                    "number": "4207",
                     "url": "https://jmp2.uk/sam-ESBC3900001G6.m3u8",
                     "epgId": "ESBC3900001G6"
                 },
                 {
                     "name": "Vivir con Gatos",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900002L8_20241022T051153SQUARE.png",
-                    "number": "4124",
+                    "number": "4209",
                     "url": "https://jmp2.uk/sam-ESBC3900002L8.m3u8",
                     "epgId": "ESBC3900002L8"
                 },
                 {
-                    "name": "Comedia Made in Spain",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png",
-                    "number": "4128",
-                    "url": "https://jmp2.uk/sam-ESAJ3800005C5.m3u8",
-                    "epgId": "ESAJ3800005C5"
+                    "name": "Azteca Internacional",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20241022T050448SQUARE.png",
+                    "number": "4211",
+                    "url": "https://jmp2.uk/sam-ESBD1300004IG.m3u8",
+                    "epgId": "ESBD1300004IG"
+                },
+                {
+                    "name": "Encantador de Perros",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20241022T050532SQUARE.png",
+                    "number": "4213",
+                    "url": "https://jmp2.uk/sam-ESBA3300033PL.m3u8",
+                    "epgId": "ESBA3300033PL"
                 },
                 {
                     "name": "Teen Vee",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20241022T051115SQUARE.png",
-                    "number": "4130",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20241023T143052SQUARE.png",
+                    "number": "4215",
                     "url": "https://jmp2.uk/sam-ESBC4700003RJ.m3u8",
                     "epgId": "ESBC4700003RJ"
-                },
-                {
-                    "name": "Trailers",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20241022T051134SQUARE.png",
-                    "number": "4131",
-                    "url": "https://jmp2.uk/sam-ESBC1700004PX.m3u8",
-                    "epgId": "ESBC1700004PX"
-                },
-                {
-                    "name": "Just For Laughs",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20241022T051028SQUARE.png",
-                    "number": "4136",
-                    "url": "https://jmp2.uk/sam-ESBC2700008SK.m3u8",
-                    "epgId": "ESBC2700008SK"
-                },
-                {
-                    "name": "Yu-Gi-Oh!",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400007MR_20241022T051207SQUARE.png",
-                    "number": "4142",
-                    "url": "https://jmp2.uk/sam-ESBA1400007MR.m3u8",
-                    "epgId": "ESBA1400007MR"
-                },
-                {
-                    "name": "Beyblade",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400001T8_20241022T050455SQUARE.png",
-                    "number": "4144",
-                    "url": "https://jmp2.uk/sam-ES1400001T8.m3u8",
-                    "epgId": "ES1400001T8"
-                },
-                {
-                    "name": "Rantaró, El Ninja Boy",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000010YY_20241022T051033SQUARE.png",
-                    "number": "4612",
-                    "url": "https://jmp2.uk/sam-ES3000010YY.m3u8",
-                    "epgId": "ES3000010YY"
                 }
             ]
         },
@@ -260,115 +239,122 @@
                     "epgId": "ESBC2700009B4"
                 },
                 {
+                    "name": "Tennis Channel",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20241022T051122SQUARE.png",
+                    "number": "4603",
+                    "url": "https://jmp2.uk/sam-ESBD2600001ME.m3u8",
+                    "epgId": "ESBD2600001ME"
+                },
+                {
+                    "name": "MyPadel TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000091V_20241022T050555SQUARE.png",
+                    "number": "4605",
+                    "url": "https://jmp2.uk/sam-ES30000091V.m3u8",
+                    "epgId": "ES30000091V"
+                },
+                {
+                    "name": "Teledeporte",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20241022T051118SQUARE.png",
+                    "number": "4631",
+                    "url": "https://jmp2.uk/sam-ESBC410000577.m3u8",
+                    "epgId": "ESBC410000577"
+                },
+                {
                     "name": "La Liga Inside",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png",
-                    "number": "4502",
+                    "number": "4633",
                     "url": "https://jmp2.uk/sam-ESBD3600001Q1.m3u8",
                     "epgId": "ESBD3600001Q1"
                 },
                 {
                     "name": "DFB Play TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200003OC_20241022T050522SQUARE.png",
-                    "number": "4503",
+                    "number": "4635",
                     "url": "https://jmp2.uk/sam-ES3200003OC.m3u8",
                     "epgId": "ES3200003OC"
                 },
                 {
-                    "name": "Teledeporte",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20241022T051118SQUARE.png",
-                    "number": "4504",
-                    "url": "https://jmp2.uk/sam-ESBC410000577.m3u8",
-                    "epgId": "ESBC410000577"
+                    "name": "Top Gear en Español",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20241022T051126SQUARE.png",
+                    "number": "4656",
+                    "url": "https://jmp2.uk/sam-ESAJ2900001Y3.m3u8",
+                    "epgId": "ESAJ2900001Y3"
                 },
                 {
-                    "name": "MyPadel TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000091V_20241022T050555SQUARE.png",
-                    "number": "4507",
-                    "url": "https://jmp2.uk/sam-ES30000091V.m3u8",
-                    "epgId": "ES30000091V"
+                    "name": "Motorvision",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200001EG_20241022T051031SQUARE.png",
+                    "number": "4658",
+                    "url": "https://jmp2.uk/sam-ESBD3200001EG.m3u8",
+                    "epgId": "ESBD3200001EG"
                 },
                 {
-                    "name": "Tennis Channel",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20241022T051122SQUARE.png",
-                    "number": "4509",
-                    "url": "https://jmp2.uk/sam-ESBD2600001ME.m3u8",
-                    "epgId": "ESBD2600001ME"
+                    "name": "Surf Channel",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000460_20241022T115807SQUARE.png",
+                    "number": "4671",
+                    "url": "https://jmp2.uk/sam-ESBA140000460.m3u8",
+                    "epgId": "ESBA140000460"
                 },
                 {
                     "name": "World Poker Tour",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20241022T051205SQUARE.png",
-                    "number": "4510",
+                    "number": "4673",
                     "url": "https://jmp2.uk/sam-ESBD2900001P9.m3u8",
                     "epgId": "ESBD2900001P9"
-                }
-            ]
-        },
-        {
-            "name": "Estilo de Vida",
-            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Estilo de Vida.png",
-            "stations": [
-                {
-                    "name": "Hoguera",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20241022T050437SQUARE.png",
-                    "number": "4006",
-                    "url": "https://jmp2.uk/sam-ESBD1500001SD.m3u8",
-                    "epgId": "ESBD1500001SD"
                 },
                 {
                     "name": "Televisión Consciente",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20241022T051120SQUARE.png",
-                    "number": "4402",
+                    "number": "4675",
                     "url": "https://jmp2.uk/sam-ESBC1700002IM.m3u8",
                     "epgId": "ESBC1700002IM"
+                }
+            ]
+        },
+        {
+            "name": "Crimen",
+            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crimen.png",
+            "stations": [
+                {
+                    "name": "El Comisario",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png",
+                    "number": "4293",
+                    "url": "https://jmp2.uk/sam-ESBA3300029UG.m3u8",
+                    "epgId": "ESBA3300029UG"
                 },
                 {
-                    "name": "¡Hola! Play",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400008NE_20241022T050951SQUARE.png",
-                    "number": "4405",
-                    "url": "https://jmp2.uk/sam-ESBA1400008NE.m3u8",
-                    "epgId": "ESBA1400008NE"
+                    "name": "Los Asesinatos de Midsomer",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300025WZ_20241022T050739SQUARE.png",
+                    "number": "4295",
+                    "url": "https://jmp2.uk/sam-ESBA3300025WZ.m3u8",
+                    "epgId": "ESBA3300025WZ"
                 },
                 {
-                    "name": "Royalworld - Nobleza y Dinastias",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20241022T051036SQUARE.png",
-                    "number": "4407",
-                    "url": "https://jmp2.uk/sam-ESBD1400003QN.m3u8",
-                    "epgId": "ESBD1400003QN"
+                    "name": "Forensic Files",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600001MC_20241023T143113SQUARE.png",
+                    "number": "4297",
+                    "url": "https://jmp2.uk/sam-ES2600001MC.m3u8",
+                    "epgId": "ES2600001MC"
                 },
                 {
-                    "name": "Fashion TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500017Y1_20241022T050724SQUARE.png",
-                    "number": "4408",
-                    "url": "https://jmp2.uk/sam-ESAJ4500017Y1.m3u8",
-                    "epgId": "ESAJ4500017Y1"
+                    "name": "CRIMEN E HISTORIA",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20241022T051006SQUARE.png",
+                    "number": "4299",
+                    "url": "https://jmp2.uk/sam-ES33000025N.m3u8",
+                    "epgId": "ES33000025N"
                 },
                 {
-                    "name": "Travelxp",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400001L4_20241022T051139SQUARE.png",
-                    "number": "4410",
-                    "url": "https://jmp2.uk/sam-ESBD1400001L4.m3u8",
-                    "epgId": "ESBD1400001L4"
+                    "name": "DATELINE 24/7",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3700001S0_20241022T051012SQUARE.png",
+                    "number": "4301",
+                    "url": "https://jmp2.uk/sam-ESBD3700001S0.m3u8",
+                    "epgId": "ESBD3700001S0"
                 },
                 {
-                    "name": "GoUSA TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20241022T051017SQUARE.png",
-                    "number": "4414",
-                    "url": "https://jmp2.uk/sam-ESBC27000040I.m3u8",
-                    "epgId": "ESBC27000040I"
-                },
-                {
-                    "name": "Ideas en 5 Minutos",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png",
-                    "number": "4417",
-                    "url": "https://jmp2.uk/sam-ESBC3500002PW.m3u8",
-                    "epgId": "ESBC3500002PW"
-                },
-                {
-                    "name": "Pluto TV Cocina",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png",
-                    "number": "4435",
-                    "url": "https://jmp2.uk/sam-ESAJ3800007PC.m3u8",
-                    "epgId": "ESAJ3800007PC"
+                    "name": "Crimen - Rakuten TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700010F6_20241022T051009SQUARE.png",
+                    "number": "4305",
+                    "url": "https://jmp2.uk/sam-ESBC2700010F6.m3u8",
+                    "epgId": "ESBC2700010F6"
                 }
             ]
         },
@@ -379,121 +365,128 @@
                 {
                     "name": "Clan",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20241022T050516SQUARE.png",
-                    "number": "4604",
+                    "number": "4771",
                     "url": "https://jmp2.uk/sam-ESBC4100003WE.m3u8",
                     "epgId": "ESBC4100003WE"
                 },
                 {
                     "name": "Pitufo TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20241022T050609SQUARE.png",
-                    "number": "4606",
+                    "number": "4773",
                     "url": "https://jmp2.uk/sam-ESBD130000205.m3u8",
                     "epgId": "ESBD130000205"
                 },
                 {
-                    "name": "iCarly",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20241022T050631SQUARE.png",
-                    "number": "4607",
-                    "url": "https://jmp2.uk/sam-ESBA3300028OE.m3u8",
-                    "epgId": "ESBA3300028OE"
-                },
-                {
-                    "name": "Peter Rabbit",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400002W4_20241022T050607SQUARE.png",
-                    "number": "4608",
-                    "url": "https://jmp2.uk/sam-ESBD1400002W4.m3u8",
-                    "epgId": "ESBD1400002W4"
-                },
-                {
-                    "name": "Mr Bean Animated",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20241022T050553SQUARE.png",
-                    "number": "4610",
-                    "url": "https://jmp2.uk/sam-ES900001SH.m3u8",
-                    "epgId": "ES900001SH"
-                },
-                {
-                    "name": "SuperToons TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20241022T051110SQUARE.png",
-                    "number": "4613",
-                    "url": "https://jmp2.uk/sam-ESBD5100001G0.m3u8",
-                    "epgId": "ESBD5100001G0"
-                },
-                {
-                    "name": "Familiares - Rakuten TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300017FA_20241022T050308SQUARE.png",
-                    "number": "4615",
-                    "url": "https://jmp2.uk/sam-ESBA3300017FA.m3u8",
-                    "epgId": "ESBA3300017FA"
-                },
-                {
-                    "name": "Mini Me",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200002V5_20241022T050549SQUARE.png",
-                    "number": "4616",
-                    "url": "https://jmp2.uk/sam-ESBD3200002V5.m3u8",
-                    "epgId": "ESBD3200002V5"
-                },
-                {
                     "name": "Caillou",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300020W5_20241022T050228SQUARE.png",
-                    "number": "4619",
+                    "number": "4775",
                     "url": "https://jmp2.uk/sam-ESBA3300020W5.m3u8",
                     "epgId": "ESBA3300020W5"
                 },
                 {
-                    "name": "Video Game Heroes",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES340000152_20241022T051148SQUARE.png",
-                    "number": "4621",
-                    "url": "https://jmp2.uk/sam-ES340000152.m3u8",
-                    "epgId": "ES340000152"
-                },
-                {
-                    "name": "Pluto TV Animakids",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800009VJ_20241022T050359SQUARE.png",
-                    "number": "4622",
-                    "url": "https://jmp2.uk/sam-ESAJ3800009VJ.m3u8",
-                    "epgId": "ESAJ3800009VJ"
-                },
-                {
-                    "name": "Rabbids : La invasion",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20241022T050613SQUARE.png",
-                    "number": "4623",
-                    "url": "https://jmp2.uk/sam-ESBD2300003S5.m3u8",
-                    "epgId": "ESBD2300003S5"
-                },
-                {
-                    "name": "Bob Esponja",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20241022T050218SQUARE.png",
-                    "number": "4625",
-                    "url": "https://jmp2.uk/sam-ESBA33000262Z.m3u8",
-                    "epgId": "ESBA33000262Z"
-                },
-                {
-                    "name": "Pluto TV Kids",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png",
-                    "number": "4628",
-                    "url": "https://jmp2.uk/sam-ESAJ38000046O.m3u8",
-                    "epgId": "ESAJ38000046O"
-                },
-                {
-                    "name": "Rugrats",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png",
-                    "number": "4629",
-                    "url": "https://jmp2.uk/sam-ESBA33000324U.m3u8",
-                    "epgId": "ESBA33000324U"
-                },
-                {
                     "name": "Pocoyó",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20241022T050611SQUARE.png",
-                    "number": "4631",
+                    "number": "4777",
                     "url": "https://jmp2.uk/sam-ESBC3900004ED.m3u8",
                     "epgId": "ESBC3900004ED"
                 },
                 {
                     "name": "duckTV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20241022T050629SQUARE.png",
-                    "number": "4633",
+                    "number": "4779",
                     "url": "https://jmp2.uk/sam-ESBC4700001GR.m3u8",
                     "epgId": "ESBC4700001GR"
+                },
+                {
+                    "name": "SuperToons TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20241023T143047SQUARE.png",
+                    "number": "4797",
+                    "url": "https://jmp2.uk/sam-ESBD5100001G0.m3u8",
+                    "epgId": "ESBD5100001G0"
+                },
+                {
+                    "name": "Peter Rabbit",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400002W4_20241023T143045SQUARE.png",
+                    "number": "4799",
+                    "url": "https://jmp2.uk/sam-ESBD1400002W4.m3u8",
+                    "epgId": "ESBD1400002W4"
+                },
+                {
+                    "name": "Mr Bean Animated",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20241022T050553SQUARE.png",
+                    "number": "4801",
+                    "url": "https://jmp2.uk/sam-ES900001SH.m3u8",
+                    "epgId": "ES900001SH"
+                },
+                {
+                    "name": "Mini Me",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200002V5_20241022T050549SQUARE.png",
+                    "number": "4803",
+                    "url": "https://jmp2.uk/sam-ESBD3200002V5.m3u8",
+                    "epgId": "ESBD3200002V5"
+                },
+                {
+                    "name": "Video Game Heroes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES340000152_20241022T051148SQUARE.png",
+                    "number": "4805",
+                    "url": "https://jmp2.uk/sam-ES340000152.m3u8",
+                    "epgId": "ES340000152"
+                },
+                {
+                    "name": "Rabbids : La invasion",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20241023T143042SQUARE.png",
+                    "number": "4807",
+                    "url": "https://jmp2.uk/sam-ESBD2300003S5.m3u8",
+                    "epgId": "ESBD2300003S5"
+                },
+                {
+                    "name": "Rugrats",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png",
+                    "number": "4809",
+                    "url": "https://jmp2.uk/sam-ESBA33000324U.m3u8",
+                    "epgId": "ESBA33000324U"
+                },
+                {
+                    "name": "Bob Esponja",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20241023T143040SQUARE.png",
+                    "number": "4811",
+                    "url": "https://jmp2.uk/sam-ESBA33000262Z.m3u8",
+                    "epgId": "ESBA33000262Z"
+                },
+                {
+                    "name": "Pluto TV Animakids",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800009VJ_20241022T050359SQUARE.png",
+                    "number": "4813",
+                    "url": "https://jmp2.uk/sam-ESAJ3800009VJ.m3u8",
+                    "epgId": "ESAJ3800009VJ"
+                },
+                {
+                    "name": "Rantaró, El Ninja Boy",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000010YY_20241022T051033SQUARE.png",
+                    "number": "4815",
+                    "url": "https://jmp2.uk/sam-ES3000010YY.m3u8",
+                    "epgId": "ES3000010YY"
+                },
+                {
+                    "name": "Pluto TV Kids",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png",
+                    "number": "4821",
+                    "url": "https://jmp2.uk/sam-ESAJ38000046O.m3u8",
+                    "epgId": "ESAJ38000046O"
+                },
+                {
+                    "name": "iCarly",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20241022T050631SQUARE.png",
+                    "number": "4823",
+                    "url": "https://jmp2.uk/sam-ESBA3300028OE.m3u8",
+                    "epgId": "ESBA3300028OE"
+                },
+                {
+                    "name": "Familiares - Rakuten TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300017FA_20241023T143057SQUARE.png",
+                    "number": "4825",
+                    "url": "https://jmp2.uk/sam-ESBA3300017FA.m3u8",
+                    "epgId": "ESBA3300017FA"
                 }
             ]
         },
@@ -510,122 +503,129 @@
                 },
                 {
                     "name": "Horror Vision",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC40000248_20241016T141012SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC40000248_20241023T143125SQUARE.png",
                     "number": "4005",
                     "url": "https://jmp2.uk/sam-ESBC40000248.m3u8",
                     "epgId": "ESBC40000248"
                 },
                 {
-                    "name": "Grjngo - Películas Del Oeste",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20241022T050538SQUARE.png",
-                    "number": "4957",
-                    "url": "https://jmp2.uk/sam-ESBC2700002LO.m3u8",
-                    "epgId": "ESBC2700002LO"
+                    "name": "Runtime Familia",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20241022T050625SQUARE.png",
+                    "number": "4851",
+                    "url": "https://jmp2.uk/sam-ES700004C8.m3u8",
+                    "epgId": "ES700004C8"
                 },
                 {
-                    "name": "Bigtime - Películas Gratis",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20241022T050457SQUARE.png",
-                    "number": "4960",
-                    "url": "https://jmp2.uk/sam-ESBC2700003T8.m3u8",
-                    "epgId": "ESBC2700003T8"
-                },
-                {
-                    "name": "Cine Feel Good – Verdi TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png",
-                    "number": "4963",
-                    "url": "https://jmp2.uk/sam-ESBC2700012RP.m3u8",
-                    "epgId": "ESBC2700012RP"
+                    "name": "Trailers",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20241022T051134SQUARE.png",
+                    "number": "4868",
+                    "url": "https://jmp2.uk/sam-ESBC1700004PX.m3u8",
+                    "epgId": "ESBC1700004PX"
                 },
                 {
                     "name": "Cines Verdi TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png",
-                    "number": "4966",
+                    "number": "4872",
                     "url": "https://jmp2.uk/sam-ESBC2700011AZ.m3u8",
                     "epgId": "ESBC2700011AZ"
                 },
                 {
                     "name": "Pluto TV Cine Estelar",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800001KT_20241022T050403SQUARE.png",
-                    "number": "4969",
+                    "number": "4874",
                     "url": "https://jmp2.uk/sam-ESAJ3800001KT.m3u8",
                     "epgId": "ESAJ3800001KT"
                 },
                 {
                     "name": "Runtime",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400001QQ_20241022T050617SQUARE.png",
-                    "number": "4975",
+                    "number": "4876",
                     "url": "https://jmp2.uk/sam-ESBC400001QQ.m3u8",
                     "epgId": "ESBC400001QQ"
                 },
                 {
-                    "name": "Runtime Acción",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20241022T050620SQUARE.png",
-                    "number": "4976",
-                    "url": "https://jmp2.uk/sam-ESBD80000288.m3u8",
-                    "epgId": "ESBD80000288"
-                },
-                {
-                    "name": "Runtime Comedia",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20241022T050622SQUARE.png",
-                    "number": "4977",
-                    "url": "https://jmp2.uk/sam-ESBD8000033W.m3u8",
-                    "epgId": "ESBD8000033W"
-                },
-                {
-                    "name": "Runtime Familia",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20241022T050625SQUARE.png",
-                    "number": "4978",
-                    "url": "https://jmp2.uk/sam-ES700004C8.m3u8",
-                    "epgId": "ES700004C8"
+                    "name": "Películas Top - Rakuten TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png",
+                    "number": "4878",
+                    "url": "https://jmp2.uk/sam-ES2600013H4.m3u8",
+                    "epgId": "ES2600013H4"
                 },
                 {
                     "name": "Runtime Romance",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20241022T050627SQUARE.png",
-                    "number": "4979",
+                    "number": "4886",
                     "url": "https://jmp2.uk/sam-ESBD800004KU.m3u8",
                     "epgId": "ESBD800004KU"
                 },
                 {
-                    "name": "Cine Friki",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20241022T050512SQUARE.png",
-                    "number": "4980",
-                    "url": "https://jmp2.uk/sam-ESBD800001RJ.m3u8",
-                    "epgId": "ESBD800001RJ"
-                },
-                {
-                    "name": "Cine Español - Rakuten TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000062Q_20241022T050954SQUARE.png",
-                    "number": "4982",
-                    "url": "https://jmp2.uk/sam-ESBC27000062Q.m3u8",
-                    "epgId": "ESBC27000062Q"
-                },
-                {
                     "name": "Películas Románticas - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600012C9_20241022T050603SQUARE.png",
-                    "number": "4983",
+                    "number": "4888",
                     "url": "https://jmp2.uk/sam-ES2600012C9.m3u8",
                     "epgId": "ES2600012C9"
                 },
                 {
+                    "name": "Cine Feel Good – Verdi TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png",
+                    "number": "4904",
+                    "url": "https://jmp2.uk/sam-ESBC2700012RP.m3u8",
+                    "epgId": "ESBC2700012RP"
+                },
+                {
+                    "name": "Runtime Comedia",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20241022T050622SQUARE.png",
+                    "number": "4906",
+                    "url": "https://jmp2.uk/sam-ESBD8000033W.m3u8",
+                    "epgId": "ESBD8000033W"
+                },
+                {
+                    "name": "Comedia - Rakuten TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000700_20241022T051222SQUARE.png",
+                    "number": "4908",
+                    "url": "https://jmp2.uk/sam-ES260000700.m3u8",
+                    "epgId": "ES260000700"
+                },
+                {
+                    "name": "Grjngo - Películas Del Oeste",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20241022T050538SQUARE.png",
+                    "number": "4925",
+                    "url": "https://jmp2.uk/sam-ESBC2700002LO.m3u8",
+                    "epgId": "ESBC2700002LO"
+                },
+                {
+                    "name": "Bigtime - Películas Gratis",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20241022T050457SQUARE.png",
+                    "number": "4927",
+                    "url": "https://jmp2.uk/sam-ESBC2700003T8.m3u8",
+                    "epgId": "ESBC2700003T8"
+                },
+                {
                     "name": "FreeTV Clásico",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000143_20241022T050536SQUARE.png",
-                    "number": "4985",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000143_20241023T143100SQUARE.png",
+                    "number": "4940",
                     "url": "https://jmp2.uk/sam-ESBD230000143.m3u8",
                     "epgId": "ESBD230000143"
                 },
                 {
-                    "name": "Comedias - Rakuten TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500019AM_20240117T032650SQUARE.png_20240117032651.png",
-                    "number": "4990",
-                    "url": "https://jmp2.uk/sam-ESAJ4500019AM.m3u8",
-                    "epgId": "ESAJ4500019AM"
+                    "name": "Cine Español - Rakuten TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000008O8_20241022T050508SQUARE.png",
+                    "number": "4944",
+                    "url": "https://jmp2.uk/sam-ES3000008O8.m3u8",
+                    "epgId": "ES3000008O8"
                 },
                 {
-                    "name": "Películas Top - Rakuten TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png",
+                    "name": "Cine Friki",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20241022T050512SQUARE.png",
+                    "number": "4949",
+                    "url": "https://jmp2.uk/sam-ESBD800001RJ.m3u8",
+                    "epgId": "ESBD800001RJ"
+                },
+                {
+                    "name": "Runtime Acción",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20241022T050620SQUARE.png",
                     "number": "4994",
-                    "url": "https://jmp2.uk/sam-ES2600013H4.m3u8",
-                    "epgId": "ES2600013H4"
+                    "url": "https://jmp2.uk/sam-ESBD80000288.m3u8",
+                    "epgId": "ESBD80000288"
                 },
                 {
                     "name": "Películas de Drama - Rakuten TV",
@@ -650,79 +650,79 @@
                 {
                     "name": "Vevo Latino",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20241022T051144SQUARE.png",
-                    "number": "4710",
+                    "number": "4683",
                     "url": "https://jmp2.uk/sam-ESBC2100002LV.m3u8",
                     "epgId": "ESBC2100002LV"
                 },
                 {
-                    "name": "Sol Música",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png",
-                    "number": "4714",
-                    "url": "https://jmp2.uk/sam-ESBD2300004Y7.m3u8",
-                    "epgId": "ESBD2300004Y7"
+                    "name": "Vevo '70s & '80s",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20241022T051142SQUARE.png",
+                    "number": "4685",
+                    "url": "https://jmp2.uk/sam-ESBD230000289.m3u8",
+                    "epgId": "ESBD230000289"
                 },
                 {
                     "name": "Vevo Pop",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20241022T051146SQUARE.png",
-                    "number": "4716",
+                    "number": "4689",
                     "url": "https://jmp2.uk/sam-ESBC2100001IU.m3u8",
                     "epgId": "ESBC2100001IU"
                 },
                 {
                     "name": "Trace Latina",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20241022T051129SQUARE.png",
-                    "number": "4717",
+                    "number": "4694",
                     "url": "https://jmp2.uk/sam-ESBA3300042Y6.m3u8",
                     "epgId": "ESBA3300042Y6"
                 },
                 {
                     "name": "Trace Urban",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20241022T051131SQUARE.png",
-                    "number": "4718",
+                    "number": "4696",
                     "url": "https://jmp2.uk/sam-ESBA3300043M0.m3u8",
                     "epgId": "ESBA3300043M0"
                 },
                 {
-                    "name": "Qwest TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ49000023R_20241022T050411SQUARE.png",
-                    "number": "4719",
-                    "url": "https://jmp2.uk/sam-ESAJ49000023R.m3u8",
-                    "epgId": "ESAJ49000023R"
-                },
-                {
-                    "name": "Vevo '70s & '80s",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20241022T051142SQUARE.png",
-                    "number": "4721",
-                    "url": "https://jmp2.uk/sam-ESBD230000289.m3u8",
-                    "epgId": "ESBD230000289"
-                },
-                {
-                    "name": "Deluxe Lounge HD",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1500001C4_20241022T050252SQUARE.png",
-                    "number": "4722",
-                    "url": "https://jmp2.uk/sam-ESBA1500001C4.m3u8",
-                    "epgId": "ESBA1500001C4"
-                },
-                {
                     "name": "Staccs Music TV Greatest Hits",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD270000108_20241022T051105SQUARE.png",
-                    "number": "4724",
+                    "number": "4705",
                     "url": "https://jmp2.uk/sam-ESBD270000108.m3u8",
                     "epgId": "ESBD270000108"
                 },
                 {
                     "name": "Staccs Music TV 80’s Hits",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1900001OE_20241022T051102SQUARE.png",
-                    "number": "4725",
+                    "number": "4707",
                     "url": "https://jmp2.uk/sam-ES1900001OE.m3u8",
                     "epgId": "ES1900001OE"
                 },
                 {
+                    "name": "Sol Música",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png",
+                    "number": "4740",
+                    "url": "https://jmp2.uk/sam-ESBD2300004Y7.m3u8",
+                    "epgId": "ESBD2300004Y7"
+                },
+                {
                     "name": "Cool Summer Channel",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2500001F9_20241022T050518SQUARE.png",
-                    "number": "4732",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2500001F9_20241023T143110SQUARE.png",
+                    "number": "4742",
                     "url": "https://jmp2.uk/sam-ES2500001F9.m3u8",
                     "epgId": "ES2500001F9"
+                },
+                {
+                    "name": "Qwest TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ49000023R_20241022T050411SQUARE.png",
+                    "number": "4752",
+                    "url": "https://jmp2.uk/sam-ESAJ49000023R.m3u8",
+                    "epgId": "ESAJ49000023R"
+                },
+                {
+                    "name": "Deluxe Lounge HD",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1500001C4_20241022T050252SQUARE.png",
+                    "number": "4761",
+                    "url": "https://jmp2.uk/sam-ESBA1500001C4.m3u8",
+                    "epgId": "ESBA1500001C4"
                 }
             ]
         },
@@ -740,93 +740,58 @@
                 {
                     "name": "Acacias 38",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4000016U_20241022T050446SQUARE.png",
-                    "number": "4151",
+                    "number": "4233",
                     "url": "https://jmp2.uk/sam-ES4000016U.m3u8",
                     "epgId": "ES4000016U"
                 },
                 {
                     "name": "Baywatch – Los Vigilantes de la Playa",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20241022T050453SQUARE.png",
-                    "number": "4156",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20241023T143149SQUARE.png",
+                    "number": "4237",
                     "url": "https://jmp2.uk/sam-ESBD1300001EP.m3u8",
                     "epgId": "ESBD1300001EP"
                 },
                 {
-                    "name": "Los Asesinatos de Midsomer",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300025WZ_20241022T050739SQUARE.png",
-                    "number": "4160",
-                    "url": "https://jmp2.uk/sam-ESBA3300025WZ.m3u8",
-                    "epgId": "ESBA3300025WZ"
-                },
-                {
-                    "name": "Crimen - Rakuten TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700010F6_20241022T051009SQUARE.png",
-                    "number": "4162",
-                    "url": "https://jmp2.uk/sam-ESBC2700010F6.m3u8",
-                    "epgId": "ESBC2700010F6"
-                },
-                {
-                    "name": "FreeTV Estelar",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20241022T050312SQUARE.png",
-                    "number": "4163",
-                    "url": "https://jmp2.uk/sam-ESBA3300039ZX.m3u8",
-                    "epgId": "ESBA3300039ZX"
-                },
-                {
                     "name": "Las Reglas Del Juego",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300027H5_20241022T050323SQUARE.png",
-                    "number": "4166",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300027H5_20241023T143157SQUARE.png",
+                    "number": "4239",
                     "url": "https://jmp2.uk/sam-ESBA3300027H5.m3u8",
                     "epgId": "ESBA3300027H5"
                 },
                 {
+                    "name": "FreeTV Estelar",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20241022T050312SQUARE.png",
+                    "number": "4241",
+                    "url": "https://jmp2.uk/sam-ESBA3300039ZX.m3u8",
+                    "epgId": "ESBA3300039ZX"
+                },
+                {
                     "name": "Corazón",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20241022T050520SQUARE.png",
-                    "number": "4167",
+                    "number": "4243",
                     "url": "https://jmp2.uk/sam-ESBD1300003VN.m3u8",
                     "epgId": "ESBD1300003VN"
                 },
                 {
-                    "name": "Stormcast Novelas",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000504_20241022T051108SQUARE.png",
-                    "number": "4169",
-                    "url": "https://jmp2.uk/sam-ESBA140000504.m3u8",
-                    "epgId": "ESBA140000504"
-                },
-                {
-                    "name": "Todo Novelas",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20241022T051124SQUARE.png",
-                    "number": "4170",
-                    "url": "https://jmp2.uk/sam-ESBC43000013T.m3u8",
-                    "epgId": "ESBC43000013T"
-                },
-                {
                     "name": "Doctor Who",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700001G5_20241022T050526SQUARE.png",
-                    "number": "4172",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700001G5_20241023T143127SQUARE.png",
+                    "number": "4245",
                     "url": "https://jmp2.uk/sam-ES2700001G5.m3u8",
                     "epgId": "ES2700001G5"
                 },
                 {
                     "name": "BBC Drama",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20241022T050450SQUARE.png",
-                    "number": "4175",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20241023T143202SQUARE.png",
+                    "number": "4246",
                     "url": "https://jmp2.uk/sam-ES2900001DQ.m3u8",
                     "epgId": "ES2900001DQ"
                 },
                 {
                     "name": "Vive Kanal D Drama",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700001QI_20241022T051151SQUARE.png",
-                    "number": "4178",
+                    "number": "4248",
                     "url": "https://jmp2.uk/sam-ESBC1700001QI.m3u8",
                     "epgId": "ESBC1700001QI"
-                },
-                {
-                    "name": "El Comisario",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png",
-                    "number": "4181",
-                    "url": "https://jmp2.uk/sam-ESBA3300029UG.m3u8",
-                    "epgId": "ESBA3300029UG"
                 }
             ]
         },
@@ -837,111 +802,146 @@
                 {
                     "name": "Historia y Vida",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20241022T050540SQUARE.png",
-                    "number": "4205",
+                    "number": "4416",
                     "url": "https://jmp2.uk/sam-ES12000024R.m3u8",
                     "epgId": "ES12000024R"
                 },
                 {
-                    "name": "CRIMEN E HISTORIA",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20241022T051006SQUARE.png",
-                    "number": "4207",
-                    "url": "https://jmp2.uk/sam-ES33000025N.m3u8",
-                    "epgId": "ES33000025N"
+                    "name": "Royalworld - Nobleza y Dinastias",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20241023T143152SQUARE.png",
+                    "number": "4420",
+                    "url": "https://jmp2.uk/sam-ESBD1400003QN.m3u8",
+                    "epgId": "ESBD1400003QN"
                 },
-                {
-                    "name": "Forensic Files",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600001MC_20241022T050958SQUARE.png",
-                    "number": "4208",
-                    "url": "https://jmp2.uk/sam-ES2600001MC.m3u8",
-                    "epgId": "ES2600001MC"
-                },
-                {
-                    "name": "DATELINE 24/7",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3700001S0_20241022T051012SQUARE.png",
-                    "number": "4209",
-                    "url": "https://jmp2.uk/sam-ESBD3700001S0.m3u8",
-                    "epgId": "ESBD3700001S0"
-                },
-                {
-                    "name": "Bloomberg Originals",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900002J4_20241022T051004SQUARE.png",
-                    "number": "4232",
-                    "url": "https://jmp2.uk/sam-ESAJ2900002J4.m3u8",
-                    "epgId": "ESAJ2900002J4"
-                },
-                {
-                    "name": "Love the Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20241022T050547SQUARE.png",
-                    "number": "4239",
-                    "url": "https://jmp2.uk/sam-ESBC4700002TD.m3u8",
-                    "epgId": "ESBC4700002TD"
-                },
-                {
-                    "name": "WaterBear",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC170000388_20241022T051159SQUARE.png",
-                    "number": "4256",
-                    "url": "https://jmp2.uk/sam-ESBC170000388.m3u8",
-                    "epgId": "ESBC170000388"
-                }
-            ]
-        },
-        {
-            "name": "Naturaleza",
-            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Naturaleza.png",
-            "stations": [
                 {
                     "name": "BBC Earth",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20241022T051001SQUARE.png",
-                    "number": "4254",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20241023T143123SQUARE.png",
+                    "number": "4488",
                     "url": "https://jmp2.uk/sam-ES3200001F1.m3u8",
                     "epgId": "ES3200001F1"
                 },
                 {
                     "name": "NatureTime",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20241022T050748SQUARE.png",
-                    "number": "4260",
+                    "number": "4490",
                     "url": "https://jmp2.uk/sam-ESBA22000102A.m3u8",
                     "epgId": "ESBA22000102A"
                 },
                 {
                     "name": "WildEarth",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20241022T051202SQUARE.png",
-                    "number": "4263",
+                    "number": "4492",
                     "url": "https://jmp2.uk/sam-ESBA330004121.m3u8",
                     "epgId": "ESBA330004121"
-                }
-            ]
-        },
-        {
-            "name": "Motor",
-            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Motor.png",
-            "stations": [
-                {
-                    "name": "Top Gear en Español",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20241022T051126SQUARE.png",
-                    "number": "4480",
-                    "url": "https://jmp2.uk/sam-ESAJ2900001Y3.m3u8",
-                    "epgId": "ESAJ2900001Y3"
                 },
                 {
-                    "name": "Motorvision",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200001EG_20241022T051031SQUARE.png",
-                    "number": "4485",
-                    "url": "https://jmp2.uk/sam-ESBD3200001EG.m3u8",
-                    "epgId": "ESBD3200001EG"
+                    "name": "Love the Planet",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20241023T143118SQUARE.png",
+                    "number": "4494",
+                    "url": "https://jmp2.uk/sam-ESBC4700002TD.m3u8",
+                    "epgId": "ESBC4700002TD"
+                },
+                {
+                    "name": "WaterBear",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC170000388_20241022T051159SQUARE.png",
+                    "number": "4496",
+                    "url": "https://jmp2.uk/sam-ESBC170000388.m3u8",
+                    "epgId": "ESBC170000388"
                 }
             ]
         },
         {
-            "name": "Deporte Extremo",
-            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Deporte Extremo.png",
+            "name": "Viajes y Cocina",
+            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Viajes y Cocina.png",
             "stations": [
                 {
-                    "name": "Surf Channel",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000460_20241022T115807SQUARE.png",
-                    "number": "4560",
-                    "url": "https://jmp2.uk/sam-ESBA140000460.m3u8",
-                    "epgId": "ESBA140000460"
+                    "name": "Pluto TV Cocina",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png",
+                    "number": "4513",
+                    "url": "https://jmp2.uk/sam-ESAJ3800007PC.m3u8",
+                    "epgId": "ESAJ3800007PC"
+                },
+                {
+                    "name": "GoUSA TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20241023T143108SQUARE.png",
+                    "number": "4515",
+                    "url": "https://jmp2.uk/sam-ESBC27000040I.m3u8",
+                    "epgId": "ESBC27000040I"
+                },
+                {
+                    "name": "Travelxp",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400001L4_20241022T051139SQUARE.png",
+                    "number": "4517",
+                    "url": "https://jmp2.uk/sam-ESBD1400001L4.m3u8",
+                    "epgId": "ESBD1400001L4"
+                }
+            ]
+        },
+        {
+            "name": "Telenovela",
+            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Telenovela.png",
+            "stations": [
+                {
+                    "name": "Stormcast Novelas",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000504_20241022T051108SQUARE.png",
+                    "number": "4263",
+                    "url": "https://jmp2.uk/sam-ESBA140000504.m3u8",
+                    "epgId": "ESBA140000504"
+                },
+                {
+                    "name": "Todo Novelas",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20241022T051124SQUARE.png",
+                    "number": "4265",
+                    "url": "https://jmp2.uk/sam-ESBC43000013T.m3u8",
+                    "epgId": "ESBC43000013T"
+                }
+            ]
+        },
+        {
+            "name": "Comedia",
+            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Comedia.png",
+            "stations": [
+                {
+                    "name": "Comedia Made in Spain",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png",
+                    "number": "4156",
+                    "url": "https://jmp2.uk/sam-ESAJ3800005C5.m3u8",
+                    "epgId": "ESAJ3800005C5"
+                },
+                {
+                    "name": "MTV Catfish",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20241022T050742SQUARE.png",
+                    "number": "4158",
+                    "url": "https://jmp2.uk/sam-ESAJ3800003LX.m3u8",
+                    "epgId": "ESAJ3800003LX"
+                },
+                {
+                    "name": "FailArmy",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20241022T050721SQUARE.png",
+                    "number": "4160",
+                    "url": "https://jmp2.uk/sam-ESBA1400006NP.m3u8",
+                    "epgId": "ESBA1400006NP"
+                },
+                {
+                    "name": "People Are Awesome",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500023Y5_20241022T050750SQUARE.png",
+                    "number": "4162",
+                    "url": "https://jmp2.uk/sam-ESAJ4500023Y5.m3u8",
+                    "epgId": "ESAJ4500023Y5"
+                },
+                {
+                    "name": "The Pet Collective",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500016BH_20241022T050852SQUARE.png",
+                    "number": "4164",
+                    "url": "https://jmp2.uk/sam-ESAJ4500016BH.m3u8",
+                    "epgId": "ESAJ4500016BH"
+                },
+                {
+                    "name": "Just For Laughs",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20241022T051028SQUARE.png",
+                    "number": "4166",
+                    "url": "https://jmp2.uk/sam-ESBC2700008SK.m3u8",
+                    "epgId": "ESBC2700008SK"
                 }
             ]
         }
