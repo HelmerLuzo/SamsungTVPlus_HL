@@ -13,52 +13,62 @@
         {
             "name": "Alemania",
             "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
-            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u"
+            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
+            "isHost": "true"
         },
         {
             "name": "Austria",
             "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/at.png",
-            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_AT.w3u"
+            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_AT.w3u",
+            "isHost": "true"
         },
         {
             "name": "Canadá",
             "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/ca.png",
-            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CA.w3u"
+            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CA.w3u",
+            "isHost": "true"
         },
         {
             "name": "Corea del Sur",
             "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/kr.png",
-            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_KR.w3u"
+            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_KR.w3u",
+            "isHost": "true"
         },        
         {
             "name": "Francia",
             "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/fr.png",
-            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_FR.w3u"
+            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_FR.w3u",
+            "isHost": "true"
         },
         {
             "name": "India",
             "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/in.png",
-            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IN.w3u"
+            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IN.w3u",
+            "isHost": "true"
         },        				
         {
             "name": "Italia",
             "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
-            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u"
+            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
+            "isHost": "true"
         },
         {
             "name": "Reino Unido",
             "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
-            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u"
+            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
+            "isHost": "true"
         },
         {
             "name": "Suiza",
             "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/ch.png",
-            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CH.w3u"
+            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CH.w3u",
+            "isHost": "true"
         },
         {
             "name": "USA",
             "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/us.png",
-            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_US.w3u"
+            "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_US.w3u",
+            "isHost": "true"
         }
     ]
 }
