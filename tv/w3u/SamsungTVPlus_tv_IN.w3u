@@ -1,0 +1,1025 @@
+{
+    "name": "SamsungTVPlus - TV 🇮🇳 by HL",
+    "author": "Actualizada 21/12/2024 17:46",
+    "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/in.xml.gz",
+    "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/samsung.png",
+    "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IN.w3u",
+    "groups": {
+        "Movies": [
+            {
+                "name": "The Movie Club",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png",
+                "number": "1000",
+                "url": "https://jmp2.uk/sam-IN38000072R.m3u8",
+                "epgId": "IN38000072R"
+            },
+            {
+                "name": "South Station",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4800001IR_20241024T054050SQUARE.png",
+                "number": "1001",
+                "url": "https://jmp2.uk/sam-INBD4800001IR.m3u8",
+                "epgId": "INBD4800001IR"
+            },
+            {
+                "name": "Hollywood Desi",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000071R_20240522T015915SQUARE.png",
+                "number": "1313",
+                "url": "https://jmp2.uk/sam-INBC43000071R.m3u8",
+                "epgId": "INBC43000071R"
+            },
+            {
+                "name": "KCM",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600011DE_20240828T013137SQUARE.png",
+                "number": "1314",
+                "url": "https://jmp2.uk/sam-IN1600011DE.m3u8",
+                "epgId": "IN1600011DE"
+            },
+            {
+                "name": "BEST ACTION TV",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000034X_20230614T012649SQUARE.png_20230614012650.png",
+                "number": "1315",
+                "url": "https://jmp2.uk/sam-INBC43000034X.m3u8",
+                "epgId": "INBC43000034X"
+            },
+            {
+                "name": "RDC Movies",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700008UG_20240522T015919SQUARE.png",
+                "number": "1316",
+                "url": "https://jmp2.uk/sam-INBD4700008UG.m3u8",
+                "epgId": "INBD4700008UG"
+            },
+            {
+                "name": "Pitaara",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700002C8_20240612T015015SQUARE.png",
+                "number": "1319",
+                "url": "https://jmp2.uk/sam-IN1700002C8.m3u8",
+                "epgId": "IN1700002C8"
+            },
+            {
+                "name": "Dabangg",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC150001539_20220525T002414SQUARE.png_20220525002416.png",
+                "number": "1321",
+                "url": "https://jmp2.uk/sam-INBC150001539.m3u8",
+                "epgId": "INBC150001539"
+            }
+        ],
+        "Music": [
+            {
+                "name": "K-POP by CJ ENM",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800006RD_20241211T020342SQUARE.png",
+                "number": "1003",
+                "url": "https://jmp2.uk/sam-IN3800006RD.m3u8",
+                "epgId": "IN3800006RD"
+            },
+            {
+                "name": "Kaan Phod Music",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000122C_20241211T020344SQUARE.png",
+                "number": "1431",
+                "url": "https://jmp2.uk/sam-IN26000122C.m3u8",
+                "epgId": "IN26000122C"
+            },
+            {
+                "name": "Superhit Beats",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600011UH_20241024T054045SQUARE.png",
+                "number": "1432",
+                "url": "https://jmp2.uk/sam-IN2600011UH.m3u8",
+                "epgId": "IN2600011UH"
+            },
+            {
+                "name": "Mastiii",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700003HF_20240904T091813SQUARE.png",
+                "number": "1433",
+                "url": "https://jmp2.uk/sam-IN1700003HF.m3u8",
+                "epgId": "IN1700003HF"
+            },
+            {
+                "name": "9XM",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000050P_20241211T020333SQUARE.png",
+                "number": "1435",
+                "url": "https://jmp2.uk/sam-IN38000050P.m3u8",
+                "epgId": "IN38000050P"
+            },
+            {
+                "name": "9X Jalwa",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20240131T032422SQUARE.png_20240131032423.png",
+                "number": "1437",
+                "url": "https://jmp2.uk/sam-INBC2800013L6.m3u8",
+                "epgId": "INBC2800013L6"
+            },
+            {
+                "name": "Music India",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700015M0_20240731T012453SQUARE.png",
+                "number": "1438",
+                "url": "https://jmp2.uk/sam-INBD4700015M0.m3u8",
+                "epgId": "INBD4700015M0"
+            },
+            {
+                "name": "9X Tashan",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800011JL_20240131T032430SQUARE.png_20240131032431.png",
+                "number": "1439",
+                "url": "https://jmp2.uk/sam-INBC2800011JL.m3u8",
+                "epgId": "INBC2800011JL"
+            },
+            {
+                "name": "Maiboli",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500014OM_20240131T032453SQUARE.png_20240131032453.png",
+                "number": "1441",
+                "url": "https://jmp2.uk/sam-INBC1500014OM.m3u8",
+                "epgId": "INBC1500014OM"
+            },
+            {
+                "name": "Sangeet Marathi",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700016S7_20240904T091815SQUARE.png",
+                "number": "1442",
+                "url": "https://jmp2.uk/sam-INBD4700016S7.m3u8",
+                "epgId": "INBD4700016S7"
+            },
+            {
+                "name": "9X Jhakaas",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000144H_20240131T032425SQUARE.png_20240131032426.png",
+                "number": "1443",
+                "url": "https://jmp2.uk/sam-INBC28000144H.m3u8",
+                "epgId": "INBC28000144H"
+            },
+            {
+                "name": "Balle Balle",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800008VD_20240131T032441SQUARE.png_20240131032441.png",
+                "number": "1445",
+                "url": "https://jmp2.uk/sam-INBC2800008VD.m3u8",
+                "epgId": "INBC2800008VD"
+            },
+            {
+                "name": "Sangeet Bangla",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700018T7_20240710T022250SQUARE.png",
+                "number": "1450",
+                "url": "https://jmp2.uk/sam-INBD4700018T7.m3u8",
+                "epgId": "INBD4700018T7"
+            },
+            {
+                "name": "Sangeet Bhojpuri",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700017SL_20240710T022253SQUARE.png",
+                "number": "1455",
+                "url": "https://jmp2.uk/sam-INBD4700017SL.m3u8",
+                "epgId": "INBD4700017SL"
+            },
+            {
+                "name": "Qwest TV",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900001DL_20240710T022236SQUARE.png",
+                "number": "1465",
+                "url": "https://jmp2.uk/sam-INBA4900001DL.m3u8",
+                "epgId": "INBA4900001DL"
+            }
+        ],
+        "Hindi News": [
+            {
+                "name": "News Nation",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900004Q7_20241211T020347SQUARE.png",
+                "number": "1004",
+                "url": "https://jmp2.uk/sam-IN3900004Q7.m3u8",
+                "epgId": "IN3900004Q7"
+            },
+            {
+                "name": "Aaj Tak HD",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20241024T054104SQUARE.png",
+                "number": "1013",
+                "url": "https://jmp2.uk/sam-IN3800001ZH.m3u8",
+                "epgId": "IN3800001ZH"
+            },
+            {
+                "name": "NDTV India",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800002WJ_20240131T032338SQUARE.png_20240131032339.png",
+                "number": "1015",
+                "url": "https://jmp2.uk/sam-INBC2800002WJ.m3u8",
+                "epgId": "INBC2800002WJ"
+            },
+            {
+                "name": "Republic Bharat",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20240925T102255SQUARE.png",
+                "number": "1017",
+                "url": "https://jmp2.uk/sam-INBA490002119.m3u8",
+                "epgId": "INBA490002119"
+            },
+            {
+                "name": "News24",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900001YE_20241211T020358SQUARE.png",
+                "number": "1019",
+                "url": "https://jmp2.uk/sam-IN3900001YE.m3u8",
+                "epgId": "IN3900001YE"
+            },
+            {
+                "name": "ABP News",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400006H0_20240131T032404SQUARE.png_20240131032405.png",
+                "number": "1021",
+                "url": "https://jmp2.uk/sam-INBD400006H0.m3u8",
+                "epgId": "INBD400006H0"
+            },
+            {
+                "name": "News18 India",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300010WP_20240904T091839SQUARE.png",
+                "number": "1024",
+                "url": "https://jmp2.uk/sam-INBD1300010WP.m3u8",
+                "epgId": "INBD1300010WP"
+            },
+            {
+                "name": "Times Now Navbharat",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300003OW_20240131T032351SQUARE.png_20240131032352.png",
+                "number": "1025",
+                "url": "https://jmp2.uk/sam-INBD1300003OW.m3u8",
+                "epgId": "INBD1300003OW"
+            },
+            {
+                "name": "TV9 Bharatvarsh",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800003SV_20241024T054102SQUARE.png",
+                "number": "1027",
+                "url": "https://jmp2.uk/sam-IN3800003SV.m3u8",
+                "epgId": "IN3800003SV"
+            },
+            {
+                "name": "India TV News",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000183G_20240911T003810SQUARE.png",
+                "number": "1028",
+                "url": "https://jmp2.uk/sam-IN26000183G.m3u8",
+                "epgId": "IN26000183G"
+            },
+            {
+                "name": "Good News Today",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN17000129W_20241016T011359SQUARE.png",
+                "number": "1029",
+                "url": "https://jmp2.uk/sam-IN17000129W.m3u8",
+                "epgId": "IN17000129W"
+            },
+            {
+                "name": "India TV Speed News",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000190S_20240911T003813SQUARE.png",
+                "number": "1030",
+                "url": "https://jmp2.uk/sam-IN26000190S.m3u8",
+                "epgId": "IN26000190S"
+            },
+            {
+                "name": "Aaj Tak",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800003RQ_20240731T012431SQUARE.png",
+                "number": "1031",
+                "url": "https://jmp2.uk/sam-INBC2800003RQ.m3u8",
+                "epgId": "INBC2800003RQ"
+            },
+            {
+                "name": "CNBC AWAAZ",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300007ST_20241024T054100SQUARE.png",
+                "number": "1032",
+                "url": "https://jmp2.uk/sam-INBD1300007ST.m3u8",
+                "epgId": "INBD1300007ST"
+            },
+            {
+                "name": "Zee Business",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400004NS_20241113T015630SQUARE.png",
+                "number": "1037",
+                "url": "https://jmp2.uk/sam-INBD400004NS.m3u8",
+                "epgId": "INBD400004NS"
+            },
+            {
+                "name": "Zee News",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300010Z6_20241113T015632SQUARE.png",
+                "number": "1039",
+                "url": "https://jmp2.uk/sam-INBC4300010Z6.m3u8",
+                "epgId": "INBC4300010Z6"
+            }
+        ],
+        "English News": [
+            {
+                "name": "India Today",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800005X4_20240131T032450SQUARE.png_20240131032451.png",
+                "number": "1041",
+                "url": "https://jmp2.uk/sam-INBC2800005X4.m3u8",
+                "epgId": "INBC2800005X4"
+            },
+            {
+                "name": "Republic TV",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900020A5_20240131T032253SQUARE.png_20240131032254.png",
+                "number": "1045",
+                "url": "https://jmp2.uk/sam-INBA4900020A5.m3u8",
+                "epgId": "INBA4900020A5"
+            },
+            {
+                "name": "NDTV 24X7",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800001D8_20240131T032458SQUARE.png_20240131032459.png",
+                "number": "1047",
+                "url": "https://jmp2.uk/sam-INBC2800001D8.m3u8",
+                "epgId": "INBC2800001D8"
+            },
+            {
+                "name": "CNN News18",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300009QZ_20240131T032448SQUARE.png_20240131032449.png",
+                "number": "1049",
+                "url": "https://jmp2.uk/sam-INBD1300009QZ.m3u8",
+                "epgId": "INBD1300009QZ"
+            },
+            {
+                "name": "News9 Live",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000021N_20241023T011722SQUARE.png",
+                "number": "1050",
+                "url": "https://jmp2.uk/sam-INBD25000021N.m3u8",
+                "epgId": "INBD25000021N"
+            },
+            {
+                "name": "NDTV Profit",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800006GF_20240912T093654SQUARE.png",
+                "number": "1051",
+                "url": "https://jmp2.uk/sam-INBC2800006GF.m3u8",
+                "epgId": "INBC2800006GF"
+            },
+            {
+                "name": "CNBC TV18",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300008ZY_20240131T032443SQUARE.png_20240131032444.png",
+                "number": "1052",
+                "url": "https://jmp2.uk/sam-INBD1300008ZY.m3u8",
+                "epgId": "INBD1300008ZY"
+            },
+            {
+                "name": "Bloomberg TV",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100021WP_20240131T032221SQUARE.png_20240131032222.png",
+                "number": "1053",
+                "url": "https://jmp2.uk/sam-INBA5100021WP.m3u8",
+                "epgId": "INBA5100021WP"
+            },
+            {
+                "name": "Bloomberg Originals",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100022O4_20240131T032219SQUARE.png_20240131032219.png",
+                "number": "1055",
+                "url": "https://jmp2.uk/sam-INBA5100022O4.m3u8",
+                "epgId": "INBA5100022O4"
+            },
+            {
+                "name": "WION",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4000058T_20241113T015628SQUARE.png",
+                "number": "1058",
+                "url": "https://jmp2.uk/sam-INBD4000058T.m3u8",
+                "epgId": "INBD4000058T"
+            }
+        ],
+        "Regional News": [
+            {
+                "name": "TV9 Marathi",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500006OC_20241023T011735SQUARE.png",
+                "number": "1059",
+                "url": "https://jmp2.uk/sam-INBD2500006OC.m3u8",
+                "epgId": "INBD2500006OC"
+            },
+            {
+                "name": "ABP Majha",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400008VR_20240912T093659SQUARE.png",
+                "number": "1060",
+                "url": "https://jmp2.uk/sam-INBD400008VR.m3u8",
+                "epgId": "INBD400008VR"
+            },
+            {
+                "name": "Zee 24 Taas",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400001CP_20240131T032544SQUARE.png_20240131032545.png",
+                "number": "1061",
+                "url": "https://jmp2.uk/sam-INBD400001CP.m3u8",
+                "epgId": "INBD400001CP"
+            },
+            {
+                "name": "News18 Punjab Haryana",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500017JZ_20240508T020847SQUARE.png",
+                "number": "1066",
+                "url": "https://jmp2.uk/sam-INBD2500017JZ.m3u8",
+                "epgId": "INBD2500017JZ"
+            },
+            {
+                "name": "News18 Gujarati",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500009DK_20240131T032506SQUARE.png_20240131032507.png",
+                "number": "1067",
+                "url": "https://jmp2.uk/sam-INBD2500009DK.m3u8",
+                "epgId": "INBD2500009DK"
+            },
+            {
+                "name": "ABP Asmita",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400010BD_20240131T032435SQUARE.png_20240131032436.png",
+                "number": "1069",
+                "url": "https://jmp2.uk/sam-INBD400010BD.m3u8",
+                "epgId": "INBD400010BD"
+            },
+            {
+                "name": "TV9 Gujarati",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300012GJ_20241023T011733SQUARE.png",
+                "number": "1071",
+                "url": "https://jmp2.uk/sam-INBD1300012GJ.m3u8",
+                "epgId": "INBD1300012GJ"
+            },
+            {
+                "name": "CNBC Bajar",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500015H5_20240214T030757SQUARE.png_20240214030758.png",
+                "number": "1074",
+                "url": "https://jmp2.uk/sam-INBD2500015H5.m3u8",
+                "epgId": "INBD2500015H5"
+            },
+            {
+                "name": "TV9 Bangla",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500007PD_20241023T011730SQUARE.png",
+                "number": "1075",
+                "url": "https://jmp2.uk/sam-INBD2500007PD.m3u8",
+                "epgId": "INBD2500007PD"
+            },
+            {
+                "name": "ABP Ananda",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400007NT_20240131T032433SQUARE.png_20240131032434.png",
+                "number": "1076",
+                "url": "https://jmp2.uk/sam-INBD400007NT.m3u8",
+                "epgId": "INBD400007NT"
+            },
+            {
+                "name": "Zee 24 Ghanta",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400003GE_20240131T032539SQUARE.png_20240131032540.png",
+                "number": "1077",
+                "url": "https://jmp2.uk/sam-INBD400003GE.m3u8",
+                "epgId": "INBD400003GE"
+            },
+            {
+                "name": "News18 Bangla",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000081V_20240131T032503SQUARE.png_20240131032505.png",
+                "number": "1079",
+                "url": "https://jmp2.uk/sam-INBD25000081V.m3u8",
+                "epgId": "INBD25000081V"
+            },
+            {
+                "name": "R Bangla",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500016OR_20240131T032519SQUARE.png_20240131032520.png",
+                "number": "1081",
+                "url": "https://jmp2.uk/sam-INBD2500016OR.m3u8",
+                "epgId": "INBD2500016OR"
+            },
+            {
+                "name": "Zee 24 Kalak",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4000027E_20240131T032542SQUARE.png_20240131032542.png",
+                "number": "1083",
+                "url": "https://jmp2.uk/sam-INBD4000027E.m3u8",
+                "epgId": "INBD4000027E"
+            },
+            {
+                "name": "News18 Odia",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500013ID_20240131T032511SQUARE.png_20240131032512.png",
+                "number": "1084",
+                "url": "https://jmp2.uk/sam-INBD2500013ID.m3u8",
+                "epgId": "INBD2500013ID"
+            },
+            {
+                "name": "News18 Tamil Nadu",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000148M_20240417T022500SQUARE.png",
+                "number": "1086",
+                "url": "https://jmp2.uk/sam-INBD25000148M.m3u8",
+                "epgId": "INBD25000148M"
+            },
+            {
+                "name": "TV9 Telugu",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500004Y0_20241023T011727SQUARE.png",
+                "number": "1093",
+                "url": "https://jmp2.uk/sam-INBD2500004Y0.m3u8",
+                "epgId": "INBD2500004Y0"
+            },
+            {
+                "name": "TV9 Kannada",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500003XT_20241023T011724SQUARE.png",
+                "number": "1101",
+                "url": "https://jmp2.uk/sam-INBD2500003XT.m3u8",
+                "epgId": "INBD2500003XT"
+            },
+            {
+                "name": "News18 Kannada",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500012V1_20240131T032509SQUARE.png_20240131032510.png",
+                "number": "1103",
+                "url": "https://jmp2.uk/sam-INBD2500012V1.m3u8",
+                "epgId": "INBD2500012V1"
+            },
+            {
+                "name": "Republic Kannada",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600006GA_20240612T015020SQUARE.png",
+                "number": "1105",
+                "url": "https://jmp2.uk/sam-IN1600006GA.m3u8",
+                "epgId": "IN1600006GA"
+            },
+            {
+                "name": "News18 Keralam",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000225G_20240508T020844SQUARE.png",
+                "number": "1107",
+                "url": "https://jmp2.uk/sam-INBD25000225G.m3u8",
+                "epgId": "INBD25000225G"
+            },
+            {
+                "name": "News18 Jammu Kashmir",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600007AU_20240612T015012SQUARE.png",
+                "number": "1111",
+                "url": "https://jmp2.uk/sam-IN1600007AU.m3u8",
+                "epgId": "IN1600007AU"
+            },
+            {
+                "name": "News State MP CG",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900006S6_20241211T020352SQUARE.png",
+                "number": "1466",
+                "url": "https://jmp2.uk/sam-IN3900006S6.m3u8",
+                "epgId": "IN3900006S6"
+            },
+            {
+                "name": "News State PUN HAR HIM",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900008R9_20241211T020355SQUARE.png",
+                "number": "1467",
+                "url": "https://jmp2.uk/sam-IN3900008R9.m3u8",
+                "epgId": "IN3900008R9"
+            },
+            {
+                "name": "News State BR JH",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900007Y7_20241211T020349SQUARE.png",
+                "number": "1468",
+                "url": "https://jmp2.uk/sam-IN3900007Y7.m3u8",
+                "epgId": "IN3900007Y7"
+            }
+        ],
+        "Entertainment": [
+            {
+                "name": "Comedy King",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700006JD_20241024T054052SQUARE.png",
+                "number": "1002",
+                "url": "https://jmp2.uk/sam-INBD4700006JD.m3u8",
+                "epgId": "INBD4700006JD"
+            },
+            {
+                "name": "Fully Faltoo",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600013B3_20240925T102252SQUARE.png",
+                "number": "1113",
+                "url": "https://jmp2.uk/sam-IN2600013B3.m3u8",
+                "epgId": "IN2600013B3"
+            },
+            {
+                "name": "Korean TV",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300008IH_20241113T015622SQUARE.png",
+                "number": "1114",
+                "url": "https://jmp2.uk/sam-INBC4300008IH.m3u8",
+                "epgId": "INBC4300008IH"
+            },
+            {
+                "name": "Nazara",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700011V7_20241024T054054SQUARE.png",
+                "number": "1115",
+                "url": "https://jmp2.uk/sam-IN1700011V7.m3u8",
+                "epgId": "IN1700011V7"
+            },
+            {
+                "name": "Crime Tak",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600015OO_20240912T093637SQUARE.png",
+                "number": "1116",
+                "url": "https://jmp2.uk/sam-IN2600015OO.m3u8",
+                "epgId": "IN2600015OO"
+            },
+            {
+                "name": "Real Crime",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900028KJ_20220427T054642SQUARE.png_20220427054643.png",
+                "number": "1117",
+                "url": "https://jmp2.uk/sam-INBA4900028KJ.m3u8",
+                "epgId": "INBA4900028KJ"
+            },
+            {
+                "name": "The Lallantop",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800002VK_20240925T012645SQUARE.png",
+                "number": "1118",
+                "url": "https://jmp2.uk/sam-IN3800002VK.m3u8",
+                "epgId": "IN3800002VK"
+            },
+            {
+                "name": "E24",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900002KB_20241113T015618SQUARE.png",
+                "number": "1119",
+                "url": "https://jmp2.uk/sam-IN3900002KB.m3u8",
+                "epgId": "IN3900002KB"
+            },
+            {
+                "name": "India TV Aap ki Adalat",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600020H9_20240911T003806SQUARE.png",
+                "number": "1120",
+                "url": "https://jmp2.uk/sam-IN2600020H9.m3u8",
+                "epgId": "IN2600020H9"
+            },
+            {
+                "name": "The Q",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000014D_20240214T030802SQUARE.png_20240214030803.png",
+                "number": "1121",
+                "url": "https://jmp2.uk/sam-INBD47000014D.m3u8",
+                "epgId": "INBD47000014D"
+            },
+            {
+                "name": "Colors Infinity Lite",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000147D_20241113T015616SQUARE.png",
+                "number": "1123",
+                "url": "https://jmp2.uk/sam-IN26000147D.m3u8",
+                "epgId": "IN26000147D"
+            },
+            {
+                "name": "Pitaara Comedy",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600001OG_20240612T015018SQUARE.png",
+                "number": "1125",
+                "url": "https://jmp2.uk/sam-IN1600001OG.m3u8",
+                "epgId": "IN1600001OG"
+            },
+            {
+                "name": "TeluguOne TV",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000001V5_20240828T013141SQUARE.png",
+                "number": "1126",
+                "url": "https://jmp2.uk/sam-IN3000001V5.m3u8",
+                "epgId": "IN3000001V5"
+            },
+            {
+                "name": "FailArmy",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100030AO_20220427T054551SQUARE.png_20220427054552.png",
+                "number": "1129",
+                "url": "https://jmp2.uk/sam-INBA5100030AO.m3u8",
+                "epgId": "INBA5100030AO"
+            },
+            {
+                "name": "The Pet Collective",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100029JI_20220427T054705SQUARE.png_20220427054706.png",
+                "number": "1131",
+                "url": "https://jmp2.uk/sam-INBA5100029JI.m3u8",
+                "epgId": "INBA5100029JI"
+            },
+            {
+                "name": "Animax",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000043W_20241023T011741SQUARE.png",
+                "number": "1132",
+                "url": "https://jmp2.uk/sam-INBD13000043W.m3u8",
+                "epgId": "INBD13000043W"
+            },
+            {
+                "name": "Nosey",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2700003S1_20241016T011405SQUARE.png",
+                "number": "1133",
+                "url": "https://jmp2.uk/sam-IN2700003S1.m3u8",
+                "epgId": "IN2700003S1"
+            },
+            {
+                "name": "Real Stories",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900009BL_20220824T022303SQUARE.png_20220824022303.png",
+                "number": "1137",
+                "url": "https://jmp2.uk/sam-INBA4900009BL.m3u8",
+                "epgId": "INBA4900009BL"
+            }
+        ],
+        "Kids": [
+            {
+                "name": "The Jungle Book",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20241024T054036SQUARE.png",
+                "number": "1264",
+                "url": "https://jmp2.uk/sam-IN25000020M.m3u8",
+                "epgId": "IN25000020M"
+            },
+            {
+                "name": "Hooray Rhymes",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300009W5_20240912T093640SQUARE.png",
+                "number": "1265",
+                "url": "https://jmp2.uk/sam-INBC4300009W5.m3u8",
+                "epgId": "INBC4300009W5"
+            },
+            {
+                "name": "Powerkids Kartoon Channel",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2500003JW_20240912T093645SQUARE.png",
+                "number": "1266",
+                "url": "https://jmp2.uk/sam-IN2500003JW.m3u8",
+                "epgId": "IN2500003JW"
+            },
+            {
+                "name": "The Q Kahaniyan",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000042I_20240912T093648SQUARE.png",
+                "number": "1267",
+                "url": "https://jmp2.uk/sam-INBD47000042I.m3u8",
+                "epgId": "INBD47000042I"
+            },
+            {
+                "name": "KIDDO MATIX",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600005UL_20240903T110550SQUARE.png",
+                "number": "1268",
+                "url": "https://jmp2.uk/sam-IN1600005UL.m3u8",
+                "epgId": "IN1600005UL"
+            },
+            {
+                "name": "Toon Goggles",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900026FJ_20220427T054717SQUARE.png_20220427054718.png",
+                "number": "1269",
+                "url": "https://jmp2.uk/sam-INBA4900026FJ.m3u8",
+                "epgId": "INBA4900026FJ"
+            },
+            {
+                "name": "Hooray Kids",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600004PA_20240912T093619SQUARE.png",
+                "number": "1270",
+                "url": "https://jmp2.uk/sam-IN1600004PA.m3u8",
+                "epgId": "IN1600004PA"
+            },
+            {
+                "name": "BEANI TV",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800015NR_20221026T004839SQUARE.png_20221026004840.png",
+                "number": "1271",
+                "url": "https://jmp2.uk/sam-INBC2800015NR.m3u8",
+                "epgId": "INBC2800015NR"
+            },
+            {
+                "name": "Q Toonz",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700007IQ_20240912T093650SQUARE.png",
+                "number": "1272",
+                "url": "https://jmp2.uk/sam-INBD4700007IQ.m3u8",
+                "epgId": "INBD4700007IQ"
+            },
+            {
+                "name": "BABY FIRST",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC280001662_20221026T004838SQUARE.png_20221026004839.png",
+                "number": "1273",
+                "url": "https://jmp2.uk/sam-INBC280001662.m3u8",
+                "epgId": "INBC280001662"
+            }
+        ],
+        "Sports": [
+            {
+                "name": "Cricket Gold",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1300001NN_20240731T012436SQUARE.png",
+                "number": "1211",
+                "url": "https://jmp2.uk/sam-IN1300001NN.m3u8",
+                "epgId": "IN1300001NN"
+            },
+            {
+                "name": "FIFA+",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20240731T012443SQUARE.png",
+                "number": "1212",
+                "url": "https://jmp2.uk/sam-IN270000230.m3u8",
+                "epgId": "IN270000230"
+            },
+            {
+                "name": "Boxing TV",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100007ME_20240131T032411SQUARE.png_20240131032412.png",
+                "number": "1215",
+                "url": "https://jmp2.uk/sam-INBA5100007ME.m3u8",
+                "epgId": "INBA5100007ME"
+            },
+            {
+                "name": "PGA Tour",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD29000010W_20240131T032319SQUARE.png_20240131032320.png",
+                "number": "1216",
+                "url": "https://jmp2.uk/sam-INBD29000010W.m3u8",
+                "epgId": "INBD29000010W"
+            },
+            {
+                "name": "FIGHT TV",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800017OC_20240131T032346SQUARE.png_20240131032347.png",
+                "number": "1217",
+                "url": "https://jmp2.uk/sam-INBC2800017OC.m3u8",
+                "epgId": "INBC2800017OC"
+            },
+            {
+                "name": "Q GameX",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700002E3_20240214T030800SQUARE.png_20240214030801.png",
+                "number": "1220",
+                "url": "https://jmp2.uk/sam-INBD4700002E3.m3u8",
+                "epgId": "INBD4700002E3"
+            },
+            {
+                "name": "MAVTV Motorsports",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700014DU_20240417T022455SQUARE.png",
+                "number": "1221",
+                "url": "https://jmp2.uk/sam-INBD4700014DU.m3u8",
+                "epgId": "INBD4700014DU"
+            },
+            {
+                "name": "INTROUBLE",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA49000067X_20240131T032322SQUARE.png_20240131032323.png",
+                "number": "1223",
+                "url": "https://jmp2.uk/sam-INBA49000067X.m3u8",
+                "epgId": "INBA49000067X"
+            },
+            {
+                "name": "Motorvision.TV",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900030PY_20240131T032331SQUARE.png_20240131032331.png",
+                "number": "1227",
+                "url": "https://jmp2.uk/sam-INBA4900030PY.m3u8",
+                "epgId": "INBA4900030PY"
+            },
+            {
+                "name": "Billiard TV",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100006V5_20240131T032407SQUARE.png_20240131032408.png",
+                "number": "1229",
+                "url": "https://jmp2.uk/sam-INBA5100006V5.m3u8",
+                "epgId": "INBA5100006V5"
+            }
+        ],
+        "Infotainment": [
+            {
+                "name": "HISTORY TV18 - Hindi",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600009NL_20240912T093622SQUARE.png",
+                "number": "1163",
+                "url": "https://jmp2.uk/sam-IN1600009NL.m3u8",
+                "epgId": "IN1600009NL"
+            },
+            {
+                "name": "HISTORY TV18",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600008DN_20240925T102238SQUARE.png",
+                "number": "1164",
+                "url": "https://jmp2.uk/sam-IN1600008DN.m3u8",
+                "epgId": "IN1600008DN"
+            },
+            {
+                "name": "Epic",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN17000109O_20241024T054038SQUARE.png",
+                "number": "1165",
+                "url": "https://jmp2.uk/sam-IN17000109O.m3u8",
+                "epgId": "IN17000109O"
+            },
+            {
+                "name": "Xplore",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900023QJ_20220427T054726SQUARE.png_20220427054727.png",
+                "number": "1173",
+                "url": "https://jmp2.uk/sam-INBA4900023QJ.m3u8",
+                "epgId": "INBA4900023QJ"
+            },
+            {
+                "name": "Real Wild",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900027A9_20220427T054651SQUARE.png_20220427054652.png",
+                "number": "1175",
+                "url": "https://jmp2.uk/sam-INBA4900027A9.m3u8",
+                "epgId": "INBA4900027A9"
+            },
+            {
+                "name": "Jack Hanna",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900024R1_20220427T054620SQUARE.png_20220427054621.png",
+                "number": "1177",
+                "url": "https://jmp2.uk/sam-INBA4900024R1.m3u8",
+                "epgId": "INBA4900024R1"
+            },
+            {
+                "name": "WeatherSpy",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100028R4_20220427T054720SQUARE.png_20220427054721.png",
+                "number": "1181",
+                "url": "https://jmp2.uk/sam-INBA5100028R4.m3u8",
+                "epgId": "INBA5100028R4"
+            },
+            {
+                "name": "INWONDER",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900005PV_20230308T013505SQUARE.png_20230308013506.png",
+                "number": "1183",
+                "url": "https://jmp2.uk/sam-INBA4900005PV.m3u8",
+                "epgId": "INBA4900005PV"
+            },
+            {
+                "name": "INWILD",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900007JX_20230308T013510SQUARE.png_20230308013511.png",
+                "number": "1185",
+                "url": "https://jmp2.uk/sam-INBA4900007JX.m3u8",
+                "epgId": "INBA4900007JX"
+            }
+        ],
+        "Lifestyle": [
+            {
+                "name": "Travelxp HD",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN300000210_20241113T015626SQUARE.png",
+                "number": "1363",
+                "url": "https://jmp2.uk/sam-IN300000210.m3u8",
+                "epgId": "IN300000210"
+            },
+            {
+                "name": "India TV Yoga",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600021ED_20240911T003816SQUARE.png",
+                "number": "1365",
+                "url": "https://jmp2.uk/sam-IN2600021ED.m3u8",
+                "epgId": "IN2600021ED"
+            },
+            {
+                "name": "Cook & Bake",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300006K2_20241024T054042SQUARE.png",
+                "number": "1366",
+                "url": "https://jmp2.uk/sam-INBC4300006K2.m3u8",
+                "epgId": "INBC4300006K2"
+            },
+            {
+                "name": "Fashion TV",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA51000038B_20220427T054758SQUARE.png_20220427054759.png",
+                "number": "1367",
+                "url": "https://jmp2.uk/sam-INBA51000038B.m3u8",
+                "epgId": "INBA51000038B"
+            },
+            {
+                "name": "Gusto TV",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100020HQ_20220427T054602SQUARE.png_20220427054603.png",
+                "number": "1369",
+                "url": "https://jmp2.uk/sam-INBA5100020HQ.m3u8",
+                "epgId": "INBA5100020HQ"
+            },
+            {
+                "name": "Foodxp",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000003QJ_20240925T012639SQUARE.png",
+                "number": "1370",
+                "url": "https://jmp2.uk/sam-IN3000003QJ.m3u8",
+                "epgId": "IN3000003QJ"
+            },
+            {
+                "name": "Tastemade",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490001909_20220427T054659SQUARE.png_20220427054700.png",
+                "number": "1371",
+                "url": "https://jmp2.uk/sam-INBA490001909.m3u8",
+                "epgId": "INBA490001909"
+            },
+            {
+                "name": "Astro Tak",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000170D_20241023T011743SQUARE.png",
+                "number": "1373",
+                "url": "https://jmp2.uk/sam-IN26000170D.m3u8",
+                "epgId": "IN26000170D"
+            },
+            {
+                "name": "NDTV GoodTimes",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800007ZP_20241024T054047SQUARE.png",
+                "number": "1375",
+                "url": "https://jmp2.uk/sam-INBC2800007ZP.m3u8",
+                "epgId": "INBC2800007ZP"
+            },
+            {
+                "name": "Heritage",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800020QX_20221116T013715SQUARE.png_20221116013716.png",
+                "number": "1377",
+                "url": "https://jmp2.uk/sam-INBC2800020QX.m3u8",
+                "epgId": "INBC2800020QX"
+            },
+            {
+                "name": "HD TRAVEL",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000016J_20230111T005122SQUARE.png_20230111005122.png",
+                "number": "1378",
+                "url": "https://jmp2.uk/sam-INBC43000016J.m3u8",
+                "epgId": "INBC43000016J"
+            },
+            {
+                "name": "INFAST",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900004W9_20230111T005119SQUARE.png_20230111005120.png",
+                "number": "1379",
+                "url": "https://jmp2.uk/sam-INBA4900004W9.m3u8",
+                "epgId": "INBA4900004W9"
+            },
+            {
+                "name": "People are Awesome",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100031R2_20220427T054631SQUARE.png_20220427054632.png",
+                "number": "1381",
+                "url": "https://jmp2.uk/sam-INBA5100031R2.m3u8",
+                "epgId": "INBA5100031R2"
+            },
+            {
+                "name": "Real Life",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA49000129Q_20220427T054645SQUARE.png_20220427054646.png",
+                "number": "1383",
+                "url": "https://jmp2.uk/sam-INBA49000129Q.m3u8",
+                "epgId": "INBA49000129Q"
+            },
+            {
+                "name": "History Hit",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900010X3_20220824T022304SQUARE.png_20220824022305.png",
+                "number": "1385",
+                "url": "https://jmp2.uk/sam-INBA4900010X3.m3u8",
+                "epgId": "INBA4900010X3"
+            },
+            {
+                "name": "Wonder",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900011UB_20220427T054723SQUARE.png_20220427054724.png",
+                "number": "1387",
+                "url": "https://jmp2.uk/sam-INBA4900011UB.m3u8",
+                "epgId": "INBA4900011UB"
+            },
+            {
+                "name": "GoUSA TV",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100025YE_20220427T054559SQUARE.png_20220427054600.png",
+                "number": "1389",
+                "url": "https://jmp2.uk/sam-INBA5100025YE.m3u8",
+                "epgId": "INBA5100025YE"
+            },
+            {
+                "name": "Don't Tell The Bride",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA49000291X_20231115T014712SQUARE.png_20231115014713.png",
+                "number": "1391",
+                "url": "https://jmp2.uk/sam-INBA49000291X.m3u8",
+                "epgId": "INBA49000291X"
+            }
+        ],
+        "Devotional": [
+            {
+                "name": "Divya",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000053R_20241024T054024SQUARE.png",
+                "number": "1411",
+                "url": "https://jmp2.uk/sam-INBD13000053R.m3u8",
+                "epgId": "INBD13000053R"
+            },
+            {
+                "name": "Divya Bhajan",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600002IQ_20240612T015010SQUARE.png",
+                "number": "1413",
+                "url": "https://jmp2.uk/sam-IN1600002IQ.m3u8",
+                "epgId": "IN1600002IQ"
+            },
+            {
+                "name": "Bhakti Play",
+                "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600003K2_20240828T013126SQUARE.png",
+                "number": "1415",
+                "url": "https://jmp2.uk/sam-IN1600003K2.m3u8",
+                "epgId": "IN1600003K2"
+            }
+        ]
+    }
+}
