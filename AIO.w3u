@@ -4,6 +4,7 @@
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/samsung.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/AIO.w3u",
     "groups": [
+    {"groups": [
         {
             "name": "España",
             "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/es.png",
@@ -70,4 +71,5 @@
             "isHost": "true"
         }
     ]
+}]
 }
