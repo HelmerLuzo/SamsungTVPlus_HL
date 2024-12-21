@@ -1,6 +1,6 @@
 {
-    "name": "SamsungTVPlus TV by HL",
-    "author": "Actualizada 21/12/2024 18:03",
+    "name": "SamsungTVPlus - TV 🇪🇸 by HL",
+    "author": "Actualizada 21/12/2024 18:24",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/samsung.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -133,6 +133,13 @@
                     "number": "4035",
                     "url": "https://jmp2.uk/sam-ESBC4100002AG.m3u8",
                     "epgId": "ESBC4100002AG"
+                },
+                {
+                    "name": "Sony One Shark Tank",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300004C9_20241106T142325SQUARE.png",
+                    "number": "4062",
+                    "url": "https://jmp2.uk/sam-ES300004C9.m3u8",
+                    "epgId": "ES300004C9"
                 },
                 {
                     "name": "MTV Cribs",
@@ -579,6 +586,13 @@
                     "epgId": "ES260000700"
                 },
                 {
+                    "name": "Sony One Hits Comedia",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20241126T043051SQUARE.png",
+                    "number": "4910",
+                    "url": "https://jmp2.uk/sam-ES300007KS.m3u8",
+                    "epgId": "ES300007KS"
+                },
+                {
                     "name": "Grjngo - Películas Del Oeste",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20241022T050538SQUARE.png",
                     "number": "4925",
@@ -633,6 +647,13 @@
                     "number": "4994",
                     "url": "https://jmp2.uk/sam-ESBD80000288.m3u8",
                     "epgId": "ESBD80000288"
+                },
+                {
+                    "name": "Sony One Hits Acción",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20241106T142219SQUARE.png",
+                    "number": "4996",
+                    "url": "https://jmp2.uk/sam-ES300006QJ.m3u8",
+                    "epgId": "ES300006QJ"
                 },
                 {
                     "name": "Películas de Drama - Rakuten TV",
@@ -813,6 +834,34 @@
                     "number": "4248",
                     "url": "https://jmp2.uk/sam-ESBC1700001QI.m3u8",
                     "epgId": "ESBC1700001QI"
+                },
+                {
+                    "name": "Sony One Series Thriller",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20241106T142251SQUARE.png",
+                    "number": "4250",
+                    "url": "https://jmp2.uk/sam-ES300002Y6.m3u8",
+                    "epgId": "ES300002Y6"
+                },
+                {
+                    "name": "Sony One Éxitos",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20241022T051059SQUARE.png",
+                    "number": "4251",
+                    "url": "https://jmp2.uk/sam-ES300003D4.m3u8",
+                    "epgId": "ES300003D4"
+                },
+                {
+                    "name": "Sony One The Blacklist",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300005EL_20241022T115805SQUARE.png",
+                    "number": "4252",
+                    "url": "https://jmp2.uk/sam-ES300005EL.m3u8",
+                    "epgId": "ES300005EL"
+                },
+                {
+                    "name": "Sony One Series Comedia",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000145_20241106T142322SQUARE.png",
+                    "number": "4253",
+                    "url": "https://jmp2.uk/sam-ES30000145.m3u8",
+                    "epgId": "ES30000145"
                 }
             ]
         },
