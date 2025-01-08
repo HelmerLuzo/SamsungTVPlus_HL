@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇪🇸 by HL",
-    "author": "Actualizada 08/01/2025 00:15",
+    "author": "Actualizada 09/01/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/es.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -489,7 +489,7 @@
                     "epgId": "ESBA3300028OE"
                 },
                 {
-                    "name": "100% Navidad - Rakuten TV",
+                    "name": "En Familia - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20250107T024924SQUARE.png",
                     "number": "4825",
                     "url": "https://jmp2.uk/sam-ES260001081.m3u8",
@@ -628,7 +628,7 @@
                     "epgId": "ES3000008O8"
                 },
                 {
-                    "name": "Horror Vision",
+                    "name": "Action Movie Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC40000248_20250107T024921SQUARE.png",
                     "number": "4947",
                     "url": "https://jmp2.uk/sam-ESBC40000248.m3u8",
@@ -675,13 +675,6 @@
             "name": "Música",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Música.png",
             "stations": [
-                {
-                    "name": "Vevo Navidad",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES35000016A_20250107T024932SQUARE.png",
-                    "number": "4005",
-                    "url": "https://jmp2.uk/sam-ES35000016A.m3u8",
-                    "epgId": "ES35000016A"
-                },
                 {
                     "name": "Vevo Latino",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20241022T051144SQUARE.png",
@@ -746,7 +739,7 @@
                     "epgId": "ES2500001F9"
                 },
                 {
-                    "name": "Clips don´t Lie",
+                    "name": "CLIPS don´t Lie",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES32000027M_20250107T024929SQUARE.png",
                     "number": "4748",
                     "url": "https://jmp2.uk/sam-ES32000027M.m3u8",
