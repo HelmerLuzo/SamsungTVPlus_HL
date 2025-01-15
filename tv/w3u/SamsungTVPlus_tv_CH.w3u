@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇨🇭 by HL",
-    "author": "Actualizada 15/01/2025 00:15",
+    "author": "Actualizada 16/01/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/ch.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/ch.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CH.w3u",
@@ -751,18 +751,18 @@
                     "epgId": "CHAJ0500457A"
                 },
                 {
-                    "name": "Höhenrausch",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1500028KP_20250110T143016SQUARE.png",
-                    "number": "4423",
-                    "url": "https://jmp2.uk/sam-CHBA1500028KP.m3u8",
-                    "epgId": "CHBA1500028KP"
-                },
-                {
                     "name": "SPIEGEL TV Konflikte",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD1400002AK_20250107T025551SQUARE.png",
                     "number": "4425",
                     "url": "https://jmp2.uk/sam-CHBD1400002AK.m3u8",
                     "epgId": "CHBD1400002AK"
+                },
+                {
+                    "name": "Höhenrausch",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1500028KP_20250110T143016SQUARE.png",
+                    "number": "4431",
+                    "url": "https://jmp2.uk/sam-CHBA1500028KP.m3u8",
+                    "epgId": "CHBA1500028KP"
                 },
                 {
                     "name": "Pluto TV Paranormal",
