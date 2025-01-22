@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇪🇸 by HL",
-    "author": "Actualizada 22/01/2025 00:15",
+    "author": "Actualizada 23/01/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/es.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -10,11 +10,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Noticias.png",
             "stations": [
                 {
-                    "name": "Euronews en directo",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500024LR_20230222T012038SQUARE.png_20230222012039.png",
+                    "name": "Euronews EN DIRECTO",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000968_20250121T012824SQUARE.png",
                     "number": "4003",
-                    "url": "https://jmp2.uk/sam-ESAJ4500024LR.m3u8",
-                    "epgId": "ESAJ4500024LR"
+                    "url": "https://jmp2.uk/sam-ES260000968.m3u8",
+                    "epgId": "ES260000968"
                 },
                 {
                     "name": "24H",
@@ -295,6 +295,13 @@
                     "epgId": "ESBD3200001EG"
                 },
                 {
+                    "name": "Surf Channel",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3400002PY_20250121T012834SQUARE.png",
+                    "number": "4671",
+                    "url": "https://jmp2.uk/sam-ES3400002PY.m3u8",
+                    "epgId": "ES3400002PY"
+                },
+                {
                     "name": "World Poker Tour",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20241022T051205SQUARE.png",
                     "number": "4673",
@@ -370,6 +377,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Niños.png",
             "stations": [
                 {
+                    "name": "Pocoyó",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20250121T012828SQUARE.png",
+                    "number": "4005",
+                    "url": "https://jmp2.uk/sam-ESBC3900004ED.m3u8",
+                    "epgId": "ESBC3900004ED"
+                },
+                {
                     "name": "Clan",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20241022T050516SQUARE.png",
                     "number": "4771",
@@ -385,17 +399,10 @@
                 },
                 {
                     "name": "Caillou",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300020W5_20241022T050228SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4800002OZ_20250121T012820SQUARE.png",
                     "number": "4775",
-                    "url": "https://jmp2.uk/sam-ESBA3300020W5.m3u8",
-                    "epgId": "ESBA3300020W5"
-                },
-                {
-                    "name": "Pocoyó",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20250121T012828SQUARE.png",
-                    "number": "4777",
-                    "url": "https://jmp2.uk/sam-ESBC3900004ED.m3u8",
-                    "epgId": "ESBC3900004ED"
+                    "url": "https://jmp2.uk/sam-ES4800002OZ.m3u8",
+                    "epgId": "ES4800002OZ"
                 },
                 {
                     "name": "duckTV",

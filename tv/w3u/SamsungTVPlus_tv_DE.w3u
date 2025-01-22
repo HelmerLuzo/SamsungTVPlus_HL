@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇩🇪 by HL",
-    "author": "Actualizada 22/01/2025 00:15",
+    "author": "Actualizada 23/01/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
@@ -10,11 +10,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/News.png",
             "stations": [
                 {
-                    "name": "Euronews Live",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000003IM_20241106T142740SQUARE.png",
+                    "name": "Euronews LIVE",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600003TR_20250120T075833SQUARE.png",
                     "number": "4003",
-                    "url": "https://jmp2.uk/sam-DEBA1000003IM.m3u8",
-                    "epgId": "DEBA1000003IM"
+                    "url": "https://jmp2.uk/sam-DE2600003TR.m3u8",
+                    "epgId": "DE2600003TR"
                 },
                 {
                     "name": "CNN",
@@ -86,11 +86,11 @@
                     "epgId": "DEBC3000002Z5"
                 },
                 {
-                    "name": "X-MAS Mix",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700001YD_20250120T075828SQUARE.png",
-                    "number": "4006",
-                    "url": "https://jmp2.uk/sam-DEBD3700001YD.m3u8",
-                    "epgId": "DEBD3700001YD"
+                    "name": "ZDF zu Hause",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE37000038D_20250120T075830SQUARE.png",
+                    "number": "4007",
+                    "url": "https://jmp2.uk/sam-DE37000038D.m3u8",
+                    "epgId": "DE37000038D"
                 },
                 {
                     "name": "Bares für Rares",
@@ -126,13 +126,6 @@
                     "number": "4136",
                     "url": "https://jmp2.uk/sam-DE40000191.m3u8",
                     "epgId": "DE40000191"
-                },
-                {
-                    "name": "The Diary Of A CEO",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1100002WN_20250120T075826SQUARE.png",
-                    "number": "4138",
-                    "url": "https://jmp2.uk/sam-DE1100002WN.m3u8",
-                    "epgId": "DE1100002WN"
                 },
                 {
                     "name": "Comedy Central Pluto TV",
@@ -177,18 +170,11 @@
                     "epgId": "DEAJ3200004UF"
                 },
                 {
-                    "name": "ZDF zu Hause",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE37000038D_20250120T075830SQUARE.png",
-                    "number": "4201",
-                    "url": "https://jmp2.uk/sam-DE37000038D.m3u8",
-                    "epgId": "DE37000038D"
-                },
-                {
                     "name": "Freitag Nacht News",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2700004YR_20250120T075823SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600002DK_20250120T075835SQUARE.png",
                     "number": "4205",
-                    "url": "https://jmp2.uk/sam-DEBD2700004YR.m3u8",
-                    "epgId": "DEBD2700004YR"
+                    "url": "https://jmp2.uk/sam-DE2600002DK.m3u8",
+                    "epgId": "DE2600002DK"
                 },
                 {
                     "name": "Stars in Gefahr",
@@ -350,10 +336,10 @@
             "stations": [
                 {
                     "name": "Teletubbies",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300023IR_20250107T024016SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800001Y8_20250120T075841SQUARE.png",
                     "number": "4773",
-                    "url": "https://jmp2.uk/sam-DEBA3300023IR.m3u8",
-                    "epgId": "DEBA3300023IR"
+                    "url": "https://jmp2.uk/sam-DE4800001Y8.m3u8",
+                    "epgId": "DE4800001Y8"
                 },
                 {
                     "name": "LooLoo Kids",
@@ -448,7 +434,7 @@
                 {
                     "name": "Moviedome Family",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300040CR_20250120T075816SQUARE.png",
-                    "number": "4007",
+                    "number": "4859",
                     "url": "https://jmp2.uk/sam-DEBA3300040CR.m3u8",
                     "epgId": "DEBA3300040CR"
                 },
@@ -752,6 +738,13 @@
                     "epgId": "DE3700004DM"
                 },
                 {
+                    "name": "Nashville",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4600001CD_20250120T075838SQUARE.png",
+                    "number": "4233",
+                    "url": "https://jmp2.uk/sam-DE4600001CD.m3u8",
+                    "epgId": "DE4600001CD"
+                },
+                {
                     "name": "Spannung & Emotionen",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2200001EO_20250107T024410SQUARE.png",
                     "number": "4240",
@@ -991,49 +984,22 @@
             ]
         },
         {
-            "name": "Fußball",
-            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Fußball.png",
-            "stations": [
-                {
-                    "name": "FIFA+",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20250107T024243SQUARE.png",
-                    "number": "4010",
-                    "url": "https://jmp2.uk/sam-DEBA3300019EB.m3u8",
-                    "epgId": "DEBA3300019EB"
-                },
-                {
-                    "name": "DAZN FAST+",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC470000128_20250107T024311SQUARE.png",
-                    "number": "4631",
-                    "url": "https://jmp2.uk/sam-DEBC470000128.m3u8",
-                    "epgId": "DEBC470000128"
-                },
-                {
-                    "name": "Scooore",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD260000692_20250107T024407SQUARE.png",
-                    "number": "4641",
-                    "url": "https://jmp2.uk/sam-DEBD260000692.m3u8",
-                    "epgId": "DEBD260000692"
-                }
-            ]
-        },
-        {
             "name": "Food & Travel",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Food & Travel.png",
             "stations": [
+                {
+                    "name": "ZDF kocht!",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700002HO_20250120T075843SQUARE.png",
+                    "number": "4006",
+                    "url": "https://jmp2.uk/sam-DEBD3700002HO.m3u8",
+                    "epgId": "DEBD3700002HO"
+                },
                 {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20250107T024747SQUARE.png",
                     "number": "4511",
                     "url": "https://jmp2.uk/sam-DE200003PX.m3u8",
                     "epgId": "DE200003PX"
-                },
-                {
-                    "name": "ZDF kocht!",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700002HO_20250120T075843SQUARE.png",
-                    "number": "4515",
-                    "url": "https://jmp2.uk/sam-DEBD3700002HO.m3u8",
-                    "epgId": "DEBD3700002HO"
                 },
                 {
                     "name": "BBC Food",
@@ -1076,6 +1042,33 @@
                     "number": "4535",
                     "url": "https://jmp2.uk/sam-DEAJ0500424A.m3u8",
                     "epgId": "DEAJ0500424A"
+                }
+            ]
+        },
+        {
+            "name": "Fußball",
+            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Fußball.png",
+            "stations": [
+                {
+                    "name": "FIFA+",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20250107T024243SQUARE.png",
+                    "number": "4010",
+                    "url": "https://jmp2.uk/sam-DEBA3300019EB.m3u8",
+                    "epgId": "DEBA3300019EB"
+                },
+                {
+                    "name": "DAZN FAST+",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC470000128_20250107T024311SQUARE.png",
+                    "number": "4631",
+                    "url": "https://jmp2.uk/sam-DEBC470000128.m3u8",
+                    "epgId": "DEBC470000128"
+                },
+                {
+                    "name": "Scooore",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD260000692_20250107T024407SQUARE.png",
+                    "number": "4641",
+                    "url": "https://jmp2.uk/sam-DEBD260000692.m3u8",
+                    "epgId": "DEBD260000692"
                 }
             ]
         },

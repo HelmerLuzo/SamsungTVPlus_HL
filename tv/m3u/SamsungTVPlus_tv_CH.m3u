@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/ch.xml.gz"
-#EXTINF:-1 tvg-id="CHBA100000532" tvg-name="CHBA100000532" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA100000532_20230222T012029SQUARE.png_20230222012029.png" group-title="News" , Euronews Live
-https://jmp2.uk/sam-CHBA100000532.m3u8
+#EXTINF:-1 tvg-id="CH26000037F" tvg-name="CH26000037F" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH26000037F_20250117T134650SQUARE.png" group-title="News" , Euronews LIVE
+https://jmp2.uk/sam-CH26000037F.m3u8
 #EXTINF:-1 tvg-id="CHBD800001D0" tvg-name="CHBD800001D0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD800001D0_20230308T021423SQUARE.png_20230308021423.png" group-title="News" , CNN
 https://jmp2.uk/sam-CHBD800001D0.m3u8
 #EXTINF:-1 tvg-id="CHBD1900001JB" tvg-name="CHBD1900001JB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD1900001JB_20250107T025441SQUARE.png" group-title="News" , CNN FAST
@@ -19,8 +19,6 @@ https://jmp2.uk/sam-CH500001V2.m3u8
 https://jmp2.uk/sam-CHBC14000022X.m3u8
 #EXTINF:-1 tvg-id="CHBD41000043H" tvg-name="CHBD41000043H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD41000043H_20241023T143431SQUARE.png" group-title="Entertainment" , Comedy Mix
 https://jmp2.uk/sam-CHBD41000043H.m3u8
-#EXTINF:-1 tvg-id="CHBD3700001XS" tvg-name="CHBD3700001XS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD3700001XS_20250117T134641SQUARE.png" group-title="Entertainment" , X-MAS Mix
-https://jmp2.uk/sam-CHBD3700001XS.m3u8
 #EXTINF:-1 tvg-id="CH500002H2" tvg-name="CH500002H2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500002H2_20250107T031525SQUARE.png" group-title="Entertainment" , RMC Story
 https://jmp2.uk/sam-CH500002H2.m3u8
 #EXTINF:-1 tvg-id="CH500003EH" tvg-name="CH500003EH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500003EH_20250107T031522SQUARE.png" group-title="Entertainment" , RMC Découverte
@@ -43,8 +41,8 @@ https://jmp2.uk/sam-CHBA1000004IU.m3u8
 https://jmp2.uk/sam-CHAJ3200003RF.m3u8
 #EXTINF:-1 tvg-id="CHAJ32000026J" tvg-name="CHAJ32000026J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ32000026J_20250107T025041SQUARE.png" group-title="Entertainment" , FailArmy
 https://jmp2.uk/sam-CHAJ32000026J.m3u8
-#EXTINF:-1 tvg-id="CHBD2700004E9" tvg-name="CHBD2700004E9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2700004E9_20250117T134639SQUARE.png" group-title="Entertainment" , Freitag Nacht News
-https://jmp2.uk/sam-CHBD2700004E9.m3u8
+#EXTINF:-1 tvg-id="CH2600008L1" tvg-name="CH2600008L1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2600008L1_20250117T134652SQUARE.png" group-title="Entertainment" , Freitag Nacht News
+https://jmp2.uk/sam-CH2600008L1.m3u8
 #EXTINF:-1 tvg-id="CHBB49000054U" tvg-name="CHBB49000054U" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB49000054U_20250107T025605SQUARE.png" group-title="Entertainment" , Stars in Gefahr
 https://jmp2.uk/sam-CHBB49000054U.m3u8
 #EXTINF:-1 tvg-id="CHBD2500001SY" tvg-name="CHBD2500001SY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2500001SY_20250107T025546SQUARE.png" group-title="Entertainment" , Out TV
@@ -81,8 +79,8 @@ https://jmp2.uk/sam-CHBA3300026CA.m3u8
 https://jmp2.uk/sam-CH330000132.m3u8
 #EXTINF:-1 tvg-id="CHBC4000003K9" tvg-name="CHBC4000003K9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC4000003K9_20250107T031508SQUARE.png" group-title="Crime" , Homicide [FR]
 https://jmp2.uk/sam-CHBC4000003K9.m3u8
-#EXTINF:-1 tvg-id="CHBA3300014AM" tvg-name="CHBA3300014AM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300014AM_20250107T025330SQUARE.png" group-title="Kids" , Teletubbies
-https://jmp2.uk/sam-CHBA3300014AM.m3u8
+#EXTINF:-1 tvg-id="CH500000481" tvg-name="CH500000481" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500000481_20250121T012843SQUARE.png" group-title="Kids" , Teletubbies
+https://jmp2.uk/sam-CH500000481.m3u8
 #EXTINF:-1 tvg-id="CHBD4700001DY" tvg-name="CHBD4700001DY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD4700001DY_20250107T025532SQUARE.png" group-title="Kids" , LooLoo Kids
 https://jmp2.uk/sam-CHBD4700001DY.m3u8
 #EXTINF:-1 tvg-id="CHAJ7000057P" tvg-name="CHAJ7000057P" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ7000057P_20250107T025304SQUARE.png" group-title="Kids" , SpongeBob Schwammkopf
@@ -97,10 +95,10 @@ https://jmp2.uk/sam-CH26000056O.m3u8
 https://jmp2.uk/sam-CHAJ700004GX.m3u8
 #EXTINF:-1 tvg-id="CHAJ700003CV" tvg-name="CHAJ700003CV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ700003CV_20250107T025220SQUARE.png" group-title="Kids" , Nick Pluto TV
 https://jmp2.uk/sam-CHAJ700003CV.m3u8
-#EXTINF:-1 tvg-id="CHBA3300030AJ" tvg-name="CHBA3300030AJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300030AJ_20250117T134626SQUARE.png" group-title="Filme" , Moviedome Family
-https://jmp2.uk/sam-CHBA3300030AJ.m3u8
 #EXTINF:-1 tvg-id="CH200001G5" tvg-name="CH200001G5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH200001G5_20250117T134658SQUARE.png" group-title="Filme" , Starke Frauen
 https://jmp2.uk/sam-CH200001G5.m3u8
+#EXTINF:-1 tvg-id="CHBA3300030AJ" tvg-name="CHBA3300030AJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300030AJ_20250117T134626SQUARE.png" group-title="Filme" , Moviedome Family
+https://jmp2.uk/sam-CHBA3300030AJ.m3u8
 #EXTINF:-1 tvg-id="CHBA330002991" tvg-name="CHBA330002991" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA330002991_20250107T025205SQUARE.png" group-title="Filme" , Moviedome
 https://jmp2.uk/sam-CHBA330002991.m3u8
 #EXTINF:-1 tvg-id="CHBD5000002CB" tvg-name="CHBD5000002CB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD5000002CB_20250107T025615SQUARE.png" group-title="Filme" , Top Filme
@@ -165,6 +163,8 @@ https://jmp2.uk/sam-CHAJ0500413A.m3u8
 https://jmp2.uk/sam-CHBD2600009ZC.m3u8
 #EXTINF:-1 tvg-id="CH3700002YI" tvg-name="CH3700002YI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3700002YI_20250107T025516SQUARE.png" group-title="Serien" , Heartland
 https://jmp2.uk/sam-CH3700002YI.m3u8
+#EXTINF:-1 tvg-id="CH4600002VO" tvg-name="CH4600002VO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4600002VO_20250117T134655SQUARE.png" group-title="Serien" , Nashville
+https://jmp2.uk/sam-CH4600002VO.m3u8
 #EXTINF:-1 tvg-id="CHBB4900003F5" tvg-name="CHBB4900003F5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB4900003F5_20250107T025554SQUARE.png" group-title="Serien" , Spannung & Emotionen
 https://jmp2.uk/sam-CHBB4900003F5.m3u8
 #EXTINF:-1 tvg-id="CHBD27000011N" tvg-name="CHBD27000011N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD27000011N_20250107T025630SQUARE.png" group-title="Serien" , Zee One
@@ -187,6 +187,8 @@ https://jmp2.uk/sam-CHBD200004J8.m3u8
 https://jmp2.uk/sam-CH4600001X9.m3u8
 #EXTINF:-1 tvg-id="CHBC800006EP" tvg-name="CHBC800006EP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC800006EP_20250107T031503SQUARE.png" group-title="Serien" , Fréquence Novelas [FR]
 https://jmp2.uk/sam-CHBC800006EP.m3u8
+#EXTINF:-1 tvg-id="CHBA3300028G3" tvg-name="CHBA3300028G3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20250117T134634SQUARE.png" group-title="Dokus & Wissen" , Wilder Planet
+https://jmp2.uk/sam-CHBA3300028G3.m3u8
 #EXTINF:-1 tvg-id="CHBC40000011Y" tvg-name="CHBC40000011Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000011Y_20250107T025613SQUARE.png" group-title="Dokus & Wissen" , The Wicked Tuna Channel
 https://jmp2.uk/sam-CHBC40000011Y.m3u8
 #EXTINF:-1 tvg-id="CHAJ700009UV" tvg-name="CHAJ700009UV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ700009UV_20250107T025119SQUARE.png" group-title="Dokus & Wissen" , Ice Pilots
@@ -207,8 +209,6 @@ https://jmp2.uk/sam-CHAJ7000084D.m3u8
 https://jmp2.uk/sam-CHAK3504503A.m3u8
 #EXTINF:-1 tvg-id="CHBC40000040J" tvg-name="CHBC40000040J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000040J_20250107T025514SQUARE.png" group-title="Dokus & Wissen" , Grandi Documentari - Wedo Big Stories [IT]
 https://jmp2.uk/sam-CHBC40000040J.m3u8
-#EXTINF:-1 tvg-id="CHBA3300028G3" tvg-name="CHBA3300028G3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20250117T134634SQUARE.png" group-title="Dokus & Wissen" , Wilder Planet
-https://jmp2.uk/sam-CHBA3300028G3.m3u8
 #EXTINF:-1 tvg-id="CHBA1500021M5" tvg-name="CHBA1500021M5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1500021M5_20250107T025223SQUARE.png" group-title="Dokus & Wissen" , One Terra
 https://jmp2.uk/sam-CHBA1500021M5.m3u8
 #EXTINF:-1 tvg-id="CHBD2700002B7" tvg-name="CHBD2700002B7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2700002B7_20250107T025610SQUARE.png" group-title="Dokus & Wissen" , Terra Mater WILD

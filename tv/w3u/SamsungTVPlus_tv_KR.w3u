@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇰🇷 by HL",
-    "author": "Actualizada 22/01/2025 00:15",
+    "author": "Actualizada 23/01/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/kr.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/kr.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_KR.w3u",
@@ -17,11 +17,11 @@
                     "epgId": "KRBB42000061Z"
                 },
                 {
-                    "name": "SBS 올인",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420001572_20241211T005618SQUARE.png",
+                    "name": "KBS 태종 이방원",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000023Z_20250122T004306SQUARE.png",
                     "number": "506",
-                    "url": "https://jmp2.uk/sam-KRBB420001572.m3u8",
-                    "epgId": "KRBB420001572"
+                    "url": "https://jmp2.uk/sam-KR7000023Z.m3u8",
+                    "epgId": "KR7000023Z"
                 },
                 {
                     "name": "KBS 신사와 아가씨",
@@ -52,13 +52,6 @@
                     "epgId": "KRBC3200031KO"
                 },
                 {
-                    "name": "OCN 왓쳐",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200029C4_20241113T015739SQUARE.png",
-                    "number": "544",
-                    "url": "https://jmp2.uk/sam-KRBC3200029C4.m3u8",
-                    "epgId": "KRBC3200029C4"
-                },
-                {
                     "name": "tvN 지리산",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20241211T005555SQUARE.png",
                     "number": "545",
@@ -66,18 +59,18 @@
                     "epgId": "KRBC3200018FU"
                 },
                 {
-                    "name": "tvN 스타트업",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC320002200_20241113T015832SQUARE.png",
+                    "name": "tvN 마에스트라",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC320002200_20250122T004239SQUARE.png",
                     "number": "546",
                     "url": "https://jmp2.uk/sam-KRBC320002200.m3u8",
                     "epgId": "KRBC320002200"
                 },
                 {
-                    "name": "KBS 최고다 이순신",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000023Z_20241105T075537SQUARE.png",
+                    "name": "SBS 올인",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420001572_20250122T004310SQUARE.png",
                     "number": "548",
-                    "url": "https://jmp2.uk/sam-KR7000023Z.m3u8",
-                    "epgId": "KR7000023Z"
+                    "url": "https://jmp2.uk/sam-KRBB420001572.m3u8",
+                    "epgId": "KRBB420001572"
                 },
                 {
                     "name": "Animax 요리왕 비룡 더 마스터",
@@ -156,11 +149,11 @@
                     "epgId": "KR4100001LW"
                 },
                 {
-                    "name": "JTBC 톡파원25시",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000218R_20241211T005611SQUARE.png",
+                    "name": "할명수",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR480000234_20250122T004327SQUARE.png",
                     "number": "505",
-                    "url": "https://jmp2.uk/sam-KRBC50000218R.m3u8",
-                    "epgId": "KRBC50000218R"
+                    "url": "https://jmp2.uk/sam-KR480000234.m3u8",
+                    "epgId": "KR480000234"
                 },
                 {
                     "name": "JTBC 냉장고를 부탁해",
@@ -170,18 +163,18 @@
                     "epgId": "KR400006MW"
                 },
                 {
-                    "name": "tvN 백패커2 & 장사천재 백사장2",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200025QG_20241105T075516SQUARE.png",
-                    "number": "509",
-                    "url": "https://jmp2.uk/sam-KRBC3200025QG.m3u8",
-                    "epgId": "KRBC3200025QG"
+                    "name": "JTBC 냉장고를 부탁해 2",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000014A_20250122T004243SQUARE.png",
+                    "number": "508",
+                    "url": "https://jmp2.uk/sam-KRBC46000014A.m3u8",
+                    "epgId": "KRBC46000014A"
                 },
                 {
-                    "name": "tvN 언니네 산지직송",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20241023T053641SQUARE.png",
+                    "name": "tvN 핀란드 셋방살이 하이라이트",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200029C4_20250122T004322SQUARE.png",
                     "number": "510",
-                    "url": "https://jmp2.uk/sam-KRBC3200017JQ.m3u8",
-                    "epgId": "KRBC3200017JQ"
+                    "url": "https://jmp2.uk/sam-KRBC3200029C4.m3u8",
+                    "epgId": "KRBC3200029C4"
                 },
                 {
                     "name": "KBS 1박2일 시즌1",
@@ -189,6 +182,13 @@
                     "number": "512",
                     "url": "https://jmp2.uk/sam-KRBC4400003SD.m3u8",
                     "epgId": "KRBC4400003SD"
+                },
+                {
+                    "name": "JTBC 톡파원25시",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000218R_20250122T004255SQUARE.png",
+                    "number": "517",
+                    "url": "https://jmp2.uk/sam-KRBC50000218R.m3u8",
+                    "epgId": "KRBC50000218R"
                 },
                 {
                     "name": "MBC 놀면 뭐하니",
@@ -205,11 +205,11 @@
                     "epgId": "KRBB4200004RA"
                 },
                 {
-                    "name": "KBS 불후의 명곡",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700003L9_20241211T005613SQUARE.png",
-                    "number": "525",
-                    "url": "https://jmp2.uk/sam-KR700003L9.m3u8",
-                    "epgId": "KR700003L9"
+                    "name": "tvN 언니네 산지직송",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20250122T004321SQUARE.png",
+                    "number": "524",
+                    "url": "https://jmp2.uk/sam-KRBC3200017JQ.m3u8",
+                    "epgId": "KRBC3200017JQ"
                 },
                 {
                     "name": "정유미 예능 모아보기",
@@ -238,6 +238,13 @@
                     "number": "538",
                     "url": "https://jmp2.uk/sam-KRBC200002I0.m3u8",
                     "epgId": "KRBC200002I0"
+                },
+                {
+                    "name": "tvN 백패커2 & 장사천재 백사장2",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200025QG_20250122T004316SQUARE.png",
+                    "number": "543",
+                    "url": "https://jmp2.uk/sam-KRBC3200025QG.m3u8",
+                    "epgId": "KRBC3200025QG"
                 },
                 {
                     "name": "TV조선 사랑의 콜센타",
@@ -276,10 +283,17 @@
                 },
                 {
                     "name": "JTBC 이혼숙려캠프",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000019FB_20241211T005608SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000019FB_20250122T004252SQUARE.png",
                     "number": "555",
                     "url": "https://jmp2.uk/sam-KRBC5000019FB.m3u8",
                     "epgId": "KRBC5000019FB"
+                },
+                {
+                    "name": "KBS 불후의 명곡",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700003L9_20250122T004303SQUARE.png",
+                    "number": "557",
+                    "url": "https://jmp2.uk/sam-KR700003L9.m3u8",
+                    "epgId": "KR700003L9"
                 },
                 {
                     "name": "MBC 지붕뚫고 하이킥",
@@ -304,7 +318,7 @@
                 },
                 {
                     "name": "JTBC 효리네 민박1&2",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200001G8_20241113T015942SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200001G8_20250122T004300SQUARE.png",
                     "number": "563",
                     "url": "https://jmp2.uk/sam-KRBD5200001G8.m3u8",
                     "epgId": "KRBD5200001G8"
@@ -336,13 +350,6 @@
                     "number": "572",
                     "url": "https://jmp2.uk/sam-KR40000410.m3u8",
                     "epgId": "KR40000410"
-                },
-                {
-                    "name": "JTBC 한국인의 식판",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000014A_20241113T015937SQUARE.png",
-                    "number": "573",
-                    "url": "https://jmp2.uk/sam-KRBC46000014A.m3u8",
-                    "epgId": "KRBC46000014A"
                 },
                 {
                     "name": "SBS 패밀리가 떴다",
@@ -534,7 +541,7 @@
                 },
                 {
                     "name": "JTBC 뉴스",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20241113T015932SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20250122T004246SQUARE.png",
                     "number": "626",
                     "url": "https://jmp2.uk/sam-KRBC46000173Y.m3u8",
                     "epgId": "KRBC46000173Y"
@@ -637,7 +644,7 @@
             "stations": [
                 {
                     "name": "JTBC 한문철의 블랙박스리뷰",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000020AF_20241127T012455SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000020AF_20250122T004257SQUARE.png",
                     "number": "531",
                     "url": "https://jmp2.uk/sam-KRBC5000020AF.m3u8",
                     "epgId": "KRBC5000020AF"
@@ -713,7 +720,7 @@
             "stations": [
                 {
                     "name": "우리의식탁",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2200001QD_20241113T015949SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2200001QD_20250122T004325SQUARE.png",
                     "number": "654",
                     "url": "https://jmp2.uk/sam-KRBD2200001QD.m3u8",
                     "epgId": "KRBD2200001QD"
@@ -835,8 +842,8 @@
                     "epgId": "KR12000017G"
                 },
                 {
-                    "name": "PLAYY 크리스마스특집",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1200002QR_20241127T012445SQUARE.png",
+                    "name": "PLAYY 새해웃음특집",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1200002QR_20250122T004236SQUARE.png",
                     "number": "847",
                     "url": "https://jmp2.uk/sam-KR1200002QR.m3u8",
                     "epgId": "KR1200002QR"
@@ -856,8 +863,8 @@
             "stations": [
                 {
                     "name": "JTBC 비긴어게인 - 오픈마이크",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD43000023M_20241127T012451SQUARE.png",
-                    "number": "517",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD43000023M_20250122T004249SQUARE.png",
+                    "number": "525",
                     "url": "https://jmp2.uk/sam-KRBD43000023M.m3u8",
                     "epgId": "KRBD43000023M"
                 },
