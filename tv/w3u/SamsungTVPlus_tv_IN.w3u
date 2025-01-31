@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇳 by HL",
-    "author": "Actualizada 31/01/2025 00:15",
+    "author": "Actualizada 01/02/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/in.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/in.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IN.w3u",
@@ -43,13 +43,6 @@
                     "number": "1315",
                     "url": "https://jmp2.uk/sam-INBC43000034X.m3u8",
                     "epgId": "INBC43000034X"
-                },
-                {
-                    "name": "RDC Movies",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700008UG_20240522T015919SQUARE.png",
-                    "number": "1316",
-                    "url": "https://jmp2.uk/sam-INBD4700008UG.m3u8",
-                    "epgId": "INBD4700008UG"
                 },
                 {
                     "name": "Pitaara",
@@ -621,13 +614,6 @@
                     "epgId": "IN2600020H9"
                 },
                 {
-                    "name": "The Q",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000014D_20240214T030802SQUARE.png_20240214030803.png",
-                    "number": "1121",
-                    "url": "https://jmp2.uk/sam-INBD47000014D.m3u8",
-                    "epgId": "INBD47000014D"
-                },
-                {
                     "name": "Colors Infinity Lite",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000147D_20241113T015616SQUARE.png",
                     "number": "1123",
@@ -711,13 +697,6 @@
                     "epgId": "IN2500003JW"
                 },
                 {
-                    "name": "The Q Kahaniyan",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000042I_20240912T093648SQUARE.png",
-                    "number": "1267",
-                    "url": "https://jmp2.uk/sam-INBD47000042I.m3u8",
-                    "epgId": "INBD47000042I"
-                },
-                {
                     "name": "KidDo MATIX",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600008T4_20250122T004833SQUARE.png",
                     "number": "1268",
@@ -744,13 +723,6 @@
                     "number": "1271",
                     "url": "https://jmp2.uk/sam-INBC2800015NR.m3u8",
                     "epgId": "INBC2800015NR"
-                },
-                {
-                    "name": "Q Toonz",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700007IQ_20240912T093650SQUARE.png",
-                    "number": "1272",
-                    "url": "https://jmp2.uk/sam-INBD4700007IQ.m3u8",
-                    "epgId": "INBD4700007IQ"
                 },
                 {
                     "name": "BABY FIRST",
@@ -792,13 +764,6 @@
                     "number": "1217",
                     "url": "https://jmp2.uk/sam-INBC2800017OC.m3u8",
                     "epgId": "INBC2800017OC"
-                },
-                {
-                    "name": "Q GameX",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700002E3_20240214T030800SQUARE.png_20240214030801.png",
-                    "number": "1220",
-                    "url": "https://jmp2.uk/sam-INBD4700002E3.m3u8",
-                    "epgId": "INBD4700002E3"
                 },
                 {
                     "name": "MAVTV Motorsports",
