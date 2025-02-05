@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 05/02/2025 00:19",
+    "author": "Actualizada 06/02/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -405,6 +405,20 @@
                     "number": "4090",
                     "url": "https://jmp2.uk/sam-GBBA330003941.m3u8",
                     "epgId": "GBBA330003941"
+                },
+                {
+                    "name": "Deal Masters",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB12000037Y_20250131T145252SQUARE.png",
+                    "number": "4359",
+                    "url": "https://jmp2.uk/sam-GB12000037Y.m3u8",
+                    "epgId": "GB12000037Y"
+                },
+                {
+                    "name": "So…Real",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100009M9_20250131T145255SQUARE.png",
+                    "number": "4365",
+                    "url": "https://jmp2.uk/sam-GBBD1100009M9.m3u8",
+                    "epgId": "GBBD1100009M9"
                 }
             ]
         },
@@ -412,6 +426,20 @@
             "name": "Sport",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sport.png",
             "stations": [
+                {
+                    "name": "talkSPORT",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB30003577_20250131T145302SQUARE.png",
+                    "number": "4603",
+                    "url": "https://jmp2.uk/sam-GB30003577.m3u8",
+                    "epgId": "GB30003577"
+                },
+                {
+                    "name": "DP World Tour",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB5200001TM_20250205T021308SQUARE.png",
+                    "number": "4604",
+                    "url": "https://jmp2.uk/sam-GB5200001TM.m3u8",
+                    "epgId": "GB5200001TM"
+                },
                 {
                     "name": "PGA Tour",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1500005BH_20250107T030727SQUARE.png",
@@ -1177,25 +1205,11 @@
                     "epgId": "GB1200002ON"
                 },
                 {
-                    "name": "Deal Masters",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB12000037Y_20250131T145252SQUARE.png",
-                    "number": "4359",
-                    "url": "https://jmp2.uk/sam-GB12000037Y.m3u8",
-                    "epgId": "GB12000037Y"
-                },
-                {
                     "name": "I Survived",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB27000089Z_20250107T030702SQUARE.png",
                     "number": "4364",
                     "url": "https://jmp2.uk/sam-GB27000089Z.m3u8",
                     "epgId": "GB27000089Z"
-                },
-                {
-                    "name": "So…Real",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100009M9_20250131T145255SQUARE.png",
-                    "number": "4365",
-                    "url": "https://jmp2.uk/sam-GBBD1100009M9.m3u8",
-                    "epgId": "GBBD1100009M9"
                 },
                 {
                     "name": "Autopsy",

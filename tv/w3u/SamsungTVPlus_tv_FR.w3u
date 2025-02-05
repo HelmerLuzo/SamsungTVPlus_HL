@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇫🇷 by HL",
-    "author": "Actualizada 05/02/2025 00:19",
+    "author": "Actualizada 06/02/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/fr.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/fr.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_FR.w3u",
@@ -93,13 +93,6 @@
                     "epgId": "FRBD4100001DF"
                 },
                 {
-                    "name": "Secret Story",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3300008XK_20250204T024014SQUARE.png",
-                    "number": "4066",
-                    "url": "https://jmp2.uk/sam-FRBC3300008XK.m3u8",
-                    "epgId": "FRBC3300008XK"
-                },
-                {
                     "name": "Le Meilleur de la TV Réalité",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3900005MB_20241030T154348SQUARE.png",
                     "number": "4068",
@@ -146,13 +139,6 @@
                     "number": "4108",
                     "url": "https://jmp2.uk/sam-FRBD1900007PQ.m3u8",
                     "epgId": "FRBD1900007PQ"
-                },
-                {
-                    "name": "A prendre ou à laisser",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700003FS_20250204T024006SQUARE.png",
-                    "number": "4112",
-                    "url": "https://jmp2.uk/sam-FRBC4700003FS.m3u8",
-                    "epgId": "FRBC4700003FS"
                 },
                 {
                     "name": "Les Z'amours",
@@ -1036,13 +1022,6 @@
                     "epgId": "FR1200001N2"
                 },
                 {
-                    "name": "Les 30 histoires",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700004ZN_20250204T024009SQUARE.png",
-                    "number": "4417",
-                    "url": "https://jmp2.uk/sam-FRBC4700004ZN.m3u8",
-                    "epgId": "FRBC4700004ZN"
-                },
-                {
                     "name": "Reportages by Spica",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3900004PH_20241015T042816SQUARE.png",
                     "number": "4421",
@@ -1110,13 +1089,6 @@
                     "number": "4515",
                     "url": "https://jmp2.uk/sam-FRBB3900001PZ.m3u8",
                     "epgId": "FRBB3900001PZ"
-                },
-                {
-                    "name": "MasterChef",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3300009EA_20250204T024011SQUARE.png",
-                    "number": "4517",
-                    "url": "https://jmp2.uk/sam-FRBC3300009EA.m3u8",
-                    "epgId": "FRBC3300009EA"
                 },
                 {
                     "name": "Ça Chauffe en Cuisine",
