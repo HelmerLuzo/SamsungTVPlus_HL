@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇨🇭 by HL",
-    "author": "Actualizada 12/02/2025 00:15",
+    "author": "Actualizada 13/02/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/ch.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/ch.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CH.w3u",
@@ -376,11 +376,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Filme.png",
             "stations": [
                 {
-                    "name": "Starke Frauen",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH200001G5_20250207T094645SQUARE.png",
+                    "name": "Grjngo",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500456A_20250207T094615SQUARE.png",
                     "number": "4006",
-                    "url": "https://jmp2.uk/sam-CH200001G5.m3u8",
-                    "epgId": "CH200001G5"
+                    "url": "https://jmp2.uk/sam-CHAJ0500456A.m3u8",
+                    "epgId": "CHAJ0500456A"
+                },
+                {
+                    "name": "Moviedome",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA330002991_20250207T094621SQUARE.png",
+                    "number": "4007",
+                    "url": "https://jmp2.uk/sam-CHBA330002991.m3u8",
+                    "epgId": "CHBA330002991"
                 },
                 {
                     "name": "Moviedome Family",
@@ -390,11 +397,11 @@
                     "epgId": "CHBA3300030AJ"
                 },
                 {
-                    "name": "Moviedome",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA330002991_20250207T094621SQUARE.png",
-                    "number": "4868",
-                    "url": "https://jmp2.uk/sam-CHBA330002991.m3u8",
-                    "epgId": "CHBA330002991"
+                    "name": "Starke Frauen",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH200001G5_20250207T094645SQUARE.png",
+                    "number": "4866",
+                    "url": "https://jmp2.uk/sam-CH200001G5.m3u8",
+                    "epgId": "CH200001G5"
                 },
                 {
                     "name": "Top Filme",
@@ -493,13 +500,6 @@
                     "number": "4911",
                     "url": "https://jmp2.uk/sam-CH2600001UH.m3u8",
                     "epgId": "CH2600001UH"
-                },
-                {
-                    "name": "Grjngo",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500456A_20250207T094615SQUARE.png",
-                    "number": "4925",
-                    "url": "https://jmp2.uk/sam-CHAJ0500456A.m3u8",
-                    "epgId": "CHAJ0500456A"
                 },
                 {
                     "name": "CineWestern",
@@ -716,13 +716,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
-                    "name": "Wilder Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20250207T094633SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/sam-CHBA3300028G3.m3u8",
-                    "epgId": "CHBA3300028G3"
-                },
-                {
                     "name": "The Wicked Tuna Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000011Y_20250107T025613SQUARE.png",
                     "number": "4352",
@@ -791,6 +784,13 @@
                     "number": "4442",
                     "url": "https://jmp2.uk/sam-CHBC40000040J.m3u8",
                     "epgId": "CHBC40000040J"
+                },
+                {
+                    "name": "Wilder Planet",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20250207T094633SQUARE.png",
+                    "number": "4486",
+                    "url": "https://jmp2.uk/sam-CHBA3300028G3.m3u8",
+                    "epgId": "CHBA3300028G3"
                 },
                 {
                     "name": "One Terra",
@@ -863,7 +863,7 @@
                 {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH20000288_20250207T094648SQUARE.png",
-                    "number": "4511",
+                    "number": "4002",
                     "url": "https://jmp2.uk/sam-CH20000288.m3u8",
                     "epgId": "CH20000288"
                 },
@@ -917,7 +917,7 @@
                 {
                     "name": "Aniverse TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD39000015L_20250207T094636SQUARE.png",
-                    "number": "4007",
+                    "number": "4188",
                     "url": "https://jmp2.uk/sam-CHBD39000015L.m3u8",
                     "epgId": "CHBD39000015L"
                 },

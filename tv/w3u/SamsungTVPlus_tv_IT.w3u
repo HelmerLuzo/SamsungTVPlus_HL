@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 12/02/2025 00:15",
+    "author": "Actualizada 13/02/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -446,18 +446,25 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Film.png",
             "stations": [
                 {
-                    "name": "Western Time",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600004TW_20250211T014017SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/sam-IT3600004TW.m3u8",
-                    "epgId": "IT3600004TW"
-                },
-                {
                     "name": "Film Top - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600002F6_20250121T012549SQUARE.png",
                     "number": "4004",
                     "url": "https://jmp2.uk/sam-IT2600002F6.m3u8",
                     "epgId": "IT2600002F6"
+                },
+                {
+                    "name": "CineMadame",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20250211T013956SQUARE.png",
+                    "number": "4006",
+                    "url": "https://jmp2.uk/sam-ITBD1400003D0.m3u8",
+                    "epgId": "ITBD1400003D0"
+                },
+                {
+                    "name": "San Valentino Movies",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600005AL_20250211T014005SQUARE.png",
+                    "number": "4007",
+                    "url": "https://jmp2.uk/sam-IT3600005AL.m3u8",
+                    "epgId": "IT3600005AL"
                 },
                 {
                     "name": "Cinema Poliziottesco",
@@ -479,13 +486,6 @@
                     "number": "4872",
                     "url": "https://jmp2.uk/sam-ITBC1100003KC.m3u8",
                     "epgId": "ITBC1100003KC"
-                },
-                {
-                    "name": "CineMadame",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20250211T013956SQUARE.png",
-                    "number": "4873",
-                    "url": "https://jmp2.uk/sam-ITBD1400003D0.m3u8",
-                    "epgId": "ITBD1400003D0"
                 },
                 {
                     "name": "Pluto TV Film",
@@ -558,13 +558,6 @@
                     "epgId": "ITBD140000119"
                 },
                 {
-                    "name": "San Valentino Movies",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600005AL_20250211T014005SQUARE.png",
-                    "number": "4911",
-                    "url": "https://jmp2.uk/sam-IT3600005AL.m3u8",
-                    "epgId": "IT3600005AL"
-                },
-                {
                     "name": "Commedia - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600007WQ_20241022T051556SQUARE.png",
                     "number": "4913",
@@ -591,6 +584,13 @@
                     "number": "4927",
                     "url": "https://jmp2.uk/sam-ITBD10000019E.m3u8",
                     "epgId": "ITBD10000019E"
+                },
+                {
+                    "name": "Western Time",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600004TW_20250211T014017SQUARE.png",
+                    "number": "4929",
+                    "url": "https://jmp2.uk/sam-IT3600004TW.m3u8",
+                    "epgId": "IT3600004TW"
                 },
                 {
                     "name": "I Film di Wim Wenders",
@@ -887,50 +887,16 @@
             ]
         },
         {
-            "name": "Anime",
-            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Anime.png",
-            "stations": [
-                {
-                    "name": "Bleach",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800001SW_20241022T043953SQUARE.png",
-                    "number": "4186",
-                    "url": "https://jmp2.uk/sam-IT800001SW.m3u8",
-                    "epgId": "IT800001SW"
-                },
-                {
-                    "name": "Teen Vee",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3500002SJ_20241022T043901SQUARE.png",
-                    "number": "4188",
-                    "url": "https://jmp2.uk/sam-ITBC3500002SJ.m3u8",
-                    "epgId": "ITBC3500002SJ"
-                },
-                {
-                    "name": "City Hunter",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD100000507_20241126T043548SQUARE.png",
-                    "number": "4192",
-                    "url": "https://jmp2.uk/sam-ITBD100000507.m3u8",
-                    "epgId": "ITBD100000507"
-                },
-                {
-                    "name": "Yu-Gi-Oh!",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1000003NB_20241022T043947SQUARE.png",
-                    "number": "4194",
-                    "url": "https://jmp2.uk/sam-ITBD1000003NB.m3u8",
-                    "epgId": "ITBD1000003NB"
-                },
-                {
-                    "name": "Inazuma Eleven Go",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200005F4_20241022T043759SQUARE.png",
-                    "number": "4196",
-                    "url": "https://jmp2.uk/sam-IT3200005F4.m3u8",
-                    "epgId": "IT3200005F4"
-                }
-            ]
-        },
-        {
             "name": "Serie TV",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serie TV.png",
             "stations": [
+                {
+                    "name": "Sweet Revenge",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600007QQ_20250211T014012SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/sam-IT3600007QQ.m3u8",
+                    "epgId": "IT3600007QQ"
+                },
                 {
                     "name": "WBTV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400010WK_20241106T142432SQUARE.png",
@@ -1030,13 +996,6 @@
                     "epgId": "IT4600001JQ"
                 },
                 {
-                    "name": "Sweet Revenge",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600007QQ_20250211T014012SQUARE.png",
-                    "number": "4266",
-                    "url": "https://jmp2.uk/sam-IT3600007QQ.m3u8",
-                    "epgId": "IT3600007QQ"
-                },
-                {
                     "name": "Televisa Telenovelas",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000026G_20241022T043629SQUARE.png",
                     "number": "4268",
@@ -1046,16 +1005,50 @@
             ]
         },
         {
+            "name": "Anime",
+            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Anime.png",
+            "stations": [
+                {
+                    "name": "Bleach",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800001SW_20241022T043953SQUARE.png",
+                    "number": "4186",
+                    "url": "https://jmp2.uk/sam-IT800001SW.m3u8",
+                    "epgId": "IT800001SW"
+                },
+                {
+                    "name": "Teen Vee",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3500002SJ_20241022T043901SQUARE.png",
+                    "number": "4188",
+                    "url": "https://jmp2.uk/sam-ITBC3500002SJ.m3u8",
+                    "epgId": "ITBC3500002SJ"
+                },
+                {
+                    "name": "City Hunter",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD100000507_20241126T043548SQUARE.png",
+                    "number": "4192",
+                    "url": "https://jmp2.uk/sam-ITBD100000507.m3u8",
+                    "epgId": "ITBD100000507"
+                },
+                {
+                    "name": "Yu-Gi-Oh!",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1000003NB_20241022T043947SQUARE.png",
+                    "number": "4194",
+                    "url": "https://jmp2.uk/sam-ITBD1000003NB.m3u8",
+                    "epgId": "ITBD1000003NB"
+                },
+                {
+                    "name": "Inazuma Eleven Go",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200005F4_20241022T043759SQUARE.png",
+                    "number": "4196",
+                    "url": "https://jmp2.uk/sam-IT3200005F4.m3u8",
+                    "epgId": "IT3200005F4"
+                }
+            ]
+        },
+        {
             "name": "Documentari",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentari.png",
             "stations": [
-                {
-                    "name": "BBC Earth",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20250211T013953SQUARE.png",
-                    "number": "4007",
-                    "url": "https://jmp2.uk/sam-IT3200002L5.m3u8",
-                    "epgId": "IT3200002L5"
-                },
                 {
                     "name": "Grandi Documentari - Wedo Big Stories",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC35000016T_20241022T051624SQUARE.png",
@@ -1069,6 +1062,13 @@
                     "number": "4415",
                     "url": "https://jmp2.uk/sam-ITBD1100001B7.m3u8",
                     "epgId": "ITBD1100001B7"
+                },
+                {
+                    "name": "BBC Earth",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20250211T013953SQUARE.png",
+                    "number": "4487",
+                    "url": "https://jmp2.uk/sam-IT3200002L5.m3u8",
+                    "epgId": "IT3200002L5"
                 },
                 {
                     "name": "WildEarth",
@@ -1098,13 +1098,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Cucina & Viaggi.png",
             "stations": [
                 {
-                    "name": "Hell's Kitchen",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3900003FE_20250211T014001SQUARE.png",
-                    "number": "4006",
-                    "url": "https://jmp2.uk/sam-IT3900003FE.m3u8",
-                    "epgId": "IT3900003FE"
-                },
-                {
                     "name": "Vado a vivere in campagna",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1900004MZ_20241210T052832SQUARE.png",
                     "number": "4064",
@@ -1117,6 +1110,13 @@
                     "number": "4066",
                     "url": "https://jmp2.uk/sam-ITBD1100005LL.m3u8",
                     "epgId": "ITBD1100005LL"
+                },
+                {
+                    "name": "Hell's Kitchen",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3900003FE_20250211T014001SQUARE.png",
+                    "number": "4513",
+                    "url": "https://jmp2.uk/sam-IT3900003FE.m3u8",
+                    "epgId": "IT3900003FE"
                 },
                 {
                     "name": "A Tavola",

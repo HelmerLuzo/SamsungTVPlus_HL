@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇪🇸 by HL",
-    "author": "Actualizada 12/02/2025 00:15",
+    "author": "Actualizada 13/02/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/es.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -377,11 +377,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Niños.png",
             "stations": [
                 {
-                    "name": "Pocoyó",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20250211T014050SQUARE.png",
-                    "number": "4005",
-                    "url": "https://jmp2.uk/sam-ESBC3900004ED.m3u8",
-                    "epgId": "ESBC3900004ED"
+                    "name": "Bob Esponja",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20250211T014020SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/sam-ESBA33000262Z.m3u8",
+                    "epgId": "ESBA33000262Z"
                 },
                 {
                     "name": "Clan",
@@ -403,6 +403,13 @@
                     "number": "4775",
                     "url": "https://jmp2.uk/sam-ES4800002OZ.m3u8",
                     "epgId": "ES4800002OZ"
+                },
+                {
+                    "name": "Pocoyó",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20250211T014050SQUARE.png",
+                    "number": "4777",
+                    "url": "https://jmp2.uk/sam-ESBC3900004ED.m3u8",
+                    "epgId": "ESBC3900004ED"
                 },
                 {
                     "name": "duckTV",
@@ -461,13 +468,6 @@
                     "epgId": "ESBA33000324U"
                 },
                 {
-                    "name": "Bob Esponja",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20250211T014020SQUARE.png",
-                    "number": "4811",
-                    "url": "https://jmp2.uk/sam-ESBA33000262Z.m3u8",
-                    "epgId": "ESBA33000262Z"
-                },
-                {
                     "name": "Pluto TV Animakids",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800009VJ_20241022T050359SQUARE.png",
                     "number": "4813",
@@ -509,9 +509,16 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Cine.png",
             "stations": [
                 {
+                    "name": "Runtime Romance",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20250211T014055SQUARE.png",
+                    "number": "4005",
+                    "url": "https://jmp2.uk/sam-ESBD800004KU.m3u8",
+                    "epgId": "ESBD800004KU"
+                },
+                {
                     "name": "Runtime Familia",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20250211T014052SQUARE.png",
-                    "number": "4006",
+                    "number": "4851",
                     "url": "https://jmp2.uk/sam-ES700004C8.m3u8",
                     "epgId": "ES700004C8"
                 },
@@ -556,13 +563,6 @@
                     "number": "4878",
                     "url": "https://jmp2.uk/sam-ES2600013H4.m3u8",
                     "epgId": "ES2600013H4"
-                },
-                {
-                    "name": "Runtime Romance",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20250211T014055SQUARE.png",
-                    "number": "4886",
-                    "url": "https://jmp2.uk/sam-ESBD800004KU.m3u8",
-                    "epgId": "ESBD800004KU"
                 },
                 {
                     "name": "Películas Románticas - Rakuten TV",
@@ -683,6 +683,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Música.png",
             "stations": [
                 {
+                    "name": "CLIPS don't Lie",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES32000027M_20250211T014041SQUARE.png",
+                    "number": "4006",
+                    "url": "https://jmp2.uk/sam-ES32000027M.m3u8",
+                    "epgId": "ES32000027M"
+                },
+                {
                     "name": "Vevo Latino",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20241022T051144SQUARE.png",
                     "number": "4683",
@@ -746,13 +753,6 @@
                     "epgId": "ES2500001F9"
                 },
                 {
-                    "name": "CLIPS don´t Lie",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES32000027M_20250211T014041SQUARE.png",
-                    "number": "4748",
-                    "url": "https://jmp2.uk/sam-ES32000027M.m3u8",
-                    "epgId": "ES32000027M"
-                },
-                {
                     "name": "K-POP by CJ ENM",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20241105T025339SQUARE.png",
                     "number": "4750",
@@ -775,7 +775,7 @@
                 {
                     "name": "Cuéntame cómo pasó",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20250211T014047SQUARE.png",
-                    "number": "4001",
+                    "number": "4002",
                     "url": "https://jmp2.uk/sam-ES400002P5.m3u8",
                     "epgId": "ES400002P5"
                 },

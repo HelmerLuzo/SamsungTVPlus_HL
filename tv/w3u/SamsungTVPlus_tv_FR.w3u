@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇫🇷 by HL",
-    "author": "Actualizada 12/02/2025 00:15",
+    "author": "Actualizada 13/02/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/fr.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/fr.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_FR.w3u",
@@ -127,7 +127,7 @@
                     "epgId": "FR300006GF"
                 },
                 {
-                    "name": "Le Meilleur du Jeu TV",
+                    "name": "Le Meilleur des Jeux TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600004UH_20250211T013816SQUARE.png",
                     "number": "4107",
                     "url": "https://jmp2.uk/sam-FR3600004UH.m3u8",
@@ -400,57 +400,16 @@
             ]
         },
         {
-            "name": "Crime",
-            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
-            "stations": [
-                {
-                    "name": "Faites entrer l'accusé",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400002XF_20241112T093135SQUARE.png",
-                    "number": "4293",
-                    "url": "https://jmp2.uk/sam-FR1400002XF.m3u8",
-                    "epgId": "FR1400002XF"
-                },
-                {
-                    "name": "Homicide",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20241015T040315SQUARE.png",
-                    "number": "4297",
-                    "url": "https://jmp2.uk/sam-FRBB49000033R.m3u8",
-                    "epgId": "FRBB49000033R"
-                },
-                {
-                    "name": "Love Crime & History",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD43000016D_20241106T142627SQUARE.png",
-                    "number": "4299",
-                    "url": "https://jmp2.uk/sam-FRBD43000016D.m3u8",
-                    "epgId": "FRBD43000016D"
-                },
-                {
-                    "name": "Scène de Crime",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000039D_20241022T051721SQUARE.png",
-                    "number": "4301",
-                    "url": "https://jmp2.uk/sam-FRBD39000039D.m3u8",
-                    "epgId": "FRBD39000039D"
-                },
-                {
-                    "name": "Pluto TV Polar",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000089S_20241015T042551SQUARE.png",
-                    "number": "4303",
-                    "url": "https://jmp2.uk/sam-FRAJ38000089S.m3u8",
-                    "epgId": "FRAJ38000089S"
-                },
-                {
-                    "name": "Crime - Rakuten TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600009UG_20241126T043134SQUARE.png",
-                    "number": "4305",
-                    "url": "https://jmp2.uk/sam-FR2600009UG.m3u8",
-                    "epgId": "FR2600009UG"
-                }
-            ]
-        },
-        {
             "name": "Jeunesse",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Jeunesse.png",
             "stations": [
+                {
+                    "name": "Garfield",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600001MQ_20250211T013821SQUARE.png",
+                    "number": "4007",
+                    "url": "https://jmp2.uk/sam-FRBB4600001MQ.m3u8",
+                    "epgId": "FRBB4600001MQ"
+                },
                 {
                     "name": "Caillou",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4800002NE_20250121T012923SQUARE.png",
@@ -464,13 +423,6 @@
                     "number": "4779",
                     "url": "https://jmp2.uk/sam-FR700001VJ.m3u8",
                     "epgId": "FR700001VJ"
-                },
-                {
-                    "name": "Garfield",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600001MQ_20250211T013821SQUARE.png",
-                    "number": "4781",
-                    "url": "https://jmp2.uk/sam-FRBB4600001MQ.m3u8",
-                    "epgId": "FRBB4600001MQ"
                 },
                 {
                     "name": "Wonderland Kids TV",
@@ -548,6 +500,54 @@
                     "number": "4827",
                     "url": "https://jmp2.uk/sam-FR2600001PI.m3u8",
                     "epgId": "FR2600001PI"
+                }
+            ]
+        },
+        {
+            "name": "Crime",
+            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
+            "stations": [
+                {
+                    "name": "Faites entrer l'accusé",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400002XF_20241112T093135SQUARE.png",
+                    "number": "4293",
+                    "url": "https://jmp2.uk/sam-FR1400002XF.m3u8",
+                    "epgId": "FR1400002XF"
+                },
+                {
+                    "name": "Homicide",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20241015T040315SQUARE.png",
+                    "number": "4297",
+                    "url": "https://jmp2.uk/sam-FRBB49000033R.m3u8",
+                    "epgId": "FRBB49000033R"
+                },
+                {
+                    "name": "Love Crime & History",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD43000016D_20241106T142627SQUARE.png",
+                    "number": "4299",
+                    "url": "https://jmp2.uk/sam-FRBD43000016D.m3u8",
+                    "epgId": "FRBD43000016D"
+                },
+                {
+                    "name": "Scène de Crime",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000039D_20241022T051721SQUARE.png",
+                    "number": "4301",
+                    "url": "https://jmp2.uk/sam-FRBD39000039D.m3u8",
+                    "epgId": "FRBD39000039D"
+                },
+                {
+                    "name": "Pluto TV Polar",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000089S_20241015T042551SQUARE.png",
+                    "number": "4303",
+                    "url": "https://jmp2.uk/sam-FRAJ38000089S.m3u8",
+                    "epgId": "FRAJ38000089S"
+                },
+                {
+                    "name": "Crime - Rakuten TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600009UG_20241126T043134SQUARE.png",
+                    "number": "4305",
+                    "url": "https://jmp2.uk/sam-FR2600009UG.m3u8",
+                    "epgId": "FR2600009UG"
                 }
             ]
         },
@@ -813,13 +813,6 @@
                     "epgId": "FR3600001R1"
                 },
                 {
-                    "name": "Zee Magic",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR360000680_20250211T013833SQUARE.png",
-                    "number": "4007",
-                    "url": "https://jmp2.uk/sam-FR360000680.m3u8",
-                    "epgId": "FR360000680"
-                },
-                {
                     "name": "Sony One Séries Thriller",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000125U_20241015T160010SQUARE.png",
                     "number": "4235",
@@ -937,6 +930,13 @@
                     "number": "4271",
                     "url": "https://jmp2.uk/sam-FR1100001V1.m3u8",
                     "epgId": "FR1100001V1"
+                },
+                {
+                    "name": "Zee Magic",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR360000680_20250211T013833SQUARE.png",
+                    "number": "4273",
+                    "url": "https://jmp2.uk/sam-FR360000680.m3u8",
+                    "epgId": "FR360000680"
                 }
             ]
         },
@@ -944,13 +944,6 @@
             "name": "Documentaires",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentaires.png",
             "stations": [
-                {
-                    "name": "L'effet papillon",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD11000038N_20250211T013831SQUARE.png",
-                    "number": "4006",
-                    "url": "https://jmp2.uk/sam-FRBD11000038N.m3u8",
-                    "epgId": "FRBD11000038N"
-                },
                 {
                     "name": "RMC Story",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20241106T142622SQUARE.png",
@@ -1022,6 +1015,13 @@
                     "epgId": "FR1200001N2"
                 },
                 {
+                    "name": "L'effet papillon",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD11000038N_20250211T013831SQUARE.png",
+                    "number": "4419",
+                    "url": "https://jmp2.uk/sam-FRBD11000038N.m3u8",
+                    "epgId": "FRBD11000038N"
+                },
+                {
                     "name": "Reportages by Spica",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3900004PH_20241015T042816SQUARE.png",
                     "number": "4421",
@@ -1084,6 +1084,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Voyages et Gastronomie.png",
             "stations": [
                 {
+                    "name": "Invitation au voyage",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700004HZ_20250211T013826SQUARE.png",
+                    "number": "4006",
+                    "url": "https://jmp2.uk/sam-FR3700004HZ.m3u8",
+                    "epgId": "FR3700004HZ"
+                },
+                {
                     "name": "Chefclub TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB3900001PZ_20241015T040912SQUARE.png",
                     "number": "4515",
@@ -1110,13 +1117,6 @@
                     "number": "4524",
                     "url": "https://jmp2.uk/sam-FR3600005C7.m3u8",
                     "epgId": "FR3600005C7"
-                },
-                {
-                    "name": "Invitation au voyage",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700004HZ_20250211T013826SQUARE.png",
-                    "number": "4526",
-                    "url": "https://jmp2.uk/sam-FR3700004HZ.m3u8",
-                    "epgId": "FR3700004HZ"
                 },
                 {
                     "name": "TV5 Monde Voyage",
