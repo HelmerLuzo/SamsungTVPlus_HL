@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇺🇸 by HL",
-    "author": "Actualizada 19/02/2025 00:15",
+    "author": "Actualizada 20/02/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/us.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_US.w3u",
@@ -173,16 +173,106 @@
             ]
         },
         {
+            "name": "Western & Classic TV",
+            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Western & Classic TV.png",
+            "stations": [
+                {
+                    "name": "CINEVAULT: Westerns",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508709A_20240730T222513SQUARE.png",
+                    "number": "1405",
+                    "url": "https://jmp2.uk/sam-USAK3508709A.m3u8",
+                    "epgId": "USAK3508709A"
+                },
+                {
+                    "name": "Pluto TV Westerns",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300005MK_20241112T000726SQUARE.png",
+                    "number": "1406",
+                    "url": "https://jmp2.uk/sam-USBA300005MK.m3u8",
+                    "epgId": "USBA300005MK"
+                },
+                {
+                    "name": "Grjngo",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US44000027B_20250204T014310SQUARE.png",
+                    "number": "1407",
+                    "url": "https://jmp2.uk/sam-US44000027B.m3u8",
+                    "epgId": "US44000027B"
+                },
+                {
+                    "name": "FilmRise Westerns",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000196O_20250211T021706SQUARE.png",
+                    "number": "1408",
+                    "url": "https://jmp2.uk/sam-USBB32000196O.m3u8",
+                    "epgId": "USBB32000196O"
+                },
+                {
+                    "name": "Grit Xtra",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000213P_20241105T024224SQUARE.png",
+                    "number": "1410",
+                    "url": "https://jmp2.uk/sam-USBC24000213P.m3u8",
+                    "epgId": "USBC24000213P"
+                },
+                {
+                    "name": "Death Valley Days",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900007HA_20241210T013851SQUARE.png",
+                    "number": "1413",
+                    "url": "https://jmp2.uk/sam-US2900007HA.m3u8",
+                    "epgId": "US2900007HA"
+                },
+                {
+                    "name": "Wild West TV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500003B0_20250204T014320SQUARE.png",
+                    "number": "1415",
+                    "url": "https://jmp2.uk/sam-US4500003B0.m3u8",
+                    "epgId": "US4500003B0"
+                },
+                {
+                    "name": "Western Bound",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200020QF_20241203T004803SQUARE.png",
+                    "number": "1420",
+                    "url": "https://jmp2.uk/sam-USBC3200020QF.m3u8",
+                    "epgId": "USBC3200020QF"
+                },
+                {
+                    "name": "Circle",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300035FV_20240528T020917SQUARE.png",
+                    "number": "1425",
+                    "url": "https://jmp2.uk/sam-USBA300035FV.m3u8",
+                    "epgId": "USBA300035FV"
+                },
+                {
+                    "name": "Lassie",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800010NE_20240826T235541SQUARE.png",
+                    "number": "1430",
+                    "url": "https://jmp2.uk/sam-US1800010NE.m3u8",
+                    "epgId": "US1800010NE"
+                },
+                {
+                    "name": "Little House on the Prairie",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000078A_20240826T235544SQUARE.png",
+                    "number": "1435",
+                    "url": "https://jmp2.uk/sam-US18000078A.m3u8",
+                    "epgId": "US18000078A"
+                },
+                {
+                    "name": "get TV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200002PM_20241112T002029SQUARE.png",
+                    "number": "1455",
+                    "url": "https://jmp2.uk/sam-USBD1200002PM.m3u8",
+                    "epgId": "USBD1200002PM"
+                },
+                {
+                    "name": "Shout! TV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20250121T201610SQUARE.png",
+                    "number": "1460",
+                    "url": "https://jmp2.uk/sam-USBD1200021JM.m3u8",
+                    "epgId": "USBD1200021JM"
+                }
+            ]
+        },
+        {
             "name": "Sports & Outdoors",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sports & Outdoors.png",
             "stations": [
-                {
-                    "name": "RYZ Sports Network",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900001Z4_20250217T210824SQUARE.png",
-                    "number": "1004",
-                    "url": "https://jmp2.uk/sam-US3900001Z4.m3u8",
-                    "epgId": "US3900001Z4"
-                },
                 {
                     "name": "NFL Channel",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20250211T021734SQUARE.png",
@@ -452,112 +542,15 @@
             ]
         },
         {
-            "name": "Western & Classic TV",
-            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Western & Classic TV.png",
-            "stations": [
-                {
-                    "name": "CINEVAULT: Westerns",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508709A_20240730T222513SQUARE.png",
-                    "number": "1405",
-                    "url": "https://jmp2.uk/sam-USAK3508709A.m3u8",
-                    "epgId": "USAK3508709A"
-                },
-                {
-                    "name": "Pluto TV Westerns",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300005MK_20241112T000726SQUARE.png",
-                    "number": "1406",
-                    "url": "https://jmp2.uk/sam-USBA300005MK.m3u8",
-                    "epgId": "USBA300005MK"
-                },
-                {
-                    "name": "Grjngo",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US44000027B_20250204T014310SQUARE.png",
-                    "number": "1407",
-                    "url": "https://jmp2.uk/sam-US44000027B.m3u8",
-                    "epgId": "US44000027B"
-                },
-                {
-                    "name": "FilmRise Westerns",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000196O_20250211T021706SQUARE.png",
-                    "number": "1408",
-                    "url": "https://jmp2.uk/sam-USBB32000196O.m3u8",
-                    "epgId": "USBB32000196O"
-                },
-                {
-                    "name": "Grit Xtra",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000213P_20241105T024224SQUARE.png",
-                    "number": "1410",
-                    "url": "https://jmp2.uk/sam-USBC24000213P.m3u8",
-                    "epgId": "USBC24000213P"
-                },
-                {
-                    "name": "Death Valley Days",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900007HA_20241210T013851SQUARE.png",
-                    "number": "1413",
-                    "url": "https://jmp2.uk/sam-US2900007HA.m3u8",
-                    "epgId": "US2900007HA"
-                },
-                {
-                    "name": "Wild West TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500003B0_20250204T014320SQUARE.png",
-                    "number": "1415",
-                    "url": "https://jmp2.uk/sam-US4500003B0.m3u8",
-                    "epgId": "US4500003B0"
-                },
-                {
-                    "name": "Western Bound",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200020QF_20241203T004803SQUARE.png",
-                    "number": "1420",
-                    "url": "https://jmp2.uk/sam-USBC3200020QF.m3u8",
-                    "epgId": "USBC3200020QF"
-                },
-                {
-                    "name": "Circle",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300035FV_20240528T020917SQUARE.png",
-                    "number": "1425",
-                    "url": "https://jmp2.uk/sam-USBA300035FV.m3u8",
-                    "epgId": "USBA300035FV"
-                },
-                {
-                    "name": "Lassie",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800010NE_20240826T235541SQUARE.png",
-                    "number": "1430",
-                    "url": "https://jmp2.uk/sam-US1800010NE.m3u8",
-                    "epgId": "US1800010NE"
-                },
-                {
-                    "name": "Little House on the Prairie",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000078A_20240826T235544SQUARE.png",
-                    "number": "1435",
-                    "url": "https://jmp2.uk/sam-US18000078A.m3u8",
-                    "epgId": "US18000078A"
-                },
-                {
-                    "name": "get TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200002PM_20241112T002029SQUARE.png",
-                    "number": "1455",
-                    "url": "https://jmp2.uk/sam-USBD1200002PM.m3u8",
-                    "epgId": "USBD1200002PM"
-                },
-                {
-                    "name": "Shout! TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20250121T201610SQUARE.png",
-                    "number": "1460",
-                    "url": "https://jmp2.uk/sam-USBD1200021JM.m3u8",
-                    "epgId": "USBD1200021JM"
-                }
-            ]
-        },
-        {
             "name": "Action & Drama",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Action & Drama.png",
             "stations": [
                 {
-                    "name": "ALLBLK Gems",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300022FH_20250217T211707SQUARE.png",
+                    "name": "Bounce XL",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300008G1_20250217T210805SQUARE.png",
                     "number": "1002",
-                    "url": "https://jmp2.uk/sam-USBD300022FH.m3u8",
-                    "epgId": "USBD300022FH"
+                    "url": "https://jmp2.uk/sam-USBD300008G1.m3u8",
+                    "epgId": "USBD300008G1"
                 },
                 {
                     "name": "ALL ACTION",
@@ -602,11 +595,11 @@
                     "epgId": "US3700005GP"
                 },
                 {
-                    "name": "Bounce XL",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300008G1_20250217T210805SQUARE.png",
-                    "number": "1540",
-                    "url": "https://jmp2.uk/sam-USBD300008G1.m3u8",
-                    "epgId": "USBD300008G1"
+                    "name": "ALLBLK Gems",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300022FH_20250217T211707SQUARE.png",
+                    "number": "1545",
+                    "url": "https://jmp2.uk/sam-USBD300022FH.m3u8",
+                    "epgId": "USBD300022FH"
                 },
                 {
                     "name": "EBONY TV by Lionsgate",
@@ -733,6 +726,13 @@
             "name": "Kids",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Kids.png",
             "stations": [
+                {
+                    "name": "Pokémon",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5100003NU_20250219T000406SQUARE.png",
+                    "number": "1004",
+                    "url": "https://jmp2.uk/sam-US5100003NU.m3u8",
+                    "epgId": "US5100003NU"
+                },
                 {
                     "name": "Nick Pluto TV",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20241112T000708SQUARE.png",
@@ -900,6 +900,13 @@
                     "number": "3672",
                     "url": "https://jmp2.uk/sam-USBD3300013KV.m3u8",
                     "epgId": "USBD3300013KV"
+                },
+                {
+                    "name": "Kartoon Channel!",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900015RO_20250217T210812SQUARE.png",
+                    "number": "3676",
+                    "url": "https://jmp2.uk/sam-US2900015RO.m3u8",
+                    "epgId": "US2900015RO"
                 },
                 {
                     "name": "Power Rangers",
@@ -1173,16 +1180,9 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Movies.png",
             "stations": [
                 {
-                    "name": "Movie Hub Romance",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20250217T210818SQUARE.png",
-                    "number": "1000",
-                    "url": "https://jmp2.uk/sam-USBD3500033U0.m3u8",
-                    "epgId": "USBD3500033U0"
-                },
-                {
                     "name": "Movie Hub",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20250217T210745SQUARE.png",
-                    "number": "1200",
+                    "number": "1001",
                     "url": "https://jmp2.uk/sam-USBA3000041ZP.m3u8",
                     "epgId": "USBA3000041ZP"
                 },
@@ -1199,6 +1199,13 @@
                     "number": "1204",
                     "url": "https://jmp2.uk/sam-USBD3500032H0.m3u8",
                     "epgId": "USBD3500032H0"
+                },
+                {
+                    "name": "Movie Hub Romance",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20250217T210818SQUARE.png",
+                    "number": "1206",
+                    "url": "https://jmp2.uk/sam-USBD3500033U0.m3u8",
+                    "epgId": "USBD3500033U0"
                 },
                 {
                     "name": "Hallmark Movies & More",
@@ -2196,13 +2203,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Home & Food.png",
             "stations": [
                 {
-                    "name": "Plated",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300008AZ_20250217T210749SQUARE.png",
-                    "number": "1001",
-                    "url": "https://jmp2.uk/sam-USBC1300008AZ.m3u8",
-                    "epgId": "USBC1300008AZ"
-                },
-                {
                     "name": "Home Refresh",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC21000142T_20240716T002703SQUARE.png",
                     "number": "2005",
@@ -2315,6 +2315,13 @@
                     "epgId": "USBC6000108Z"
                 },
                 {
+                    "name": "Plated",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300008AZ_20250217T210749SQUARE.png",
+                    "number": "2105",
+                    "url": "https://jmp2.uk/sam-USBC1300008AZ.m3u8",
+                    "epgId": "USBC1300008AZ"
+                },
+                {
                     "name": "America's Test Kitchen",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800002KI_20240520T221120SQUARE.png",
                     "number": "2110",
@@ -2384,13 +2391,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality TV.png",
             "stations": [
                 {
-                    "name": "Matched Married Meet",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC440000193_20250217T210815SQUARE.png",
-                    "number": "1003",
-                    "url": "https://jmp2.uk/sam-USBC440000193.m3u8",
-                    "epgId": "USBC440000193"
-                },
-                {
                     "name": "All-Out Reality",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20250204T014257SQUARE.png",
                     "number": "1904",
@@ -2445,6 +2445,13 @@
                     "number": "1921",
                     "url": "https://jmp2.uk/sam-US1800003BG.m3u8",
                     "epgId": "US1800003BG"
+                },
+                {
+                    "name": "Matched Married Meet",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC440000193_20250217T210815SQUARE.png",
+                    "number": "1925",
+                    "url": "https://jmp2.uk/sam-USBC440000193.m3u8",
+                    "epgId": "USBC440000193"
                 },
                 {
                     "name": "MTV Pluto TV",
@@ -2582,8 +2589,8 @@
             ]
         },
         {
-            "name": "Life Stories & Culture",
-            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Life Stories & Culture.png",
+            "name": "Lifestyle & Pop Culture",
+            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Lifestyle & Pop Culture.png",
             "stations": [
                 {
                     "name": "Biography: The Icons",
@@ -3024,6 +3031,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality Competition.png",
             "stations": [
                 {
+                    "name": "Xtreme Outdoor Presented by HISTORY",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508706A_20250217T210759SQUARE.png",
+                    "number": "1003",
+                    "url": "https://jmp2.uk/sam-USAK3508706A.m3u8",
+                    "epgId": "USAK3508706A"
+                },
+                {
                     "name": "Hell's Kitchen",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900002Z7_20241022T004324SQUARE.png",
                     "number": "2705",
@@ -3134,13 +3148,6 @@
                     "number": "2777",
                     "url": "https://jmp2.uk/sam-USBB52000246M.m3u8",
                     "epgId": "USBB52000246M"
-                },
-                {
-                    "name": "Xtreme Outdoor Presented by HISTORY",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508706A_20250217T210759SQUARE.png",
-                    "number": "2779",
-                    "url": "https://jmp2.uk/sam-USAK3508706A.m3u8",
-                    "epgId": "USAK3508706A"
                 },
                 {
                     "name": "Pluto TV Pixel World",

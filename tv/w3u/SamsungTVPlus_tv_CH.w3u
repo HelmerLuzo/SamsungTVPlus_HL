@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇨🇭 by HL",
-    "author": "Actualizada 19/02/2025 00:15",
+    "author": "Actualizada 20/02/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/ch.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/ch.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CH.w3u",
@@ -184,7 +184,7 @@
                     "epgId": "CHBD2500001SY"
                 },
                 {
-                    "name": "Kaminfeuer",
+                    "name": "Lagerfeuer",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD150000135_20250218T040707SQUARE.png",
                     "number": "4219",
                     "url": "https://jmp2.uk/sam-CHBD150000135.m3u8",
@@ -196,6 +196,13 @@
                     "number": "4221",
                     "url": "https://jmp2.uk/sam-CHBA1000007U6.m3u8",
                     "epgId": "CHBA1000007U6"
+                },
+                {
+                    "name": "Hudson & Rex",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH48000025D_20250218T040710SQUARE.png",
+                    "number": "4234",
+                    "url": "https://jmp2.uk/sam-CH48000025D.m3u8",
+                    "epgId": "CH48000025D"
                 }
             ]
         },

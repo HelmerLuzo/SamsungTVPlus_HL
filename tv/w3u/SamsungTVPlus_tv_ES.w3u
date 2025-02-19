@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇪🇸 by HL",
-    "author": "Actualizada 19/02/2025 00:15",
+    "author": "Actualizada 20/02/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/es.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -43,6 +43,13 @@
                     "number": "4557",
                     "url": "https://jmp2.uk/sam-ESBC1400001L8.m3u8",
                     "epgId": "ESBC1400001L8"
+                },
+                {
+                    "name": "Actualidad 360",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20250218T035954SQUARE.png",
+                    "number": "4558",
+                    "url": "https://jmp2.uk/sam-ES300034BT.m3u8",
+                    "epgId": "ES300034BT"
                 },
                 {
                     "name": "CNN FAST",
@@ -226,7 +233,14 @@
                     "epgId": "ESBC4700003RJ"
                 },
                 {
-                    "name": "Mi chimenea",
+                    "name": "2M",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4700001VS_20250218T035951SQUARE.png",
+                    "number": "4219",
+                    "url": "https://jmp2.uk/sam-ES4700001VS.m3u8",
+                    "epgId": "ES4700001VS"
+                },
+                {
+                    "name": "Hoguera",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20250218T035942SQUARE.png",
                     "number": "4225",
                     "url": "https://jmp2.uk/sam-ESBD1500001SD.m3u8",
@@ -389,6 +403,13 @@
                     "number": "4771",
                     "url": "https://jmp2.uk/sam-ESBC4100003WE.m3u8",
                     "epgId": "ESBC4100003WE"
+                },
+                {
+                    "name": "LooLoo Kids",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES5000001CS_20250218T035957SQUARE.png",
+                    "number": "4772",
+                    "url": "https://jmp2.uk/sam-ES5000001CS.m3u8",
+                    "epgId": "ES5000001CS"
                 },
                 {
                     "name": "Pitufo TV",
@@ -683,7 +704,7 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Música.png",
             "stations": [
                 {
-                    "name": "CLIPS don't Lie",
+                    "name": "CLIPS don't lie",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES32000027M_20250218T035944SQUARE.png",
                     "number": "4006",
                     "url": "https://jmp2.uk/sam-ES32000027M.m3u8",
@@ -723,20 +744,6 @@
                     "number": "4696",
                     "url": "https://jmp2.uk/sam-ESBA3300043M0.m3u8",
                     "epgId": "ESBA3300043M0"
-                },
-                {
-                    "name": "Staccs Music TV Greatest Hits",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD270000108_20250218T035949SQUARE.png",
-                    "number": "4705",
-                    "url": "https://jmp2.uk/sam-ESBD270000108.m3u8",
-                    "epgId": "ESBD270000108"
-                },
-                {
-                    "name": "Staccs Music TV 80’s Hits",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1900001OE_20250218T035946SQUARE.png",
-                    "number": "4707",
-                    "url": "https://jmp2.uk/sam-ES1900001OE.m3u8",
-                    "epgId": "ES1900001OE"
                 },
                 {
                     "name": "Sol Música",
@@ -923,6 +930,13 @@
                     "number": "4513",
                     "url": "https://jmp2.uk/sam-ESAJ3800007PC.m3u8",
                     "epgId": "ESAJ3800007PC"
+                },
+                {
+                    "name": "Viajes & Sabores",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250218T040000SQUARE.png",
+                    "number": "4514",
+                    "url": "https://jmp2.uk/sam-ES300033TI.m3u8",
+                    "epgId": "ES300033TI"
                 },
                 {
                     "name": "GoUSA TV",

@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇫🇷 by HL",
-    "author": "Actualizada 19/02/2025 00:15",
+    "author": "Actualizada 20/02/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/fr.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/fr.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_FR.w3u",
@@ -112,6 +112,20 @@
             "name": "Divertissement",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Divertissement.png",
             "stations": [
+                {
+                    "name": "RMC Story",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20250218T040019SQUARE.png",
+                    "number": "4008",
+                    "url": "https://jmp2.uk/sam-FRBD41000097I.m3u8",
+                    "epgId": "FRBD41000097I"
+                },
+                {
+                    "name": "RMC Découverte",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100008QS_20250218T040017SQUARE.png",
+                    "number": "4009",
+                    "url": "https://jmp2.uk/sam-FRBD4100008QS.m3u8",
+                    "epgId": "FRBD4100008QS"
+                },
                 {
                     "name": "RMC Wow",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300001M1_20241015T042812SQUARE.png",
@@ -265,6 +279,13 @@
                     "number": "4221",
                     "url": "https://jmp2.uk/sam-FR4600001FK.m3u8",
                     "epgId": "FR4600001FK"
+                },
+                {
+                    "name": "IntoCrime",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300032ZK_20250218T040022SQUARE.png",
+                    "number": "4307",
+                    "url": "https://jmp2.uk/sam-FR300032ZK.m3u8",
+                    "epgId": "FR300032ZK"
                 }
             ]
         },
@@ -944,20 +965,6 @@
             "name": "Documentaires",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentaires.png",
             "stations": [
-                {
-                    "name": "RMC Story",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20250218T040019SQUARE.png",
-                    "number": "4008",
-                    "url": "https://jmp2.uk/sam-FRBD41000097I.m3u8",
-                    "epgId": "FRBD41000097I"
-                },
-                {
-                    "name": "RMC Découverte",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100008QS_20250218T040017SQUARE.png",
-                    "number": "4009",
-                    "url": "https://jmp2.uk/sam-FRBD4100008QS.m3u8",
-                    "epgId": "FRBD4100008QS"
-                },
                 {
                     "name": "J'irai dormir chez vous",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20241106T142647SQUARE.png",
