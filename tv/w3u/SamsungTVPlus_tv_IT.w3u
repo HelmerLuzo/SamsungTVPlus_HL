@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 05/03/2025 00:15",
+    "author": "Actualizada 06/03/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -467,6 +467,13 @@
                     "epgId": "IT3600005AL"
                 },
                 {
+                    "name": "Stars -Film & Secrets",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100001B7_20250304T015534SQUARE.png",
+                    "number": "4415",
+                    "url": "https://jmp2.uk/sam-ITBD1100001B7.m3u8",
+                    "epgId": "ITBD1100001B7"
+                },
+                {
                     "name": "Cinema Poliziottesco",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000238E_20250131T145320SQUARE.png",
                     "number": "4868",
@@ -481,7 +488,7 @@
                     "epgId": "ITBC1100008L4"
                 },
                 {
-                    "name": "Grandi Nomi",
+                    "name": "Grandi Nomi - Film da Oscar",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100003KC_20250304T015542SQUARE.png",
                     "number": "4872",
                     "url": "https://jmp2.uk/sam-ITBC1100003KC.m3u8",
@@ -530,7 +537,7 @@
                     "epgId": "IT500004JK"
                 },
                 {
-                    "name": "Velvet San Valentino",
+                    "name": "Velvet",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000047F_20250304T015545SQUARE.png",
                     "number": "4902",
                     "url": "https://jmp2.uk/sam-ITBC11000047F.m3u8",
@@ -975,7 +982,7 @@
                     "epgId": "IT300007SE"
                 },
                 {
-                    "name": "Zingara",
+                    "name": "Eva Luna - La Serie completa",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4600001JQ_20250304T015539SQUARE.png",
                     "number": "4258",
                     "url": "https://jmp2.uk/sam-IT4600001JQ.m3u8",
@@ -1041,13 +1048,6 @@
                     "number": "4411",
                     "url": "https://jmp2.uk/sam-ITBC35000016T.m3u8",
                     "epgId": "ITBC35000016T"
-                },
-                {
-                    "name": "I Segreti delle Star",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100001B7_20250304T015534SQUARE.png",
-                    "number": "4415",
-                    "url": "https://jmp2.uk/sam-ITBD1100001B7.m3u8",
-                    "epgId": "ITBD1100001B7"
                 },
                 {
                     "name": "BBC Earth",
