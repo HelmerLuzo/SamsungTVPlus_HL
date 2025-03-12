@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇩🇪 by HL",
-    "author": "Actualizada 12/03/2025 00:15",
+    "author": "Actualizada 13/03/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
@@ -77,6 +77,13 @@
                     "number": "4001",
                     "url": "https://jmp2.uk/sam-DEBC4700002Z2.m3u8",
                     "epgId": "DEBC4700002Z2"
+                },
+                {
+                    "name": "ZDF zu Hause",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE37000038D_20250307T152013SQUARE.png",
+                    "number": "4007",
+                    "url": "https://jmp2.uk/sam-DE37000038D.m3u8",
+                    "epgId": "DE37000038D"
                 },
                 {
                     "name": "Comedy Mix",
@@ -161,13 +168,6 @@
                     "number": "4170",
                     "url": "https://jmp2.uk/sam-DEAJ3200004UF.m3u8",
                     "epgId": "DEAJ3200004UF"
-                },
-                {
-                    "name": "ZDF zu Hause",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE37000038D_20250307T152013SQUARE.png",
-                    "number": "4201",
-                    "url": "https://jmp2.uk/sam-DE37000038D.m3u8",
-                    "epgId": "DE37000038D"
                 },
                 {
                     "name": "Freitag Nacht News",
@@ -724,25 +724,25 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
                 {
+                    "name": "Baywatch",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD26000020X_20250107T024258SQUARE.png",
+                    "number": "4231",
+                    "url": "https://jmp2.uk/sam-DEBD26000020X.m3u8",
+                    "epgId": "DEBD26000020X"
+                },
+                {
                     "name": "Heartland",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3700004DM_20250307T152015SQUARE.png",
-                    "number": "4006",
+                    "number": "4232",
                     "url": "https://jmp2.uk/sam-DE3700004DM.m3u8",
                     "epgId": "DE3700004DM"
                 },
                 {
                     "name": "Nashville",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4600001CD_20250307T152018SQUARE.png",
-                    "number": "4007",
+                    "number": "4233",
                     "url": "https://jmp2.uk/sam-DE4600001CD.m3u8",
                     "epgId": "DE4600001CD"
-                },
-                {
-                    "name": "Baywatch",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD26000020X_20250107T024258SQUARE.png",
-                    "number": "4231",
-                    "url": "https://jmp2.uk/sam-DEBD26000020X.m3u8",
-                    "epgId": "DEBD26000020X"
                 },
                 {
                     "name": "Hudson & Rex",
@@ -849,6 +849,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
+                    "name": "Wilder Planet",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20250307T152003SQUARE.png",
+                    "number": "4006",
+                    "url": "https://jmp2.uk/sam-DEBA3300042XG.m3u8",
+                    "epgId": "DEBA3300042XG"
+                },
+                {
                     "name": "The Wicked Tuna Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC220000422_20250107T024428SQUARE.png",
                     "number": "4352",
@@ -931,13 +938,6 @@
                     "number": "4435",
                     "url": "https://jmp2.uk/sam-DEAK3504506A.m3u8",
                     "epgId": "DEAK3504506A"
-                },
-                {
-                    "name": "Wilder Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20250307T152003SQUARE.png",
-                    "number": "4486",
-                    "url": "https://jmp2.uk/sam-DEBA3300042XG.m3u8",
-                    "epgId": "DEBA3300042XG"
                 },
                 {
                     "name": "BBC Earth",

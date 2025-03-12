@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇦🇹 by HL",
-    "author": "Actualizada 12/03/2025 00:15",
+    "author": "Actualizada 13/03/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/at.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/at.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_AT.w3u",
@@ -289,7 +289,7 @@
                 {
                     "name": "Craction TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA33000270C_20250307T152235SQUARE.png",
-                    "number": "4006",
+                    "number": "4294",
                     "url": "https://jmp2.uk/sam-ATBA33000270C.m3u8",
                     "epgId": "ATBA33000270C"
                 }
@@ -674,6 +674,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
+                    "name": "Wilder Planet",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300031VR_20250307T152239SQUARE.png",
+                    "number": "4006",
+                    "url": "https://jmp2.uk/sam-ATBA3300031VR.m3u8",
+                    "epgId": "ATBA3300031VR"
+                },
+                {
                     "name": "The Wicked Tuna Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC3900001W3_20250107T022235SQUARE.png",
                     "number": "4352",
@@ -742,13 +749,6 @@
                     "number": "4435",
                     "url": "https://jmp2.uk/sam-ATAK3504503A.m3u8",
                     "epgId": "ATAK3504503A"
-                },
-                {
-                    "name": "Wilder Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300031VR_20250307T152239SQUARE.png",
-                    "number": "4486",
-                    "url": "https://jmp2.uk/sam-ATBA3300031VR.m3u8",
-                    "epgId": "ATBA3300031VR"
                 },
                 {
                     "name": "One Terra",
