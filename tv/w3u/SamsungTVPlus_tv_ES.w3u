@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇪🇸 by HL",
-    "author": "Actualizada 26/03/2025 00:15",
+    "author": "Actualizada 27/03/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/es.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -99,13 +99,6 @@
                     "number": "4577",
                     "url": "https://jmp2.uk/sam-ESBA3300024AJ.m3u8",
                     "epgId": "ESBA3300024AJ"
-                },
-                {
-                    "name": "Bloomberg Originals",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900002J4_20241022T051004SQUARE.png",
-                    "number": "4579",
-                    "url": "https://jmp2.uk/sam-ESAJ2900002J4.m3u8",
-                    "epgId": "ESAJ2900002J4"
                 }
             ]
         },
@@ -177,6 +170,20 @@
                     "epgId": "ES1400001T8"
                 },
                 {
+                    "name": "Anime Visión",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png",
+                    "number": "4190",
+                    "url": "https://jmp2.uk/sam-ES300029LP.m3u8",
+                    "epgId": "ES300029LP"
+                },
+                {
+                    "name": "Anime Visión Classics",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png",
+                    "number": "4191",
+                    "url": "https://jmp2.uk/sam-ES3000288I.m3u8",
+                    "epgId": "ES3000288I"
+                },
+                {
                     "name": "¡Hola! Play",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000025M_20241210T052650SQUARE.png",
                     "number": "4201",
@@ -196,20 +203,6 @@
                     "number": "4205",
                     "url": "https://jmp2.uk/sam-ESAJ4500017Y1.m3u8",
                     "epgId": "ESAJ4500017Y1"
-                },
-                {
-                    "name": "Vivir con Perros",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900001G6_20241022T051156SQUARE.png",
-                    "number": "4207",
-                    "url": "https://jmp2.uk/sam-ESBC3900001G6.m3u8",
-                    "epgId": "ESBC3900001G6"
-                },
-                {
-                    "name": "Vivir con Gatos",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900002L8_20241022T051153SQUARE.png",
-                    "number": "4209",
-                    "url": "https://jmp2.uk/sam-ESBC3900002L8.m3u8",
-                    "epgId": "ESBC3900002L8"
                 },
                 {
                     "name": "Azteca Internacional",
@@ -454,13 +447,6 @@
                     "epgId": "ESBD5100001G0"
                 },
                 {
-                    "name": "Peter Rabbit",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400002W4_20241106T142158SQUARE.png",
-                    "number": "4799",
-                    "url": "https://jmp2.uk/sam-ESBD1400002W4.m3u8",
-                    "epgId": "ESBD1400002W4"
-                },
-                {
                     "name": "Mr Bean Animated",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20241022T050553SQUARE.png",
                     "number": "4801",
@@ -476,7 +462,7 @@
                 },
                 {
                     "name": "Video Game Heroes",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES340000152_20241022T051148SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES340000152_20250326T013206SQUARE.png",
                     "number": "4805",
                     "url": "https://jmp2.uk/sam-ES340000152.m3u8",
                     "epgId": "ES340000152"

@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 26/03/2025 00:15",
+    "author": "Actualizada 27/03/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -363,13 +363,6 @@
                     "epgId": "IT700004X4"
                 },
                 {
-                    "name": "Peter Coniglio",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD31000016S_20241106T142447SQUARE.png",
-                    "number": "4793",
-                    "url": "https://jmp2.uk/sam-ITBD31000016S.m3u8",
-                    "epgId": "ITBD31000016S"
-                },
-                {
                     "name": "Frisbee",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400003JF_20241022T051619SQUARE.png",
                     "number": "4798",
@@ -399,7 +392,7 @@
                 },
                 {
                     "name": "Video Game Heroes",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT34000016N_20241022T043931SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT34000016N_20250326T013226SQUARE.png",
                     "number": "4819",
                     "url": "https://jmp2.uk/sam-IT34000016N.m3u8",
                     "epgId": "IT34000016N"
@@ -467,15 +460,15 @@
                     "epgId": "ITBD1100001B7"
                 },
                 {
-                    "name": "Cinema Poliziottesco",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000238E_20250131T145320SQUARE.png",
+                    "name": "Comicità piccante",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000238E_20250326T013229SQUARE.png",
                     "number": "4868",
                     "url": "https://jmp2.uk/sam-ITBA33000238E.m3u8",
                     "epgId": "ITBA33000238E"
                 },
                 {
-                    "name": "Risate all'italiana",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100008L4_20250131T145336SQUARE.png",
+                    "name": "Alberto Sordi & Co",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100008L4_20250326T013537SQUARE.png",
                     "number": "4870",
                     "url": "https://jmp2.uk/sam-ITBC1100008L4.m3u8",
                     "epgId": "ITBC1100008L4"
@@ -558,8 +551,8 @@
                     "epgId": "IT300005J9"
                 },
                 {
-                    "name": "Totò & Co",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD140000119_20250121T012646SQUARE.png",
+                    "name": "Bud Spencer - Detective extra large",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD140000119_20250326T013232SQUARE.png",
                     "number": "4909",
                     "url": "https://jmp2.uk/sam-ITBD140000119.m3u8",
                     "epgId": "ITBD140000119"
@@ -862,13 +855,6 @@
                     "number": "4748",
                     "url": "https://jmp2.uk/sam-ITBC11000108G.m3u8",
                     "epgId": "ITBC11000108G"
-                },
-                {
-                    "name": "Clubbing TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB1900001O3_20241022T051316SQUARE.png",
-                    "number": "4752",
-                    "url": "https://jmp2.uk/sam-ITBB1900001O3.m3u8",
-                    "epgId": "ITBB1900001O3"
                 },
                 {
                     "name": "Deluxe Lounge HD",
