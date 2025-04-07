@@ -1,30 +1,4 @@
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz"
-#EXTINF:-1 tvg-id="ES260000968" tvg-name="ES260000968" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000968_20250121T012824SQUARE.png" group-title="Noticias" , Euronews EN DIRECTO
-https://jmp2.uk/sam-ES260000968.m3u8
-#EXTINF:-1 tvg-id="ESBC4100004J1" tvg-name="ESBC4100004J1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20241022T050444SQUARE.png" group-title="Noticias" , 24H
-https://jmp2.uk/sam-ESBC4100004J1.m3u8
-#EXTINF:-1 tvg-id="ES300034BT" tvg-name="ES300034BT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20250307T152150SQUARE.png" group-title="Noticias" , Actualidad 360
-https://jmp2.uk/sam-ES300034BT.m3u8
-#EXTINF:-1 tvg-id="ESBD3400001AA" tvg-name="ESBD3400001AA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20241022T050601SQUARE.png" group-title="Noticias" , Negocios TV
-https://jmp2.uk/sam-ESBD3400001AA.m3u8
-#EXTINF:-1 tvg-id="ESBC39000033J" tvg-name="ESBC39000033J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20241106T142306SQUARE.png" group-title="Noticias" , El País
-https://jmp2.uk/sam-ESBC39000033J.m3u8
-#EXTINF:-1 tvg-id="ESBC1400001L8" tvg-name="ESBC1400001L8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20241022T050529SQUARE.png" group-title="Noticias" , El Confidencial
-https://jmp2.uk/sam-ESBC1400001L8.m3u8
-#EXTINF:-1 tvg-id="ESBD190000137" tvg-name="ESBD190000137" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20241106T142303SQUARE.png" group-title="Noticias" , CNN FAST
-https://jmp2.uk/sam-ESBD190000137.m3u8
-#EXTINF:-1 tvg-id="ESBD36000026Z" tvg-name="ESBD36000026Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD36000026Z_20241106T142258SQUARE.png" group-title="Noticias" , CNBC
-https://jmp2.uk/sam-ESBD36000026Z.m3u8
-#EXTINF:-1 tvg-id="ESBC400003YM" tvg-name="ESBC400003YM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400003YM_20241106T142315SQUARE.png" group-title="Noticias" , NBC News NOW
-https://jmp2.uk/sam-ESBC400003YM.m3u8
-#EXTINF:-1 tvg-id="ES34000039I" tvg-name="ES34000039I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES34000039I_20241022T050503SQUARE.png" group-title="Noticias" , CNN en Español
-https://jmp2.uk/sam-ES34000039I.m3u8
-#EXTINF:-1 tvg-id="ESBD1100001PQ" tvg-name="ESBD1100001PQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1100001PQ_20241106T142311SQUARE.png" group-title="Noticias" , FRANCE 24 FAST
-https://jmp2.uk/sam-ESBD1100001PQ.m3u8
-#EXTINF:-1 tvg-id="ES1300001QC" tvg-name="ES1300001QC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1300001QC_20241022T050524SQUARE.png" group-title="Noticias" , DW
-https://jmp2.uk/sam-ES1300001QC.m3u8
-#EXTINF:-1 tvg-id="ESBA3300024AJ" tvg-name="ESBA3300024AJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300024AJ_20241106T142255SQUARE.png" group-title="Noticias" , Bloomberg TV+
-https://jmp2.uk/sam-ESBA3300024AJ.m3u8
 #EXTINF:-1 tvg-id="ES26000068D" tvg-name="ES26000068D" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20241126T043113SQUARE.png" group-title="Entretenimiento" , Estilo y Vida – Rakuten TV
 https://jmp2.uk/sam-ES26000068D.m3u8
 #EXTINF:-1 tvg-id="ESBC4100001NZ" tvg-name="ESBC4100001NZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png" group-title="Entretenimiento" , La 1
@@ -65,6 +39,72 @@ https://jmp2.uk/sam-ES4700001VS.m3u8
 https://jmp2.uk/sam-ESBD1500001SD.m3u8
 #EXTINF:-1 tvg-id="ES300032LR" tvg-name="ES300032LR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300032LR_20250307T152159SQUARE.png" group-title="Entretenimiento" , Gaming Central League of Legends
 https://jmp2.uk/sam-ES300032LR.m3u8
+#EXTINF:-1 tvg-id="ES400002P5" tvg-name="ES400002P5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20250211T014047SQUARE.png" group-title="Serie" , Cuéntame cómo pasó
+https://jmp2.uk/sam-ES400002P5.m3u8
+#EXTINF:-1 tvg-id="ESBD1300001EP" tvg-name="ESBD1300001EP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20241106T142319SQUARE.png" group-title="Serie" , Baywatch – Los Vigilantes de la Playa
+https://jmp2.uk/sam-ESBD1300001EP.m3u8
+#EXTINF:-1 tvg-id="ESBA3300027H5" tvg-name="ESBA3300027H5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300027H5_20241106T142330SQUARE.png" group-title="Serie" , Las Reglas Del Juego
+https://jmp2.uk/sam-ESBA3300027H5.m3u8
+#EXTINF:-1 tvg-id="ESBA3300039ZX" tvg-name="ESBA3300039ZX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20241022T050312SQUARE.png" group-title="Serie" , FreeTV Estelar
+https://jmp2.uk/sam-ESBA3300039ZX.m3u8
+#EXTINF:-1 tvg-id="ES500005BP" tvg-name="ES500005BP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500005BP_20250307T152232SQUARE.png" group-title="Serie" , Águila Roja
+https://jmp2.uk/sam-ES500005BP.m3u8
+#EXTINF:-1 tvg-id="ESBD1300003VN" tvg-name="ESBD1300003VN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20241022T050520SQUARE.png" group-title="Serie" , Corazón
+https://jmp2.uk/sam-ESBD1300003VN.m3u8
+#EXTINF:-1 tvg-id="ES2700001G5" tvg-name="ES2700001G5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700001G5_20241106T142247SQUARE.png" group-title="Serie" , Doctor Who
+https://jmp2.uk/sam-ES2700001G5.m3u8
+#EXTINF:-1 tvg-id="ES2900001DQ" tvg-name="ES2900001DQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20241106T142333SQUARE.png" group-title="Serie" , BBC Drama
+https://jmp2.uk/sam-ES2900001DQ.m3u8
+#EXTINF:-1 tvg-id="ESBC1700001QI" tvg-name="ESBC1700001QI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700001QI_20241022T051151SQUARE.png" group-title="Serie" , Vive Kanal D Drama
+https://jmp2.uk/sam-ESBC1700001QI.m3u8
+#EXTINF:-1 tvg-id="ES300002Y6" tvg-name="ES300002Y6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20241106T142251SQUARE.png" group-title="Serie" , Sony One Series Thriller
+https://jmp2.uk/sam-ES300002Y6.m3u8
+#EXTINF:-1 tvg-id="ES300003D4" tvg-name="ES300003D4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20241022T051059SQUARE.png" group-title="Serie" , Sony One Éxitos
+https://jmp2.uk/sam-ES300003D4.m3u8
+#EXTINF:-1 tvg-id="ES300005EL" tvg-name="ES300005EL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300005EL_20241022T115805SQUARE.png" group-title="Serie" , Sony One The Blacklist
+https://jmp2.uk/sam-ES300005EL.m3u8
+#EXTINF:-1 tvg-id="ES30000145" tvg-name="ES30000145" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000145_20241106T142322SQUARE.png" group-title="Serie" , Sony One Series Comedia
+https://jmp2.uk/sam-ES30000145.m3u8
+#EXTINF:-1 tvg-id="ES260000968" tvg-name="ES260000968" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000968_20250121T012824SQUARE.png" group-title="Noticias" , Euronews EN DIRECTO
+https://jmp2.uk/sam-ES260000968.m3u8
+#EXTINF:-1 tvg-id="ESBC4100004J1" tvg-name="ESBC4100004J1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20241022T050444SQUARE.png" group-title="Noticias" , 24H
+https://jmp2.uk/sam-ESBC4100004J1.m3u8
+#EXTINF:-1 tvg-id="ES300034BT" tvg-name="ES300034BT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20250307T152150SQUARE.png" group-title="Noticias" , Actualidad 360
+https://jmp2.uk/sam-ES300034BT.m3u8
+#EXTINF:-1 tvg-id="ESBD3400001AA" tvg-name="ESBD3400001AA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20241022T050601SQUARE.png" group-title="Noticias" , Negocios TV
+https://jmp2.uk/sam-ESBD3400001AA.m3u8
+#EXTINF:-1 tvg-id="ESBC39000033J" tvg-name="ESBC39000033J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20241106T142306SQUARE.png" group-title="Noticias" , El País
+https://jmp2.uk/sam-ESBC39000033J.m3u8
+#EXTINF:-1 tvg-id="ESBC1400001L8" tvg-name="ESBC1400001L8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20241022T050529SQUARE.png" group-title="Noticias" , El Confidencial
+https://jmp2.uk/sam-ESBC1400001L8.m3u8
+#EXTINF:-1 tvg-id="ESBD190000137" tvg-name="ESBD190000137" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20241106T142303SQUARE.png" group-title="Noticias" , CNN FAST
+https://jmp2.uk/sam-ESBD190000137.m3u8
+#EXTINF:-1 tvg-id="ESBD36000026Z" tvg-name="ESBD36000026Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD36000026Z_20241106T142258SQUARE.png" group-title="Noticias" , CNBC
+https://jmp2.uk/sam-ESBD36000026Z.m3u8
+#EXTINF:-1 tvg-id="ESBC400003YM" tvg-name="ESBC400003YM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400003YM_20241106T142315SQUARE.png" group-title="Noticias" , NBC News NOW
+https://jmp2.uk/sam-ESBC400003YM.m3u8
+#EXTINF:-1 tvg-id="ES34000039I" tvg-name="ES34000039I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES34000039I_20241022T050503SQUARE.png" group-title="Noticias" , CNN en Español
+https://jmp2.uk/sam-ES34000039I.m3u8
+#EXTINF:-1 tvg-id="ESBD1100001PQ" tvg-name="ESBD1100001PQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1100001PQ_20241106T142311SQUARE.png" group-title="Noticias" , FRANCE 24 FAST
+https://jmp2.uk/sam-ESBD1100001PQ.m3u8
+#EXTINF:-1 tvg-id="ES1300001QC" tvg-name="ES1300001QC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1300001QC_20241022T050524SQUARE.png" group-title="Noticias" , DW
+https://jmp2.uk/sam-ES1300001QC.m3u8
+#EXTINF:-1 tvg-id="ESBA3300024AJ" tvg-name="ESBA3300024AJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300024AJ_20241106T142255SQUARE.png" group-title="Noticias" , Bloomberg TV+
+https://jmp2.uk/sam-ESBA3300024AJ.m3u8
+#EXTINF:-1 tvg-id="ESBA3300029UG" tvg-name="ESBA3300029UG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png" group-title="Crimen" , El Comisario
+https://jmp2.uk/sam-ESBA3300029UG.m3u8
+#EXTINF:-1 tvg-id="ESBA3300025WZ" tvg-name="ESBA3300025WZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300025WZ_20241022T050739SQUARE.png" group-title="Crimen" , Los Asesinatos de Midsomer
+https://jmp2.uk/sam-ESBA3300025WZ.m3u8
+#EXTINF:-1 tvg-id="ES2600001MC" tvg-name="ES2600001MC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600001MC_20241106T142233SQUARE.png" group-title="Crimen" , Forensic Files
+https://jmp2.uk/sam-ES2600001MC.m3u8
+#EXTINF:-1 tvg-id="ES33000025N" tvg-name="ES33000025N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20241126T043056SQUARE.png" group-title="Crimen" , Crimen & Historia
+https://jmp2.uk/sam-ES33000025N.m3u8
+#EXTINF:-1 tvg-id="ESBD3700001S0" tvg-name="ESBD3700001S0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3700001S0_20241022T051012SQUARE.png" group-title="Crimen" , DATELINE 24/7
+https://jmp2.uk/sam-ESBD3700001S0.m3u8
+#EXTINF:-1 tvg-id="ES3300001MC" tvg-name="ES3300001MC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300001MC_20241210T052636SQUARE.png" group-title="Crimen" , Crimenes Reales
+https://jmp2.uk/sam-ES3300001MC.m3u8
+#EXTINF:-1 tvg-id="ES2600005G9" tvg-name="ES2600005G9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png" group-title="Crimen" , Crimen - Rakuten TV
+https://jmp2.uk/sam-ES2600005G9.m3u8
 #EXTINF:-1 tvg-id="ESBC2700009B4" tvg-name="ESBC2700009B4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20241022T050442SQUARE.png" group-title="Deporte" , FIFA+
 https://jmp2.uk/sam-ESBC2700009B4.m3u8
 #EXTINF:-1 tvg-id="ESBD2600001ME" tvg-name="ESBD2600001ME" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20241022T051122SQUARE.png" group-title="Deporte" , Tennis Channel
@@ -89,20 +129,6 @@ https://jmp2.uk/sam-ES3400002PY.m3u8
 https://jmp2.uk/sam-ESBD2900001P9.m3u8
 #EXTINF:-1 tvg-id="ESBC1700002IM" tvg-name="ESBC1700002IM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20241022T051120SQUARE.png" group-title="Deporte" , Televisión Consciente
 https://jmp2.uk/sam-ESBC1700002IM.m3u8
-#EXTINF:-1 tvg-id="ESBA3300029UG" tvg-name="ESBA3300029UG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png" group-title="Crimen" , El Comisario
-https://jmp2.uk/sam-ESBA3300029UG.m3u8
-#EXTINF:-1 tvg-id="ESBA3300025WZ" tvg-name="ESBA3300025WZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300025WZ_20241022T050739SQUARE.png" group-title="Crimen" , Los Asesinatos de Midsomer
-https://jmp2.uk/sam-ESBA3300025WZ.m3u8
-#EXTINF:-1 tvg-id="ES2600001MC" tvg-name="ES2600001MC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600001MC_20241106T142233SQUARE.png" group-title="Crimen" , Forensic Files
-https://jmp2.uk/sam-ES2600001MC.m3u8
-#EXTINF:-1 tvg-id="ES33000025N" tvg-name="ES33000025N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20241126T043056SQUARE.png" group-title="Crimen" , Crimen & Historia
-https://jmp2.uk/sam-ES33000025N.m3u8
-#EXTINF:-1 tvg-id="ESBD3700001S0" tvg-name="ESBD3700001S0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3700001S0_20241022T051012SQUARE.png" group-title="Crimen" , DATELINE 24/7
-https://jmp2.uk/sam-ESBD3700001S0.m3u8
-#EXTINF:-1 tvg-id="ES3300001MC" tvg-name="ES3300001MC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300001MC_20241210T052636SQUARE.png" group-title="Crimen" , Crimenes Reales
-https://jmp2.uk/sam-ES3300001MC.m3u8
-#EXTINF:-1 tvg-id="ES2600005G9" tvg-name="ES2600005G9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png" group-title="Crimen" , Crimen - Rakuten TV
-https://jmp2.uk/sam-ES2600005G9.m3u8
 #EXTINF:-1 tvg-id="ESBC4100003WE" tvg-name="ESBC4100003WE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20241022T050516SQUARE.png" group-title="Niños" , Clan
 https://jmp2.uk/sam-ESBC4100003WE.m3u8
 #EXTINF:-1 tvg-id="ES5000001CS" tvg-name="ES5000001CS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES5000001CS_20250218T035957SQUARE.png" group-title="Niños" , LooLoo Kids
@@ -207,32 +233,12 @@ https://jmp2.uk/sam-ES32000027M.m3u8
 https://jmp2.uk/sam-ES3900001QG.m3u8
 #EXTINF:-1 tvg-id="ESBA1500001C4" tvg-name="ESBA1500001C4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1500001C4_20241022T050252SQUARE.png" group-title="Música" , Deluxe Lounge HD
 https://jmp2.uk/sam-ESBA1500001C4.m3u8
-#EXTINF:-1 tvg-id="ES400002P5" tvg-name="ES400002P5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20250211T014047SQUARE.png" group-title="Serie" , Cuéntame cómo pasó
-https://jmp2.uk/sam-ES400002P5.m3u8
-#EXTINF:-1 tvg-id="ESBD1300001EP" tvg-name="ESBD1300001EP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20241106T142319SQUARE.png" group-title="Serie" , Baywatch – Los Vigilantes de la Playa
-https://jmp2.uk/sam-ESBD1300001EP.m3u8
-#EXTINF:-1 tvg-id="ESBA3300027H5" tvg-name="ESBA3300027H5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300027H5_20241106T142330SQUARE.png" group-title="Serie" , Las Reglas Del Juego
-https://jmp2.uk/sam-ESBA3300027H5.m3u8
-#EXTINF:-1 tvg-id="ESBA3300039ZX" tvg-name="ESBA3300039ZX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20241022T050312SQUARE.png" group-title="Serie" , FreeTV Estelar
-https://jmp2.uk/sam-ESBA3300039ZX.m3u8
-#EXTINF:-1 tvg-id="ES500005BP" tvg-name="ES500005BP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500005BP_20250307T152232SQUARE.png" group-title="Serie" , Águila Roja
-https://jmp2.uk/sam-ES500005BP.m3u8
-#EXTINF:-1 tvg-id="ESBD1300003VN" tvg-name="ESBD1300003VN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20241022T050520SQUARE.png" group-title="Serie" , Corazón
-https://jmp2.uk/sam-ESBD1300003VN.m3u8
-#EXTINF:-1 tvg-id="ES2700001G5" tvg-name="ES2700001G5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700001G5_20241106T142247SQUARE.png" group-title="Serie" , Doctor Who
-https://jmp2.uk/sam-ES2700001G5.m3u8
-#EXTINF:-1 tvg-id="ES2900001DQ" tvg-name="ES2900001DQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20241106T142333SQUARE.png" group-title="Serie" , BBC Drama
-https://jmp2.uk/sam-ES2900001DQ.m3u8
-#EXTINF:-1 tvg-id="ESBC1700001QI" tvg-name="ESBC1700001QI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700001QI_20241022T051151SQUARE.png" group-title="Serie" , Vive Kanal D Drama
-https://jmp2.uk/sam-ESBC1700001QI.m3u8
-#EXTINF:-1 tvg-id="ES300002Y6" tvg-name="ES300002Y6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20241106T142251SQUARE.png" group-title="Serie" , Sony One Series Thriller
-https://jmp2.uk/sam-ES300002Y6.m3u8
-#EXTINF:-1 tvg-id="ES300003D4" tvg-name="ES300003D4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20241022T051059SQUARE.png" group-title="Serie" , Sony One Éxitos
-https://jmp2.uk/sam-ES300003D4.m3u8
-#EXTINF:-1 tvg-id="ES300005EL" tvg-name="ES300005EL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300005EL_20241022T115805SQUARE.png" group-title="Serie" , Sony One The Blacklist
-https://jmp2.uk/sam-ES300005EL.m3u8
-#EXTINF:-1 tvg-id="ES30000145" tvg-name="ES30000145" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000145_20241106T142322SQUARE.png" group-title="Serie" , Sony One Series Comedia
-https://jmp2.uk/sam-ES30000145.m3u8
+#EXTINF:-1 tvg-id="ESAJ3800007PC" tvg-name="ESAJ3800007PC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png" group-title="Viajes y Cocina" , Pluto TV Cocina
+https://jmp2.uk/sam-ESAJ3800007PC.m3u8
+#EXTINF:-1 tvg-id="ES300033TI" tvg-name="ES300033TI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250218T040000SQUARE.png" group-title="Viajes y Cocina" , Viajes & Sabores
+https://jmp2.uk/sam-ES300033TI.m3u8
+#EXTINF:-1 tvg-id="ESBC27000040I" tvg-name="ESBC27000040I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20241106T142230SQUARE.png" group-title="Viajes y Cocina" , GoUSA TV
+https://jmp2.uk/sam-ESBC27000040I.m3u8
 #EXTINF:-1 tvg-id="ES12000024R" tvg-name="ES12000024R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20241106T142227SQUARE.png" group-title="Documentales" , Historia y Vida
 https://jmp2.uk/sam-ES12000024R.m3u8
 #EXTINF:-1 tvg-id="ESBD1400003QN" tvg-name="ESBD1400003QN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20241106T142225SQUARE.png" group-title="Documentales" , Royalworld - Nobleza y Dinastias
@@ -247,12 +253,6 @@ https://jmp2.uk/sam-ESBA330004121.m3u8
 https://jmp2.uk/sam-ESBC4700002TD.m3u8
 #EXTINF:-1 tvg-id="ESBC170000388" tvg-name="ESBC170000388" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC170000388_20241022T051159SQUARE.png" group-title="Documentales" , WaterBear
 https://jmp2.uk/sam-ESBC170000388.m3u8
-#EXTINF:-1 tvg-id="ESAJ3800007PC" tvg-name="ESAJ3800007PC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png" group-title="Viajes y Cocina" , Pluto TV Cocina
-https://jmp2.uk/sam-ESAJ3800007PC.m3u8
-#EXTINF:-1 tvg-id="ES300033TI" tvg-name="ES300033TI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250218T040000SQUARE.png" group-title="Viajes y Cocina" , Viajes & Sabores
-https://jmp2.uk/sam-ES300033TI.m3u8
-#EXTINF:-1 tvg-id="ESBC27000040I" tvg-name="ESBC27000040I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20241106T142230SQUARE.png" group-title="Viajes y Cocina" , GoUSA TV
-https://jmp2.uk/sam-ESBC27000040I.m3u8
 #EXTINF:-1 tvg-id="ESBA140000504" tvg-name="ESBA140000504" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000504_20241022T051108SQUARE.png" group-title="Telenovela" , Stormcast Novelas
 https://jmp2.uk/sam-ESBA140000504.m3u8
 #EXTINF:-1 tvg-id="ESBC43000013T" tvg-name="ESBC43000013T" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20241106T142336SQUARE.png" group-title="Telenovela" , Todo Novelas
