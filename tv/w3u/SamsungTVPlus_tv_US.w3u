@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇺🇸 by HL",
-    "author": "Actualizada 09/04/2025 00:15",
+    "author": "Actualizada 10/04/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/us.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_US.w3u",
@@ -45,32 +45,32 @@
                     "epgId": "USBD3000073N"
                 },
                 {
-                    "name": "WSB Atlanta",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000013YH_20241112T001248SQUARE.png",
+                    "name": "NBC Dallas Fort Worth News",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC15000058Z_20241112T001127SQUARE.png",
                     "number": "1122",
-                    "url": "https://jmp2.uk/sam-USBC1000013YH.m3u8",
-                    "epgId": "USBC1000013YH"
+                    "url": "https://jmp2.uk/sam-USBC15000058Z.m3u8",
+                    "epgId": "USBC15000058Z"
                 },
                 {
-                    "name": "Atlanta News First",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700006QS_20241112T001435SQUARE.png",
+                    "name": "CBS News Texas",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000129L_20241112T001415SQUARE.png",
                     "number": "1123",
-                    "url": "https://jmp2.uk/sam-US700006QS.m3u8",
-                    "epgId": "US700006QS"
+                    "url": "https://jmp2.uk/sam-USBD17000129L.m3u8",
+                    "epgId": "USBD17000129L"
                 },
                 {
-                    "name": "FOX 5 Atlanta",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD45000015M_20241112T001608SQUARE.png",
+                    "name": "Fox 4 Dallas - Fort Worth",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200013ET_20241112T001543SQUARE.png",
                     "number": "1124",
-                    "url": "https://jmp2.uk/sam-USBD45000015M.m3u8",
-                    "epgId": "USBD45000015M"
+                    "url": "https://jmp2.uk/sam-USBD1200013ET.m3u8",
+                    "epgId": "USBD1200013ET"
                 },
                 {
-                    "name": "11ALIVE",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300003ZH_20241112T001633SQUARE.png",
+                    "name": "WFAA",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500046GS_20241112T001656SQUARE.png",
                     "number": "1125",
-                    "url": "https://jmp2.uk/sam-USBD3300003ZH.m3u8",
-                    "epgId": "USBD3300003ZH"
+                    "url": "https://jmp2.uk/sam-USBD3500046GS.m3u8",
+                    "epgId": "USBD3500046GS"
                 },
                 {
                     "name": "FOX Weather",
@@ -80,11 +80,11 @@
                     "epgId": "USBD700003L7"
                 },
                 {
-                    "name": "WN Atlanta",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200005EK_20241112T002026SQUARE.png",
+                    "name": "WN Dallas/Ft Worth",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500014UR_20241112T001922SQUARE.png",
                     "number": "1135",
-                    "url": "https://jmp2.uk/sam-USBB3200005EK.m3u8",
-                    "epgId": "USBB3200005EK"
+                    "url": "https://jmp2.uk/sam-USBC1500014UR.m3u8",
+                    "epgId": "USBC1500014UR"
                 },
                 {
                     "name": "BBC News",
@@ -580,6 +580,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
+                    "name": "American Crimes",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000250Q_20250408T020753SQUARE.png",
+                    "number": "1002",
+                    "url": "https://jmp2.uk/sam-USBD42000250Q.m3u8",
+                    "epgId": "USBD42000250Q"
+                },
+                {
                     "name": "Crime Zone",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20250318T020957SQUARE.png",
                     "number": "1805",
@@ -678,13 +685,6 @@
                     "epgId": "USBB3200001MG"
                 },
                 {
-                    "name": "American Crimes",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000250Q_20250408T020753SQUARE.png",
-                    "number": "1848",
-                    "url": "https://jmp2.uk/sam-USBD42000250Q.m3u8",
-                    "epgId": "USBD42000250Q"
-                },
-                {
                     "name": "Oxygen True Crimes Archive",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900005VB_20240826T235551SQUARE.png",
                     "number": "1850",
@@ -761,11 +761,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality TV.png",
             "stations": [
                 {
-                    "name": "Love & Hip Hop",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300020WC_20250408T020734SQUARE.png",
-                    "number": "1004",
-                    "url": "https://jmp2.uk/sam-USBA300020WC.m3u8",
-                    "epgId": "USBA300020WC"
+                    "name": "Dog the Bounty Hunter",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900002IH_20250408T020759SQUARE.png",
+                    "number": "1003",
+                    "url": "https://jmp2.uk/sam-US900002IH.m3u8",
+                    "epgId": "US900002IH"
                 },
                 {
                     "name": "All-Out Reality",
@@ -873,6 +873,13 @@
                     "epgId": "USBD17000040J"
                 },
                 {
+                    "name": "Love & Hip Hop",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300020WC_20250408T020734SQUARE.png",
+                    "number": "1954",
+                    "url": "https://jmp2.uk/sam-USBA300020WC.m3u8",
+                    "epgId": "USBA300020WC"
+                },
+                {
                     "name": "Cheaters",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500031F3_20241112T001009SQUARE.png",
                     "number": "1960",
@@ -885,13 +892,6 @@
                     "number": "1962",
                     "url": "https://jmp2.uk/sam-USBC6000219D.m3u8",
                     "epgId": "USBC6000219D"
-                },
-                {
-                    "name": "Dog the Bounty Hunter",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900002IH_20250408T020759SQUARE.png",
-                    "number": "1966",
-                    "url": "https://jmp2.uk/sam-US900002IH.m3u8",
-                    "epgId": "US900002IH"
                 },
                 {
                     "name": "Intervention by A&E",
@@ -963,18 +963,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Home & Food.png",
             "stations": [
                 {
+                    "name": "Million Dollar Dream Home",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300067FX_20250408T020805SQUARE.png",
+                    "number": "1001",
+                    "url": "https://jmp2.uk/sam-US300067FX.m3u8",
+                    "epgId": "US300067FX"
+                },
+                {
                     "name": "Home Refresh",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC21000142T_20250318T021033SQUARE.png",
                     "number": "2005",
                     "url": "https://jmp2.uk/sam-USBC21000142T.m3u8",
                     "epgId": "USBC21000142T"
-                },
-                {
-                    "name": "Million Dollar Dream Home",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300067FX_20250408T020805SQUARE.png",
-                    "number": "2008",
-                    "url": "https://jmp2.uk/sam-US300067FX.m3u8",
-                    "epgId": "US300067FX"
                 },
                 {
                     "name": "Home.Made.Nation",
@@ -1506,20 +1506,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Comedy.png",
             "stations": [
                 {
-                    "name": "Mythical 24/7",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900008FP_20250408T020807SQUARE.png",
-                    "number": "1001",
-                    "url": "https://jmp2.uk/sam-US2900008FP.m3u8",
-                    "epgId": "US2900008FP"
-                },
-                {
-                    "name": "BBC Comedy",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500009VV_20250408T020756SQUARE.png",
-                    "number": "1002",
-                    "url": "https://jmp2.uk/sam-US4500009VV.m3u8",
-                    "epgId": "US4500009VV"
-                },
-                {
                     "name": "Animation+",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20250401T004848SQUARE.png",
                     "number": "2605",
@@ -1539,6 +1525,13 @@
                     "number": "2622",
                     "url": "https://jmp2.uk/sam-US2900006IV.m3u8",
                     "epgId": "US2900006IV"
+                },
+                {
+                    "name": "Mythical 24/7",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900008FP_20250408T020807SQUARE.png",
+                    "number": "2625",
+                    "url": "https://jmp2.uk/sam-US2900008FP.m3u8",
+                    "epgId": "US2900008FP"
                 },
                 {
                     "name": "MrBeast",
@@ -1581,6 +1574,13 @@
                     "number": "2643",
                     "url": "https://jmp2.uk/sam-US3700002P0.m3u8",
                     "epgId": "US3700002P0"
+                },
+                {
+                    "name": "BBC Comedy",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500009VV_20250408T020756SQUARE.png",
+                    "number": "2644",
+                    "url": "https://jmp2.uk/sam-US4500009VV.m3u8",
+                    "epgId": "US4500009VV"
                 },
                 {
                     "name": "Portlandia",
@@ -1853,18 +1853,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Lifestyle & Pop Culture.png",
             "stations": [
                 {
-                    "name": "WWE Superstar Central",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700005ID_20250408T020812SQUARE.png",
-                    "number": "1003",
-                    "url": "https://jmp2.uk/sam-US700005ID.m3u8",
-                    "epgId": "US700005ID"
-                },
-                {
                     "name": "Biography: The Icons",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US26000201N_20250325T015117SQUARE.png",
                     "number": "2903",
                     "url": "https://jmp2.uk/sam-US26000201N.m3u8",
                     "epgId": "US26000201N"
+                },
+                {
+                    "name": "WWE Superstar Central",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700005ID_20250408T020812SQUARE.png",
+                    "number": "2904",
+                    "url": "https://jmp2.uk/sam-US700005ID.m3u8",
+                    "epgId": "US700005ID"
                 },
                 {
                     "name": "The Bob Ross Channel",
@@ -1992,9 +1992,16 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sci-Fi & Horror.png",
             "stations": [
                 {
+                    "name": "RetroCrush",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC36000073J_20250408T020810SQUARE.png",
+                    "number": "1004",
+                    "url": "https://jmp2.uk/sam-USBC36000073J.m3u8",
+                    "epgId": "USBC36000073J"
+                },
+                {
                     "name": "Fear Zone",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20250408T020801SQUARE.png",
-                    "number": "1000",
+                    "number": "3005",
                     "url": "https://jmp2.uk/sam-USBC1300012VK.m3u8",
                     "epgId": "USBC1300012VK"
                 },
@@ -2111,13 +2118,6 @@
                     "epgId": "USAJ3504502A"
                 },
                 {
-                    "name": "RetroCrush",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC36000073J_20250408T020810SQUARE.png",
-                    "number": "3207",
-                    "url": "https://jmp2.uk/sam-USBC36000073J.m3u8",
-                    "epgId": "USBC36000073J"
-                },
-                {
                     "name": "FilmRise Anime",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500004M7_20250211T021714SQUARE.png",
                     "number": "3210",
@@ -2133,7 +2133,7 @@
                 {
                     "name": "Samsung Wild Life",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20250408T020746SQUARE.png",
-                    "number": "3505",
+                    "number": "1000",
                     "url": "https://jmp2.uk/sam-USBA3000043LH.m3u8",
                     "epgId": "USBA3000043LH"
                 },
@@ -2222,7 +2222,7 @@
                     "epgId": "US3800007CR"
                 },
                 {
-                    "name": "Magellan TV Now",
+                    "name": "MagellanTV Wildest",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ340000677_20250408T020751SQUARE.png",
                     "number": "3535",
                     "url": "https://jmp2.uk/sam-USAJ340000677.m3u8",
@@ -2610,6 +2610,13 @@
                     "number": "3822",
                     "url": "https://jmp2.uk/sam-US2700004DX.m3u8",
                     "epgId": "US2700004DX"
+                },
+                {
+                    "name": "Telemundo Texas",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400018D0_20241112T001758SQUARE.png",
+                    "number": "3840",
+                    "url": "https://jmp2.uk/sam-USBC4400018D0.m3u8",
+                    "epgId": "USBC4400018D0"
                 },
                 {
                     "name": "WAPA+",

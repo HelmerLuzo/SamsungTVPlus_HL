@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 09/04/2025 00:15",
+    "author": "Actualizada 10/04/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -310,6 +310,13 @@
                     "epgId": "ITBB5000002N0"
                 },
                 {
+                    "name": "3BMeteo",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500008CB_20250408T021431SQUARE.png",
+                    "number": "4557",
+                    "url": "https://jmp2.uk/sam-IT500008CB.m3u8",
+                    "epgId": "IT500008CB"
+                },
+                {
                     "name": "FRANCE 24 FAST",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100002WX_20241022T051609SQUARE.png",
                     "number": "4563",
@@ -366,10 +373,10 @@
             "stations": [
                 {
                     "name": "DMAX",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400001X5_20250408T021402SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000113W_20250408T021437SQUARE.png",
                     "number": "4060",
-                    "url": "https://jmp2.uk/sam-ITBD4400001X5.m3u8",
-                    "epgId": "ITBD4400001X5"
+                    "url": "https://jmp2.uk/sam-IT9000113W.m3u8",
+                    "epgId": "IT9000113W"
                 },
                 {
                     "name": "Sony One Shark Tank",
@@ -380,10 +387,10 @@
                 },
                 {
                     "name": "NOVE",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400008Z5_20250408T021420SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000060Q_20250408T021504SQUARE.png",
                     "number": "4067",
-                    "url": "https://jmp2.uk/sam-ITBD4400008Z5.m3u8",
-                    "epgId": "ITBD4400008Z5"
+                    "url": "https://jmp2.uk/sam-IT9000060Q.m3u8",
+                    "epgId": "IT9000060Q"
                 },
                 {
                     "name": "Catfish",
@@ -394,10 +401,10 @@
                 },
                 {
                     "name": "Real time",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400007AR_20250408T021423SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900007I0_20250408T021507SQUARE.png",
                     "number": "4069",
-                    "url": "https://jmp2.uk/sam-ITBD4400007AR.m3u8",
-                    "epgId": "ITBD4400007AR"
+                    "url": "https://jmp2.uk/sam-IT900007I0.m3u8",
+                    "epgId": "IT900007I0"
                 },
                 {
                     "name": "Pluto TV Reality",
@@ -475,6 +482,20 @@
                     "number": "4209",
                     "url": "https://jmp2.uk/sam-ITBD15000010I.m3u8",
                     "epgId": "ITBD15000010I"
+                },
+                {
+                    "name": "H2O & Friends",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500007X2_20250408T021448SQUARE.png",
+                    "number": "4216",
+                    "url": "https://jmp2.uk/sam-IT500007X2.m3u8",
+                    "epgId": "IT500007X2"
+                },
+                {
+                    "name": "80 Anni - 2a Guerra Mondiale",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000023T_20250408T021434SQUARE.png",
+                    "number": "4414",
+                    "url": "https://jmp2.uk/sam-IT9000023T.m3u8",
+                    "epgId": "IT9000023T"
                 }
             ]
         },
@@ -539,10 +560,10 @@
                 },
                 {
                     "name": "Motortrend",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400009JI_20250408T021417SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900004Y5_20250408T021501SQUARE.png",
                     "number": "4656",
-                    "url": "https://jmp2.uk/sam-ITBD4400009JI.m3u8",
-                    "epgId": "ITBD4400009JI"
+                    "url": "https://jmp2.uk/sam-IT900004Y5.m3u8",
+                    "epgId": "IT900004Y5"
                 },
                 {
                     "name": "Top Gear",
@@ -608,10 +629,10 @@
                 },
                 {
                     "name": "WBTV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400010WK_20250408T021425SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900012M7_20250408T021510SQUARE.png",
                     "number": "4231",
-                    "url": "https://jmp2.uk/sam-ITBD4400010WK.m3u8",
-                    "epgId": "ITBD4400010WK"
+                    "url": "https://jmp2.uk/sam-IT900012M7.m3u8",
+                    "epgId": "IT900012M7"
                 },
                 {
                     "name": "BBC Drama",
@@ -726,10 +747,10 @@
             "stations": [
                 {
                     "name": "Giallo",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD44000047C_20250408T021409SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000081B_20250408T021446SQUARE.png",
                     "number": "4291",
-                    "url": "https://jmp2.uk/sam-ITBD44000047C.m3u8",
-                    "epgId": "ITBD44000047C"
+                    "url": "https://jmp2.uk/sam-IT9000081B.m3u8",
+                    "epgId": "IT9000081B"
                 },
                 {
                     "name": "Serie Crime - Rakuten TV",
@@ -809,10 +830,10 @@
                 },
                 {
                     "name": "Yu-Gi-Oh!",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1000003NB_20250408T021428SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT700007M3_20250408T021512SQUARE.png",
                     "number": "4194",
-                    "url": "https://jmp2.uk/sam-ITBD1000003NB.m3u8",
-                    "epgId": "ITBD1000003NB"
+                    "url": "https://jmp2.uk/sam-IT700007M3.m3u8",
+                    "epgId": "IT700007M3"
                 },
                 {
                     "name": "Inazuma Eleven Go",
@@ -833,6 +854,13 @@
                     "number": "4007",
                     "url": "https://jmp2.uk/sam-ITBD3200007SZ.m3u8",
                     "epgId": "ITBD3200007SZ"
+                },
+                {
+                    "name": "LooLoo Kids",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT5000006B7_20250408T021458SQUARE.png",
+                    "number": "4195",
+                    "url": "https://jmp2.uk/sam-IT5000006B7.m3u8",
+                    "epgId": "IT5000006B7"
                 },
                 {
                     "name": "Teletubbies",
@@ -864,17 +892,17 @@
                 },
                 {
                     "name": "Frisbee",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400003JF_20250408T021407SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900005HF_20250408T021443SQUARE.png",
                     "number": "4798",
-                    "url": "https://jmp2.uk/sam-ITBD4400003JF.m3u8",
-                    "epgId": "ITBD4400003JF"
+                    "url": "https://jmp2.uk/sam-IT900005HF.m3u8",
+                    "epgId": "IT900005HF"
                 },
                 {
                     "name": "K2",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD440000698_20250408T021415SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900009KL_20250408T021455SQUARE.png",
                     "number": "4800",
-                    "url": "https://jmp2.uk/sam-ITBD440000698.m3u8",
-                    "epgId": "ITBD440000698"
+                    "url": "https://jmp2.uk/sam-IT900009KL.m3u8",
+                    "epgId": "IT900009KL"
                 },
                 {
                     "name": "SuperToons TV",
@@ -1016,17 +1044,17 @@
                 },
                 {
                     "name": "Foodnetwork",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400002Q8_20250408T021404SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT90001094_20250408T021440SQUARE.png",
                     "number": "4521",
-                    "url": "https://jmp2.uk/sam-ITBD4400002Q8.m3u8",
-                    "epgId": "ITBD4400002Q8"
+                    "url": "https://jmp2.uk/sam-IT90001094.m3u8",
+                    "epgId": "IT90001094"
                 },
                 {
                     "name": "HGTV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD44000056I_20250408T021412SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900003FU_20250408T021452SQUARE.png",
                     "number": "4525",
-                    "url": "https://jmp2.uk/sam-ITBD44000056I.m3u8",
-                    "epgId": "ITBD44000056I"
+                    "url": "https://jmp2.uk/sam-IT900003FU.m3u8",
+                    "epgId": "IT900003FU"
                 },
                 {
                     "name": "Brindiamo!",

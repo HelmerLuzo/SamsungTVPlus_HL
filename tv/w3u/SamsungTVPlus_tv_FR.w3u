@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇫🇷 by HL",
-    "author": "Actualizada 09/04/2025 00:15",
+    "author": "Actualizada 10/04/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/fr.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/fr.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_FR.w3u",
@@ -156,6 +156,13 @@
                     "epgId": "FRBD5100003TP"
                 },
                 {
+                    "name": "H2O & Friends",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR500003PJ_20250408T021641SQUARE.png",
+                    "number": "4206",
+                    "url": "https://jmp2.uk/sam-FR500003PJ.m3u8",
+                    "epgId": "FR500003PJ"
+                },
+                {
                     "name": "MTV Classics",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800004CC_20241015T042519SQUARE.png",
                     "number": "4207",
@@ -196,20 +203,6 @@
                     "number": "4221",
                     "url": "https://jmp2.uk/sam-FR4600001FK.m3u8",
                     "epgId": "FR4600001FK"
-                },
-                {
-                    "name": "Immersion - Crime & Justice",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600002ZR_20250408T021840SQUARE.png",
-                    "number": "4308",
-                    "url": "https://jmp2.uk/sam-FR600002ZR.m3u8",
-                    "epgId": "FR600002ZR"
-                },
-                {
-                    "name": "Real Life",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700002UP_20250408T021842SQUARE.png",
-                    "number": "4362",
-                    "url": "https://jmp2.uk/sam-FR700002UP.m3u8",
-                    "epgId": "FR700002UP"
                 }
             ]
         },
@@ -226,10 +219,10 @@
                 },
                 {
                     "name": "Yu-Gi-Oh!",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300038I4_20250408T021638SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR7000045E_20250408T021644SQUARE.png",
                     "number": "4190",
-                    "url": "https://jmp2.uk/sam-FRBA3300038I4.m3u8",
-                    "epgId": "FRBA3300038I4"
+                    "url": "https://jmp2.uk/sam-FR7000045E.m3u8",
+                    "epgId": "FR7000045E"
                 },
                 {
                     "name": "Beyblade",
@@ -445,6 +438,13 @@
                     "number": "4307",
                     "url": "https://jmp2.uk/sam-FR300032ZK.m3u8",
                     "epgId": "FR300032ZK"
+                },
+                {
+                    "name": "Immersion - Crime & Justice",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600002ZR_20250408T021840SQUARE.png",
+                    "number": "4308",
+                    "url": "https://jmp2.uk/sam-FR600002ZR.m3u8",
+                    "epgId": "FR600002ZR"
                 }
             ]
         },
@@ -486,6 +486,13 @@
                     "number": "4360",
                     "url": "https://jmp2.uk/sam-FR4200001BN.m3u8",
                     "epgId": "FR4200001BN"
+                },
+                {
+                    "name": "Real Life",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700002UP_20250408T021842SQUARE.png",
+                    "number": "4362",
+                    "url": "https://jmp2.uk/sam-FR700002UP.m3u8",
+                    "epgId": "FR700002UP"
                 },
                 {
                     "name": "BFM Grands Reportages",
@@ -618,6 +625,13 @@
                     "number": "4530",
                     "url": "https://jmp2.uk/sam-FRBC3500002E4.m3u8",
                     "epgId": "FRBC3500002E4"
+                },
+                {
+                    "name": "Ailleurs - Destination Luxe",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600001I2_20250408T021837SQUARE.png",
+                    "number": "4531",
+                    "url": "https://jmp2.uk/sam-FR600001I2.m3u8",
+                    "epgId": "FR600001I2"
                 }
             ]
         },
@@ -1131,19 +1145,6 @@
                     "number": "4999",
                     "url": "https://jmp2.uk/sam-FR2600002X9.m3u8",
                     "epgId": "FR2600002X9"
-                }
-            ]
-        },
-        {
-            "name": "Lifestyle",
-            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Lifestyle.png",
-            "stations": [
-                {
-                    "name": "Ailleurs - Destination Luxe",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600001I2_20250408T021837SQUARE.png",
-                    "number": "4531",
-                    "url": "https://jmp2.uk/sam-FR600001I2.m3u8",
-                    "epgId": "FR600001I2"
                 }
             ]
         }

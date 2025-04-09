@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇩🇪 by HL",
-    "author": "Actualizada 09/04/2025 00:15",
+    "author": "Actualizada 10/04/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
@@ -129,6 +129,13 @@
                     "epgId": "DE1100001CQ"
                 },
                 {
+                    "name": "H2O & Friends",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE500002LD_20250408T021652SQUARE.png",
+                    "number": "4214",
+                    "url": "https://jmp2.uk/sam-DE500002LD.m3u8",
+                    "epgId": "DE500002LD"
+                },
+                {
                     "name": "Lagerfeuer",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD1500001VJ_20250218T035929SQUARE.png",
                     "number": "4219",
@@ -164,10 +171,10 @@
                 },
                 {
                     "name": "Yu-Gi-Oh!",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ2900002FC_20250408T021647SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE7000038K_20250408T021658SQUARE.png",
                     "number": "4192",
-                    "url": "https://jmp2.uk/sam-DEAJ2900002FC.m3u8",
-                    "epgId": "DEAJ2900002FC"
+                    "url": "https://jmp2.uk/sam-DE7000038K.m3u8",
+                    "epgId": "DE7000038K"
                 },
                 {
                     "name": "Beyblade",
@@ -209,6 +216,13 @@
                     "number": "4234",
                     "url": "https://jmp2.uk/sam-DE4800002GM.m3u8",
                     "epgId": "DE4800002GM"
+                },
+                {
+                    "name": "Herzfrequenz",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1000001CT_20250408T021655SQUARE.png",
+                    "number": "4237",
+                    "url": "https://jmp2.uk/sam-DE1000001CT.m3u8",
+                    "epgId": "DE1000001CT"
                 },
                 {
                     "name": "Spannung & Emotionen",

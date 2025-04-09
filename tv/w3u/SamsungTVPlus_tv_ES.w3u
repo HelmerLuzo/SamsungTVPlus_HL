@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇪🇸 by HL",
-    "author": "Actualizada 09/04/2025 00:15",
+    "author": "Actualizada 10/04/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/es.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -59,11 +59,18 @@
                     "epgId": "ESAJ380000226"
                 },
                 {
+                    "name": "RTVE Saber y Ganar",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300004P0_20250408T021807SQUARE.png",
+                    "number": "4106",
+                    "url": "https://jmp2.uk/sam-ES3300004P0.m3u8",
+                    "epgId": "ES3300004P0"
+                },
+                {
                     "name": "Yu-Gi-Oh!",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400007MR_20250408T021755SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES7000056Z_20250408T021823SQUARE.png",
                     "number": "4186",
-                    "url": "https://jmp2.uk/sam-ESBA1400007MR.m3u8",
-                    "epgId": "ESBA1400007MR"
+                    "url": "https://jmp2.uk/sam-ES7000056Z.m3u8",
+                    "epgId": "ES7000056Z"
                 },
                 {
                     "name": "Beyblade",
@@ -129,6 +136,13 @@
                     "epgId": "ESBC4700003RJ"
                 },
                 {
+                    "name": "H2O & Friends",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500002NY_20250408T021758SQUARE.png",
+                    "number": "4216",
+                    "url": "https://jmp2.uk/sam-ES500002NY.m3u8",
+                    "epgId": "ES500002NY"
+                },
+                {
                     "name": "2M",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4700001VS_20250218T035951SQUARE.png",
                     "number": "4219",
@@ -161,6 +175,13 @@
                     "number": "4002",
                     "url": "https://jmp2.uk/sam-ES400002P5.m3u8",
                     "epgId": "ES400002P5"
+                },
+                {
+                    "name": "RTVE Época",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20250408T021813SQUARE.png",
+                    "number": "4235",
+                    "url": "https://jmp2.uk/sam-ES3300006QL.m3u8",
+                    "epgId": "ES3300006QL"
                 },
                 {
                     "name": "Baywatch – Los Vigilantes de la Playa",
@@ -350,6 +371,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crimen.png",
             "stations": [
                 {
+                    "name": "RTVE Crimen",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000079W_20250408T021801SQUARE.png",
+                    "number": "4291",
+                    "url": "https://jmp2.uk/sam-ES33000079W.m3u8",
+                    "epgId": "ES33000079W"
+                },
+                {
                     "name": "El Comisario",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png",
                     "number": "4293",
@@ -454,11 +482,11 @@
                     "epgId": "ES300031A5"
                 },
                 {
-                    "name": "Top Gear en Español",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20250408T021752SQUARE.png",
+                    "name": "Top Gear",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700002YP_20250408T021820SQUARE.png",
                     "number": "4656",
-                    "url": "https://jmp2.uk/sam-ESAJ2900001Y3.m3u8",
-                    "epgId": "ESAJ2900001Y3"
+                    "url": "https://jmp2.uk/sam-ES2700002YP.m3u8",
+                    "epgId": "ES2700002YP"
                 },
                 {
                     "name": "Motorvision",
@@ -655,6 +683,13 @@
                     "epgId": "ES700004C8"
                 },
                 {
+                    "name": "RTVE Somos Cine",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20250408T021810SQUARE.png",
+                    "number": "4866",
+                    "url": "https://jmp2.uk/sam-ES33000058B.m3u8",
+                    "epgId": "ES33000058B"
+                },
+                {
                     "name": "Trailers",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20241022T051134SQUARE.png",
                     "number": "4868",
@@ -772,6 +807,13 @@
                     "number": "4947",
                     "url": "https://jmp2.uk/sam-ESBC40000248.m3u8",
                     "epgId": "ESBC40000248"
+                },
+                {
+                    "name": "Sci-Fi - Rakuten TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500004NO_20250408T021816SQUARE.png",
+                    "number": "4948",
+                    "url": "https://jmp2.uk/sam-ES500004NO.m3u8",
+                    "epgId": "ES500004NO"
                 },
                 {
                     "name": "Cine Friki",
@@ -903,6 +945,13 @@
             "name": "Documentales",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentales.png",
             "stations": [
+                {
+                    "name": "RTVE Docs",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20250408T021804SQUARE.png",
+                    "number": "4412",
+                    "url": "https://jmp2.uk/sam-ES33000036Q.m3u8",
+                    "epgId": "ES33000036Q"
+                },
                 {
                     "name": "Historia y Vida",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20241106T142227SQUARE.png",
