@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇩🇪 by HL",
-    "author": "Actualizada 16/04/2025 00:15",
+    "author": "Actualizada 17/04/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
@@ -17,16 +17,9 @@
                     "epgId": "DEBC4700002Z2"
                 },
                 {
-                    "name": "ZDF zu Hause",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE37000038D_20250415T021638SQUARE.png",
-                    "number": "4007",
-                    "url": "https://jmp2.uk/sam-DE37000038D.m3u8",
-                    "epgId": "DE37000038D"
-                },
-                {
                     "name": "Comedy Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000002Z5_20250415T021643SQUARE.png",
-                    "number": "4008",
+                    "number": "4002",
                     "url": "https://jmp2.uk/sam-DEBC3000002Z5.m3u8",
                     "epgId": "DEBC3000002Z5"
                 },
@@ -99,6 +92,13 @@
                     "number": "4170",
                     "url": "https://jmp2.uk/sam-DEAJ3200004UF.m3u8",
                     "epgId": "DEAJ3200004UF"
+                },
+                {
+                    "name": "ZDF zu Hause",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE37000038D_20250415T021638SQUARE.png",
+                    "number": "4201",
+                    "url": "https://jmp2.uk/sam-DE37000038D.m3u8",
+                    "epgId": "DE37000038D"
                 },
                 {
                     "name": "Freitag Nacht News",
@@ -189,6 +189,13 @@
             "name": "Serien",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
+                {
+                    "name": "Lindenstraße",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE33000013J_20250415T021659SQUARE.png",
+                    "number": "4007",
+                    "url": "https://jmp2.uk/sam-DE33000013J.m3u8",
+                    "epgId": "DE33000013J"
+                },
                 {
                     "name": "Baywatch",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD26000020X_20250107T024258SQUARE.png",
@@ -295,13 +302,6 @@
                     "epgId": "DEAK3504508A"
                 },
                 {
-                    "name": "Lindenstraße",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE33000013J_20250415T021659SQUARE.png",
-                    "number": "4263",
-                    "url": "https://jmp2.uk/sam-DE33000013J.m3u8",
-                    "epgId": "DE33000013J"
-                },
-                {
                     "name": "Top Serien",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300038NO_20250326T013203SQUARE.png",
                     "number": "4294",
@@ -324,7 +324,7 @@
                 {
                     "name": "Crime Serien - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600004U3_20250415T021646SQUARE.png",
-                    "number": "4004",
+                    "number": "4005",
                     "url": "https://jmp2.uk/sam-DE2600004U3.m3u8",
                     "epgId": "DE2600004U3"
                 },
@@ -344,14 +344,14 @@
                 {
                     "name": "Euronews LIVE",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600003TR_20250415T021654SQUARE.png",
-                    "number": "4003",
+                    "number": "4004",
                     "url": "https://jmp2.uk/sam-DE2600003TR.m3u8",
                     "epgId": "DE2600003TR"
                 },
                 {
                     "name": "CNN",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD800001S4_20250415T021641SQUARE.png",
-                    "number": "4005",
+                    "number": "4006",
                     "url": "https://jmp2.uk/sam-DEBD800001S4.m3u8",
                     "epgId": "DEBD800001S4"
                 },
@@ -403,13 +403,6 @@
             "name": "Dokus & Wissen",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
-                {
-                    "name": "Wilder Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20250307T152003SQUARE.png",
-                    "number": "4006",
-                    "url": "https://jmp2.uk/sam-DEBA3300042XG.m3u8",
-                    "epgId": "DEBA3300042XG"
-                },
                 {
                     "name": "The Wicked Tuna Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC220000422_20250107T024428SQUARE.png",
@@ -495,6 +488,13 @@
                     "epgId": "DEAK3504506A"
                 },
                 {
+                    "name": "Wilder Planet",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20250307T152003SQUARE.png",
+                    "number": "4486",
+                    "url": "https://jmp2.uk/sam-DEBA3300042XG.m3u8",
+                    "epgId": "DEBA3300042XG"
+                },
+                {
                     "name": "BBC Earth",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png",
                     "number": "4488",
@@ -550,18 +550,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Food & Travel.png",
             "stations": [
                 {
+                    "name": "ZDF kocht!",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700002HO_20250415T021703SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/sam-DEBD3700002HO.m3u8",
+                    "epgId": "DEBD3700002HO"
+                },
+                {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20250107T024747SQUARE.png",
                     "number": "4511",
                     "url": "https://jmp2.uk/sam-DE200003PX.m3u8",
                     "epgId": "DE200003PX"
-                },
-                {
-                    "name": "ZDF kocht!",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700002HO_20250415T021703SQUARE.png",
-                    "number": "4515",
-                    "url": "https://jmp2.uk/sam-DEBD3700002HO.m3u8",
-                    "epgId": "DEBD3700002HO"
                 },
                 {
                     "name": "BBC Food",
@@ -711,14 +711,14 @@
                 {
                     "name": "DAZN FAST+",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC470000128_20250415T021650SQUARE.png",
-                    "number": "4002",
+                    "number": "4631",
                     "url": "https://jmp2.uk/sam-DEBC470000128.m3u8",
                     "epgId": "DEBC470000128"
                 },
                 {
                     "name": "FIFA+",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20250415T021656SQUARE.png",
-                    "number": "4010",
+                    "number": "4639",
                     "url": "https://jmp2.uk/sam-DEBA3300019EB.m3u8",
                     "epgId": "DEBA3300019EB"
                 },

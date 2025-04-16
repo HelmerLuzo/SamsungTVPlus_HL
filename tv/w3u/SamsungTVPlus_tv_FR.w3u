@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇫🇷 by HL",
-    "author": "Actualizada 16/04/2025 00:15",
+    "author": "Actualizada 17/04/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/fr.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/fr.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_FR.w3u",
@@ -36,6 +36,13 @@
             "name": "Divertissement",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Divertissement.png",
             "stations": [
+                {
+                    "name": "Top Sci-Fi",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4600001FK_20250415T020912SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/sam-FR4600001FK.m3u8",
+                    "epgId": "FR4600001FK"
+                },
                 {
                     "name": "RMC Story",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20250218T040019SQUARE.png",
@@ -196,13 +203,6 @@
                     "number": "4218",
                     "url": "https://jmp2.uk/sam-FRBC3900003ZH.m3u8",
                     "epgId": "FRBC3900003ZH"
-                },
-                {
-                    "name": "Top Sci-Fi",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4600001FK_20250415T020912SQUARE.png",
-                    "number": "4221",
-                    "url": "https://jmp2.uk/sam-FR4600001FK.m3u8",
-                    "epgId": "FR4600001FK"
                 }
             ]
         },
@@ -245,18 +245,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Séries TV.png",
             "stations": [
                 {
-                    "name": "Plus belle la vie",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD37000020Y_20250415T020906SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/sam-FRBD37000020Y.m3u8",
-                    "epgId": "FRBD37000020Y"
+                    "name": "Passion Bollywood",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100001V1_20250415T020904SQUARE.png",
+                    "number": "4006",
+                    "url": "https://jmp2.uk/sam-FR1100001V1.m3u8",
+                    "epgId": "FR1100001V1"
                 },
                 {
-                    "name": "Génération Sitcoms",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20250415T020858SQUARE.png",
-                    "number": "4006",
-                    "url": "https://jmp2.uk/sam-FRBC4700001XG.m3u8",
-                    "epgId": "FRBC4700001XG"
+                    "name": "Plus belle la vie",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD37000020Y_20250415T020906SQUARE.png",
+                    "number": "4007",
+                    "url": "https://jmp2.uk/sam-FRBD37000020Y.m3u8",
+                    "epgId": "FRBD37000020Y"
                 },
                 {
                     "name": "Un si grand soleil",
@@ -336,6 +336,13 @@
                     "epgId": "FRBC47000054S"
                 },
                 {
+                    "name": "Génération Sitcoms",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20250415T020858SQUARE.png",
+                    "number": "4255",
+                    "url": "https://jmp2.uk/sam-FRBC4700001XG.m3u8",
+                    "epgId": "FRBC4700001XG"
+                },
+                {
                     "name": "Fréquence Novelas",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC800001X0_20241025T153329SQUARE.png",
                     "number": "4261",
@@ -369,13 +376,6 @@
                     "number": "4269",
                     "url": "https://jmp2.uk/sam-FRBA3300022OA.m3u8",
                     "epgId": "FRBA3300022OA"
-                },
-                {
-                    "name": "Passion Bollywood",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100001V1_20250415T020904SQUARE.png",
-                    "number": "4271",
-                    "url": "https://jmp2.uk/sam-FR1100001V1.m3u8",
-                    "epgId": "FR1100001V1"
                 },
                 {
                     "name": "Zee Magic",
@@ -453,6 +453,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentaires.png",
             "stations": [
                 {
+                    "name": "La Maison France 5",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4200001BN_20250415T020850SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/sam-FR4200001BN.m3u8",
+                    "epgId": "FR4200001BN"
+                },
+                {
                     "name": "J'irai dormir chez vous",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20241106T142647SQUARE.png",
                     "number": "4354",
@@ -479,13 +486,6 @@
                     "number": "4358",
                     "url": "https://jmp2.uk/sam-FRBD410000436.m3u8",
                     "epgId": "FRBD410000436"
-                },
-                {
-                    "name": "La Maison France 5",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4200001BN_20250415T020850SQUARE.png",
-                    "number": "4360",
-                    "url": "https://jmp2.uk/sam-FR4200001BN.m3u8",
-                    "epgId": "FR4200001BN"
                 },
                 {
                     "name": "Real Life",
@@ -649,7 +649,7 @@
                 {
                     "name": "Euronews EN DIRECT",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600004SS_20250415T020856SQUARE.png",
-                    "number": "4003",
+                    "number": "4004",
                     "url": "https://jmp2.uk/sam-FR2600004SS.m3u8",
                     "epgId": "FR2600004SS"
                 },
@@ -718,7 +718,7 @@
                 {
                     "name": "L'Equipe Live 1",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20250415T020901SQUARE.png",
-                    "number": "4005",
+                    "number": "4605",
                     "url": "https://jmp2.uk/sam-FRBC4200004XH.m3u8",
                     "epgId": "FRBC4200004XH"
                 },
@@ -974,16 +974,9 @@
                 {
                     "name": "Top Films - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600007CB_20250415T020909SQUARE.png",
-                    "number": "4004",
+                    "number": "4005",
                     "url": "https://jmp2.uk/sam-FR2600007CB.m3u8",
                     "epgId": "FR2600007CB"
-                },
-                {
-                    "name": "Box Office Action",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20250415T020853SQUARE.png",
-                    "number": "4007",
-                    "url": "https://jmp2.uk/sam-FR370000288.m3u8",
-                    "epgId": "FR370000288"
                 },
                 {
                     "name": "Box Office Teens",
@@ -1124,6 +1117,13 @@
                     "number": "4991",
                     "url": "https://jmp2.uk/sam-FR1800003VF.m3u8",
                     "epgId": "FR1800003VF"
+                },
+                {
+                    "name": "Box Office Action",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20250415T020853SQUARE.png",
+                    "number": "4994",
+                    "url": "https://jmp2.uk/sam-FR370000288.m3u8",
+                    "epgId": "FR370000288"
                 },
                 {
                     "name": "Sony One Action HITS",

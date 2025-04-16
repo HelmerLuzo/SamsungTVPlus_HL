@@ -1,4 +1,8 @@
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/kr.xml.gz"
+#EXTINF:-1 tvg-id="KRBC3200031KO" tvg-name="KRBC3200031KO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200031KO_20250416T004428SQUARE.png" group-title="드라마" , tvN 인급동
+https://jmp2.uk/sam-KRBC3200031KO.m3u8
+#EXTINF:-1 tvg-id="KRBC3200017JQ" tvg-name="KRBC3200017JQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20250416T004433SQUARE.png" group-title="드라마" , tvN 환혼 : 빛과 그림자
+https://jmp2.uk/sam-KRBC3200017JQ.m3u8
 #EXTINF:-1 tvg-id="KRBC3200018FU" tvg-name="KRBC3200018FU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20250402T005950SQUARE.png" group-title="드라마" , tvN 내 남편과 결혼해줘
 https://jmp2.uk/sam-KRBC3200018FU.m3u8
 #EXTINF:-1 tvg-id="KRBC3500014ZH" tvg-name="KRBC3500014ZH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500014ZH_20250402T010035SQUARE.png" group-title="드라마" , 고독한 미식가
@@ -25,16 +29,16 @@ https://jmp2.uk/sam-KRBB420001572.m3u8
 https://jmp2.uk/sam-KRBB5000070U4.m3u8
 #EXTINF:-1 tvg-id="KRBB500037T3" tvg-name="KRBB500037T3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500037T3_20250402T010311SQUARE.png" group-title="드라마" , MBC every1 별순검
 https://jmp2.uk/sam-KRBB500037T3.m3u8
-#EXTINF:-1 tvg-id="KRBC3200031KO" tvg-name="KRBC3200031KO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200031KO_20250402T010029SQUARE.png" group-title="드라마" , tvN 인급동
-https://jmp2.uk/sam-KRBC3200031KO.m3u8
 #EXTINF:-1 tvg-id="KRBC4000003J2" tvg-name="KRBC4000003J2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000003J2_20250402T010113SQUARE.png" group-title="드라마" , 전우치
 https://jmp2.uk/sam-KRBC4000003J2.m3u8
-#EXTINF:-1 tvg-id="KRBC3200017JQ" tvg-name="KRBC3200017JQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20250402T010401SQUARE.png" group-title="드라마" , OCN 써치
-https://jmp2.uk/sam-KRBC3200017JQ.m3u8
 #EXTINF:-1 tvg-id="KRBC3200001VC" tvg-name="KRBC3200001VC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20250402T010145SQUARE.png" group-title="드라마" , Animax 요리왕 비룡 더 마스터
 https://jmp2.uk/sam-KRBC3200001VC.m3u8
 #EXTINF:-1 tvg-id="KR4000020F" tvg-name="KR4000020F" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4000020F_20250402T010214SQUARE.png" group-title="드라마" , JTBC 라이프
 https://jmp2.uk/sam-KR4000020F.m3u8
+#EXTINF:-1 tvg-id="KR700006WZ" tvg-name="KR700006WZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700006WZ_20250416T004426SQUARE.png" group-title="예능" , tvN 에드워드리의 컨츄리쿡
+https://jmp2.uk/sam-KR700006WZ.m3u8
+#EXTINF:-1 tvg-id="KRBC3200028P2" tvg-name="KRBC3200028P2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200028P2_20250416T004424SQUARE.png" group-title="예능" , Mnet 커플팰리스 1~2 이어보기
+https://jmp2.uk/sam-KRBC3200028P2.m3u8
 #EXTINF:-1 tvg-id="KRBB5000069BS" tvg-name="KRBB5000069BS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20250402T010329SQUARE.png" group-title="예능" , MBC 무한도전
 https://jmp2.uk/sam-KRBB5000069BS.m3u8
 #EXTINF:-1 tvg-id="KRBC3200029C4" tvg-name="KRBC3200029C4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200029C4_20250402T010018SQUARE.png" group-title="예능" , tvN 식스센스 전 시즌 모아보기
@@ -87,8 +91,6 @@ https://jmp2.uk/sam-KRBD27000069Q.m3u8
 https://jmp2.uk/sam-KR480000234.m3u8
 #EXTINF:-1 tvg-id="KRBB5000073UD" tvg-name="KRBB5000073UD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000073UD_20250402T010326SQUARE.png" group-title="예능" , MBC 놀면 뭐하니
 https://jmp2.uk/sam-KRBB5000073UD.m3u8
-#EXTINF:-1 tvg-id="KRBC3200028P2" tvg-name="KRBC3200028P2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200028P2_20250402T010357SQUARE.png" group-title="예능" , Mnet I-LAND2 : N/a
-https://jmp2.uk/sam-KRBC3200028P2.m3u8
 #EXTINF:-1 tvg-id="KRBB4200003ZL" tvg-name="KRBB4200003ZL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200003ZL_20250402T010437SQUARE.png" group-title="예능" , SBS 미운 우리 새끼
 https://jmp2.uk/sam-KRBB4200003ZL.m3u8
 #EXTINF:-1 tvg-id="KRBD5200001G8" tvg-name="KRBD5200001G8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200001G8_20250402T010247SQUARE.png" group-title="예능" , JTBC 효리네 민박1&2

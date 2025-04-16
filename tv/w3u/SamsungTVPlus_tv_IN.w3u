@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇳 by HL",
-    "author": "Actualizada 16/04/2025 00:15",
+    "author": "Actualizada 17/04/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/in.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/in.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IN.w3u",
@@ -22,6 +22,13 @@
                     "number": "1002",
                     "url": "https://jmp2.uk/sam-IN3800008CX.m3u8",
                     "epgId": "IN3800008CX"
+                },
+                {
+                    "name": "NH BollyFlix",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20250416T005417SQUARE.png",
+                    "number": "1003",
+                    "url": "https://jmp2.uk/sam-IN46000140Q.m3u8",
+                    "epgId": "IN46000140Q"
                 },
                 {
                     "name": "Hollywood Desi",
@@ -91,6 +98,13 @@
                     "number": "1435",
                     "url": "https://jmp2.uk/sam-IN38000050P.m3u8",
                     "epgId": "IN38000050P"
+                },
+                {
+                    "name": "NH BollyRaga",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001373_20250416T005420SQUARE.png",
+                    "number": "1436",
+                    "url": "https://jmp2.uk/sam-IN460001373.m3u8",
+                    "epgId": "IN460001373"
                 },
                 {
                     "name": "9X Jalwa",
@@ -176,11 +190,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Hindi News.png",
             "stations": [
                 {
-                    "name": "News24",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900001YE_20250205T004614SQUARE.png",
+                    "name": "News Nation",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900004Q7_20250416T005423SQUARE.png",
                     "number": "1004",
-                    "url": "https://jmp2.uk/sam-IN3900001YE.m3u8",
-                    "epgId": "IN3900001YE"
+                    "url": "https://jmp2.uk/sam-IN3900004Q7.m3u8",
+                    "epgId": "IN3900004Q7"
                 },
                 {
                     "name": "Aaj Tak HD",
@@ -204,18 +218,18 @@
                     "epgId": "INBA490002119"
                 },
                 {
+                    "name": "News24",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900001YE_20250416T005429SQUARE.png",
+                    "number": "1019",
+                    "url": "https://jmp2.uk/sam-IN3900001YE.m3u8",
+                    "epgId": "IN3900001YE"
+                },
+                {
                     "name": "ABP News",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400006H0_20240131T032404SQUARE.png_20240131032405.png",
                     "number": "1021",
                     "url": "https://jmp2.uk/sam-INBD400006H0.m3u8",
                     "epgId": "INBD400006H0"
-                },
-                {
-                    "name": "News Nation",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900004Q7_20250205T004612SQUARE.png",
-                    "number": "1022",
-                    "url": "https://jmp2.uk/sam-IN3900004Q7.m3u8",
-                    "epgId": "IN3900004Q7"
                 },
                 {
                     "name": "News18 India",
@@ -543,6 +557,13 @@
                     "number": "1468",
                     "url": "https://jmp2.uk/sam-IN3900007Y7.m3u8",
                     "epgId": "IN3900007Y7"
+                },
+                {
+                    "name": "News State UK UP",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000050P_20250416T005426SQUARE.png",
+                    "number": "1469",
+                    "url": "https://jmp2.uk/sam-IN39000050P.m3u8",
+                    "epgId": "IN39000050P"
                 }
             ]
         },
@@ -584,6 +605,13 @@
                     "number": "1116",
                     "url": "https://jmp2.uk/sam-IN2600015OO.m3u8",
                     "epgId": "IN2600015OO"
+                },
+                {
+                    "name": "House of Crime",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600004HW_20250416T005413SQUARE.png",
+                    "number": "1117",
+                    "url": "https://jmp2.uk/sam-IN4600004HW.m3u8",
+                    "epgId": "IN4600004HW"
                 },
                 {
                     "name": "The Lallantop",
@@ -654,20 +682,6 @@
                     "number": "1133",
                     "url": "https://jmp2.uk/sam-IN2700003S1.m3u8",
                     "epgId": "IN2700003S1"
-                },
-                {
-                    "name": "Wild Flix",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000585_20250205T004623SQUARE.png",
-                    "number": "1166",
-                    "url": "https://jmp2.uk/sam-IN460000585.m3u8",
-                    "epgId": "IN460000585"
-                },
-                {
-                    "name": "Wheel World",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000250_20250205T004620SQUARE.png",
-                    "number": "1187",
-                    "url": "https://jmp2.uk/sam-IN460000250.m3u8",
-                    "epgId": "IN460000250"
                 }
             ]
         },
@@ -800,13 +814,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Infotainment.png",
             "stations": [
                 {
-                    "name": "House of Crime",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600004HW_20250205T004604SQUARE.png",
-                    "number": "1003",
-                    "url": "https://jmp2.uk/sam-IN4600004HW.m3u8",
-                    "epgId": "IN4600004HW"
-                },
-                {
                     "name": "HISTORY TV18 - Hindi",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600009NL_20240912T093622SQUARE.png",
                     "number": "1163",
@@ -826,6 +833,13 @@
                     "number": "1165",
                     "url": "https://jmp2.uk/sam-IN17000109O.m3u8",
                     "epgId": "IN17000109O"
+                },
+                {
+                    "name": "Wild Flix",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000585_20250416T020413SQUARE.png",
+                    "number": "1166",
+                    "url": "https://jmp2.uk/sam-IN460000585.m3u8",
+                    "epgId": "IN460000585"
                 },
                 {
                     "name": "Xplore",
@@ -868,6 +882,13 @@
                     "number": "1185",
                     "url": "https://jmp2.uk/sam-INBA4900007JX.m3u8",
                     "epgId": "INBA4900007JX"
+                },
+                {
+                    "name": "Wheel World",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000250_20250416T020410SQUARE.png",
+                    "number": "1187",
+                    "url": "https://jmp2.uk/sam-IN460000250.m3u8",
+                    "epgId": "IN460000250"
                 }
             ]
         },

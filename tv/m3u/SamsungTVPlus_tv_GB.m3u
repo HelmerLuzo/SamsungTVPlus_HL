@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz"
 #EXTINF:-1 tvg-id="GBBC2300003ZQ" tvg-name="GBBC2300003ZQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20250211T014102SQUARE.png" group-title="Entertainment" , Entertainment Hub
 https://jmp2.uk/sam-GBBC2300003ZQ.m3u8
-#EXTINF:-1 tvg-id="GBBD25000038Y" tvg-name="GBBD25000038Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20250415T020931SQUARE.png" group-title="Entertainment" , Comedy Hub
-https://jmp2.uk/sam-GBBD25000038Y.m3u8
+#EXTINF:-1 tvg-id="GB1100001EB" tvg-name="GB1100001EB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1100001EB_20250415T020942SQUARE.png" group-title="Entertainment" , The Diary Of A CEO
+https://jmp2.uk/sam-GB1100001EB.m3u8
 #EXTINF:-1 tvg-id="GBBD3100003J5" tvg-name="GBBD3100003J5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100003J5_20250107T030818SQUARE.png" group-title="Entertainment" , U&Laughs
 https://jmp2.uk/sam-GBBD3100003J5.m3u8
 #EXTINF:-1 tvg-id="GB60000197" tvg-name="GB60000197" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB60000197_20250107T153913SQUARE.png" group-title="Entertainment" , Sky Arts
@@ -25,10 +25,10 @@ https://jmp2.uk/sam-GBBD500005ZG.m3u8
 https://jmp2.uk/sam-GB3900002DT.m3u8
 #EXTINF:-1 tvg-id="GB300001QO" tvg-name="GB300001QO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300001QO_20250107T030611SQUARE.png" group-title="Entertainment" , Conan O'Brien TV
 https://jmp2.uk/sam-GB300001QO.m3u8
-#EXTINF:-1 tvg-id="GB1100001EB" tvg-name="GB1100001EB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1100001EB_20250415T020942SQUARE.png" group-title="Entertainment" , The Diary Of A CEO
-https://jmp2.uk/sam-GB1100001EB.m3u8
 #EXTINF:-1 tvg-id="GB4600001W9" tvg-name="GB4600001W9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4600001W9_20250107T031126SQUARE.png" group-title="Entertainment" , Hot Ones
 https://jmp2.uk/sam-GB4600001W9.m3u8
+#EXTINF:-1 tvg-id="GBBD25000038Y" tvg-name="GBBD25000038Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20250415T020931SQUARE.png" group-title="Entertainment" , Comedy Hub
+https://jmp2.uk/sam-GBBD25000038Y.m3u8
 #EXTINF:-1 tvg-id="GB1800002FA" tvg-name="GB1800002FA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1800002FA_20250211T013901SQUARE.png" group-title="Entertainment" , 8 Out Of 10 Cats
 https://jmp2.uk/sam-GB1800002FA.m3u8
 #EXTINF:-1 tvg-id="GB4000008O5" tvg-name="GB4000008O5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4000008O5_20250107T031325SQUARE.png" group-title="Entertainment" , Mr Bean Live Action
@@ -49,14 +49,12 @@ https://jmp2.uk/sam-GBBD1100003I0.m3u8
 https://jmp2.uk/sam-GBBD1500003SD.m3u8
 #EXTINF:-1 tvg-id="GBBB38000068U" tvg-name="GBBB38000068U" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB38000068U_20250107T022828SQUARE.png" group-title="Entertainment" , Deal or No Deal US
 https://jmp2.uk/sam-GBBB38000068U.m3u8
-#EXTINF:-1 tvg-id="GB1200004J4" tvg-name="GB1200004J4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1200004J4_20250415T020928SQUARE.png" group-title="Reality" , Cash in the Attic
-https://jmp2.uk/sam-GB1200004J4.m3u8
+#EXTINF:-1 tvg-id="GBBC2300001X5" tvg-name="GBBC2300001X5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20250415T020923SQUARE.png" group-title="Reality" , American Idol
+https://jmp2.uk/sam-GBBC2300001X5.m3u8
 #EXTINF:-1 tvg-id="GBBB4600001IK" tvg-name="GBBB4600001IK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB4600001IK_20250107T030734SQUARE.png" group-title="Reality" , Project Runway
 https://jmp2.uk/sam-GBBB4600001IK.m3u8
 #EXTINF:-1 tvg-id="GBBC2300002GG" tvg-name="GBBC2300002GG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20250107T022815SQUARE.png" group-title="Reality" , America's Got Talent
 https://jmp2.uk/sam-GBBC2300002GG.m3u8
-#EXTINF:-1 tvg-id="GBBC2300001X5" tvg-name="GBBC2300001X5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20250415T020923SQUARE.png" group-title="Reality" , American Idol
-https://jmp2.uk/sam-GBBC2300001X5.m3u8
 #EXTINF:-1 tvg-id="GBBC900013K9" tvg-name="GBBC900013K9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900013K9_20250107T022849SQUARE.png" group-title="Reality" , Homes Under the Hammer
 https://jmp2.uk/sam-GBBC900013K9.m3u8
 #EXTINF:-1 tvg-id="GBBC9000062G" tvg-name="GBBC9000062G" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC9000062G_20250107T022825SQUARE.png" group-title="Reality" , Come Dine With Me
@@ -73,6 +71,8 @@ https://jmp2.uk/sam-GB270000568.m3u8
 https://jmp2.uk/sam-GB2700010NQ.m3u8
 #EXTINF:-1 tvg-id="GB2400006I0" tvg-name="GB2400006I0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2400006I0_20250107T030809SQUARE.png" group-title="Reality" , Tiny House Nation
 https://jmp2.uk/sam-GB2400006I0.m3u8
+#EXTINF:-1 tvg-id="GB1200004J4" tvg-name="GB1200004J4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1200004J4_20250415T020928SQUARE.png" group-title="Reality" , Cash in the Attic
+https://jmp2.uk/sam-GB1200004J4.m3u8
 #EXTINF:-1 tvg-id="GB3900003W4" tvg-name="GB3900003W4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3900003W4_20250121T013015SQUARE.png" group-title="Reality" , Inside Outside
 https://jmp2.uk/sam-GB3900003W4.m3u8
 #EXTINF:-1 tvg-id="GB2600021LP" tvg-name="GB2600021LP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600021LP_20250107T031207SQUARE.png" group-title="Reality" , Reality - Rakuten TV
