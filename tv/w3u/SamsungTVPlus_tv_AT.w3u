@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇦🇹 by HL",
-    "author": "Actualizada 23/04/2025 00:15",
+    "author": "Actualizada 24/04/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/at.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/at.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_AT.w3u",
@@ -15,6 +15,13 @@
                     "number": "4007",
                     "url": "https://jmp2.uk/sam-ATBD41000046O.m3u8",
                     "epgId": "ATBD41000046O"
+                },
+                {
+                    "name": "Hochzeit auf den ersten Blick",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT48000012I_20250422T045228SQUARE.png",
+                    "number": "4069",
+                    "url": "https://jmp2.uk/sam-AT48000012I.m3u8",
+                    "epgId": "AT48000012I"
                 },
                 {
                     "name": "Hell's Kitchen",
@@ -211,6 +218,13 @@
                     "epgId": "AT4800002G5"
                 },
                 {
+                    "name": "Herzfrequenz",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1500003M7_20250422T045225SQUARE.png",
+                    "number": "4237",
+                    "url": "https://jmp2.uk/sam-AT1500003M7.m3u8",
+                    "epgId": "AT1500003M7"
+                },
+                {
                     "name": "Spannung & Emotionen",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC30000021Q_20250107T022214SQUARE.png",
                     "number": "4240",
@@ -251,6 +265,13 @@
                     "number": "4255",
                     "url": "https://jmp2.uk/sam-ATAK3504505A.m3u8",
                     "epgId": "ATAK3504505A"
+                },
+                {
+                    "name": "Telenovela ZDF",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1500002N1_20250422T045233SQUARE.png",
+                    "number": "4265",
+                    "url": "https://jmp2.uk/sam-AT1500002N1.m3u8",
+                    "epgId": "AT1500002N1"
                 }
             ]
         },
@@ -271,6 +292,13 @@
                     "number": "4294",
                     "url": "https://jmp2.uk/sam-ATBA33000270C.m3u8",
                     "epgId": "ATBA33000270C"
+                },
+                {
+                    "name": "KultKrimi",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT15000015I_20250422T045230SQUARE.png",
+                    "number": "4299",
+                    "url": "https://jmp2.uk/sam-AT15000015I.m3u8",
+                    "epgId": "AT15000015I"
                 }
             ]
         },
@@ -293,7 +321,7 @@
                     "epgId": "ATBD800001VA"
                 },
                 {
-                    "name": "CNN FAST",
+                    "name": "CNN Headlines",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD190000101_20250422T045222SQUARE.png",
                     "number": "4557",
                     "url": "https://jmp2.uk/sam-ATBD190000101.m3u8",

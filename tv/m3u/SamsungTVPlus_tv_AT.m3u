@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/at.xml.gz"
 #EXTINF:-1 tvg-id="ATBD41000046O" tvg-name="ATBD41000046O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD41000046O_20250415T021526SQUARE.png" group-title="Entertainment" , Comedy Mix
 https://jmp2.uk/sam-ATBD41000046O.m3u8
+#EXTINF:-1 tvg-id="AT48000012I" tvg-name="AT48000012I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT48000012I_20250422T045228SQUARE.png" group-title="Entertainment" , Hochzeit auf den ersten Blick
+https://jmp2.uk/sam-AT48000012I.m3u8
 #EXTINF:-1 tvg-id="ATBD2600001QK" tvg-name="ATBD2600001QK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600001QK_20250107T022127SQUARE.png" group-title="Entertainment" , Hell's Kitchen
 https://jmp2.uk/sam-ATBD2600001QK.m3u8
 #EXTINF:-1 tvg-id="ATAJ7000105F" tvg-name="ATAJ7000105F" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ7000105F_20250107T021734SQUARE.png" group-title="Entertainment" , MTV Teen Mom
@@ -53,6 +55,8 @@ https://jmp2.uk/sam-ATBD2600008HN.m3u8
 https://jmp2.uk/sam-AT3700002Z3.m3u8
 #EXTINF:-1 tvg-id="AT4800002G5" tvg-name="AT4800002G5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20250214T112510SQUARE.png" group-title="Serien" , Hudson & Rex
 https://jmp2.uk/sam-AT4800002G5.m3u8
+#EXTINF:-1 tvg-id="AT1500003M7" tvg-name="AT1500003M7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1500003M7_20250422T045225SQUARE.png" group-title="Serien" , Herzfrequenz
+https://jmp2.uk/sam-AT1500003M7.m3u8
 #EXTINF:-1 tvg-id="ATBC30000021Q" tvg-name="ATBC30000021Q" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC30000021Q_20250107T022214SQUARE.png" group-title="Serien" , Spannung & Emotionen
 https://jmp2.uk/sam-ATBC30000021Q.m3u8
 #EXTINF:-1 tvg-id="ATBA3300006WH" tvg-name="ATBA3300006WH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300006WH_20250107T022248SQUARE.png" group-title="Serien" , Zee One
@@ -65,15 +69,19 @@ https://jmp2.uk/sam-ATAK3504506A.m3u8
 https://jmp2.uk/sam-ATBA33000209C.m3u8
 #EXTINF:-1 tvg-id="ATAK3504505A" tvg-name="ATAK3504505A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504505A_20250107T021846SQUARE.png" group-title="Serien" , Pluto TV Sitcoms
 https://jmp2.uk/sam-ATAK3504505A.m3u8
+#EXTINF:-1 tvg-id="AT1500002N1" tvg-name="AT1500002N1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1500002N1_20250422T045233SQUARE.png" group-title="Serien" , Telenovela ZDF
+https://jmp2.uk/sam-AT1500002N1.m3u8
 #EXTINF:-1 tvg-id="AT260000634" tvg-name="AT260000634" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT260000634_20250415T021529SQUARE.png" group-title="Crime" , Crime Serien - Rakuten TV
 https://jmp2.uk/sam-AT260000634.m3u8
 #EXTINF:-1 tvg-id="ATBA33000270C" tvg-name="ATBA33000270C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA33000270C_20250326T013156SQUARE.png" group-title="Crime" , Top Serien
 https://jmp2.uk/sam-ATBA33000270C.m3u8
+#EXTINF:-1 tvg-id="AT15000015I" tvg-name="AT15000015I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT15000015I_20250422T045230SQUARE.png" group-title="Crime" , KultKrimi
+https://jmp2.uk/sam-AT15000015I.m3u8
 #EXTINF:-1 tvg-id="AT2600002KW" tvg-name="AT2600002KW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2600002KW_20250415T021535SQUARE.png" group-title="News" , Euronews LIVE
 https://jmp2.uk/sam-AT2600002KW.m3u8
 #EXTINF:-1 tvg-id="ATBD800001VA" tvg-name="ATBD800001VA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20250415T021523SQUARE.png" group-title="News" , CNN
 https://jmp2.uk/sam-ATBD800001VA.m3u8
-#EXTINF:-1 tvg-id="ATBD190000101" tvg-name="ATBD190000101" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD190000101_20250422T045222SQUARE.png" group-title="News" , CNN FAST
+#EXTINF:-1 tvg-id="ATBD190000101" tvg-name="ATBD190000101" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD190000101_20250422T045222SQUARE.png" group-title="News" , CNN Headlines
 https://jmp2.uk/sam-ATBD190000101.m3u8
 #EXTINF:-1 tvg-id="ATBD1100002TA" tvg-name="ATBD1100002TA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1100002TA_20250107T022112SQUARE.png" group-title="News" , FRANCE 24 FAST
 https://jmp2.uk/sam-ATBD1100002TA.m3u8

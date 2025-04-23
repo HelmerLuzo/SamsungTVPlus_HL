@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇩🇪 by HL",
-    "author": "Actualizada 23/04/2025 00:15",
+    "author": "Actualizada 24/04/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
@@ -29,6 +29,13 @@
                     "number": "4063",
                     "url": "https://jmp2.uk/sam-DEBD30000014M.m3u8",
                     "epgId": "DEBD30000014M"
+                },
+                {
+                    "name": "Hochzeit auf den ersten Blick",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800003M6_20250422T045252SQUARE.png",
+                    "number": "4069",
+                    "url": "https://jmp2.uk/sam-DE4800003M6.m3u8",
+                    "epgId": "DE4800003M6"
                 },
                 {
                     "name": "Hell's Kitchen",
@@ -302,6 +309,13 @@
                     "epgId": "DEAK3504508A"
                 },
                 {
+                    "name": "Telenovela ZDF",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE400011F2_20250422T045301SQUARE.png",
+                    "number": "4265",
+                    "url": "https://jmp2.uk/sam-DE400011F2.m3u8",
+                    "epgId": "DE400011F2"
+                },
+                {
                     "name": "Top Serien",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300038NO_20250326T013203SQUARE.png",
                     "number": "4294",
@@ -314,6 +328,13 @@
                     "number": "4298",
                     "url": "https://jmp2.uk/sam-DE4300001HK.m3u8",
                     "epgId": "DE4300001HK"
+                },
+                {
+                    "name": "KultKrimi",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE400012YD_20250422T045255SQUARE.png",
+                    "number": "4299",
+                    "url": "https://jmp2.uk/sam-DE400012YD.m3u8",
+                    "epgId": "DE400012YD"
                 }
             ]
         },
@@ -334,6 +355,13 @@
                     "number": "4302",
                     "url": "https://jmp2.uk/sam-DEBD1900002CB.m3u8",
                     "epgId": "DEBD1900002CB"
+                },
+                {
+                    "name": "Spiegel TV action+crime",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1400003DP_20250422T045258SQUARE.png",
+                    "number": "4304",
+                    "url": "https://jmp2.uk/sam-DE1400003DP.m3u8",
+                    "epgId": "DE1400003DP"
                 }
             ]
         },
@@ -356,7 +384,7 @@
                     "epgId": "DEBD800001S4"
                 },
                 {
-                    "name": "CNN FAST",
+                    "name": "CNN Headlines",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD19000012M_20250422T045246SQUARE.png",
                     "number": "4557",
                     "url": "https://jmp2.uk/sam-DEBD19000012M.m3u8",
@@ -640,6 +668,13 @@
                     "epgId": "DEAJ0500429A"
                 },
                 {
+                    "name": "DF1",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE400010IF_20250422T045249SQUARE.png",
+                    "number": "4637",
+                    "url": "https://jmp2.uk/sam-DE400010IF.m3u8",
+                    "epgId": "DE400010IF"
+                },
+                {
                     "name": "Top Gear",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2400002VA_20250107T024431SQUARE.png",
                     "number": "4656",
@@ -776,6 +811,13 @@
                     "number": "4705",
                     "url": "https://jmp2.uk/sam-DEBA2200007V6.m3u8",
                     "epgId": "DEBA2200007V6"
+                },
+                {
+                    "name": "XITE R&B Classic Jams",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1300001XL_20250422T045303SQUARE.png",
+                    "number": "4706",
+                    "url": "https://jmp2.uk/sam-DE1300001XL.m3u8",
+                    "epgId": "DE1300001XL"
                 },
                 {
                     "name": "XITE Rock X Metal",

@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇪🇸 by HL",
-    "author": "Actualizada 23/04/2025 00:15",
+    "author": "Actualizada 24/04/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/es.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -316,7 +316,7 @@
                     "epgId": "ESBC1400001L8"
                 },
                 {
-                    "name": "CNN FAST",
+                    "name": "CNN Headlines",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20250422T043326SQUARE.png",
                     "number": "4561",
                     "url": "https://jmp2.uk/sam-ESBD190000137.m3u8",
@@ -723,6 +723,13 @@
                     "number": "4888",
                     "url": "https://jmp2.uk/sam-ES2600012C9.m3u8",
                     "epgId": "ES2600012C9"
+                },
+                {
+                    "name": "Todo Pasión",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900002ZD_20250422T103210SQUARE.png",
+                    "number": "4890",
+                    "url": "https://jmp2.uk/sam-ES900002ZD.m3u8",
+                    "epgId": "ES900002ZD"
                 },
                 {
                     "name": "Cine Feel Good – Verdi TV",

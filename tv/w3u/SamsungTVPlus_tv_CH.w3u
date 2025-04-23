@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇨🇭 by HL",
-    "author": "Actualizada 23/04/2025 00:15",
+    "author": "Actualizada 24/04/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/ch.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/ch.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CH.w3u",
@@ -29,6 +29,13 @@
                     "number": "4041",
                     "url": "https://jmp2.uk/sam-CH500003EH.m3u8",
                     "epgId": "CH500003EH"
+                },
+                {
+                    "name": "Hochzeit auf den ersten Blick",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4800001LT_20250422T045241SQUARE.png",
+                    "number": "4069",
+                    "url": "https://jmp2.uk/sam-CH4800001LT.m3u8",
+                    "epgId": "CH4800001LT"
                 },
                 {
                     "name": "Hell's Kitchen",
@@ -342,7 +349,7 @@
                     "epgId": "CHBD800001D0"
                 },
                 {
-                    "name": "CNN FAST",
+                    "name": "CNN Headlines",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD1900001JB_20250422T045238SQUARE.png",
                     "number": "4557",
                     "url": "https://jmp2.uk/sam-CHBD1900001JB.m3u8",

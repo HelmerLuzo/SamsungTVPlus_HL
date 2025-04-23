@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇺🇸 by HL",
-    "author": "Actualizada 23/04/2025 00:15",
+    "author": "Actualizada 24/04/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/us.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_US.w3u",
@@ -149,9 +149,16 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Movies.png",
             "stations": [
                 {
+                    "name": "Movie Hub Action",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20250421T234918SQUARE.png",
+                    "number": "1000",
+                    "url": "https://jmp2.uk/sam-USBD3500032H0.m3u8",
+                    "epgId": "USBD3500032H0"
+                },
+                {
                     "name": "Movie Hub",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20250421T234846SQUARE.png",
-                    "number": "1000",
+                    "number": "1200",
                     "url": "https://jmp2.uk/sam-USBA3000041ZP.m3u8",
                     "epgId": "USBA3000041ZP"
                 },
@@ -161,13 +168,6 @@
                     "number": "1201",
                     "url": "https://jmp2.uk/sam-USBD3500036HP.m3u8",
                     "epgId": "USBD3500036HP"
-                },
-                {
-                    "name": "Movie Hub Action",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20250421T234918SQUARE.png",
-                    "number": "1204",
-                    "url": "https://jmp2.uk/sam-USBD3500032H0.m3u8",
-                    "epgId": "USBD3500032H0"
                 },
                 {
                     "name": "Movie Hub Romance",
@@ -740,13 +740,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality TV.png",
             "stations": [
                 {
-                    "name": "Duck Dynasty",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400002GF_20250421T234912SQUARE.png",
-                    "number": "1003",
-                    "url": "https://jmp2.uk/sam-USBC4400002GF.m3u8",
-                    "epgId": "USBC4400002GF"
-                },
-                {
                     "name": "All-Out Reality",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20250204T014257SQUARE.png",
                     "number": "1904",
@@ -892,6 +885,13 @@
                     "number": "1970",
                     "url": "https://jmp2.uk/sam-USBD4200009Y4.m3u8",
                     "epgId": "USBD4200009Y4"
+                },
+                {
+                    "name": "Duck Dynasty",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400002GF_20250421T234912SQUARE.png",
+                    "number": "1976",
+                    "url": "https://jmp2.uk/sam-USBC4400002GF.m3u8",
+                    "epgId": "USBC4400002GF"
                 },
                 {
                     "name": "Swamp People",
@@ -1137,16 +1137,9 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sports & Outdoors.png",
             "stations": [
                 {
-                    "name": "Combate Global MMA",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600006R8_20250421T234910SQUARE.png",
-                    "number": "1004",
-                    "url": "https://jmp2.uk/sam-US4600006R8.m3u8",
-                    "epgId": "US4600006R8"
-                },
-                {
                     "name": "NFL Channel",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20250421T234921SQUARE.png",
-                    "number": "2310",
+                    "number": "1002",
                     "url": "https://jmp2.uk/sam-US2600007WJ.m3u8",
                     "epgId": "US2600007WJ"
                 },
@@ -1226,6 +1219,13 @@
                     "number": "2354",
                     "url": "https://jmp2.uk/sam-US350000231.m3u8",
                     "epgId": "US350000231"
+                },
+                {
+                    "name": "Combate Global MMA",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600006R8_20250421T234910SQUARE.png",
+                    "number": "2356",
+                    "url": "https://jmp2.uk/sam-US4600006R8.m3u8",
+                    "epgId": "US4600006R8"
                 },
                 {
                     "name": "DraftKings Network",
@@ -1848,7 +1848,7 @@
                 {
                     "name": "Biography: The Icons",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US26000201N_20250421T234907SQUARE.png",
-                    "number": "2903",
+                    "number": "1003",
                     "url": "https://jmp2.uk/sam-US26000201N.m3u8",
                     "epgId": "US26000201N"
                 },
@@ -1985,6 +1985,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sci-Fi & Horror.png",
             "stations": [
                 {
+                    "name": "FARSCAPE",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100022W9_20250421T234915SQUARE.png",
+                    "number": "1001",
+                    "url": "https://jmp2.uk/sam-US4100022W9.m3u8",
+                    "epgId": "US4100022W9"
+                },
+                {
                     "name": "Fear Zone",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20250408T020801SQUARE.png",
                     "number": "3005",
@@ -2025,13 +2032,6 @@
                     "number": "3030",
                     "url": "https://jmp2.uk/sam-USBD1200007FE.m3u8",
                     "epgId": "USBD1200007FE"
-                },
-                {
-                    "name": "FARSCAPE",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100022W9_20250421T234915SQUARE.png",
-                    "number": "3033",
-                    "url": "https://jmp2.uk/sam-US4100022W9.m3u8",
-                    "epgId": "US4100022W9"
                 },
                 {
                     "name": "The Curse of Oak Island",
@@ -2124,20 +2124,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Animals, Nature & History.png",
             "stations": [
                 {
-                    "name": "Clarity 4K",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20250421T234836SQUARE.png",
-                    "number": "1001",
-                    "url": "https://jmp2.uk/sam-USBA3800005NI.m3u8",
-                    "epgId": "USBA3800005NI"
-                },
-                {
-                    "name": "BBC Earth",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20250421T234905SQUARE.png",
-                    "number": "1002",
-                    "url": "https://jmp2.uk/sam-USBD1700001RW.m3u8",
-                    "epgId": "USBD1700001RW"
-                },
-                {
                     "name": "Samsung Wild Life",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20250408T020746SQUARE.png",
                     "number": "3505",
@@ -2187,11 +2173,25 @@
                     "epgId": "USBC2400024FN"
                 },
                 {
+                    "name": "Clarity 4K",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20250421T234836SQUARE.png",
+                    "number": "3520",
+                    "url": "https://jmp2.uk/sam-USBA3800005NI.m3u8",
+                    "epgId": "USBA3800005NI"
+                },
+                {
                     "name": "Dinos 24/7",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700006XE_20241203T004820SQUARE.png",
                     "number": "3524",
                     "url": "https://jmp2.uk/sam-US3700006XE.m3u8",
                     "epgId": "US3700006XE"
+                },
+                {
+                    "name": "BBC Earth",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20250421T234905SQUARE.png",
+                    "number": "3526",
+                    "url": "https://jmp2.uk/sam-USBD1700001RW.m3u8",
+                    "epgId": "USBD1700001RW"
                 },
                 {
                     "name": "Xplore",
@@ -2290,6 +2290,13 @@
             "name": "Kids",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Kids.png",
             "stations": [
+                {
+                    "name": "Yu-Gi-Oh",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000003G8_20250421T234933SQUARE.png",
+                    "number": "1004",
+                    "url": "https://jmp2.uk/sam-US1000003G8.m3u8",
+                    "epgId": "US1000003G8"
+                },
                 {
                     "name": "Nick Pluto TV",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20241112T000708SQUARE.png",
@@ -2499,13 +2506,6 @@
                     "number": "3693",
                     "url": "https://jmp2.uk/sam-USBD33000180S.m3u8",
                     "epgId": "USBD33000180S"
-                },
-                {
-                    "name": "Yu-Gi-Oh",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000003G8_20250421T234933SQUARE.png",
-                    "number": "3694",
-                    "url": "https://jmp2.uk/sam-US1000003G8.m3u8",
-                    "epgId": "US1000003G8"
                 },
                 {
                     "name": "Pokémon",
@@ -2856,32 +2856,32 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Music.png",
             "stations": [
                 {
-                    "name": "XITE Celebrates",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20250421T234928SQUARE.png",
-                    "number": "4310",
-                    "url": "https://jmp2.uk/sam-USBD350003932.m3u8",
-                    "epgId": "USBD350003932"
+                    "name": "XITE Hits",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20250421T234930SQUARE.png",
+                    "number": "4316",
+                    "url": "https://jmp2.uk/sam-USBD3300004RH.m3u8",
+                    "epgId": "USBD3300004RH"
                 },
                 {
                     "name": "XITE 80s Flashback",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20250421T234923SQUARE.png",
-                    "number": "4313",
+                    "number": "4318",
                     "url": "https://jmp2.uk/sam-USBB320000647.m3u8",
                     "epgId": "USBB320000647"
                 },
                 {
                     "name": "XITE 90s Throwback",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20250421T234926SQUARE.png",
-                    "number": "4318",
+                    "number": "4319",
                     "url": "https://jmp2.uk/sam-USBB3200007AK.m3u8",
                     "epgId": "USBB3200007AK"
                 },
                 {
-                    "name": "XITE Hits",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20250421T234930SQUARE.png",
+                    "name": "XITE Celebrates",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20250421T234928SQUARE.png",
                     "number": "4323",
-                    "url": "https://jmp2.uk/sam-USBD3300004RH.m3u8",
-                    "epgId": "USBD3300004RH"
+                    "url": "https://jmp2.uk/sam-USBD350003932.m3u8",
+                    "epgId": "USBD350003932"
                 },
                 {
                     "name": "XITE Country Today",
