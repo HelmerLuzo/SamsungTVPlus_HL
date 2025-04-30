@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 30/04/2025 00:15",
+    "author": "Actualizada 01/05/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -1098,6 +1098,13 @@
                     "number": "4742",
                     "url": "https://jmp2.uk/sam-GB3900001TM.m3u8",
                     "epgId": "GB3900001TM"
+                },
+                {
+                    "name": "SMTOWN",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1000001G0_20250429T155724SQUARE.png",
+                    "number": "4743",
+                    "url": "https://jmp2.uk/sam-GB1000001G0.m3u8",
+                    "epgId": "GB1000001G0"
                 },
                 {
                     "name": "Def Jam",
