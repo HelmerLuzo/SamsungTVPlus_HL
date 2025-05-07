@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇳 by HL",
-    "author": "Actualizada 07/05/2025 00:15",
+    "author": "Actualizada 08/05/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/in.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/in.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IN.w3u",
@@ -524,6 +524,13 @@
                     "epgId": "INBD2500012V1"
                 },
                 {
+                    "name": "Asianet Suvarna News",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN8000106W_20250507T003808SQUARE.png",
+                    "number": "1104",
+                    "url": "https://jmp2.uk/sam-IN8000106W.m3u8",
+                    "epgId": "IN8000106W"
+                },
+                {
                     "name": "Republic Kannada",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600006GA_20240612T015020SQUARE.png",
                     "number": "1105",
@@ -536,6 +543,13 @@
                     "number": "1107",
                     "url": "https://jmp2.uk/sam-INBD25000225G.m3u8",
                     "epgId": "INBD25000225G"
+                },
+                {
+                    "name": "Asianet News",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800012RO_20250507T003805SQUARE.png",
+                    "number": "1109",
+                    "url": "https://jmp2.uk/sam-IN800012RO.m3u8",
+                    "epgId": "IN800012RO"
                 },
                 {
                     "name": "News18 Jammu Kashmir",
