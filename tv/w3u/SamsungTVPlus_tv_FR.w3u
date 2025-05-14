@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇫🇷 by HL",
-    "author": "Actualizada 14/05/2025 00:15",
+    "author": "Actualizada 15/05/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/fr.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/fr.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_FR.w3u",
@@ -36,13 +36,6 @@
             "name": "Divertissement",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Divertissement.png",
             "stations": [
-                {
-                    "name": "Top Sci-Fi",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4600001FK_20250513T005822SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/sam-FR4600001FK.m3u8",
-                    "epgId": "FR4600001FK"
-                },
                 {
                     "name": "RMC Story",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20250218T040019SQUARE.png",
@@ -203,6 +196,13 @@
                     "number": "4218",
                     "url": "https://jmp2.uk/sam-FRBC3900003ZH.m3u8",
                     "epgId": "FRBC3900003ZH"
+                },
+                {
+                    "name": "Top Sci-Fi",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4600001FK_20250513T005822SQUARE.png",
+                    "number": "4221",
+                    "url": "https://jmp2.uk/sam-FR4600001FK.m3u8",
+                    "epgId": "FR4600001FK"
                 }
             ]
         },
@@ -244,13 +244,6 @@
             "name": "Séries TV",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Séries TV.png",
             "stations": [
-                {
-                    "name": "Passion Bollywood",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100001V1_20250513T005820SQUARE.png",
-                    "number": "4006",
-                    "url": "https://jmp2.uk/sam-FR1100001V1.m3u8",
-                    "epgId": "FR1100001V1"
-                },
                 {
                     "name": "Plus belle la vie",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD37000020Y_20250415T020906SQUARE.png",
@@ -378,6 +371,13 @@
                     "epgId": "FRBA3300022OA"
                 },
                 {
+                    "name": "Passion Bollywood",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100001V1_20250513T005820SQUARE.png",
+                    "number": "4271",
+                    "url": "https://jmp2.uk/sam-FR1100001V1.m3u8",
+                    "epgId": "FR1100001V1"
+                },
+                {
                     "name": "Zee Magic",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR360000680_20250211T013833SQUARE.png",
                     "number": "4273",
@@ -453,11 +453,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentaires.png",
             "stations": [
                 {
-                    "name": "La Maison France 5",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4200001BN_20250513T005811SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/sam-FR4200001BN.m3u8",
-                    "epgId": "FR4200001BN"
+                    "name": "Les secrets de nos régions",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000436_20250513T005817SQUARE.png",
+                    "number": "4006",
+                    "url": "https://jmp2.uk/sam-FRBD410000436.m3u8",
+                    "epgId": "FRBD410000436"
                 },
                 {
                     "name": "J'irai dormir chez vous",
@@ -481,11 +481,11 @@
                     "epgId": "FRBC90000220"
                 },
                 {
-                    "name": "Les secrets de nos régions",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000436_20250513T005817SQUARE.png",
-                    "number": "4358",
-                    "url": "https://jmp2.uk/sam-FRBD410000436.m3u8",
-                    "epgId": "FRBD410000436"
+                    "name": "La Maison France 5",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4200001BN_20250513T005811SQUARE.png",
+                    "number": "4360",
+                    "url": "https://jmp2.uk/sam-FR4200001BN.m3u8",
+                    "epgId": "FR4200001BN"
                 },
                 {
                     "name": "Real Life",
@@ -716,6 +716,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sports.png",
             "stations": [
                 {
+                    "name": "L'Equipe Live 2",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20250513T005814SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/sam-FRBC4200005X2.m3u8",
+                    "epgId": "FRBC4200005X2"
+                },
+                {
                     "name": "L'Equipe",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR200016Y5_20250422T103213SQUARE.png",
                     "number": "4604",
@@ -728,13 +735,6 @@
                     "number": "4605",
                     "url": "https://jmp2.uk/sam-FRBC4200004XH.m3u8",
                     "epgId": "FRBC4200004XH"
-                },
-                {
-                    "name": "L'Equipe Live 2",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20250513T005814SQUARE.png",
-                    "number": "4607",
-                    "url": "https://jmp2.uk/sam-FRBC4200005X2.m3u8",
-                    "epgId": "FRBC4200005X2"
                 },
                 {
                     "name": "Tennis Channel",
@@ -827,7 +827,7 @@
                     "epgId": "FRBC2100002JA"
                 },
                 {
-                    "name": "Vevo '90s & '00s",
+                    "name": "Vevo Rétro",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20250513T005804SQUARE.png",
                     "number": "4687",
                     "url": "https://jmp2.uk/sam-FRBD1900013CB.m3u8",
@@ -986,6 +986,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Cinéma.png",
             "stations": [
                 {
+                    "name": "Wild Side TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300021ME_20250513T005753SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/sam-FRBA3300021ME.m3u8",
+                    "epgId": "FRBA3300021ME"
+                },
+                {
                     "name": "Top Films - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600007CB_20250415T020909SQUARE.png",
                     "number": "4005",
@@ -1033,13 +1040,6 @@
                     "number": "4872",
                     "url": "https://jmp2.uk/sam-FRBA2200008H8.m3u8",
                     "epgId": "FRBA2200008H8"
-                },
-                {
-                    "name": "Wild Side TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300021ME_20250513T005753SQUARE.png",
-                    "number": "4874",
-                    "url": "https://jmp2.uk/sam-FRBA3300021ME.m3u8",
-                    "epgId": "FRBA3300021ME"
                 },
                 {
                     "name": "MyTime Movie Network",

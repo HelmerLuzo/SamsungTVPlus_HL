@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 14/05/2025 00:15",
+    "author": "Actualizada 15/05/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -10,11 +10,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Film.png",
             "stations": [
                 {
-                    "name": "Alberto Sordi & Co",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100008L4_20250513T010703SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/sam-ITBC1100008L4.m3u8",
-                    "epgId": "ITBC1100008L4"
+                    "name": "CG Grandi Film",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000093A_20250513T010644SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/sam-ITBA14000093A.m3u8",
+                    "epgId": "ITBA14000093A"
                 },
                 {
                     "name": "Film Top - Rakuten TV",
@@ -36,6 +36,13 @@
                     "number": "4868",
                     "url": "https://jmp2.uk/sam-ITBA33000238E.m3u8",
                     "epgId": "ITBA33000238E"
+                },
+                {
+                    "name": "Alberto Sordi & Co",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100008L4_20250513T010703SQUARE.png",
+                    "number": "4870",
+                    "url": "https://jmp2.uk/sam-ITBC1100008L4.m3u8",
+                    "epgId": "ITBC1100008L4"
                 },
                 {
                     "name": "Grandi Nomi - Film da Oscar",
@@ -162,13 +169,6 @@
                     "number": "4929",
                     "url": "https://jmp2.uk/sam-IT3600004TW.m3u8",
                     "epgId": "IT3600004TW"
-                },
-                {
-                    "name": "CG Grandi Film",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000093A_20250513T010644SQUARE.png",
-                    "number": "4931",
-                    "url": "https://jmp2.uk/sam-ITBA14000093A.m3u8",
-                    "epgId": "ITBA14000093A"
                 },
                 {
                     "name": "Trailers",
@@ -301,6 +301,13 @@
                     "number": "4555",
                     "url": "https://jmp2.uk/sam-ITBB5000002N0.m3u8",
                     "epgId": "ITBB5000002N0"
+                },
+                {
+                    "name": "Urania News",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT50001295_20250513T010721SQUARE.png",
+                    "number": "4556",
+                    "url": "https://jmp2.uk/sam-IT50001295.m3u8",
+                    "epgId": "IT50001295"
                 },
                 {
                     "name": "3BMeteo",
@@ -538,6 +545,13 @@
                     "epgId": "ITBD31000021A"
                 },
                 {
+                    "name": "Golf Television",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4200001D8_20250513T010712SQUARE.png",
+                    "number": "4625",
+                    "url": "https://jmp2.uk/sam-IT4200001D8.m3u8",
+                    "epgId": "IT4200001D8"
+                },
+                {
                     "name": "Motortrend",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900004Y5_20250408T021501SQUARE.png",
                     "number": "4656",
@@ -550,6 +564,13 @@
                     "number": "4658",
                     "url": "https://jmp2.uk/sam-IT2400001AE.m3u8",
                     "epgId": "IT2400001AE"
+                },
+                {
+                    "name": "Motor Retro",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800002CE_20250513T010714SQUARE.png",
+                    "number": "4662",
+                    "url": "https://jmp2.uk/sam-IT800002CE.m3u8",
+                    "epgId": "IT800002CE"
                 },
                 {
                     "name": "HorizonSports",
@@ -599,6 +620,13 @@
             "name": "Serie TV",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serie TV.png",
             "stations": [
+                {
+                    "name": "Relic Hunter",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200006F0_20250513T010718SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/sam-ITBD3200006F0.m3u8",
+                    "epgId": "ITBD3200006F0"
+                },
                 {
                     "name": "H2O & Friends",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500007X2_20250415T132917SQUARE.png",
@@ -661,13 +689,6 @@
                     "number": "4247",
                     "url": "https://jmp2.uk/sam-ITBD3200005YA.m3u8",
                     "epgId": "ITBD3200005YA"
-                },
-                {
-                    "name": "Relic Hunter",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200006F0_20250513T010718SQUARE.png",
-                    "number": "4249",
-                    "url": "https://jmp2.uk/sam-ITBD3200006F0.m3u8",
-                    "epgId": "ITBD3200006F0"
                 },
                 {
                     "name": "Autostop per il Cielo",
@@ -837,7 +858,7 @@
                 {
                     "name": "DeAPlaneta Kids",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200007SZ_20250513T010706SQUARE.png",
-                    "number": "4002",
+                    "number": "4007",
                     "url": "https://jmp2.uk/sam-ITBD3200007SZ.m3u8",
                     "epgId": "ITBD3200007SZ"
                 },
@@ -1027,6 +1048,13 @@
                     "number": "4515",
                     "url": "https://jmp2.uk/sam-ITBD4100007LO.m3u8",
                     "epgId": "ITBD4100007LO"
+                },
+                {
+                    "name": "Gambero Rosso",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20250513T010708SQUARE.png",
+                    "number": "4516",
+                    "url": "https://jmp2.uk/sam-IT500011RG.m3u8",
+                    "epgId": "IT500011RG"
                 },
                 {
                     "name": "Viaggi & Sapori",

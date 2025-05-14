@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇩🇪 by HL",
-    "author": "Actualizada 14/05/2025 00:15",
+    "author": "Actualizada 15/05/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
@@ -12,14 +12,14 @@
                 {
                     "name": "Entertainment Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700002Z2_20250513T005301SQUARE.png",
-                    "number": "4001",
+                    "number": "4007",
                     "url": "https://jmp2.uk/sam-DEBC4700002Z2.m3u8",
                     "epgId": "DEBC4700002Z2"
                 },
                 {
                     "name": "Comedy Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000002Z5_20250513T005255SQUARE.png",
-                    "number": "4002",
+                    "number": "4008",
                     "url": "https://jmp2.uk/sam-DEBC3000002Z5.m3u8",
                     "epgId": "DEBC3000002Z5"
                 },
@@ -165,7 +165,7 @@
                 {
                     "name": "Aniverse TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD390000181_20250513T005253SQUARE.png",
-                    "number": "4188",
+                    "number": "4003",
                     "url": "https://jmp2.uk/sam-DEBD390000181.m3u8",
                     "epgId": "DEBD390000181"
                 },
@@ -197,11 +197,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
                 {
-                    "name": "Lindenstraße",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE33000013J_20250513T005307SQUARE.png",
-                    "number": "4007",
-                    "url": "https://jmp2.uk/sam-DE33000013J.m3u8",
-                    "epgId": "DE33000013J"
+                    "name": "Heartland",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3700004DM_20250513T005304SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/sam-DE3700004DM.m3u8",
+                    "epgId": "DE3700004DM"
                 },
                 {
                     "name": "Baywatch",
@@ -209,13 +209,6 @@
                     "number": "4231",
                     "url": "https://jmp2.uk/sam-DEBD26000020X.m3u8",
                     "epgId": "DEBD26000020X"
-                },
-                {
-                    "name": "Heartland",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3700004DM_20250513T005304SQUARE.png",
-                    "number": "4232",
-                    "url": "https://jmp2.uk/sam-DE3700004DM.m3u8",
-                    "epgId": "DE3700004DM"
                 },
                 {
                     "name": "Nashville",
@@ -307,6 +300,13 @@
                     "number": "4257",
                     "url": "https://jmp2.uk/sam-DEAK3504508A.m3u8",
                     "epgId": "DEAK3504508A"
+                },
+                {
+                    "name": "Lindenstraße",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE33000013J_20250513T005307SQUARE.png",
+                    "number": "4263",
+                    "url": "https://jmp2.uk/sam-DE33000013J.m3u8",
+                    "epgId": "DE33000013J"
                 },
                 {
                     "name": "Telenovela ZDF",
@@ -578,18 +578,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Food & Travel.png",
             "stations": [
                 {
-                    "name": "ZDF kocht!",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700002HO_20250513T005309SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/sam-DEBD3700002HO.m3u8",
-                    "epgId": "DEBD3700002HO"
-                },
-                {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20250107T024747SQUARE.png",
                     "number": "4511",
                     "url": "https://jmp2.uk/sam-DE200003PX.m3u8",
                     "epgId": "DE200003PX"
+                },
+                {
+                    "name": "ZDF kocht!",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700002HO_20250513T005309SQUARE.png",
+                    "number": "4515",
+                    "url": "https://jmp2.uk/sam-DEBD3700002HO.m3u8",
+                    "epgId": "DEBD3700002HO"
                 },
                 {
                     "name": "BBC Food",
@@ -746,7 +746,7 @@
                 {
                     "name": "DAZN FAST+",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC470000128_20250513T005258SQUARE.png",
-                    "number": "4631",
+                    "number": "4001",
                     "url": "https://jmp2.uk/sam-DEBC470000128.m3u8",
                     "epgId": "DEBC470000128"
                 },
@@ -818,13 +818,6 @@
                     "number": "4706",
                     "url": "https://jmp2.uk/sam-DE1300001XL.m3u8",
                     "epgId": "DE1300001XL"
-                },
-                {
-                    "name": "XITE Rock X Metal",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3000002SI_20250513T005251SQUARE.png",
-                    "number": "4707",
-                    "url": "https://jmp2.uk/sam-DEBD3000002SI.m3u8",
-                    "epgId": "DEBD3000002SI"
                 },
                 {
                     "name": "Trace Urban",
@@ -977,13 +970,6 @@
                     "number": "4859",
                     "url": "https://jmp2.uk/sam-DEBA3300040CR.m3u8",
                     "epgId": "DEBA3300040CR"
-                },
-                {
-                    "name": "Starke Frauen",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200001XV_20250513T005248SQUARE.png",
-                    "number": "4866",
-                    "url": "https://jmp2.uk/sam-DE200001XV.m3u8",
-                    "epgId": "DE200001XV"
                 },
                 {
                     "name": "Moviedome",
