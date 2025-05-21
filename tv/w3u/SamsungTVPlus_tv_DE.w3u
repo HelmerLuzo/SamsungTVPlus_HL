@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇩🇪 by HL",
-    "author": "Actualizada 21/05/2025 00:15",
+    "author": "Actualizada 22/05/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
@@ -155,6 +155,13 @@
                     "number": "4221",
                     "url": "https://jmp2.uk/sam-DEBA3300022IF.m3u8",
                     "epgId": "DEBA3300022IF"
+                },
+                {
+                    "name": "Crimify",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1600005LU_20250520T045013SQUARE.png",
+                    "number": "4303",
+                    "url": "https://jmp2.uk/sam-DE1600005LU.m3u8",
+                    "epgId": "DE1600005LU"
                 }
             ]
         },
@@ -1033,6 +1040,13 @@
                     "number": "4885",
                     "url": "https://jmp2.uk/sam-DE4000002I3.m3u8",
                     "epgId": "DE4000002I3"
+                },
+                {
+                    "name": "All Romance",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE16000042J_20250520T045009SQUARE.png",
+                    "number": "4887",
+                    "url": "https://jmp2.uk/sam-DE16000042J.m3u8",
+                    "epgId": "DE16000042J"
                 },
                 {
                     "name": "Fabella",

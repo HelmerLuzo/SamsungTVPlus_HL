@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇳 by HL",
-    "author": "Actualizada 21/05/2025 00:15",
+    "author": "Actualizada 22/05/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/in.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/in.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IN.w3u",
@@ -24,13 +24,6 @@
                     "epgId": "IN3800008CX"
                 },
                 {
-                    "name": "NH BollyFlix",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20250416T005417SQUARE.png",
-                    "number": "1003",
-                    "url": "https://jmp2.uk/sam-IN46000140Q.m3u8",
-                    "epgId": "IN46000140Q"
-                },
-                {
                     "name": "Hollywood Desi",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800010SH_20250122T004825SQUARE.png",
                     "number": "1313",
@@ -50,6 +43,27 @@
                     "number": "1315",
                     "url": "https://jmp2.uk/sam-INBC43000034X.m3u8",
                     "epgId": "INBC43000034X"
+                },
+                {
+                    "name": "NH BollyFlix",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20250521T010047SQUARE.png",
+                    "number": "1316",
+                    "url": "https://jmp2.uk/sam-IN46000140Q.m3u8",
+                    "epgId": "IN46000140Q"
+                },
+                {
+                    "name": "B4U Movies",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900016WI_20250521T010031SQUARE.png",
+                    "number": "1317",
+                    "url": "https://jmp2.uk/sam-IN3900016WI.m3u8",
+                    "epgId": "IN3900016WI"
+                },
+                {
+                    "name": "B4U Kadak",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000187Z_20250521T010028SQUARE.png",
+                    "number": "1318",
+                    "url": "https://jmp2.uk/sam-IN39000187Z.m3u8",
+                    "epgId": "IN39000187Z"
                 },
                 {
                     "name": "Pitaara",
@@ -72,13 +86,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Music.png",
             "stations": [
                 {
-                    "name": "SMTOWN",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900008ZP_20250514T004924SQUARE.png",
-                    "number": "1430",
-                    "url": "https://jmp2.uk/sam-IN4900008ZP.m3u8",
-                    "epgId": "IN4900008ZP"
-                },
-                {
                     "name": "Kaan Phod Music",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000122C_20241211T020344SQUARE.png",
                     "number": "1431",
@@ -98,6 +105,13 @@
                     "number": "1433",
                     "url": "https://jmp2.uk/sam-IN1700003HF.m3u8",
                     "epgId": "IN1700003HF"
+                },
+                {
+                    "name": "B4U Music",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900017KM_20250521T010034SQUARE.png",
+                    "number": "1434",
+                    "url": "https://jmp2.uk/sam-IN3900017KM.m3u8",
+                    "epgId": "IN3900017KM"
                 },
                 {
                     "name": "9XM",
@@ -177,9 +191,23 @@
                     "epgId": "INBD4700017SL"
                 },
                 {
+                    "name": "Music Box TV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900013LS_20250521T010044SQUARE.png",
+                    "number": "1457",
+                    "url": "https://jmp2.uk/sam-IN3900013LS.m3u8",
+                    "epgId": "IN3900013LS"
+                },
+                {
+                    "name": "SMTOWN",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900008ZP_20250521T010050SQUARE.png",
+                    "number": "1460",
+                    "url": "https://jmp2.uk/sam-IN4900008ZP.m3u8",
+                    "epgId": "IN4900008ZP"
+                },
+                {
                     "name": "K-POP by CJ ENM",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800006RD_20250205T004609SQUARE.png",
-                    "number": "1456",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800006RD_20250521T010041SQUARE.png",
+                    "number": "1461",
                     "url": "https://jmp2.uk/sam-IN3800006RD.m3u8",
                     "epgId": "IN3800006RD"
                 },
@@ -600,6 +628,13 @@
                     "epgId": "INBD4700006JD"
                 },
                 {
+                    "name": "Colors Infinity Lite",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000147D_20250521T010037SQUARE.png",
+                    "number": "1003",
+                    "url": "https://jmp2.uk/sam-IN26000147D.m3u8",
+                    "epgId": "IN26000147D"
+                },
+                {
                     "name": "Fully Faltoo",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600013B3_20240925T102252SQUARE.png",
                     "number": "1113",
@@ -647,13 +682,6 @@
                     "number": "1120",
                     "url": "https://jmp2.uk/sam-IN2600020H9.m3u8",
                     "epgId": "IN2600020H9"
-                },
-                {
-                    "name": "Colors Infinity Lite",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000147D_20241113T015616SQUARE.png",
-                    "number": "1123",
-                    "url": "https://jmp2.uk/sam-IN26000147D.m3u8",
-                    "epgId": "IN26000147D"
                 },
                 {
                     "name": "Pitaara Comedy",
