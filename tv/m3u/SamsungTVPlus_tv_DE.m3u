@@ -51,18 +51,16 @@ https://jmp2.uk/sam-DEBD11000019M.m3u8
 https://jmp2.uk/sam-DE7000038K.m3u8
 #EXTINF:-1 tvg-id="DE1400001OB" tvg-name="DE1400001OB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1400001OB_20250107T024814SQUARE.png" group-title="Anime" , Beyblade
 https://jmp2.uk/sam-DE1400001OB.m3u8
-#EXTINF:-1 tvg-id="DE3700004DM" tvg-name="DE3700004DM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3700004DM_20250527T015736SQUARE.png" group-title="Serien" , Heartland
-https://jmp2.uk/sam-DE3700004DM.m3u8
 #EXTINF:-1 tvg-id="DEBD26000020X" tvg-name="DEBD26000020X" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD26000020X_20250107T024258SQUARE.png" group-title="Serien" , Baywatch
 https://jmp2.uk/sam-DEBD26000020X.m3u8
+#EXTINF:-1 tvg-id="DE3700004DM" tvg-name="DE3700004DM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3700004DM_20250527T015736SQUARE.png" group-title="Serien" , Heartland
+https://jmp2.uk/sam-DE3700004DM.m3u8
 #EXTINF:-1 tvg-id="DE4600001CD" tvg-name="DE4600001CD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4600001CD_20250307T152018SQUARE.png" group-title="Serien" , Nashville
 https://jmp2.uk/sam-DE4600001CD.m3u8
 #EXTINF:-1 tvg-id="DE4800002GM" tvg-name="DE4800002GM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800002GM_20250218T035931SQUARE.png" group-title="Serien" , Hudson & Rex
 https://jmp2.uk/sam-DE4800002GM.m3u8
 #EXTINF:-1 tvg-id="DE1000001CT" tvg-name="DE1000001CT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1000001CT_20250408T021655SQUARE.png" group-title="Serien" , Herzfrequenz
 https://jmp2.uk/sam-DE1000001CT.m3u8
-#EXTINF:-1 tvg-id="DEBC2200001EO" tvg-name="DEBC2200001EO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2200001EO_20250527T015729SQUARE.png" group-title="Serien" , Spannung & Emotionen
-https://jmp2.uk/sam-DEBC2200001EO.m3u8
 #EXTINF:-1 tvg-id="DEAJ2900003CN" tvg-name="DEAJ2900003CN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ2900003CN_20250107T024450SQUARE.png" group-title="Serien" , Zee One
 https://jmp2.uk/sam-DEAJ2900003CN.m3u8
 #EXTINF:-1 tvg-id="DEBD4100001ZB" tvg-name="DEBD4100001ZB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD4100001ZB_20250107T024900SQUARE.png" group-title="Serien" , Merhaba Türkische Serien
@@ -113,6 +111,8 @@ https://jmp2.uk/sam-DEAK0500441A.m3u8
 https://jmp2.uk/sam-DEBA3300027ZJ.m3u8
 #EXTINF:-1 tvg-id="DEBD4900001QV" tvg-name="DEBD4900001QV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD4900001QV_20250107T024918SQUARE.png" group-title="News" , Reuters
 https://jmp2.uk/sam-DEBD4900001QV.m3u8
+#EXTINF:-1 tvg-id="DEBA3300042XG" tvg-name="DEBA3300042XG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20250527T015715SQUARE.png" group-title="Dokus & Wissen" , Wilder Planet
+https://jmp2.uk/sam-DEBA3300042XG.m3u8
 #EXTINF:-1 tvg-id="DEBC220000422" tvg-name="DEBC220000422" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC220000422_20250107T024428SQUARE.png" group-title="Dokus & Wissen" , The Wicked Tuna Channel
 https://jmp2.uk/sam-DEBC220000422.m3u8
 #EXTINF:-1 tvg-id="DEAJ7000096L" tvg-name="DEAJ7000096L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ7000096L_20250107T023919SQUARE.png" group-title="Dokus & Wissen" , Ice Pilots
@@ -137,8 +137,6 @@ https://jmp2.uk/sam-DEBA15000298V.m3u8
 https://jmp2.uk/sam-DEAJ700008WL.m3u8
 #EXTINF:-1 tvg-id="DEAK3504506A" tvg-name="DEAK3504506A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504506A_20250107T024001SQUARE.png" group-title="Dokus & Wissen" , Pluto TV Science
 https://jmp2.uk/sam-DEAK3504506A.m3u8
-#EXTINF:-1 tvg-id="DEBA3300042XG" tvg-name="DEBA3300042XG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20250527T015715SQUARE.png" group-title="Dokus & Wissen" , Wilder Planet
-https://jmp2.uk/sam-DEBA3300042XG.m3u8
 #EXTINF:-1 tvg-id="DE3200001RI" tvg-name="DE3200001RI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png" group-title="Dokus & Wissen" , BBC Earth
 https://jmp2.uk/sam-DE3200001RI.m3u8
 #EXTINF:-1 tvg-id="DEBA15000227H" tvg-name="DEBA15000227H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA15000227H_20250107T023945SQUARE.png" group-title="Dokus & Wissen" , One Terra
@@ -153,10 +151,10 @@ https://jmp2.uk/sam-DE3700001F7.m3u8
 https://jmp2.uk/sam-DEAK3504503A.m3u8
 #EXTINF:-1 tvg-id="DEBC4700004VZ" tvg-name="DEBC4700004VZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700004VZ_20250107T024340SQUARE.png" group-title="Dokus & Wissen" , Love the Planet
 https://jmp2.uk/sam-DEBC4700004VZ.m3u8
-#EXTINF:-1 tvg-id="DE200003PX" tvg-name="DE200003PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20250107T024747SQUARE.png" group-title="Food & Travel" , The Jamie Oliver Channel
-https://jmp2.uk/sam-DE200003PX.m3u8
 #EXTINF:-1 tvg-id="DEBD3700002HO" tvg-name="DEBD3700002HO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700002HO_20250527T015739SQUARE.png" group-title="Food & Travel" , ZDF kocht!
 https://jmp2.uk/sam-DEBD3700002HO.m3u8
+#EXTINF:-1 tvg-id="DE200003PX" tvg-name="DE200003PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20250107T024747SQUARE.png" group-title="Food & Travel" , The Jamie Oliver Channel
+https://jmp2.uk/sam-DE200003PX.m3u8
 #EXTINF:-1 tvg-id="DE2900002Z8" tvg-name="DE2900002Z8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2900002Z8_20250107T024806SQUARE.png" group-title="Food & Travel" , BBC Food
 https://jmp2.uk/sam-DE2900002Z8.m3u8
 #EXTINF:-1 tvg-id="DEAK0500439A" tvg-name="DEAK0500439A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500439A_20250107T023921SQUARE.png" group-title="Food & Travel" , Just Cooking

@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 28/05/2025 00:15",
+    "author": "Actualizada 29/05/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -12,7 +12,7 @@
                 {
                     "name": "Comedy Hub",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20250527T014750SQUARE.png",
-                    "number": "4002",
+                    "number": "4001",
                     "url": "https://jmp2.uk/sam-GBBD25000038Y.m3u8",
                     "epgId": "GBBD25000038Y"
                 },
@@ -200,7 +200,7 @@
                 {
                     "name": "American Idol",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20250527T014747SQUARE.png",
-                    "number": "4001",
+                    "number": "4002",
                     "url": "https://jmp2.uk/sam-GBBC2300001X5.m3u8",
                     "epgId": "GBBC2300001X5"
                 },
@@ -468,13 +468,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentaries.png",
             "stations": [
                 {
-                    "name": "World War TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100001UI_20250527T014801SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/sam-GBBD1100001UI.m3u8",
-                    "epgId": "GBBD1100001UI"
-                },
-                {
                     "name": "Antiques Road Trip",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000387J_20250408T021352SQUARE.png",
                     "number": "4085",
@@ -613,6 +606,13 @@
                     "number": "4413",
                     "url": "https://jmp2.uk/sam-GBBD3100004OI.m3u8",
                     "epgId": "GBBD3100004OI"
+                },
+                {
+                    "name": "World War TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100001UI_20250527T014801SQUARE.png",
+                    "number": "4416",
+                    "url": "https://jmp2.uk/sam-GBBD1100001UI.m3u8",
+                    "epgId": "GBBD1100001UI"
                 },
                 {
                     "name": "History Hit",
@@ -912,6 +912,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sport.png",
             "stations": [
                 {
+                    "name": "Tennis Channel International",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000529G_20250527T014732SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/sam-GBBA33000529G.m3u8",
+                    "epgId": "GBBA33000529G"
+                },
+                {
                     "name": "talkSPORT",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB30003577_20250131T145302SQUARE.png",
                     "number": "4603",
@@ -931,13 +938,6 @@
                     "number": "4605",
                     "url": "https://jmp2.uk/sam-GB300036IM.m3u8",
                     "epgId": "GB300036IM"
-                },
-                {
-                    "name": "Tennis Channel International",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000529G_20250527T014732SQUARE.png",
-                    "number": "4606",
-                    "url": "https://jmp2.uk/sam-GBBA33000529G.m3u8",
-                    "epgId": "GBBA33000529G"
                 },
                 {
                     "name": "SquashTV",
@@ -1191,10 +1191,10 @@
                 },
                 {
                     "name": "POP Up",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB25000016G_20250527T014744SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB170000351_20250527T014758SQUARE.png",
                     "number": "4800",
-                    "url": "https://jmp2.uk/sam-GB25000016G.m3u8",
-                    "epgId": "GB25000016G"
+                    "url": "https://jmp2.uk/sam-GB170000351.m3u8",
+                    "epgId": "GB170000351"
                 },
                 {
                     "name": "The LEGO Channel",
@@ -1287,13 +1287,6 @@
                     "epgId": "GB2600020OP"
                 },
                 {
-                    "name": "Icon Film Channel",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB12000052F_20250527T014756SQUARE.png",
-                    "number": "4008",
-                    "url": "https://jmp2.uk/sam-GB12000052F.m3u8",
-                    "epgId": "GB12000052F"
-                },
-                {
                     "name": "Great! Movies",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900007Q5_20250107T022837SQUARE.png",
                     "number": "4866",
@@ -1327,6 +1320,13 @@
                     "number": "4876",
                     "url": "https://jmp2.uk/sam-GBBA33000557H.m3u8",
                     "epgId": "GBBA33000557H"
+                },
+                {
+                    "name": "Icon Film Channel",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB12000052F_20250527T014756SQUARE.png",
+                    "number": "4878",
+                    "url": "https://jmp2.uk/sam-GB12000052F.m3u8",
+                    "epgId": "GB12000052F"
                 },
                 {
                     "name": "Popflix",
@@ -1407,10 +1407,10 @@
                 },
                 {
                     "name": "GREAT! Mystery",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB90000418_20250527T014741SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000370X_20250527T014753SQUARE.png",
                     "number": "4961",
-                    "url": "https://jmp2.uk/sam-GB90000418.m3u8",
-                    "epgId": "GB90000418"
+                    "url": "https://jmp2.uk/sam-GB3000370X.m3u8",
+                    "epgId": "GB3000370X"
                 },
                 {
                     "name": "Pluto TV Action",
