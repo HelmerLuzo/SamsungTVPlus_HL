@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇩🇪 by HL",
-    "author": "Actualizada 04/06/2025 00:15",
+    "author": "Actualizada 05/06/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
@@ -155,13 +155,6 @@
                     "number": "4221",
                     "url": "https://jmp2.uk/sam-DEBA3300022IF.m3u8",
                     "epgId": "DEBA3300022IF"
-                },
-                {
-                    "name": "Crimify",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1600005LU_20250603T004859SQUARE.png",
-                    "number": "4303",
-                    "url": "https://jmp2.uk/sam-DE1600005LU.m3u8",
-                    "epgId": "DE1600005LU"
                 }
             ]
         },
@@ -355,6 +348,13 @@
                     "number": "4302",
                     "url": "https://jmp2.uk/sam-DEBD1900002CB.m3u8",
                     "epgId": "DEBD1900002CB"
+                },
+                {
+                    "name": "Crimify",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1600005LU_20250603T004859SQUARE.png",
+                    "number": "4303",
+                    "url": "https://jmp2.uk/sam-DE1600005LU.m3u8",
+                    "epgId": "DE1600005LU"
                 },
                 {
                     "name": "Spiegel TV action+crime",
@@ -952,7 +952,7 @@
                     "epgId": "DEAJ700004BT"
                 },
                 {
-                    "name": "Nick Pluto TV",
+                    "name": "Nickelodeon Toons",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700002N8_20250603T004850SQUARE.png",
                     "number": "4829",
                     "url": "https://jmp2.uk/sam-DEAJ700002N8.m3u8",

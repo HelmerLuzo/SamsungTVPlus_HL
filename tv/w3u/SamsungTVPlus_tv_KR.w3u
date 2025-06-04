@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇰🇷 by HL",
-    "author": "Actualizada 04/06/2025 00:15",
+    "author": "Actualizada 05/06/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/kr.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/kr.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_KR.w3u",
@@ -155,13 +155,6 @@
                     "number": "649",
                     "url": "https://jmp2.uk/sam-KRBC3200031KO.m3u8",
                     "epgId": "KRBC3200031KO"
-                },
-                {
-                    "name": "Animax 요리왕 비룡 더 마스터",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20250514T082330SQUARE.png",
-                    "number": "650",
-                    "url": "https://jmp2.uk/sam-KRBC3200001VC.m3u8",
-                    "epgId": "KRBC3200001VC"
                 },
                 {
                     "name": "JTBC 라이프",
@@ -642,6 +635,13 @@
                     "number": "703",
                     "url": "https://jmp2.uk/sam-KRBC32000200B.m3u8",
                     "epgId": "KRBC32000200B"
+                },
+                {
+                    "name": "Animax 요리왕 비룡 더 마스터",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20250604T010127SQUARE.png",
+                    "number": "705",
+                    "url": "https://jmp2.uk/sam-KRBC3200001VC.m3u8",
+                    "epgId": "KRBC3200001VC"
                 },
                 {
                     "name": "포켓몬",
