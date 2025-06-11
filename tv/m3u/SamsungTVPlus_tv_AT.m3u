@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/at.xml.gz"
-#EXTINF:-1 tvg-id="ATBD41000046O" tvg-name="ATBD41000046O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD41000046O_20250610T010302SQUARE.png" group-title="Entertainment" , Comedy Mix
-https://jmp2.uk/sam-ATBD41000046O.m3u8
 #EXTINF:-1 tvg-id="AT48000012I" tvg-name="AT48000012I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT48000012I_20250610T010309SQUARE.png" group-title="Entertainment" , Hochzeit auf den ersten Blick
 https://jmp2.uk/sam-AT48000012I.m3u8
+#EXTINF:-1 tvg-id="ATBD41000046O" tvg-name="ATBD41000046O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD41000046O_20250610T010302SQUARE.png" group-title="Entertainment" , Comedy Mix
+https://jmp2.uk/sam-ATBD41000046O.m3u8
 #EXTINF:-1 tvg-id="ATBD2600001QK" tvg-name="ATBD2600001QK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600001QK_20250107T022127SQUARE.png" group-title="Entertainment" , Hell's Kitchen
 https://jmp2.uk/sam-ATBD2600001QK.m3u8
 #EXTINF:-1 tvg-id="ATAJ7000105F" tvg-name="ATAJ7000105F" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ7000105F_20250107T021734SQUARE.png" group-title="Entertainment" , MTV Teen Mom
@@ -45,14 +45,14 @@ https://jmp2.uk/sam-ATBC3900002PV.m3u8
 https://jmp2.uk/sam-AT70000595.m3u8
 #EXTINF:-1 tvg-id="AT2300003IC" tvg-name="AT2300003IC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2300003IC_20250107T022040SQUARE.png" group-title="Anime" , Beyblade
 https://jmp2.uk/sam-AT2300003IC.m3u8
+#EXTINF:-1 tvg-id="AT4800002G5" tvg-name="AT4800002G5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20250610T010312SQUARE.png" group-title="Serien" , Hudson & Rex
+https://jmp2.uk/sam-AT4800002G5.m3u8
 #EXTINF:-1 tvg-id="ATBD2600008HN" tvg-name="ATBD2600008HN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600008HN_20250610T010259SQUARE.png" group-title="Serien" , Baywatch
 https://jmp2.uk/sam-ATBD2600008HN.m3u8
 #EXTINF:-1 tvg-id="AT3700002Z3" tvg-name="AT3700002Z3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3700002Z3_20250527T015605SQUARE.png" group-title="Serien" , Heartland
 https://jmp2.uk/sam-AT3700002Z3.m3u8
 #EXTINF:-1 tvg-id="AT4600003EY" tvg-name="AT4600003EY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4600003EY_20250513T005135SQUARE.png" group-title="Serien" , Nashville
 https://jmp2.uk/sam-AT4600003EY.m3u8
-#EXTINF:-1 tvg-id="AT4800002G5" tvg-name="AT4800002G5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20250610T010312SQUARE.png" group-title="Serien" , Hudson & Rex
-https://jmp2.uk/sam-AT4800002G5.m3u8
 #EXTINF:-1 tvg-id="AT1500003M7" tvg-name="AT1500003M7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1500003M7_20250422T045225SQUARE.png" group-title="Serien" , Herzfrequenz
 https://jmp2.uk/sam-AT1500003M7.m3u8
 #EXTINF:-1 tvg-id="ATBA3300006WH" tvg-name="ATBA3300006WH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300006WH_20250107T022248SQUARE.png" group-title="Serien" , Zee One
@@ -71,6 +71,8 @@ https://jmp2.uk/sam-AT3300001K9.m3u8
 https://jmp2.uk/sam-AT1500002N1.m3u8
 #EXTINF:-1 tvg-id="AT260000634" tvg-name="AT260000634" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT260000634_20250415T021529SQUARE.png" group-title="Crime" , Crime Serien - Rakuten TV
 https://jmp2.uk/sam-AT260000634.m3u8
+#EXTINF:-1 tvg-id="AT300009BI" tvg-name="AT300009BI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300009BI_20250610T011329SQUARE.png" group-title="Crime" , Alarm für Cobra 11 / Balko
+https://jmp2.uk/sam-AT300009BI.m3u8
 #EXTINF:-1 tvg-id="ATBA33000270C" tvg-name="ATBA33000270C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA33000270C_20250326T013156SQUARE.png" group-title="Crime" , Top Serien
 https://jmp2.uk/sam-ATBA33000270C.m3u8
 #EXTINF:-1 tvg-id="AT15000015I" tvg-name="AT15000015I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT15000015I_20250422T045230SQUARE.png" group-title="Crime" , KultKrimi
@@ -89,8 +91,6 @@ https://jmp2.uk/sam-ATAJ0500419A.m3u8
 https://jmp2.uk/sam-ATAJ0500445A.m3u8
 #EXTINF:-1 tvg-id="ATBA3300018K1" tvg-name="ATBA3300018K1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300018K1_20250107T021547SQUARE.png" group-title="News" , Bloomberg TV+
 https://jmp2.uk/sam-ATBA3300018K1.m3u8
-#EXTINF:-1 tvg-id="ATBA3300031VR" tvg-name="ATBA3300031VR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300031VR_20250610T010256SQUARE.png" group-title="Dokus & Wissen" , Wilder Planet
-https://jmp2.uk/sam-ATBA3300031VR.m3u8
 #EXTINF:-1 tvg-id="ATBC3900001W3" tvg-name="ATBC3900001W3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC3900001W3_20250107T022235SQUARE.png" group-title="Dokus & Wissen" , The Wicked Tuna Channel
 https://jmp2.uk/sam-ATBC3900001W3.m3u8
 #EXTINF:-1 tvg-id="ATAJ700009X4" tvg-name="ATAJ700009X4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ700009X4_20250107T021713SQUARE.png" group-title="Dokus & Wissen" , Ice Pilots
@@ -111,6 +111,8 @@ https://jmp2.uk/sam-ATBA1500028F9.m3u8
 https://jmp2.uk/sam-ATAJ70000866.m3u8
 #EXTINF:-1 tvg-id="ATAK3504503A" tvg-name="ATAK3504503A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504503A_20250107T021840SQUARE.png" group-title="Dokus & Wissen" , Pluto TV Science
 https://jmp2.uk/sam-ATAK3504503A.m3u8
+#EXTINF:-1 tvg-id="ATBA3300031VR" tvg-name="ATBA3300031VR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300031VR_20250610T010256SQUARE.png" group-title="Dokus & Wissen" , Wilder Planet
+https://jmp2.uk/sam-ATBA3300031VR.m3u8
 #EXTINF:-1 tvg-id="ATBA1500021SL" tvg-name="ATBA1500021SL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1500021SL_20250107T021810SQUARE.png" group-title="Dokus & Wissen" , One Terra
 https://jmp2.uk/sam-ATBA1500021SL.m3u8
 #EXTINF:-1 tvg-id="ATBD2700001KY" tvg-name="ATBD2700001KY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2700001KY_20250107T022229SQUARE.png" group-title="Dokus & Wissen" , Terra Mater WILD

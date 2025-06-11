@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 11/06/2025 00:15",
+    "author": "Actualizada 12/06/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -9,13 +9,6 @@
             "name": "Entertainment",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
-                {
-                    "name": "Comedy Hub",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20250610T011250SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/sam-GBBD25000038Y.m3u8",
-                    "epgId": "GBBD25000038Y"
-                },
                 {
                     "name": "Entertainment Hub",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20250513T005722SQUARE.png",
@@ -122,6 +115,13 @@
                     "epgId": "GB4600001W9"
                 },
                 {
+                    "name": "Comedy Hub",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20250610T011250SQUARE.png",
+                    "number": "4156",
+                    "url": "https://jmp2.uk/sam-GBBD25000038Y.m3u8",
+                    "epgId": "GBBD25000038Y"
+                },
+                {
                     "name": "8 Out Of 10 Cats",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1800002FA_20250211T013901SQUARE.png",
                     "number": "4158",
@@ -198,11 +198,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality.png",
             "stations": [
                 {
-                    "name": "American Idol",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20250610T011245SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/sam-GBBC2300001X5.m3u8",
-                    "epgId": "GBBC2300001X5"
+                    "name": "Inside Outside",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3900003W4_20250610T011258SQUARE.png",
+                    "number": "4008",
+                    "url": "https://jmp2.uk/sam-GB3900003W4.m3u8",
+                    "epgId": "GB3900003W4"
                 },
                 {
                     "name": "Project Runway",
@@ -217,6 +217,13 @@
                     "number": "4064",
                     "url": "https://jmp2.uk/sam-GBBC2300002GG.m3u8",
                     "epgId": "GBBC2300002GG"
+                },
+                {
+                    "name": "American Idol",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20250610T011245SQUARE.png",
+                    "number": "4065",
+                    "url": "https://jmp2.uk/sam-GBBC2300001X5.m3u8",
+                    "epgId": "GBBC2300001X5"
                 },
                 {
                     "name": "Homes Under the Hammer",
@@ -280,13 +287,6 @@
                     "number": "4082",
                     "url": "https://jmp2.uk/sam-GB1200004J4.m3u8",
                     "epgId": "GB1200004J4"
-                },
-                {
-                    "name": "Inside Outside",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3900003W4_20250610T011258SQUARE.png",
-                    "number": "4084",
-                    "url": "https://jmp2.uk/sam-GB3900003W4.m3u8",
-                    "epgId": "GB3900003W4"
                 },
                 {
                     "name": "Reality - Rakuten TV",
@@ -401,9 +401,16 @@
                 {
                     "name": "Crime Network",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100010H1_20250610T011255SQUARE.png",
-                    "number": "4291",
+                    "number": "4001",
                     "url": "https://jmp2.uk/sam-GBBD4100010H1.m3u8",
                     "epgId": "GBBD4100010H1"
+                },
+                {
+                    "name": "Born to Kill",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100006KV_20250610T011248SQUARE.png",
+                    "number": "4292",
+                    "url": "https://jmp2.uk/sam-GBBD4100006KV.m3u8",
+                    "epgId": "GBBD4100006KV"
                 },
                 {
                     "name": "DATELINE 24/7",
@@ -587,13 +594,6 @@
                     "epgId": "GB27000089Z"
                 },
                 {
-                    "name": "Autopsy",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100006KV_20250610T011248SQUARE.png",
-                    "number": "4367",
-                    "url": "https://jmp2.uk/sam-GBBD4100006KV.m3u8",
-                    "epgId": "GBBD4100006KV"
-                },
-                {
                     "name": "U&Transport",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100001A8_20250107T030825SQUARE.png",
                     "number": "4412",
@@ -762,7 +762,7 @@
                 {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4000002H3_20250610T011301SQUARE.png",
-                    "number": "4511",
+                    "number": "4002",
                     "url": "https://jmp2.uk/sam-GBBC4000002H3.m3u8",
                     "epgId": "GBBC4000002H3"
                 },
@@ -980,13 +980,6 @@
                     "number": "4635",
                     "url": "https://jmp2.uk/sam-GB2700012HS.m3u8",
                     "epgId": "GB2700012HS"
-                },
-                {
-                    "name": "DAZN Women's Football",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000002UT_20250610T011239SQUARE.png",
-                    "number": "4637",
-                    "url": "https://jmp2.uk/sam-GBBD3000002UT.m3u8",
-                    "epgId": "GBBD3000002UT"
                 },
                 {
                     "name": "Pluto TV Motor",
@@ -1225,13 +1218,6 @@
                     "epgId": "GBBD230000420"
                 },
                 {
-                    "name": "Beano TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA330002536_20250107T022525SQUARE.png",
-                    "number": "4807",
-                    "url": "https://jmp2.uk/sam-GBBA330002536.m3u8",
-                    "epgId": "GBBA330002536"
-                },
-                {
                     "name": "Dennis and Gnasher",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100011V3_20250107T030631SQUARE.png",
                     "number": "4808",
@@ -1258,13 +1244,6 @@
                     "number": "4823",
                     "url": "https://jmp2.uk/sam-GB900003KR.m3u8",
                     "epgId": "GB900003KR"
-                },
-                {
-                    "name": "Super Anime",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100010UB_20250610T011242SQUARE.png",
-                    "number": "4825",
-                    "url": "https://jmp2.uk/sam-GBBD1100010UB.m3u8",
-                    "epgId": "GBBD1100010UB"
                 },
                 {
                     "name": "Family - Rakuten TV",
