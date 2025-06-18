@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 18/06/2025 00:15",
+    "author": "Actualizada 19/06/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -642,6 +642,13 @@
                     "epgId": "ITAJ3800007P8"
                 },
                 {
+                    "name": "Bud Spencer – Noi siamo angeli – La serie completa",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD140000119_20250617T031634SQUARE.png",
+                    "number": "4237",
+                    "url": "https://jmp2.uk/sam-ITBD140000119.m3u8",
+                    "epgId": "ITBD140000119"
+                },
+                {
                     "name": "Cedar Cove - La Serie completa",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500003NO_20250218T040338SQUARE.png",
                     "number": "4239",
@@ -738,13 +745,6 @@
                     "number": "4268",
                     "url": "https://jmp2.uk/sam-ITBA14000026G.m3u8",
                     "epgId": "ITBA14000026G"
-                },
-                {
-                    "name": "Bud Spencer – Noi siamo angeli – La serie completa",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD140000119_20250617T031634SQUARE.png",
-                    "number": "4909",
-                    "url": "https://jmp2.uk/sam-ITBD140000119.m3u8",
-                    "epgId": "ITBD140000119"
                 }
             ]
         },

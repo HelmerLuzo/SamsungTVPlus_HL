@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇪🇸 by HL",
-    "author": "Actualizada 18/06/2025 00:15",
+    "author": "Actualizada 19/06/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/es.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -155,13 +155,6 @@
                     "number": "4225",
                     "url": "https://jmp2.uk/sam-ESBD1500001SD.m3u8",
                     "epgId": "ESBD1500001SD"
-                },
-                {
-                    "name": "Gaming Central League of Legends",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300032LR_20250617T031556SQUARE.png",
-                    "number": "4677",
-                    "url": "https://jmp2.uk/sam-ES300032LR.m3u8",
-                    "epgId": "ES300032LR"
                 }
             ]
         },
@@ -515,6 +508,13 @@
                     "number": "4675",
                     "url": "https://jmp2.uk/sam-ESBC1700002IM.m3u8",
                     "epgId": "ESBC1700002IM"
+                },
+                {
+                    "name": "Gaming Central League of Legends",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300032LR_20250617T031556SQUARE.png",
+                    "number": "4677",
+                    "url": "https://jmp2.uk/sam-ES300032LR.m3u8",
+                    "epgId": "ES300032LR"
                 }
             ]
         },
