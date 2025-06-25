@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 25/06/2025 00:15",
+    "author": "Actualizada 26/06/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -10,11 +10,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Film.png",
             "stations": [
                 {
-                    "name": "Gli immortali – Van Damme vs Lundgren",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100001B7_20250624T021801SQUARE.png",
+                    "name": "Cine Thriller",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200002DU_20250624T021755SQUARE.png",
                     "number": "4002",
-                    "url": "https://jmp2.uk/sam-ITBD1100001B7.m3u8",
-                    "epgId": "ITBD1100001B7"
+                    "url": "https://jmp2.uk/sam-ITBD3200002DU.m3u8",
+                    "epgId": "ITBD3200002DU"
                 },
                 {
                     "name": "Film Top - Rakuten TV",
@@ -22,6 +22,13 @@
                     "number": "4005",
                     "url": "https://jmp2.uk/sam-IT2600002F6.m3u8",
                     "epgId": "IT2600002F6"
+                },
+                {
+                    "name": "Gli immortali – Van Damme vs Lundgren",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100001B7_20250624T021801SQUARE.png",
+                    "number": "4415",
+                    "url": "https://jmp2.uk/sam-ITBD1100001B7.m3u8",
+                    "epgId": "ITBD1100001B7"
                 },
                 {
                     "name": "Comicità piccante",
@@ -36,6 +43,13 @@
                     "number": "4870",
                     "url": "https://jmp2.uk/sam-ITBC1100008L4.m3u8",
                     "epgId": "ITBC1100008L4"
+                },
+                {
+                    "name": "CG Grandi Film:  Bollenti spiriti & Co",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000093A_20250624T020603SQUARE.png",
+                    "number": "4871",
+                    "url": "https://jmp2.uk/sam-ITBA14000093A.m3u8",
+                    "epgId": "ITBA14000093A"
                 },
                 {
                     "name": "Grandi Nomi",
@@ -157,13 +171,6 @@
                     "epgId": "IT3600004TW"
                 },
                 {
-                    "name": "CG Grandi Film",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000093A_20250624T020603SQUARE.png",
-                    "number": "4931",
-                    "url": "https://jmp2.uk/sam-ITBA14000093A.m3u8",
-                    "epgId": "ITBA14000093A"
-                },
-                {
                     "name": "Trailers",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300048YJ_20241022T043911SQUARE.png",
                     "number": "4939",
@@ -218,13 +225,6 @@
                     "number": "4963",
                     "url": "https://jmp2.uk/sam-ITBC1100001G5.m3u8",
                     "epgId": "ITBC1100001G5"
-                },
-                {
-                    "name": "Cine Thriller",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200002DU_20250624T021755SQUARE.png",
-                    "number": "4965",
-                    "url": "https://jmp2.uk/sam-ITBD3200002DU.m3u8",
-                    "epgId": "ITBD3200002DU"
                 },
                 {
                     "name": "Crime Time",
@@ -282,6 +282,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/News.png",
             "stations": [
                 {
+                    "name": "Urania News",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT50001295_20250624T021809SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/sam-IT50001295.m3u8",
+                    "epgId": "IT50001295"
+                },
+                {
                     "name": "Euronews IN DIRETTA",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600009QD_20250415T022338SQUARE.png",
                     "number": "4004",
@@ -303,18 +310,18 @@
                     "epgId": "ITBB5000002N0"
                 },
                 {
-                    "name": "Urania News",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT50001295_20250624T021809SQUARE.png",
-                    "number": "4556",
-                    "url": "https://jmp2.uk/sam-IT50001295.m3u8",
-                    "epgId": "IT50001295"
-                },
-                {
                     "name": "3BMeteo",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500008CB_20250408T021431SQUARE.png",
                     "number": "4557",
                     "url": "https://jmp2.uk/sam-IT500008CB.m3u8",
                     "epgId": "IT500008CB"
+                },
+                {
+                    "name": "Sky News International",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3400003D6_20250624T020607SQUARE.png",
+                    "number": "4559",
+                    "url": "https://jmp2.uk/sam-IT3400003D6.m3u8",
+                    "epgId": "IT3400003D6"
                 },
                 {
                     "name": "FRANCE 24 FAST",
@@ -607,13 +614,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serie TV.png",
             "stations": [
                 {
-                    "name": "Hannibal - La serie completa",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100001MG_20250624T021803SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/sam-ITBD4100001MG.m3u8",
-                    "epgId": "ITBD4100001MG"
-                },
-                {
                     "name": "H2O & Friends",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500007X2_20250415T132917SQUARE.png",
                     "number": "4216",
@@ -745,6 +745,13 @@
                     "number": "4268",
                     "url": "https://jmp2.uk/sam-ITBA14000026G.m3u8",
                     "epgId": "ITBA14000026G"
+                },
+                {
+                    "name": "Hannibal - La serie completa",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100001MG_20250624T021803SQUARE.png",
+                    "number": "4307",
+                    "url": "https://jmp2.uk/sam-ITBD4100001MG.m3u8",
+                    "epgId": "ITBD4100001MG"
                 }
             ]
         },
@@ -767,7 +774,7 @@
                     "epgId": "IT2600008RA"
                 },
                 {
-                    "name": "Crossing Lines – La serie",
+                    "name": "True Crime",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1000006RD_20250624T021752SQUARE.png",
                     "number": "4297",
                     "url": "https://jmp2.uk/sam-ITBD1000006RD.m3u8",
@@ -842,18 +849,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Bambini.png",
             "stations": [
                 {
-                    "name": "LooLoo Kids",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT5000006B7_20250624T021806SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/sam-IT5000006B7.m3u8",
-                    "epgId": "IT5000006B7"
-                },
-                {
                     "name": "DeAPlaneta Kids",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200007SZ_20250513T010706SQUARE.png",
                     "number": "4007",
                     "url": "https://jmp2.uk/sam-ITBD3200007SZ.m3u8",
                     "epgId": "ITBD3200007SZ"
+                },
+                {
+                    "name": "LooLoo Kids",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT5000006B7_20250624T021806SQUARE.png",
+                    "number": "4195",
+                    "url": "https://jmp2.uk/sam-IT5000006B7.m3u8",
+                    "epgId": "IT5000006B7"
                 },
                 {
                     "name": "Teletubbies",
@@ -960,7 +967,7 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentari.png",
             "stations": [
                 {
-                    "name": "Grandi Documentari - Wedo Big Stories",
+                    "name": "wedotv Big Stories",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC35000016T_20250624T021750SQUARE.png",
                     "number": "4411",
                     "url": "https://jmp2.uk/sam-ITBC35000016T.m3u8",
@@ -1008,6 +1015,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Cucina & Viaggi.png",
             "stations": [
                 {
+                    "name": "Gambero Rosso",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20250624T021758SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/sam-IT500011RG.m3u8",
+                    "epgId": "IT500011RG"
+                },
+                {
                     "name": "Hell's Kitchen",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3900003FE_20250211T014001SQUARE.png",
                     "number": "4513",
@@ -1020,13 +1034,6 @@
                     "number": "4515",
                     "url": "https://jmp2.uk/sam-ITBD4100007LO.m3u8",
                     "epgId": "ITBD4100007LO"
-                },
-                {
-                    "name": "Gambero Rosso",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20250624T021758SQUARE.png",
-                    "number": "4516",
-                    "url": "https://jmp2.uk/sam-IT500011RG.m3u8",
-                    "epgId": "IT500011RG"
                 },
                 {
                     "name": "Viaggi & Sapori",

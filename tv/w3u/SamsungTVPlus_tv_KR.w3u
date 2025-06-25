@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇰🇷 by HL",
-    "author": "Actualizada 25/06/2025 00:15",
+    "author": "Actualizada 26/06/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/kr.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/kr.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_KR.w3u",
@@ -10,16 +10,23 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/드라마.png",
             "stations": [
                 {
-                    "name": "tvN 검색어를 입력하세요 WWW",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500002Q4_20250521T005546SQUARE.png",
+                    "name": "tvN 미생",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20250625T010720SQUARE.png",
                     "number": "505",
+                    "url": "https://jmp2.uk/sam-KRBC3200017JQ.m3u8",
+                    "epgId": "KRBC3200017JQ"
+                },
+                {
+                    "name": "tvN 검색어를 입력하세요 WWW",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500002Q4_20250625T010718SQUARE.png",
+                    "number": "508",
                     "url": "https://jmp2.uk/sam-KRBC4500002Q4.m3u8",
                     "epgId": "KRBC4500002Q4"
                 },
                 {
                     "name": "tvN 하백의 신부 2017",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC320002200_20250521T005551SQUARE.png",
-                    "number": "507",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC320002200_20250625T010730SQUARE.png",
+                    "number": "510",
                     "url": "https://jmp2.uk/sam-KRBC320002200.m3u8",
                     "epgId": "KRBC320002200"
                 },
@@ -57,13 +64,6 @@
                     "number": "626",
                     "url": "https://jmp2.uk/sam-KRBB42000061Z.m3u8",
                     "epgId": "KRBB42000061Z"
-                },
-                {
-                    "name": "tvN 환혼 : 빛과 그림자",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20250514T082344SQUARE.png",
-                    "number": "627",
-                    "url": "https://jmp2.uk/sam-KRBC3200017JQ.m3u8",
-                    "epgId": "KRBC3200017JQ"
                 },
                 {
                     "name": "SBS 피고인",
@@ -170,23 +170,37 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/예능.png",
             "stations": [
                 {
-                    "name": "tvN 뿅뿅 지구오락실 전 시즌 모아보기",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200032ZM_20250521T005547SQUARE.png",
+                    "name": "tvN 알쓸범잡 1~2",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC8000144F_20250625T010726SQUARE.png",
                     "number": "503",
+                    "url": "https://jmp2.uk/sam-KRBC8000144F.m3u8",
+                    "epgId": "KRBC8000144F"
+                },
+                {
+                    "name": "tvN 서진이네2",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200025QG_20250625T010724SQUARE.png",
+                    "number": "504",
+                    "url": "https://jmp2.uk/sam-KRBC3200025QG.m3u8",
+                    "epgId": "KRBC3200025QG"
+                },
+                {
+                    "name": "tvN 뿅뿅 지구오락실 전 시즌 모아보기",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200032ZM_20250625T010722SQUARE.png",
+                    "number": "506",
                     "url": "https://jmp2.uk/sam-KRBC3200032ZM.m3u8",
                     "epgId": "KRBC3200032ZM"
                 },
                 {
                     "name": "tvN 언니네 산지직송 1~2 이어보기",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700006WZ_20250521T005549SQUARE.png",
-                    "number": "504",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700006WZ_20250625T010728SQUARE.png",
+                    "number": "507",
                     "url": "https://jmp2.uk/sam-KR700006WZ.m3u8",
                     "epgId": "KR700006WZ"
                 },
                 {
                     "name": "tvN STORY",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200014XZ_20250521T005544SQUARE.png",
-                    "number": "506",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200014XZ_20250625T010716SQUARE.png",
+                    "number": "509",
                     "url": "https://jmp2.uk/sam-KRBC3200014XZ.m3u8",
                     "epgId": "KRBC3200014XZ"
                 },
@@ -434,13 +448,6 @@
                     "number": "582",
                     "url": "https://jmp2.uk/sam-KR2900001RN.m3u8",
                     "epgId": "KR2900001RN"
-                },
-                {
-                    "name": "tvN 백패커2 & 장사천재 백사장2",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200025QG_20250402T005959SQUARE.png",
-                    "number": "583",
-                    "url": "https://jmp2.uk/sam-KRBC3200025QG.m3u8",
-                    "epgId": "KRBC3200025QG"
                 },
                 {
                     "name": "SBS 미운 우리 새끼",
@@ -906,7 +913,7 @@
             "stations": [
                 {
                     "name": "SMTOWN",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR10000027H_20250514T082428SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR10000027H_20250625T010713SQUARE.png",
                     "number": "511",
                     "url": "https://jmp2.uk/sam-KR10000027H.m3u8",
                     "epgId": "KR10000027H"

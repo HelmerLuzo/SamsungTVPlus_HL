@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇨🇭 by HL",
-    "author": "Actualizada 25/06/2025 00:15",
+    "author": "Actualizada 26/06/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/ch.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/ch.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CH.w3u",
@@ -10,11 +10,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
                 {
-                    "name": "H2O & Friends",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH800001RT_20250624T021114SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/sam-CH800001RT.m3u8",
-                    "epgId": "CH800001RT"
+                    "name": "Hochzeit auf den ersten Blick",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4800001LT_20250624T021121SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/sam-CH4800001LT.m3u8",
+                    "epgId": "CH4800001LT"
                 },
                 {
                     "name": "Comedy Mix",
@@ -36,13 +36,6 @@
                     "number": "4041",
                     "url": "https://jmp2.uk/sam-CH500003EH.m3u8",
                     "epgId": "CH500003EH"
-                },
-                {
-                    "name": "Hochzeit auf den ersten Blick",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4800001LT_20250624T021121SQUARE.png",
-                    "number": "4069",
-                    "url": "https://jmp2.uk/sam-CH4800001LT.m3u8",
-                    "epgId": "CH4800001LT"
                 },
                 {
                     "name": "Hell's Kitchen",
@@ -129,6 +122,13 @@
                     "epgId": "CHBD2500001SY"
                 },
                 {
+                    "name": "H2O & Friends",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH800001RT_20250624T021114SQUARE.png",
+                    "number": "4214",
+                    "url": "https://jmp2.uk/sam-CH800001RT.m3u8",
+                    "epgId": "CH800001RT"
+                },
+                {
                     "name": "Lagerfeuer",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD150000135_20250218T040707SQUARE.png",
                     "number": "4219",
@@ -197,18 +197,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
                 {
-                    "name": "Heartland",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3700002YI_20250624T021117SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/sam-CH3700002YI.m3u8",
-                    "epgId": "CH3700002YI"
-                },
-                {
                     "name": "Baywatch",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2600009ZC_20250527T015652SQUARE.png",
                     "number": "4231",
                     "url": "https://jmp2.uk/sam-CHBD2600009ZC.m3u8",
                     "epgId": "CHBD2600009ZC"
+                },
+                {
+                    "name": "Heartland",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3700002YI_20250624T021117SQUARE.png",
+                    "number": "4232",
+                    "url": "https://jmp2.uk/sam-CH3700002YI.m3u8",
+                    "epgId": "CH3700002YI"
                 },
                 {
                     "name": "Nashville",
@@ -384,6 +384,13 @@
                     "epgId": "CHBA3300018TD"
                 },
                 {
+                    "name": "Sky News International",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH34000014Q_20250624T020450SQUARE.png",
+                    "number": "4573",
+                    "url": "https://jmp2.uk/sam-CH34000014Q.m3u8",
+                    "epgId": "CH34000014Q"
+                },
+                {
                     "name": "BFM TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500001V2_20250107T025434SQUARE.png",
                     "number": "4576",
@@ -404,11 +411,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
-                    "name": "Wilder Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20250624T021108SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/sam-CHBA3300028G3.m3u8",
-                    "epgId": "CHBA3300028G3"
+                    "name": "Terra Mater WILD",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2700002B7_20250624T021123SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/sam-CHBD2700002B7.m3u8",
+                    "epgId": "CHBD2700002B7"
                 },
                 {
                     "name": "The Wicked Tuna Channel",
@@ -474,11 +481,18 @@
                     "epgId": "CHAK3504503A"
                 },
                 {
-                    "name": "Grandi Documentari - Wedo Big Stories [IT]",
+                    "name": "wedotv Big Stories [IT]",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000040J_20250624T021815SQUARE.png",
                     "number": "4442",
                     "url": "https://jmp2.uk/sam-CHBC40000040J.m3u8",
                     "epgId": "CHBC40000040J"
+                },
+                {
+                    "name": "Wilder Planet",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20250624T021108SQUARE.png",
+                    "number": "4486",
+                    "url": "https://jmp2.uk/sam-CHBA3300028G3.m3u8",
+                    "epgId": "CHBA3300028G3"
                 },
                 {
                     "name": "One Terra",
@@ -486,13 +500,6 @@
                     "number": "4490",
                     "url": "https://jmp2.uk/sam-CHBA1500021M5.m3u8",
                     "epgId": "CHBA1500021M5"
-                },
-                {
-                    "name": "Terra Mater WILD",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2700002B7_20250624T021123SQUARE.png",
-                    "number": "4492",
-                    "url": "https://jmp2.uk/sam-CHBD2700002B7.m3u8",
-                    "epgId": "CHBD2700002B7"
                 },
                 {
                     "name": "Tierwelt",
@@ -529,18 +536,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Food & Travel.png",
             "stations": [
                 {
+                    "name": "Just Cooking",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500443A_20250624T021112SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/sam-CHAJ0500443A.m3u8",
+                    "epgId": "CHAJ0500443A"
+                },
+                {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH20000288_20250610T010345SQUARE.png",
                     "number": "4511",
                     "url": "https://jmp2.uk/sam-CH20000288.m3u8",
                     "epgId": "CH20000288"
-                },
-                {
-                    "name": "Just Cooking",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500443A_20250624T021112SQUARE.png",
-                    "number": "4519",
-                    "url": "https://jmp2.uk/sam-CHAJ0500443A.m3u8",
-                    "epgId": "CHAJ0500443A"
                 },
                 {
                     "name": "Pluto TV Food",
