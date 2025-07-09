@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 09/07/2025 00:15",
+    "author": "Actualizada 10/07/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -9,6 +9,13 @@
             "name": "Entertainment",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
+                {
+                    "name": "Comedy Hub",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20250708T031719SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/sam-GBBD25000038Y.m3u8",
+                    "epgId": "GBBD25000038Y"
+                },
                 {
                     "name": "Entertainment Hub",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20250513T005722SQUARE.png",
@@ -120,13 +127,6 @@
                     "number": "4144",
                     "url": "https://jmp2.uk/sam-GB4600001W9.m3u8",
                     "epgId": "GB4600001W9"
-                },
-                {
-                    "name": "Comedy Hub",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20250708T031719SQUARE.png",
-                    "number": "4156",
-                    "url": "https://jmp2.uk/sam-GBBD25000038Y.m3u8",
-                    "epgId": "GBBD25000038Y"
                 },
                 {
                     "name": "8 Out Of 10 Cats",
@@ -323,13 +323,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/TV Series.png",
             "stations": [
                 {
-                    "name": "Demand Drama",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900005KI_20250708T031725SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/sam-GB900005KI.m3u8",
-                    "epgId": "GB900005KI"
-                },
-                {
                     "name": "Sky Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20250107T030748SQUARE.png",
                     "number": "4231",
@@ -379,6 +372,13 @@
                     "epgId": "GBBD600002XT"
                 },
                 {
+                    "name": "Demand Drama",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900005KI_20250708T031725SQUARE.png",
+                    "number": "4240",
+                    "url": "https://jmp2.uk/sam-GB900005KI.m3u8",
+                    "epgId": "GB900005KI"
+                },
+                {
                     "name": "Zee One",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100013BJ_20250701T033240SQUARE.png",
                     "number": "4243",
@@ -401,7 +401,7 @@
                 {
                     "name": "Crime Network",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100010H1_20250708T031722SQUARE.png",
-                    "number": "4001",
+                    "number": "4291",
                     "url": "https://jmp2.uk/sam-GBBD4100010H1.m3u8",
                     "epgId": "GBBD4100010H1"
                 },
@@ -474,6 +474,13 @@
             "name": "Documentaries",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentaries.png",
             "stations": [
+                {
+                    "name": "U&Transport",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100001A8_20250708T031727SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/sam-GBBD3100001A8.m3u8",
+                    "epgId": "GBBD3100001A8"
+                },
                 {
                     "name": "5 Cops",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504500A_20250107T022508SQUARE.png",
@@ -592,13 +599,6 @@
                     "number": "4364",
                     "url": "https://jmp2.uk/sam-GB27000089Z.m3u8",
                     "epgId": "GB27000089Z"
-                },
-                {
-                    "name": "U&Transport",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100001A8_20250708T031727SQUARE.png",
-                    "number": "4412",
-                    "url": "https://jmp2.uk/sam-GBBD3100001A8.m3u8",
-                    "epgId": "GBBD3100001A8"
                 },
                 {
                     "name": "U&The Past",

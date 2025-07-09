@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz"
-#EXTINF:-1 tvg-id="ES26000068D" tvg-name="ES26000068D" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20241126T043113SQUARE.png" group-title="Entretenimiento" , Estilo y Vida – Rakuten TV
-https://jmp2.uk/sam-ES26000068D.m3u8
 #EXTINF:-1 tvg-id="ESBC4100001NZ" tvg-name="ESBC4100001NZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20250708T030936SQUARE.png" group-title="Entretenimiento" , La 1
 https://jmp2.uk/sam-ESBC4100001NZ.m3u8
+#EXTINF:-1 tvg-id="ES26000068D" tvg-name="ES26000068D" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20241126T043113SQUARE.png" group-title="Entretenimiento" , Estilo y Vida – Rakuten TV
+https://jmp2.uk/sam-ES26000068D.m3u8
 #EXTINF:-1 tvg-id="ESBD3000002GP" tvg-name="ESBD3000002GP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20241022T050505SQUARE.png" group-title="Entretenimiento" , Canal Sur Andalucía
 https://jmp2.uk/sam-ESBD3000002GP.m3u8
 #EXTINF:-1 tvg-id="ESBC4100002AG" tvg-name="ESBC4100002AG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20241022T050543SQUARE.png" group-title="Entretenimiento" , La 2
@@ -95,14 +95,14 @@ https://jmp2.uk/sam-ESBD1100001PQ.m3u8
 https://jmp2.uk/sam-ES1300001QC.m3u8
 #EXTINF:-1 tvg-id="ESBA3300024AJ" tvg-name="ESBA3300024AJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300024AJ_20241106T142255SQUARE.png" group-title="Noticias" , Bloomberg TV+
 https://jmp2.uk/sam-ESBA3300024AJ.m3u8
+#EXTINF:-1 tvg-id="ES2600001MC" tvg-name="ES2600001MC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600001MC_20250708T030933SQUARE.png" group-title="Crimen" , Forensic Files
+https://jmp2.uk/sam-ES2600001MC.m3u8
 #EXTINF:-1 tvg-id="ES33000079W" tvg-name="ES33000079W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000079W_20250408T021801SQUARE.png" group-title="Crimen" , RTVE Crimen
 https://jmp2.uk/sam-ES33000079W.m3u8
 #EXTINF:-1 tvg-id="ESBA3300029UG" tvg-name="ESBA3300029UG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png" group-title="Crimen" , El Comisario
 https://jmp2.uk/sam-ESBA3300029UG.m3u8
 #EXTINF:-1 tvg-id="ESBA3300025WZ" tvg-name="ESBA3300025WZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300025WZ_20241022T050739SQUARE.png" group-title="Crimen" , Los Asesinatos de Midsomer
 https://jmp2.uk/sam-ESBA3300025WZ.m3u8
-#EXTINF:-1 tvg-id="ES2600001MC" tvg-name="ES2600001MC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600001MC_20250708T030933SQUARE.png" group-title="Crimen" , Forensic Files
-https://jmp2.uk/sam-ES2600001MC.m3u8
 #EXTINF:-1 tvg-id="ES1600004JV" tvg-name="ES1600004JV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600004JV_20250527T014638SQUARE.png" group-title="Crimen" , Todo Crimen
 https://jmp2.uk/sam-ES1600004JV.m3u8
 #EXTINF:-1 tvg-id="ES33000025N" tvg-name="ES33000025N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20241126T043056SQUARE.png" group-title="Crimen" , Crimen & Historia
@@ -173,8 +173,8 @@ https://jmp2.uk/sam-ESAJ38000046O.m3u8
 https://jmp2.uk/sam-ESBA3300028OE.m3u8
 #EXTINF:-1 tvg-id="ES260001081" tvg-name="ES260001081" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20250107T024924SQUARE.png" group-title="Niños" , En Familia - Rakuten TV
 https://jmp2.uk/sam-ES260001081.m3u8
-#EXTINF:-1 tvg-id="ESBD800004KU" tvg-name="ESBD800004KU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20250708T030945SQUARE.png" group-title="Cine" , Runtime Romance
-https://jmp2.uk/sam-ESBD800004KU.m3u8
+#EXTINF:-1 tvg-id="ESBD8000033W" tvg-name="ESBD8000033W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20250708T030942SQUARE.png" group-title="Cine" , Runtime Comedia
+https://jmp2.uk/sam-ESBD8000033W.m3u8
 #EXTINF:-1 tvg-id="ES700004C8" tvg-name="ES700004C8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20250211T014052SQUARE.png" group-title="Cine" , Runtime Familia
 https://jmp2.uk/sam-ES700004C8.m3u8
 #EXTINF:-1 tvg-id="ES33000058B" tvg-name="ES33000058B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20250610T010513SQUARE.png" group-title="Cine" , RTVE Somos Cine
@@ -191,14 +191,14 @@ https://jmp2.uk/sam-ESAJ3800001KT.m3u8
 https://jmp2.uk/sam-ESBC400001QQ.m3u8
 #EXTINF:-1 tvg-id="ES2600013H4" tvg-name="ES2600013H4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png" group-title="Cine" , Películas Top - Rakuten TV
 https://jmp2.uk/sam-ES2600013H4.m3u8
+#EXTINF:-1 tvg-id="ESBD800004KU" tvg-name="ESBD800004KU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20250708T030945SQUARE.png" group-title="Cine" , Runtime Romance
+https://jmp2.uk/sam-ESBD800004KU.m3u8
 #EXTINF:-1 tvg-id="ES2600012C9" tvg-name="ES2600012C9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600012C9_20241022T050603SQUARE.png" group-title="Cine" , Películas Románticas - Rakuten TV
 https://jmp2.uk/sam-ES2600012C9.m3u8
 #EXTINF:-1 tvg-id="ES900002ZD" tvg-name="ES900002ZD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900002ZD_20250422T103210SQUARE.png" group-title="Cine" , Todo Pasión
 https://jmp2.uk/sam-ES900002ZD.m3u8
 #EXTINF:-1 tvg-id="ESBC2700012RP" tvg-name="ESBC2700012RP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png" group-title="Cine" , Cine Feel Good – Verdi TV
 https://jmp2.uk/sam-ESBC2700012RP.m3u8
-#EXTINF:-1 tvg-id="ESBD8000033W" tvg-name="ESBD8000033W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20250708T030942SQUARE.png" group-title="Cine" , Runtime Comedia
-https://jmp2.uk/sam-ESBD8000033W.m3u8
 #EXTINF:-1 tvg-id="ES260000700" tvg-name="ES260000700" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000700_20241022T051222SQUARE.png" group-title="Cine" , Comedia - Rakuten TV
 https://jmp2.uk/sam-ES260000700.m3u8
 #EXTINF:-1 tvg-id="ES300007KS" tvg-name="ES300007KS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20250114T063439SQUARE.png" group-title="Cine" , Sony One Hits Comedia
@@ -255,10 +255,10 @@ https://jmp2.uk/sam-ESAJ3800007PC.m3u8
 https://jmp2.uk/sam-ES300033TI.m3u8
 #EXTINF:-1 tvg-id="ESBC27000040I" tvg-name="ESBC27000040I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20250610T010506SQUARE.png" group-title="Viajes y Cocina" , GoUSA TV
 https://jmp2.uk/sam-ESBC27000040I.m3u8
-#EXTINF:-1 tvg-id="ES33000036Q" tvg-name="ES33000036Q" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20250708T030939SQUARE.png" group-title="Documentales" , RTVE Docs
-https://jmp2.uk/sam-ES33000036Q.m3u8
 #EXTINF:-1 tvg-id="ES1600002QL" tvg-name="ES1600002QL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600002QL_20250527T014625SQUARE.png" group-title="Documentales" , La Fiebre del Jade
 https://jmp2.uk/sam-ES1600002QL.m3u8
+#EXTINF:-1 tvg-id="ES33000036Q" tvg-name="ES33000036Q" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20250708T030939SQUARE.png" group-title="Documentales" , RTVE Docs
+https://jmp2.uk/sam-ES33000036Q.m3u8
 #EXTINF:-1 tvg-id="ES1400002CJ" tvg-name="ES1400002CJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400002CJ_20250527T014616SQUARE.png" group-title="Documentales" , CURIOSITY Now
 https://jmp2.uk/sam-ES1400002CJ.m3u8
 #EXTINF:-1 tvg-id="ES12000024R" tvg-name="ES12000024R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20250513T005450SQUARE.png" group-title="Documentales" , Historia y Vida

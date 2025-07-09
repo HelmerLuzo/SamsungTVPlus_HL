@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇦🇹 by HL",
-    "author": "Actualizada 09/07/2025 00:15",
+    "author": "Actualizada 10/07/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/at.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/at.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_AT.w3u",
@@ -9,13 +9,6 @@
             "name": "Entertainment",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
-                {
-                    "name": "H2O & Friends",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT80000194_20250708T031447SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/sam-AT80000194.m3u8",
-                    "epgId": "AT80000194"
-                },
                 {
                     "name": "Comedy Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD41000046O_20250610T010302SQUARE.png",
@@ -122,6 +115,13 @@
                     "epgId": "AT1100001B5"
                 },
                 {
+                    "name": "H2O & Friends",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT80000194_20250708T031447SQUARE.png",
+                    "number": "4214",
+                    "url": "https://jmp2.uk/sam-AT80000194.m3u8",
+                    "epgId": "AT80000194"
+                },
+                {
                     "name": "Lagerfeuer",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1500001X4_20250214T112507SQUARE.png",
                     "number": "4219",
@@ -176,18 +176,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
                 {
+                    "name": "Heartland",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3700002Z3_20250708T031449SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/sam-AT3700002Z3.m3u8",
+                    "epgId": "AT3700002Z3"
+                },
+                {
                     "name": "Baywatch",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600008HN_20250624T021036SQUARE.png",
                     "number": "4231",
                     "url": "https://jmp2.uk/sam-ATBD2600008HN.m3u8",
                     "epgId": "ATBD2600008HN"
-                },
-                {
-                    "name": "Heartland",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3700002Z3_20250708T031449SQUARE.png",
-                    "number": "4232",
-                    "url": "https://jmp2.uk/sam-AT3700002Z3.m3u8",
-                    "epgId": "AT3700002Z3"
                 },
                 {
                     "name": "Nashville",
@@ -369,6 +369,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
+                    "name": "Höhenrausch",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1500028F9_20250708T031436SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/sam-ATBA1500028F9.m3u8",
+                    "epgId": "ATBA1500028F9"
+                },
+                {
                     "name": "The Wicked Tuna Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC3900001W3_20250107T022235SQUARE.png",
                     "number": "4352",
@@ -416,13 +423,6 @@
                     "number": "4429",
                     "url": "https://jmp2.uk/sam-ATBA15000088F.m3u8",
                     "epgId": "ATBA15000088F"
-                },
-                {
-                    "name": "Höhenrausch",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1500028F9_20250708T031436SQUARE.png",
-                    "number": "4431",
-                    "url": "https://jmp2.uk/sam-ATBA1500028F9.m3u8",
-                    "epgId": "ATBA1500028F9"
                 },
                 {
                     "name": "Pluto TV Paranormal",
@@ -489,7 +489,7 @@
                 {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2000029T_20250708T031455SQUARE.png",
-                    "number": "4001",
+                    "number": "4511",
                     "url": "https://jmp2.uk/sam-AT2000029T.m3u8",
                     "epgId": "AT2000029T"
                 },
@@ -528,13 +528,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sport.png",
             "stations": [
                 {
-                    "name": "Red Bull TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1500003ES_20250708T031452SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/sam-ATBD1500003ES.m3u8",
-                    "epgId": "ATBD1500003ES"
-                },
-                {
                     "name": "DAZN Rise",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD700001VF_20250513T005127SQUARE.png",
                     "number": "4601",
@@ -547,6 +540,13 @@
                     "number": "4605",
                     "url": "https://jmp2.uk/sam-ATBA2200008XN.m3u8",
                     "epgId": "ATBA2200008XN"
+                },
+                {
+                    "name": "Red Bull TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1500003ES_20250708T031452SQUARE.png",
+                    "number": "4609",
+                    "url": "https://jmp2.uk/sam-ATBD1500003ES.m3u8",
+                    "epgId": "ATBD1500003ES"
                 },
                 {
                     "name": "Sportdigital Free",
@@ -768,6 +768,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Filme.png",
             "stations": [
                 {
+                    "name": "DDR TV-Archiv",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2400001WV_20250708T031444SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/sam-AT2400001WV.m3u8",
+                    "epgId": "AT2400001WV"
+                },
+                {
                     "name": "Moviedome Family",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA330002946_20250117T111941SQUARE.png",
                     "number": "4859",
@@ -871,13 +878,6 @@
                     "number": "4925",
                     "url": "https://jmp2.uk/sam-ATAJ0500455A.m3u8",
                     "epgId": "ATAJ0500455A"
-                },
-                {
-                    "name": "DDR TV-Archiv",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2400001WV_20250708T031444SQUARE.png",
-                    "number": "4927",
-                    "url": "https://jmp2.uk/sam-AT2400001WV.m3u8",
-                    "epgId": "AT2400001WV"
                 },
                 {
                     "name": "Artflix",
