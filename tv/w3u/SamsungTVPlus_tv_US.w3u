@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇺🇸 by HL",
-    "author": "Actualizada 16/07/2025 00:15",
+    "author": "Actualizada 17/07/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/us.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_US.w3u",
@@ -149,13 +149,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Movies.png",
             "stations": [
                 {
-                    "name": "Movie Hub Romance",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20250714T223136SQUARE.png",
-                    "number": "1001",
-                    "url": "https://jmp2.uk/sam-USBD3500033U0.m3u8",
-                    "epgId": "USBD3500033U0"
-                },
-                {
                     "name": "Movie Hub",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20250630T232423SQUARE.png",
                     "number": "1200",
@@ -175,6 +168,13 @@
                     "number": "1204",
                     "url": "https://jmp2.uk/sam-USBD3500032H0.m3u8",
                     "epgId": "USBD3500032H0"
+                },
+                {
+                    "name": "Movie Hub Romance",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20250714T223136SQUARE.png",
+                    "number": "1206",
+                    "url": "https://jmp2.uk/sam-USBD3500033U0.m3u8",
+                    "epgId": "USBD3500033U0"
                 },
                 {
                     "name": "Hallmark Movies & More",
@@ -371,6 +371,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Action & Drama.png",
             "stations": [
                 {
+                    "name": "Samsung Television Network",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20250714T223141SQUARE.png",
+                    "number": "1004",
+                    "url": "https://jmp2.uk/sam-US300068X7.m3u8",
+                    "epgId": "US300068X7"
+                },
+                {
                     "name": "ALL ACTION",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300001QP_20241112T000548SQUARE.png",
                     "number": "1505",
@@ -552,6 +559,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
+                    "name": "Crime ThrillHer",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000236D_20250714T223124SQUARE.png",
+                    "number": "1003",
+                    "url": "https://jmp2.uk/sam-USBB52000236D.m3u8",
+                    "epgId": "USBB52000236D"
+                },
+                {
                     "name": "Crime Zone",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20250616T221654SQUARE.png",
                     "number": "1805",
@@ -664,13 +678,6 @@
                     "epgId": "US1900005VB"
                 },
                 {
-                    "name": "Crime ThrillHer",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000236D_20250714T223124SQUARE.png",
-                    "number": "1853",
-                    "url": "https://jmp2.uk/sam-USBB52000236D.m3u8",
-                    "epgId": "USBB52000236D"
-                },
-                {
                     "name": "Crimes Cults Killers",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200022PY_20250325T015144SQUARE.png",
                     "number": "1856",
@@ -735,7 +742,7 @@
                 {
                     "name": "All-Out Reality",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20250714T223122SQUARE.png",
-                    "number": "1000",
+                    "number": "1904",
                     "url": "https://jmp2.uk/sam-USBB4400016F9.m3u8",
                     "epgId": "USBB4400016F9"
                 },
@@ -935,16 +942,9 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Home & Food.png",
             "stations": [
                 {
-                    "name": "Flipping Nation by A&E",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200008RS_20250714T223127SQUARE.png",
-                    "number": "1003",
-                    "url": "https://jmp2.uk/sam-USBD4200008RS.m3u8",
-                    "epgId": "USBD4200008RS"
-                },
-                {
                     "name": "Home Refresh",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC21000142T_20250714T223129SQUARE.png",
-                    "number": "2005",
+                    "number": "1000",
                     "url": "https://jmp2.uk/sam-USBC21000142T.m3u8",
                     "epgId": "USBC21000142T"
                 },
@@ -982,6 +982,13 @@
                     "number": "2016",
                     "url": "https://jmp2.uk/sam-USBC1300005T6.m3u8",
                     "epgId": "USBC1300005T6"
+                },
+                {
+                    "name": "Flipping Nation by A&E",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200008RS_20250714T223127SQUARE.png",
+                    "number": "2020",
+                    "url": "https://jmp2.uk/sam-USBD4200008RS.m3u8",
+                    "epgId": "USBD4200008RS"
                 },
                 {
                     "name": "Homeful",
@@ -1130,18 +1137,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sports & Outdoors.png",
             "stations": [
                 {
-                    "name": "MLB Channel",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20250714T223133SQUARE.png",
-                    "number": "1002",
-                    "url": "https://jmp2.uk/sam-US1400001WV.m3u8",
-                    "epgId": "US1400001WV"
-                },
-                {
                     "name": "NFL Channel",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20250428T223450SQUARE.png",
                     "number": "2310",
                     "url": "https://jmp2.uk/sam-US2600007WJ.m3u8",
                     "epgId": "US2600007WJ"
+                },
+                {
+                    "name": "MLB Channel",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20250714T223133SQUARE.png",
+                    "number": "2315",
+                    "url": "https://jmp2.uk/sam-US1400001WV.m3u8",
+                    "epgId": "US1400001WV"
                 },
                 {
                     "name": "NESN Nation",
@@ -1254,6 +1261,13 @@
                     "number": "2372",
                     "url": "https://jmp2.uk/sam-USAJ4300001Q7.m3u8",
                     "epgId": "USAJ4300001Q7"
+                },
+                {
+                    "name": "RugbyPass TV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000004YJ_20250714T223139SQUARE.png",
+                    "number": "2375",
+                    "url": "https://jmp2.uk/sam-US1000004YJ.m3u8",
+                    "epgId": "US1000004YJ"
                 },
                 {
                     "name": "fubo Sports Network",
@@ -1416,6 +1430,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Motor Sports.png",
             "stations": [
                 {
+                    "name": "Top Gear",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400027NG_20250714T223145SQUARE.png",
+                    "number": "1001",
+                    "url": "https://jmp2.uk/sam-USBC2400027NG.m3u8",
+                    "epgId": "USBC2400027NG"
+                },
+                {
                     "name": "NASCAR Channel",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700021SM_20250505T232701SQUARE.png",
                     "number": "2505",
@@ -1428,13 +1449,6 @@
                     "number": "2510",
                     "url": "https://jmp2.uk/sam-US600011Q2.m3u8",
                     "epgId": "US600011Q2"
-                },
-                {
-                    "name": "Top Gear",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400027NG_20250714T223145SQUARE.png",
-                    "number": "2515",
-                    "url": "https://jmp2.uk/sam-USBC2400027NG.m3u8",
-                    "epgId": "USBC2400027NG"
                 },
                 {
                     "name": "Torque",
@@ -1978,6 +1992,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sci-Fi & Horror.png",
             "stations": [
                 {
+                    "name": "The Asylum",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20250714T223111SQUARE.png",
+                    "number": "1002",
+                    "url": "https://jmp2.uk/sam-USAJ17000014C.m3u8",
+                    "epgId": "USAJ17000014C"
+                },
+                {
                     "name": "Fear Zone",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20250408T020801SQUARE.png",
                     "number": "3005",
@@ -2069,13 +2090,6 @@
                     "epgId": "US3300010F5"
                 },
                 {
-                    "name": "The Asylum",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20250714T223111SQUARE.png",
-                    "number": "3070",
-                    "url": "https://jmp2.uk/sam-USAJ17000014C.m3u8",
-                    "epgId": "USAJ17000014C"
-                },
-                {
                     "name": "Horror by ALTER",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100001175_20240730T012800SQUARE.png",
                     "number": "3075",
@@ -2098,7 +2112,7 @@
                 {
                     "name": "It’s Anime",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US11000020V_20250714T223132SQUARE.png",
-                    "number": "1004",
+                    "number": "3202",
                     "url": "https://jmp2.uk/sam-US11000020V.m3u8",
                     "epgId": "US11000020V"
                 },

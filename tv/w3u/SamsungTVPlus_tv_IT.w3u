@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 16/07/2025 00:15",
+    "author": "Actualizada 17/07/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -22,13 +22,6 @@
                     "number": "4005",
                     "url": "https://jmp2.uk/sam-IT2600002F6.m3u8",
                     "epgId": "IT2600002F6"
-                },
-                {
-                    "name": "Gli immortali – Van Damme vs Lundgren",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100001B7_20250715T004408SQUARE.png",
-                    "number": "4415",
-                    "url": "https://jmp2.uk/sam-ITBD1100001B7.m3u8",
-                    "epgId": "ITBD1100001B7"
                 },
                 {
                     "name": "Comicità piccante",
@@ -248,6 +241,13 @@
                     "epgId": "IT500002FD"
                 },
                 {
+                    "name": "Gli immortali – Van Damme vs Lundgren",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100001B7_20250715T004408SQUARE.png",
+                    "number": "4992",
+                    "url": "https://jmp2.uk/sam-ITBD1100001B7.m3u8",
+                    "epgId": "ITBD1100001B7"
+                },
+                {
                     "name": "Adrenaline Movies",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000050E_20250131T145333SQUARE.png",
                     "number": "4993",
@@ -384,13 +384,6 @@
                     "number": "4060",
                     "url": "https://jmp2.uk/sam-IT9000113W.m3u8",
                     "epgId": "IT9000113W"
-                },
-                {
-                    "name": "Sony One Shark Tank",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000021Z_20250715T004405SQUARE.png",
-                    "number": "4062",
-                    "url": "https://jmp2.uk/sam-IT3000021Z.m3u8",
-                    "epgId": "IT3000021Z"
                 },
                 {
                     "name": "NOVE",
@@ -656,11 +649,25 @@
                     "epgId": "ITAJ3800007P8"
                 },
                 {
+                    "name": "Hannibal - La serie completa",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100001MG_20250715T004410SQUARE.png",
+                    "number": "4237",
+                    "url": "https://jmp2.uk/sam-ITBD4100001MG.m3u8",
+                    "epgId": "ITBD4100001MG"
+                },
+                {
                     "name": "Cedar Cove - La Serie completa",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500003NO_20250218T040338SQUARE.png",
                     "number": "4239",
                     "url": "https://jmp2.uk/sam-IT500003NO.m3u8",
                     "epgId": "IT500003NO"
+                },
+                {
+                    "name": "Vita Da Strega",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2000003B8_20250715T004430SQUARE.png",
+                    "number": "4240",
+                    "url": "https://jmp2.uk/sam-IT2000003B8.m3u8",
+                    "epgId": "IT2000003B8"
                 },
                 {
                     "name": "Andromeda",
@@ -745,13 +752,6 @@
                     "number": "4268",
                     "url": "https://jmp2.uk/sam-ITBA14000026G.m3u8",
                     "epgId": "ITBA14000026G"
-                },
-                {
-                    "name": "Hannibal - La serie completa",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100001MG_20250715T004410SQUARE.png",
-                    "number": "4307",
-                    "url": "https://jmp2.uk/sam-ITBD4100001MG.m3u8",
-                    "epgId": "ITBD4100001MG"
                 }
             ]
         },
@@ -856,13 +856,6 @@
                     "epgId": "ITBD3200007SZ"
                 },
                 {
-                    "name": "LooLoo Kids",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT5000006B7_20250715T004413SQUARE.png",
-                    "number": "4195",
-                    "url": "https://jmp2.uk/sam-IT5000006B7.m3u8",
-                    "epgId": "IT5000006B7"
-                },
-                {
                     "name": "Teletubbies",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT480000143_20250121T012642SQUARE.png",
                     "number": "4772",
@@ -889,6 +882,13 @@
                     "number": "4780",
                     "url": "https://jmp2.uk/sam-IT700004X4.m3u8",
                     "epgId": "IT700004X4"
+                },
+                {
+                    "name": "LooLoo Kids",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT5000006B7_20250715T004413SQUARE.png",
+                    "number": "4782",
+                    "url": "https://jmp2.uk/sam-IT5000006B7.m3u8",
+                    "epgId": "IT5000006B7"
                 },
                 {
                     "name": "Frisbee",
