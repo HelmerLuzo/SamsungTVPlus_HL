@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 22/07/2025 00:15",
+    "author": "Actualizada 23/07/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -11,14 +11,14 @@
             "stations": [
                 {
                     "name": "Comedy Hub",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20250708T031719SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20250722T005732SQUARE.png",
                     "number": "4001",
                     "url": "https://jmp2.uk/sam-GBBD25000038Y.m3u8",
                     "epgId": "GBBD25000038Y"
                 },
                 {
                     "name": "Entertainment Hub",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20250513T005722SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20250722T005735SQUARE.png",
                     "number": "4007",
                     "url": "https://jmp2.uk/sam-GBBC2300003ZQ.m3u8",
                     "epgId": "GBBC2300003ZQ"
@@ -199,7 +199,7 @@
             "stations": [
                 {
                     "name": "America's Got Talent",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20250624T021659SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20250722T005726SQUARE.png",
                     "number": "4002",
                     "url": "https://jmp2.uk/sam-GBBC2300002GG.m3u8",
                     "epgId": "GBBC2300002GG"
@@ -366,7 +366,7 @@
                 },
                 {
                     "name": "Baywatch",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20250107T030556SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20250722T005729SQUARE.png",
                     "number": "4239",
                     "url": "https://jmp2.uk/sam-GBBD600002XT.m3u8",
                     "epgId": "GBBD600002XT"
@@ -476,7 +476,7 @@
             "stations": [
                 {
                     "name": "U&Transport",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100001A8_20250708T031727SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100001A8_20250722T005745SQUARE.png",
                     "number": "4003",
                     "url": "https://jmp2.uk/sam-GBBD3100001A8.m3u8",
                     "epgId": "GBBD3100001A8"
@@ -748,7 +748,7 @@
                 },
                 {
                     "name": "Love the Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500001F5_20250304T114708SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500001F5_20250722T005724SQUARE.png",
                     "number": "4504",
                     "url": "https://jmp2.uk/sam-GBBD500001F5.m3u8",
                     "epgId": "GBBD500001F5"
@@ -962,7 +962,7 @@
                 },
                 {
                     "name": "Red Bull TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300003IK_20250107T030739SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300003IK_20250722T005738SQUARE.png",
                     "number": "4614",
                     "url": "https://jmp2.uk/sam-GBBD2300003IK.m3u8",
                     "epgId": "GBBD2300003IK"
@@ -1108,7 +1108,7 @@
                 },
                 {
                     "name": "SMTOWN",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1000001G0_20250624T021647SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1000001G0_20250722T005741SQUARE.png",
                     "number": "4743",
                     "url": "https://jmp2.uk/sam-GB1000001G0.m3u8",
                     "epgId": "GB1000001G0"
