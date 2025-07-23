@@ -43,12 +43,12 @@ https://jmp2.uk/sam-ATBC3900002PV.m3u8
 https://jmp2.uk/sam-AT70000595.m3u8
 #EXTINF:-1 tvg-id="AT2300003IC" tvg-name="AT2300003IC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2300003IC_20250107T022040SQUARE.png" group-title="Anime" , Beyblade
 https://jmp2.uk/sam-AT2300003IC.m3u8
-#EXTINF:-1 tvg-id="AT3700002Z3" tvg-name="AT3700002Z3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3700002Z3_20250722T005130SQUARE.png" group-title="Serien" , Heartland
-https://jmp2.uk/sam-AT3700002Z3.m3u8
-#EXTINF:-1 tvg-id="ATBD2600008HN" tvg-name="ATBD2600008HN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600008HN_20250624T021036SQUARE.png" group-title="Serien" , Baywatch
-https://jmp2.uk/sam-ATBD2600008HN.m3u8
 #EXTINF:-1 tvg-id="AT4600003EY" tvg-name="AT4600003EY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4600003EY_20250722T005133SQUARE.png" group-title="Serien" , Nashville
 https://jmp2.uk/sam-AT4600003EY.m3u8
+#EXTINF:-1 tvg-id="ATBD2600008HN" tvg-name="ATBD2600008HN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600008HN_20250624T021036SQUARE.png" group-title="Serien" , Baywatch
+https://jmp2.uk/sam-ATBD2600008HN.m3u8
+#EXTINF:-1 tvg-id="AT3700002Z3" tvg-name="AT3700002Z3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3700002Z3_20250722T005130SQUARE.png" group-title="Serien" , Heartland
+https://jmp2.uk/sam-AT3700002Z3.m3u8
 #EXTINF:-1 tvg-id="AT4800002G5" tvg-name="AT4800002G5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20250624T021044SQUARE.png" group-title="Serien" , Hudson & Rex
 https://jmp2.uk/sam-AT4800002G5.m3u8
 #EXTINF:-1 tvg-id="AT1500003M7" tvg-name="AT1500003M7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1500003M7_20250422T045225SQUARE.png" group-title="Serien" , Herzfrequenz
@@ -67,10 +67,10 @@ https://jmp2.uk/sam-ATAK3504505A.m3u8
 https://jmp2.uk/sam-AT3300001K9.m3u8
 #EXTINF:-1 tvg-id="AT1500002N1" tvg-name="AT1500002N1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1500002N1_20250422T045233SQUARE.png" group-title="Serien" , Telenovela ZDF
 https://jmp2.uk/sam-AT1500002N1.m3u8
-#EXTINF:-1 tvg-id="AT260000634" tvg-name="AT260000634" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT260000634_20250415T021529SQUARE.png" group-title="Crime" , Crime Serien - Rakuten TV
-https://jmp2.uk/sam-AT260000634.m3u8
 #EXTINF:-1 tvg-id="AT300009BI" tvg-name="AT300009BI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300009BI_20250722T005125SQUARE.png" group-title="Crime" , Alarm für Cobra 11 / Balko
 https://jmp2.uk/sam-AT300009BI.m3u8
+#EXTINF:-1 tvg-id="AT260000634" tvg-name="AT260000634" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT260000634_20250415T021529SQUARE.png" group-title="Crime" , Crime Serien - Rakuten TV
+https://jmp2.uk/sam-AT260000634.m3u8
 #EXTINF:-1 tvg-id="ATBA33000270C" tvg-name="ATBA33000270C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA33000270C_20250326T013156SQUARE.png" group-title="Crime" , Top Serien
 https://jmp2.uk/sam-ATBA33000270C.m3u8
 #EXTINF:-1 tvg-id="AT15000015I" tvg-name="AT15000015I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT15000015I_20250422T045230SQUARE.png" group-title="Crime" , KultKrimi
@@ -85,16 +85,12 @@ https://jmp2.uk/sam-ATBD800001VA.m3u8
 https://jmp2.uk/sam-ATBD190000101.m3u8
 #EXTINF:-1 tvg-id="ATBD1100002TA" tvg-name="ATBD1100002TA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1100002TA_20250107T022112SQUARE.png" group-title="News" , FRANCE 24 FAST
 https://jmp2.uk/sam-ATBD1100002TA.m3u8
-#EXTINF:-1 tvg-id="ATAJ0500419A" tvg-name="ATAJ0500419A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500419A_20250107T021647SQUARE.png" group-title="News" , Focus TV
-https://jmp2.uk/sam-ATAJ0500419A.m3u8
 #EXTINF:-1 tvg-id="ATAJ0500445A" tvg-name="ATAJ0500445A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500445A_20250318T040625SQUARE.png" group-title="News" , SPIEGEL TV
 https://jmp2.uk/sam-ATAJ0500445A.m3u8
 #EXTINF:-1 tvg-id="ATBA3300018K1" tvg-name="ATBA3300018K1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300018K1_20250107T021547SQUARE.png" group-title="News" , Bloomberg TV+
 https://jmp2.uk/sam-ATBA3300018K1.m3u8
 #EXTINF:-1 tvg-id="AT1100004SR" tvg-name="AT1100004SR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1100004SR_20250624T020443SQUARE.png" group-title="News" , Sky News International
 https://jmp2.uk/sam-AT1100004SR.m3u8
-#EXTINF:-1 tvg-id="ATBA1500028F9" tvg-name="ATBA1500028F9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1500028F9_20250722T005122SQUARE.png" group-title="Dokus & Wissen" , Höhenrausch
-https://jmp2.uk/sam-ATBA1500028F9.m3u8
 #EXTINF:-1 tvg-id="ATBC3900001W3" tvg-name="ATBC3900001W3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC3900001W3_20250107T022235SQUARE.png" group-title="Dokus & Wissen" , The Wicked Tuna Channel
 https://jmp2.uk/sam-ATBC3900001W3.m3u8
 #EXTINF:-1 tvg-id="ATAJ700009X4" tvg-name="ATAJ700009X4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ700009X4_20250107T021713SQUARE.png" group-title="Dokus & Wissen" , Ice Pilots
@@ -109,6 +105,8 @@ https://jmp2.uk/sam-ATBA3300009MF.m3u8
 https://jmp2.uk/sam-ATBD2700004VR.m3u8
 #EXTINF:-1 tvg-id="ATBA15000088F" tvg-name="ATBA15000088F" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA15000088F_20250107T021737SQUARE.png" group-title="Dokus & Wissen" , Moconomy
 https://jmp2.uk/sam-ATBA15000088F.m3u8
+#EXTINF:-1 tvg-id="ATBA1500028F9" tvg-name="ATBA1500028F9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1500028F9_20250722T005122SQUARE.png" group-title="Dokus & Wissen" , Höhenrausch
+https://jmp2.uk/sam-ATBA1500028F9.m3u8
 #EXTINF:-1 tvg-id="ATAJ70000866" tvg-name="ATAJ70000866" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ70000866_20250107T021836SQUARE.png" group-title="Dokus & Wissen" , Pluto TV Paranormal
 https://jmp2.uk/sam-ATAJ70000866.m3u8
 #EXTINF:-1 tvg-id="ATAK3504503A" tvg-name="ATAK3504503A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504503A_20250107T021840SQUARE.png" group-title="Dokus & Wissen" , Pluto TV Science
@@ -195,8 +193,6 @@ https://jmp2.uk/sam-AT2600007N2.m3u8
 https://jmp2.uk/sam-ATAJ700004UZ.m3u8
 #EXTINF:-1 tvg-id="ATAJ7000037N" tvg-name="ATAJ7000037N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ7000037N_20250603T004823SQUARE.png" group-title="Kids" , Nickelodeon Toons
 https://jmp2.uk/sam-ATAJ7000037N.m3u8
-#EXTINF:-1 tvg-id="AT2400001WV" tvg-name="AT2400001WV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2400001WV_20250722T005128SQUARE.png" group-title="Filme" , DDR TV-Archiv
-https://jmp2.uk/sam-AT2400001WV.m3u8
 #EXTINF:-1 tvg-id="ATBA330002946" tvg-name="ATBA330002946" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA330002946_20250117T111941SQUARE.png" group-title="Filme" , Moviedome Family
 https://jmp2.uk/sam-ATBA330002946.m3u8
 #EXTINF:-1 tvg-id="ATBA33000280A" tvg-name="ATBA33000280A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA33000280A_20250107T021755SQUARE.png" group-title="Filme" , Moviedome
@@ -205,8 +201,6 @@ https://jmp2.uk/sam-ATBA33000280A.m3u8
 https://jmp2.uk/sam-ATBD5000001SF.m3u8
 #EXTINF:-1 tvg-id="ATBA3300023X4" tvg-name="ATBA3300023X4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300023X4_20250107T022022SQUARE.png" group-title="Filme" , wedo movies
 https://jmp2.uk/sam-ATBA3300023X4.m3u8
-#EXTINF:-1 tvg-id="ATBA15000232E" tvg-name="ATBA15000232E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA15000232E_20250107T021700SQUARE.png" group-title="Filme" , Heimatkino
-https://jmp2.uk/sam-ATBA15000232E.m3u8
 #EXTINF:-1 tvg-id="ATBA3300021BW" tvg-name="ATBA3300021BW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300021BW_20250107T091824SQUARE.png" group-title="Filme" , MyTime Movie Network
 https://jmp2.uk/sam-ATBA3300021BW.m3u8
 #EXTINF:-1 tvg-id="AT300000183" tvg-name="AT300000183" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300000183_20250107T022110SQUARE.png" group-title="Filme" , Deutsches Kino - Rakuten TV
@@ -227,6 +221,8 @@ https://jmp2.uk/sam-AT12000011L.m3u8
 https://jmp2.uk/sam-AT2600009ON.m3u8
 #EXTINF:-1 tvg-id="ATAJ0500455A" tvg-name="ATAJ0500455A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500455A_20250107T021655SQUARE.png" group-title="Filme" , Grjngo
 https://jmp2.uk/sam-ATAJ0500455A.m3u8
+#EXTINF:-1 tvg-id="AT2400001WV" tvg-name="AT2400001WV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2400001WV_20250722T005128SQUARE.png" group-title="Filme" , DDR TV-Archiv
+https://jmp2.uk/sam-AT2400001WV.m3u8
 #EXTINF:-1 tvg-id="ATAJ0500454A" tvg-name="ATAJ0500454A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500454A_20250107T021538SQUARE.png" group-title="Filme" , Artflix
 https://jmp2.uk/sam-ATAJ0500454A.m3u8
 #EXTINF:-1 tvg-id="AT19000012X" tvg-name="AT19000012X" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT19000012X_20250107T022130SQUARE.png" group-title="Filme" , Himmlisches Kino

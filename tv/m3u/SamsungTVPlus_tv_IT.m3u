@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz"
-#EXTINF:-1 tvg-id="IT3600005AL" tvg-name="IT3600005AL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600005AL_20250722T005609SQUARE.png" group-title="Film" , Cine Paura
-https://jmp2.uk/sam-IT3600005AL.m3u8
+#EXTINF:-1 tvg-id="IT300004KM" tvg-name="IT300004KM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300004KM_20250722T005601SQUARE.png" group-title="Film" , Sony One Film d’azione
+https://jmp2.uk/sam-IT300004KM.m3u8
 #EXTINF:-1 tvg-id="IT2600002F6" tvg-name="IT2600002F6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600002F6_20250415T022347SQUARE.png" group-title="Film" , Film Top - Rakuten TV
 https://jmp2.uk/sam-IT2600002F6.m3u8
 #EXTINF:-1 tvg-id="ITBA33000238E" tvg-name="ITBA33000238E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000238E_20250326T013229SQUARE.png" group-title="Film" , Comicità piccante
@@ -57,6 +57,8 @@ https://jmp2.uk/sam-IT260000131.m3u8
 https://jmp2.uk/sam-ITBC400001LX.m3u8
 #EXTINF:-1 tvg-id="ITBA3300024IU" tvg-name="ITBA3300024IU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20250708T031015SQUARE.png" group-title="Film" , Shark Zone
 https://jmp2.uk/sam-ITBA3300024IU.m3u8
+#EXTINF:-1 tvg-id="IT3600005AL" tvg-name="IT3600005AL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600005AL_20250722T005609SQUARE.png" group-title="Film" , Cine Paura
+https://jmp2.uk/sam-IT3600005AL.m3u8
 #EXTINF:-1 tvg-id="ITBC1100001G5" tvg-name="ITBC1100001G5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100001G5_20241106T142428SQUARE.png" group-title="Film" , Alta Tensione
 https://jmp2.uk/sam-ITBC1100001G5.m3u8
 #EXTINF:-1 tvg-id="ITBD3200002DU" tvg-name="ITBD3200002DU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200002DU_20250708T031020SQUARE.png" group-title="Film" , Cine Thriller
@@ -71,8 +73,6 @@ https://jmp2.uk/sam-ITBD1100001B7.m3u8
 https://jmp2.uk/sam-ITBC11000050E.m3u8
 #EXTINF:-1 tvg-id="ITBC3000003CT" tvg-name="ITBC3000003CT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000003CT_20241022T051703SQUARE.png" group-title="Film" , Pluto TV Film Azione
 https://jmp2.uk/sam-ITBC3000003CT.m3u8
-#EXTINF:-1 tvg-id="IT300004KM" tvg-name="IT300004KM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300004KM_20250722T005601SQUARE.png" group-title="Film" , Sony One Film d’azione
-https://jmp2.uk/sam-IT300004KM.m3u8
 #EXTINF:-1 tvg-id="IT2600005ZN" tvg-name="IT2600005ZN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600005ZN_20241126T043538SQUARE.png" group-title="Film" , Dramma - Rakuten TV
 https://jmp2.uk/sam-IT2600005ZN.m3u8
 #EXTINF:-1 tvg-id="IT2600003FM" tvg-name="IT2600003FM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600003FM_20240827T040705SQUARE.png" group-title="Film" , Film d'azione - Rakuten TV
@@ -163,8 +163,8 @@ https://jmp2.uk/sam-ITBD300001GI.m3u8
 https://jmp2.uk/sam-ITBC400005TF.m3u8
 #EXTINF:-1 tvg-id="ITBA3300022EA" tvg-name="ITBA3300022EA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300022EA_20241022T043558SQUARE.png" group-title="Sport" , SportOutdoor.tv
 https://jmp2.uk/sam-ITBA3300022EA.m3u8
-#EXTINF:-1 tvg-id="IT4600001JQ" tvg-name="IT4600001JQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4600001JQ_20250722T005549SQUARE.png" group-title="Serie TV" , Eva Luna - La Serie completa
-https://jmp2.uk/sam-IT4600001JQ.m3u8
+#EXTINF:-1 tvg-id="ITBD1300001FA" tvg-name="ITBD1300001FA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1300001FA_20250722T005606SQUARE.png" group-title="Serie TV" , Baywatch
+https://jmp2.uk/sam-ITBD1300001FA.m3u8
 #EXTINF:-1 tvg-id="IT500007X2" tvg-name="IT500007X2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500007X2_20250722T005555SQUARE.png" group-title="Serie TV" , H2O & Friends
 https://jmp2.uk/sam-IT500007X2.m3u8
 #EXTINF:-1 tvg-id="IT900012M7" tvg-name="IT900012M7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900012M7_20250408T021510SQUARE.png" group-title="Serie TV" , WBTV
@@ -183,8 +183,6 @@ https://jmp2.uk/sam-IT2000003B8.m3u8
 https://jmp2.uk/sam-ITBD3200003HL.m3u8
 #EXTINF:-1 tvg-id="IT2700001Z2" tvg-name="IT2700001Z2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2700001Z2_20241106T142530SQUARE.png" group-title="Serie TV" , Doctor Who
 https://jmp2.uk/sam-IT2700001Z2.m3u8
-#EXTINF:-1 tvg-id="ITBD1300001FA" tvg-name="ITBD1300001FA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1300001FA_20250722T005606SQUARE.png" group-title="Serie TV" , Baywatch
-https://jmp2.uk/sam-ITBD1300001FA.m3u8
 #EXTINF:-1 tvg-id="ITBD3200005YA" tvg-name="ITBD3200005YA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200005YA_20241022T044116SQUARE.png" group-title="Serie TV" , Mutant X
 https://jmp2.uk/sam-ITBD3200005YA.m3u8
 #EXTINF:-1 tvg-id="ITBD3200006F0" tvg-name="ITBD3200006F0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200006F0_20250527T014845SQUARE.png" group-title="Serie TV" , Relic Hunter
@@ -199,6 +197,8 @@ https://jmp2.uk/sam-IT300006W3.m3u8
 https://jmp2.uk/sam-IT3000035B.m3u8
 #EXTINF:-1 tvg-id="IT300007SE" tvg-name="IT300007SE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300007SE_20241022T043839SQUARE.png" group-title="Serie TV" , Sony One Serie Thriller
 https://jmp2.uk/sam-IT300007SE.m3u8
+#EXTINF:-1 tvg-id="IT4600001JQ" tvg-name="IT4600001JQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4600001JQ_20250722T005549SQUARE.png" group-title="Serie TV" , Eva Luna - La Serie completa
+https://jmp2.uk/sam-IT4600001JQ.m3u8
 #EXTINF:-1 tvg-id="IT3600007QQ" tvg-name="IT3600007QQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600007QQ_20250307T152404SQUARE.png" group-title="Serie TV" , Sweet Revenge
 https://jmp2.uk/sam-IT3600007QQ.m3u8
 #EXTINF:-1 tvg-id="ITBA14000026G" tvg-name="ITBA14000026G" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000026G_20250307T152327SQUARE.png" group-title="Serie TV" , Anche i ricchi piangono
@@ -269,12 +269,12 @@ https://jmp2.uk/sam-ITBA3300046KE.m3u8
 https://jmp2.uk/sam-ITBC4700003GR.m3u8
 #EXTINF:-1 tvg-id="ITBA33000478X" tvg-name="ITBA33000478X" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000478X_20241022T043935SQUARE.png" group-title="Documentari" , WaterBear
 https://jmp2.uk/sam-ITBA33000478X.m3u8
+#EXTINF:-1 tvg-id="IT500011RG" tvg-name="IT500011RG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20250722T005552SQUARE.png" group-title="Cucina & Viaggi" , Gambero Rosso
+https://jmp2.uk/sam-IT500011RG.m3u8
 #EXTINF:-1 tvg-id="IT3900003FE" tvg-name="IT3900003FE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3900003FE_20250211T014001SQUARE.png" group-title="Cucina & Viaggi" , Hell's Kitchen
 https://jmp2.uk/sam-IT3900003FE.m3u8
 #EXTINF:-1 tvg-id="ITBD4100007LO" tvg-name="ITBD4100007LO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100007LO_20241022T051525SQUARE.png" group-title="Cucina & Viaggi" , A Tavola
 https://jmp2.uk/sam-ITBD4100007LO.m3u8
-#EXTINF:-1 tvg-id="IT500011RG" tvg-name="IT500011RG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20250722T005552SQUARE.png" group-title="Cucina & Viaggi" , Gambero Rosso
-https://jmp2.uk/sam-IT500011RG.m3u8
 #EXTINF:-1 tvg-id="IT12000029J" tvg-name="IT12000029J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT12000029J_20241105T025401SQUARE.png" group-title="Cucina & Viaggi" , Viaggi & Sapori
 https://jmp2.uk/sam-IT12000029J.m3u8
 #EXTINF:-1 tvg-id="IT90001094" tvg-name="IT90001094" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT90001094_20250408T021440SQUARE.png" group-title="Cucina & Viaggi" , Foodnetwork

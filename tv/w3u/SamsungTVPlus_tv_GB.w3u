@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 23/07/2025 00:15",
+    "author": "Actualizada 24/07/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -10,16 +10,9 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
                 {
-                    "name": "Comedy Hub",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20250722T005732SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/sam-GBBD25000038Y.m3u8",
-                    "epgId": "GBBD25000038Y"
-                },
-                {
                     "name": "Entertainment Hub",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20250722T005735SQUARE.png",
-                    "number": "4007",
+                    "number": "4001",
                     "url": "https://jmp2.uk/sam-GBBC2300003ZQ.m3u8",
                     "epgId": "GBBC2300003ZQ"
                 },
@@ -129,6 +122,13 @@
                     "epgId": "GB4600001W9"
                 },
                 {
+                    "name": "Comedy Hub",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20250722T005732SQUARE.png",
+                    "number": "4156",
+                    "url": "https://jmp2.uk/sam-GBBD25000038Y.m3u8",
+                    "epgId": "GBBD25000038Y"
+                },
+                {
                     "name": "8 Out Of 10 Cats",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1800002FA_20250211T013901SQUARE.png",
                     "number": "4158",
@@ -198,18 +198,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality.png",
             "stations": [
                 {
-                    "name": "America's Got Talent",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20250722T005726SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/sam-GBBC2300002GG.m3u8",
-                    "epgId": "GBBC2300002GG"
-                },
-                {
                     "name": "Project Runway",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB4600001IK_20250107T030734SQUARE.png",
                     "number": "4062",
                     "url": "https://jmp2.uk/sam-GBBB4600001IK.m3u8",
                     "epgId": "GBBB4600001IK"
+                },
+                {
+                    "name": "America's Got Talent",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20250722T005726SQUARE.png",
+                    "number": "4064",
+                    "url": "https://jmp2.uk/sam-GBBC2300002GG.m3u8",
+                    "epgId": "GBBC2300002GG"
                 },
                 {
                     "name": "American Idol",
@@ -323,6 +323,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/TV Series.png",
             "stations": [
                 {
+                    "name": "Baywatch",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20250722T005729SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/sam-GBBD600002XT.m3u8",
+                    "epgId": "GBBD600002XT"
+                },
+                {
                     "name": "Sky Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20250107T030748SQUARE.png",
                     "number": "4231",
@@ -363,13 +370,6 @@
                     "number": "4238",
                     "url": "https://jmp2.uk/sam-GB37000041H.m3u8",
                     "epgId": "GB37000041H"
-                },
-                {
-                    "name": "Baywatch",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20250722T005729SQUARE.png",
-                    "number": "4239",
-                    "url": "https://jmp2.uk/sam-GBBD600002XT.m3u8",
-                    "epgId": "GBBD600002XT"
                 },
                 {
                     "name": "Demand Drama",
@@ -474,13 +474,6 @@
             "name": "Documentaries",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentaries.png",
             "stations": [
-                {
-                    "name": "U&Transport",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100001A8_20250722T005745SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/sam-GBBD3100001A8.m3u8",
-                    "epgId": "GBBD3100001A8"
-                },
                 {
                     "name": "5 Cops",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504500A_20250107T022508SQUARE.png",
@@ -599,6 +592,13 @@
                     "number": "4364",
                     "url": "https://jmp2.uk/sam-GB27000089Z.m3u8",
                     "epgId": "GB27000089Z"
+                },
+                {
+                    "name": "U&Transport",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100001A8_20250722T005745SQUARE.png",
+                    "number": "4412",
+                    "url": "https://jmp2.uk/sam-GBBD3100001A8.m3u8",
+                    "epgId": "GBBD3100001A8"
                 },
                 {
                     "name": "U&The Past",
@@ -912,6 +912,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sport.png",
             "stations": [
                 {
+                    "name": "Red Bull TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300003IK_20250722T005738SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/sam-GBBD2300003IK.m3u8",
+                    "epgId": "GBBD2300003IK"
+                },
+                {
                     "name": "talkSPORT",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB30003577_20250131T145302SQUARE.png",
                     "number": "4603",
@@ -959,13 +966,6 @@
                     "number": "4610",
                     "url": "https://jmp2.uk/sam-GBBD30000038U.m3u8",
                     "epgId": "GBBD30000038U"
-                },
-                {
-                    "name": "Red Bull TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300003IK_20250722T005738SQUARE.png",
-                    "number": "4614",
-                    "url": "https://jmp2.uk/sam-GBBD2300003IK.m3u8",
-                    "epgId": "GBBD2300003IK"
                 },
                 {
                     "name": "FIFA+",

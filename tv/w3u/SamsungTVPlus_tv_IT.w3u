@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 23/07/2025 00:15",
+    "author": "Actualizada 24/07/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -10,11 +10,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Film.png",
             "stations": [
                 {
-                    "name": "Cine Paura",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600005AL_20250722T005609SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/sam-IT3600005AL.m3u8",
-                    "epgId": "IT3600005AL"
+                    "name": "Sony One Film d’azione",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300004KM_20250722T005601SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/sam-IT300004KM.m3u8",
+                    "epgId": "IT300004KM"
                 },
                 {
                     "name": "Film Top - Rakuten TV",
@@ -213,6 +213,13 @@
                     "epgId": "ITBA3300024IU"
                 },
                 {
+                    "name": "Cine Paura",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600005AL_20250722T005609SQUARE.png",
+                    "number": "4953",
+                    "url": "https://jmp2.uk/sam-IT3600005AL.m3u8",
+                    "epgId": "IT3600005AL"
+                },
+                {
                     "name": "Alta Tensione",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100001G5_20241106T142428SQUARE.png",
                     "number": "4963",
@@ -260,13 +267,6 @@
                     "number": "4995",
                     "url": "https://jmp2.uk/sam-ITBC3000003CT.m3u8",
                     "epgId": "ITBC3000003CT"
-                },
-                {
-                    "name": "Sony One Film d’azione",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300004KM_20250722T005601SQUARE.png",
-                    "number": "4997",
-                    "url": "https://jmp2.uk/sam-IT300004KM.m3u8",
-                    "epgId": "IT300004KM"
                 },
                 {
                     "name": "Dramma - Rakuten TV",
@@ -614,16 +614,16 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serie TV.png",
             "stations": [
                 {
-                    "name": "Eva Luna - La Serie completa",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4600001JQ_20250722T005549SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/sam-IT4600001JQ.m3u8",
-                    "epgId": "IT4600001JQ"
+                    "name": "Baywatch",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1300001FA_20250722T005606SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/sam-ITBD1300001FA.m3u8",
+                    "epgId": "ITBD1300001FA"
                 },
                 {
                     "name": "H2O & Friends",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500007X2_20250722T005555SQUARE.png",
-                    "number": "4002",
+                    "number": "4216",
                     "url": "https://jmp2.uk/sam-IT500007X2.m3u8",
                     "epgId": "IT500007X2"
                 },
@@ -684,13 +684,6 @@
                     "epgId": "IT2700001Z2"
                 },
                 {
-                    "name": "Baywatch",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1300001FA_20250722T005606SQUARE.png",
-                    "number": "4245",
-                    "url": "https://jmp2.uk/sam-ITBD1300001FA.m3u8",
-                    "epgId": "ITBD1300001FA"
-                },
-                {
                     "name": "Mutant X",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200005YA_20241022T044116SQUARE.png",
                     "number": "4247",
@@ -738,6 +731,13 @@
                     "number": "4256",
                     "url": "https://jmp2.uk/sam-IT300007SE.m3u8",
                     "epgId": "IT300007SE"
+                },
+                {
+                    "name": "Eva Luna - La Serie completa",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4600001JQ_20250722T005549SQUARE.png",
+                    "number": "4258",
+                    "url": "https://jmp2.uk/sam-IT4600001JQ.m3u8",
+                    "epgId": "IT4600001JQ"
                 },
                 {
                     "name": "Sweet Revenge",
@@ -1015,6 +1015,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Cucina & Viaggi.png",
             "stations": [
                 {
+                    "name": "Gambero Rosso",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20250722T005552SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/sam-IT500011RG.m3u8",
+                    "epgId": "IT500011RG"
+                },
+                {
                     "name": "Hell's Kitchen",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3900003FE_20250211T014001SQUARE.png",
                     "number": "4513",
@@ -1027,13 +1034,6 @@
                     "number": "4515",
                     "url": "https://jmp2.uk/sam-ITBD4100007LO.m3u8",
                     "epgId": "ITBD4100007LO"
-                },
-                {
-                    "name": "Gambero Rosso",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20250722T005552SQUARE.png",
-                    "number": "4516",
-                    "url": "https://jmp2.uk/sam-IT500011RG.m3u8",
-                    "epgId": "IT500011RG"
                 },
                 {
                     "name": "Viaggi & Sapori",
