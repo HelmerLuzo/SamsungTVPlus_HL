@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇺🇸 by HL",
-    "author": "Actualizada 30/07/2025 00:15",
+    "author": "Actualizada 31/07/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/us.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_US.w3u",
@@ -151,7 +151,7 @@
                 {
                     "name": "Movie Hub",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20250729T010419SQUARE.png",
-                    "number": "1000",
+                    "number": "1200",
                     "url": "https://jmp2.uk/sam-USBA3000041ZP.m3u8",
                     "epgId": "USBA3000041ZP"
                 },
@@ -189,6 +189,13 @@
                     "number": "1225",
                     "url": "https://jmp2.uk/sam-USBB5200019FO.m3u8",
                     "epgId": "USBB5200019FO"
+                },
+                {
+                    "name": "Lifetime Movies Love & Drama",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1600002OK_20250729T010439SQUARE.png",
+                    "number": "1226",
+                    "url": "https://jmp2.uk/sam-US1600002OK.m3u8",
+                    "epgId": "US1600002OK"
                 },
                 {
                     "name": "MovieSphere",
@@ -371,6 +378,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Action & Drama.png",
             "stations": [
                 {
+                    "name": "Dawson's Creek",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100005NW_20250729T220607SQUARE.png",
+                    "number": "1000",
+                    "url": "https://jmp2.uk/sam-US4100005NW.m3u8",
+                    "epgId": "US4100005NW"
+                },
+                {
                     "name": "Samsung Television Network",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20250714T223141SQUARE.png",
                     "number": "1004",
@@ -460,13 +474,6 @@
                     "number": "1565",
                     "url": "https://jmp2.uk/sam-USAJ26000015Y.m3u8",
                     "epgId": "USAJ26000015Y"
-                },
-                {
-                    "name": "Dawson's Creek",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100005NW_20250729T010429SQUARE.png",
-                    "number": "1567",
-                    "url": "https://jmp2.uk/sam-US4100005NW.m3u8",
-                    "epgId": "US4100005NW"
                 },
                 {
                     "name": "Heartland",
@@ -559,6 +566,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
+                    "name": "Live PD Presents",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US160000159_20250729T010443SQUARE.png",
+                    "number": "1003",
+                    "url": "https://jmp2.uk/sam-US160000159.m3u8",
+                    "epgId": "US160000159"
+                },
+                {
                     "name": "Crime Zone",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20250616T221654SQUARE.png",
                     "number": "1805",
@@ -644,7 +658,7 @@
                 },
                 {
                     "name": "Dateline 24/7",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200007BY_20241008T212634SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200007BY_20250729T212408SQUARE.png",
                     "number": "1840",
                     "url": "https://jmp2.uk/sam-USBB5200007BY.m3u8",
                     "epgId": "USBB5200007BY"
@@ -1068,6 +1082,20 @@
                     "epgId": "USBC1300008AZ"
                 },
                 {
+                    "name": "The Martha Stewart Channel",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500011SP_20250729T010507SQUARE.png",
+                    "number": "2107",
+                    "url": "https://jmp2.uk/sam-US4500011SP.m3u8",
+                    "epgId": "US4500011SP"
+                },
+                {
+                    "name": "Emeril Lagasse Channel",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500010B0_20250729T010433SQUARE.png",
+                    "number": "2109",
+                    "url": "https://jmp2.uk/sam-US4500010B0.m3u8",
+                    "epgId": "US4500010B0"
+                },
+                {
                     "name": "America's Test Kitchen",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800002KI_20240520T221120SQUARE.png",
                     "number": "2110",
@@ -1110,6 +1138,20 @@
                     "epgId": "USBD7000189R"
                 },
                 {
+                    "name": "PBS Food",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US13000081O_20250729T010453SQUARE.png",
+                    "number": "2125",
+                    "url": "https://jmp2.uk/sam-US13000081O.m3u8",
+                    "epgId": "US13000081O"
+                },
+                {
+                    "name": "PBS Travel",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1300005MK_20250729T010504SQUARE.png",
+                    "number": "2126",
+                    "url": "https://jmp2.uk/sam-US1300005MK.m3u8",
+                    "epgId": "US1300005MK"
+                },
+                {
                     "name": "Tastemade Travel",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700017WC_20240910T003703SQUARE.png",
                     "number": "2130",
@@ -1137,18 +1179,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sports & Outdoors.png",
             "stations": [
                 {
-                    "name": "NBC Sports NOW",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD420002446_20250729T010447SQUARE.png",
-                    "number": "1002",
-                    "url": "https://jmp2.uk/sam-USBD420002446.m3u8",
-                    "epgId": "USBD420002446"
-                },
-                {
                     "name": "NFL Channel",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20250428T223450SQUARE.png",
                     "number": "2310",
                     "url": "https://jmp2.uk/sam-US2600007WJ.m3u8",
                     "epgId": "US2600007WJ"
+                },
+                {
+                    "name": "NFL Preseason All Access",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600008FU_20250729T010450SQUARE.png",
+                    "number": "2311",
+                    "url": "https://jmp2.uk/sam-US2600008FU.m3u8",
+                    "epgId": "US2600008FU"
                 },
                 {
                     "name": "MLB Channel",
@@ -1184,6 +1226,13 @@
                     "number": "2334",
                     "url": "https://jmp2.uk/sam-US2700001QY.m3u8",
                     "epgId": "US2700001QY"
+                },
+                {
+                    "name": "NBC Sports NOW",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD420002446_20250729T010447SQUARE.png",
+                    "number": "2338",
+                    "url": "https://jmp2.uk/sam-USBD420002446.m3u8",
+                    "epgId": "USBD420002446"
                 },
                 {
                     "name": "Roku Sports Channel",
@@ -1680,6 +1729,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality Competition.png",
             "stations": [
                 {
+                    "name": "Project Runway",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500004RC_20250729T010425SQUARE.png",
+                    "number": "1001",
+                    "url": "https://jmp2.uk/sam-USBB3500004RC.m3u8",
+                    "epgId": "USBB3500004RC"
+                },
+                {
                     "name": "Hell's Kitchen",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900002Z7_20250610T001038SQUARE.png",
                     "number": "2704",
@@ -1769,13 +1825,6 @@
                     "number": "2749",
                     "url": "https://jmp2.uk/sam-USBD27000156I.m3u8",
                     "epgId": "USBD27000156I"
-                },
-                {
-                    "name": "Project Runway",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500004RC_20250729T010425SQUARE.png",
-                    "number": "2759",
-                    "url": "https://jmp2.uk/sam-USBB3500004RC.m3u8",
-                    "epgId": "USBB3500004RC"
                 },
                 {
                     "name": "Dallas Cowboys Cheer",
@@ -2165,18 +2214,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Animals, Nature & History.png",
             "stations": [
                 {
-                    "name": "Clarity 4K",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20250729T010408SQUARE.png",
-                    "number": "1001",
-                    "url": "https://jmp2.uk/sam-USBA3800005NI.m3u8",
-                    "epgId": "USBA3800005NI"
-                },
-                {
-                    "name": "History 365",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20250729T010435SQUARE.png",
-                    "number": "1003",
-                    "url": "https://jmp2.uk/sam-USBD35000428O.m3u8",
-                    "epgId": "USBD35000428O"
+                    "name": "PBS Genealogy",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US130000639_20250729T010457SQUARE.png",
+                    "number": "1002",
+                    "url": "https://jmp2.uk/sam-US130000639.m3u8",
+                    "epgId": "US130000639"
                 },
                 {
                     "name": "Samsung Wild Life",
@@ -2228,6 +2270,13 @@
                     "epgId": "USBC2400024FN"
                 },
                 {
+                    "name": "Clarity 4K",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20250729T010408SQUARE.png",
+                    "number": "3520",
+                    "url": "https://jmp2.uk/sam-USBA3800005NI.m3u8",
+                    "epgId": "USBA3800005NI"
+                },
+                {
                     "name": "Dinos 24/7",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700006XE_20241203T004820SQUARE.png",
                     "number": "3524",
@@ -2240,6 +2289,13 @@
                     "number": "3526",
                     "url": "https://jmp2.uk/sam-USBD1700001RW.m3u8",
                     "epgId": "USBD1700001RW"
+                },
+                {
+                    "name": "PBS Nature",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1300007KZ_20250729T010500SQUARE.png",
+                    "number": "3528",
+                    "url": "https://jmp2.uk/sam-US1300007KZ.m3u8",
+                    "epgId": "US1300007KZ"
                 },
                 {
                     "name": "Xplore",
@@ -2282,6 +2338,13 @@
                     "number": "3540",
                     "url": "https://jmp2.uk/sam-US900001CX.m3u8",
                     "epgId": "US900001CX"
+                },
+                {
+                    "name": "History 365",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20250729T010435SQUARE.png",
+                    "number": "3541",
+                    "url": "https://jmp2.uk/sam-USBD35000428O.m3u8",
+                    "epgId": "USBD35000428O"
                 },
                 {
                     "name": "Modern Marvels Presented by History",
@@ -2742,13 +2805,6 @@
                     "number": "3890",
                     "url": "https://jmp2.uk/sam-USAJ3504719A.m3u8",
                     "epgId": "USAJ3504719A"
-                },
-                {
-                    "name": "Sony One Cinema",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ22000057N_20241015T223513SQUARE.png",
-                    "number": "3892",
-                    "url": "https://jmp2.uk/sam-USAJ22000057N.m3u8",
-                    "epgId": "USAJ22000057N"
                 },
                 {
                     "name": "Sony One Novelas",

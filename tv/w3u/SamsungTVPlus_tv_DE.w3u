@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇩🇪 by HL",
-    "author": "Actualizada 30/07/2025 00:15",
+    "author": "Actualizada 31/07/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
@@ -143,11 +143,11 @@
                     "epgId": "DE500002LD"
                 },
                 {
-                    "name": "Lagerfeuer",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD1500001VJ_20250729T044920SQUARE.png",
+                    "name": "Fireplace Vibes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE22000012Y_20250729T044923SQUARE.png",
                     "number": "4219",
-                    "url": "https://jmp2.uk/sam-DEBD1500001VJ.m3u8",
-                    "epgId": "DEBD1500001VJ"
+                    "url": "https://jmp2.uk/sam-DE22000012Y.m3u8",
+                    "epgId": "DE22000012Y"
                 },
                 {
                     "name": "Fashion TV",
@@ -661,6 +661,13 @@
                     "epgId": "DEBA2200008NL"
                 },
                 {
+                    "name": "Tennis+",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2000007B5_20250729T044929SQUARE.png",
+                    "number": "4606",
+                    "url": "https://jmp2.uk/sam-DE2000007B5.m3u8",
+                    "epgId": "DE2000007B5"
+                },
+                {
                     "name": "Red Bull TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2300001EU_20250708T031558SQUARE.png",
                     "number": "4609",
@@ -708,6 +715,13 @@
                     "number": "4662",
                     "url": "https://jmp2.uk/sam-DEBD2600004U7.m3u8",
                     "epgId": "DEBD2600004U7"
+                },
+                {
+                    "name": "Rally.TV FAST+",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1600007AQ_20250729T044926SQUARE.png",
+                    "number": "4663",
+                    "url": "https://jmp2.uk/sam-DE1600007AQ.m3u8",
+                    "epgId": "DE1600007AQ"
                 },
                 {
                     "name": "auto motor und sport",

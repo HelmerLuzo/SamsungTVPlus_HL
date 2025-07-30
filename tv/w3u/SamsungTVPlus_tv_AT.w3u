@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇦🇹 by HL",
-    "author": "Actualizada 30/07/2025 00:15",
+    "author": "Actualizada 31/07/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/at.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/at.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_AT.w3u",
@@ -122,11 +122,11 @@
                     "epgId": "AT80000194"
                 },
                 {
-                    "name": "Lagerfeuer",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1500001X4_20250729T044434SQUARE.png",
+                    "name": "Fireplace Vibes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT22000019A_20250729T044437SQUARE.png",
                     "number": "4219",
-                    "url": "https://jmp2.uk/sam-ATBD1500001X4.m3u8",
-                    "epgId": "ATBD1500001X4"
+                    "url": "https://jmp2.uk/sam-AT22000019A.m3u8",
+                    "epgId": "AT22000019A"
                 },
                 {
                     "name": "Fashion TV",
@@ -230,6 +230,13 @@
                     "number": "4249",
                     "url": "https://jmp2.uk/sam-ATAK3504506A.m3u8",
                     "epgId": "ATAK3504506A"
+                },
+                {
+                    "name": "Sony One Comedy TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2100002QM_20250729T044109SQUARE.png",
+                    "number": "4252",
+                    "url": "https://jmp2.uk/sam-AT2100002QM.m3u8",
+                    "epgId": "AT2100002QM"
                 },
                 {
                     "name": "Comedy & Shows",
@@ -568,6 +575,13 @@
                     "number": "4662",
                     "url": "https://jmp2.uk/sam-ATBD2600010EC.m3u8",
                     "epgId": "ATBD2600010EC"
+                },
+                {
+                    "name": "Rally.TV FAST+",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1600002QV_20250729T044440SQUARE.png",
+                    "number": "4663",
+                    "url": "https://jmp2.uk/sam-AT1600002QV.m3u8",
+                    "epgId": "AT1600002QV"
                 },
                 {
                     "name": "auto motor und sport",

@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇪🇸 by HL",
-    "author": "Actualizada 30/07/2025 00:15",
+    "author": "Actualizada 31/07/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/es.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -150,11 +150,11 @@
                     "epgId": "ES4700001VS"
                 },
                 {
-                    "name": "Hoguera",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20250729T045056SQUARE.png",
-                    "number": "4225",
-                    "url": "https://jmp2.uk/sam-ESBD1500001SD.m3u8",
-                    "epgId": "ESBD1500001SD"
+                    "name": "Fireplace Vibes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20250729T045059SQUARE.png",
+                    "number": "4223",
+                    "url": "https://jmp2.uk/sam-ES2200001SF.m3u8",
+                    "epgId": "ES2200001SF"
                 }
             ]
         },
@@ -203,13 +203,6 @@
                     "number": "4243",
                     "url": "https://jmp2.uk/sam-ESBD1300003VN.m3u8",
                     "epgId": "ESBD1300003VN"
-                },
-                {
-                    "name": "Doctor Who",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700001G5_20250729T045053SQUARE.png",
-                    "number": "4245",
-                    "url": "https://jmp2.uk/sam-ES2700001G5.m3u8",
-                    "epgId": "ES2700001G5"
                 },
                 {
                     "name": "BBC Drama",
@@ -447,6 +440,13 @@
                     "epgId": "ES30000091V"
                 },
                 {
+                    "name": "Tennis+",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES20000065W_20250729T045108SQUARE.png",
+                    "number": "4606",
+                    "url": "https://jmp2.uk/sam-ES20000065W.m3u8",
+                    "epgId": "ES20000065W"
+                },
+                {
                     "name": "Teledeporte",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20241022T051118SQUARE.png",
                     "number": "4631",
@@ -494,6 +494,13 @@
                     "number": "4658",
                     "url": "https://jmp2.uk/sam-ESBD3200001EG.m3u8",
                     "epgId": "ESBD3200001EG"
+                },
+                {
+                    "name": "Rally.TV FAST+",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600005T1_20250729T045105SQUARE.png",
+                    "number": "4663",
+                    "url": "https://jmp2.uk/sam-ES1600005T1.m3u8",
+                    "epgId": "ES1600005T1"
                 },
                 {
                     "name": "Surf Channel",
@@ -959,6 +966,13 @@
             "name": "Documentales",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentales.png",
             "stations": [
+                {
+                    "name": "Ice Pilots",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20250729T045102SQUARE.png",
+                    "number": "4346",
+                    "url": "https://jmp2.uk/sam-ES24000028L.m3u8",
+                    "epgId": "ES24000028L"
+                },
                 {
                     "name": "La Fiebre del Jade",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600002QL_20250527T014625SQUARE.png",

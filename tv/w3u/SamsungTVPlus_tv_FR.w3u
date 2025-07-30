@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇫🇷 by HL",
-    "author": "Actualizada 30/07/2025 00:15",
+    "author": "Actualizada 31/07/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/fr.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/fr.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_FR.w3u",
@@ -184,13 +184,6 @@
                     "epgId": "FRAJ4500020YA"
                 },
                 {
-                    "name": "Au coin du feu",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1500001BN_20250729T045528SQUARE.png",
-                    "number": "4214",
-                    "url": "https://jmp2.uk/sam-FRBD1500001BN.m3u8",
-                    "epgId": "FRBD1500001BN"
-                },
-                {
                     "name": "MGG FAST",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900003ZH_20250422T045312SQUARE.png",
                     "number": "4218",
@@ -203,6 +196,13 @@
                     "number": "4221",
                     "url": "https://jmp2.uk/sam-FR4600001FK.m3u8",
                     "epgId": "FR4600001FK"
+                },
+                {
+                    "name": "Fireplace Vibes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2200002HV_20250729T045534SQUARE.png",
+                    "number": "4223",
+                    "url": "https://jmp2.uk/sam-FR2200002HV.m3u8",
+                    "epgId": "FR2200002HV"
                 }
             ]
         },
@@ -285,13 +285,6 @@
                     "number": "4239",
                     "url": "https://jmp2.uk/sam-FR2900001UF.m3u8",
                     "epgId": "FR2900001UF"
-                },
-                {
-                    "name": "Doctor Who",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2700001WW_20250729T045531SQUARE.png",
-                    "number": "4240",
-                    "url": "https://jmp2.uk/sam-FR2700001WW.m3u8",
-                    "epgId": "FR2700001WW"
                 },
                 {
                     "name": "Alerte à Malibu",
