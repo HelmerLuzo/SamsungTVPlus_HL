@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇪🇸 by HL",
-    "author": "Actualizada 05/08/2025 00:15",
+    "author": "Actualizada 06/08/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/es.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -11,7 +11,7 @@
             "stations": [
                 {
                     "name": "La 1",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20250708T030936SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20250805T005748SQUARE.png",
                     "number": "4001",
                     "url": "https://jmp2.uk/sam-ESBC4100001NZ.m3u8",
                     "epgId": "ESBC4100001NZ"
@@ -60,7 +60,7 @@
                 },
                 {
                     "name": "RTVE Saber y Ganar",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300004P0_20250729T045039SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300004P0_20250805T005751SQUARE.png",
                     "number": "4106",
                     "url": "https://jmp2.uk/sam-ES3300004P0.m3u8",
                     "epgId": "ES3300004P0"
@@ -386,7 +386,7 @@
                 },
                 {
                     "name": "Todo Crimen",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600004JV_20250527T014638SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600004JV_20250805T005810SQUARE.png",
                     "number": "4298",
                     "url": "https://jmp2.uk/sam-ES1600004JV.m3u8",
                     "epgId": "ES1600004JV"
@@ -483,7 +483,7 @@
                 },
                 {
                     "name": "Top Gear",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700002YP_20250513T005456SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700002YP_20250805T005824SQUARE.png",
                     "number": "4656",
                     "url": "https://jmp2.uk/sam-ES2700002YP.m3u8",
                     "epgId": "ES2700002YP"
@@ -663,7 +663,7 @@
             "stations": [
                 {
                     "name": "Cine Friki",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20250722T005649SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20250805T005125SQUARE.png",
                     "number": "4003",
                     "url": "https://jmp2.uk/sam-ESBD800001RJ.m3u8",
                     "epgId": "ESBD800001RJ"
@@ -941,7 +941,7 @@
             "stations": [
                 {
                     "name": "Viajes & Sabores",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250722T005657SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250805T005128SQUARE.png",
                     "number": "4002",
                     "url": "https://jmp2.uk/sam-ES300033TI.m3u8",
                     "epgId": "ES300033TI"
@@ -996,7 +996,7 @@
                 },
                 {
                     "name": "Historia y Vida",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20250715T004327SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20250805T005745SQUARE.png",
                     "number": "4416",
                     "url": "https://jmp2.uk/sam-ES12000024R.m3u8",
                     "epgId": "ES12000024R"
