@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇨🇭 by HL",
-    "author": "Actualizada 06/08/2025 00:15",
+    "author": "Actualizada 07/08/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/ch.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/ch.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CH.w3u",
@@ -9,6 +9,13 @@
             "name": "Entertainment",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
+                {
+                    "name": "H2O & Friends",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH800001RT_20250805T005803SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/sam-CH800001RT.m3u8",
+                    "epgId": "CH800001RT"
+                },
                 {
                     "name": "Comedy Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD41000043H_20250722T005242SQUARE.png",
@@ -122,13 +129,6 @@
                     "epgId": "CHBD2500001SY"
                 },
                 {
-                    "name": "H2O & Friends",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH800001RT_20250805T005803SQUARE.png",
-                    "number": "4214",
-                    "url": "https://jmp2.uk/sam-CH800001RT.m3u8",
-                    "epgId": "CH800001RT"
-                },
-                {
                     "name": "Fireplace Vibes",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH220000164_20250729T044454SQUARE.png",
                     "number": "4219",
@@ -197,16 +197,9 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
                 {
-                    "name": "Lindenstraße",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4600001X9_20250805T005009SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/sam-CH4600001X9.m3u8",
-                    "epgId": "CH4600001X9"
-                },
-                {
                     "name": "Baywatch",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2600009ZC_20250805T005800SQUARE.png",
-                    "number": "4231",
+                    "number": "4003",
                     "url": "https://jmp2.uk/sam-CHBD2600009ZC.m3u8",
                     "epgId": "CHBD2600009ZC"
                 },
@@ -281,6 +274,13 @@
                     "epgId": "CHBD200004J8"
                 },
                 {
+                    "name": "Lindenstraße",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4600001X9_20250805T005009SQUARE.png",
+                    "number": "4263",
+                    "url": "https://jmp2.uk/sam-CH4600001X9.m3u8",
+                    "epgId": "CH4600001X9"
+                },
+                {
                     "name": "Fréquence Novelas [FR]",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC800006EP_20250107T031503SQUARE.png",
                     "number": "4265",
@@ -294,18 +294,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
-                    "name": "Alarm für Cobra 11 / Balko",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH300006UT_20250805T005002SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/sam-CH300006UT.m3u8",
-                    "epgId": "CH300006UT"
-                },
-                {
                     "name": "Crime Serien - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2600007IJ_20250415T021609SQUARE.png",
                     "number": "4005",
                     "url": "https://jmp2.uk/sam-CH2600007IJ.m3u8",
                     "epgId": "CH2600007IJ"
+                },
+                {
+                    "name": "Alarm für Cobra 11 / Balko",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH300006UT_20250805T005002SQUARE.png",
+                    "number": "4292",
+                    "url": "https://jmp2.uk/sam-CH300006UT.m3u8",
+                    "epgId": "CH300006UT"
                 },
                 {
                     "name": "Top Serien",
@@ -404,13 +404,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
-                    "name": "Wilder Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20250805T005727SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/sam-CHBA3300028G3.m3u8",
-                    "epgId": "CHBA3300028G3"
-                },
-                {
                     "name": "The Wicked Tuna Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000011Y_20250107T025613SQUARE.png",
                     "number": "4352",
@@ -481,6 +474,13 @@
                     "epgId": "CHBC40000040J"
                 },
                 {
+                    "name": "Wilder Planet",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20250805T005727SQUARE.png",
+                    "number": "4486",
+                    "url": "https://jmp2.uk/sam-CHBA3300028G3.m3u8",
+                    "epgId": "CHBA3300028G3"
+                },
+                {
                     "name": "One Terra",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1500021M5_20250107T025223SQUARE.png",
                     "number": "4490",
@@ -531,7 +531,7 @@
                 {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH20000288_20250805T005730SQUARE.png",
-                    "number": "4511",
+                    "number": "4002",
                     "url": "https://jmp2.uk/sam-CH20000288.m3u8",
                     "epgId": "CH20000288"
                 },

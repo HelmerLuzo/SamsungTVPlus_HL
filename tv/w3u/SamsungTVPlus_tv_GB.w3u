@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 06/08/2025 00:15",
+    "author": "Actualizada 07/08/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -332,7 +332,7 @@
                 {
                     "name": "Baywatch",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20250805T005533SQUARE.png",
-                    "number": "4002",
+                    "number": "4003",
                     "url": "https://jmp2.uk/sam-GBBD600002XT.m3u8",
                     "epgId": "GBBD600002XT"
                 },
@@ -408,7 +408,7 @@
                 {
                     "name": "Crime Network",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100010H1_20250805T005536SQUARE.png",
-                    "number": "4291",
+                    "number": "4002",
                     "url": "https://jmp2.uk/sam-GBBD4100010H1.m3u8",
                     "epgId": "GBBD4100010H1"
                 },
@@ -919,13 +919,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sport.png",
             "stations": [
                 {
-                    "name": "Red Bull TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300003IK_20250805T005540SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/sam-GBBD2300003IK.m3u8",
-                    "epgId": "GBBD2300003IK"
-                },
-                {
                     "name": "talkSPORT",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB30003577_20250131T145302SQUARE.png",
                     "number": "4603",
@@ -973,6 +966,13 @@
                     "number": "4610",
                     "url": "https://jmp2.uk/sam-GBBD30000038U.m3u8",
                     "epgId": "GBBD30000038U"
+                },
+                {
+                    "name": "Red Bull TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300003IK_20250805T005540SQUARE.png",
+                    "number": "4614",
+                    "url": "https://jmp2.uk/sam-GBBD2300003IK.m3u8",
+                    "epgId": "GBBD2300003IK"
                 },
                 {
                     "name": "FIFA+",
