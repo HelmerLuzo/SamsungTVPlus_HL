@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇫🇷 by HL",
-    "author": "Actualizada 13/08/2025 00:15",
+    "author": "Actualizada 14/08/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/fr.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/fr.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_FR.w3u",
@@ -292,6 +292,13 @@
                     "number": "4242",
                     "url": "https://jmp2.uk/sam-FRBC4700002RF.m3u8",
                     "epgId": "FRBC4700002RF"
+                },
+                {
+                    "name": "Rookie Blue",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2100001VM_20250811T172922SQUARE.png",
+                    "number": "4243",
+                    "url": "https://jmp2.uk/sam-FR2100001VM.m3u8",
+                    "epgId": "FR2100001VM"
                 },
                 {
                     "name": "Un Village Français",
@@ -604,6 +611,13 @@
                     "number": "4526",
                     "url": "https://jmp2.uk/sam-FR3700004HZ.m3u8",
                     "epgId": "FR3700004HZ"
+                },
+                {
+                    "name": "TV5 MONDE+ Chefs",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1300003HM_20250811T172926SQUARE.png",
+                    "number": "4527",
+                    "url": "https://jmp2.uk/sam-FR1300003HM.m3u8",
+                    "epgId": "FR1300003HM"
                 },
                 {
                     "name": "TV5 Monde Voyage",

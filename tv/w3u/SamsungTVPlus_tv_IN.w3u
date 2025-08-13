@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇳 by HL",
-    "author": "Actualizada 13/08/2025 00:15",
+    "author": "Actualizada 14/08/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/in.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/in.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IN.w3u",
@@ -86,20 +86,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Music.png",
             "stations": [
                 {
-                    "name": "Mastiii",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700003HF_20250811T033507SQUARE.png",
-                    "number": "1003",
-                    "url": "https://jmp2.uk/sam-IN1700003HF.m3u8",
-                    "epgId": "IN1700003HF"
-                },
-                {
-                    "name": "B4U Music",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900017KM_20250811T033432SQUARE.png",
-                    "number": "1004",
-                    "url": "https://jmp2.uk/sam-IN3900017KM.m3u8",
-                    "epgId": "IN3900017KM"
-                },
-                {
                     "name": "Kaan Phod Music",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000122C_20241211T020344SQUARE.png",
                     "number": "1431",
@@ -112,6 +98,20 @@
                     "number": "1432",
                     "url": "https://jmp2.uk/sam-IN2600011UH.m3u8",
                     "epgId": "IN2600011UH"
+                },
+                {
+                    "name": "Mastiii",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700003HF_20250811T033507SQUARE.png",
+                    "number": "1433",
+                    "url": "https://jmp2.uk/sam-IN1700003HF.m3u8",
+                    "epgId": "IN1700003HF"
+                },
+                {
+                    "name": "B4U Music",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900017KM_20250811T033432SQUARE.png",
+                    "number": "1434",
+                    "url": "https://jmp2.uk/sam-IN3900017KM.m3u8",
+                    "epgId": "IN3900017KM"
                 },
                 {
                     "name": "9XM",
@@ -189,6 +189,13 @@
                     "number": "1455",
                     "url": "https://jmp2.uk/sam-INBD4700017SL.m3u8",
                     "epgId": "INBD4700017SL"
+                },
+                {
+                    "name": "ETV Music",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900002RV_20250811T033455SQUARE.png",
+                    "number": "1456",
+                    "url": "https://jmp2.uk/sam-IN4900002RV.m3u8",
+                    "epgId": "IN4900002RV"
                 },
                 {
                     "name": "SMTOWN",
@@ -531,6 +538,13 @@
                     "epgId": "INBD2500004Y0"
                 },
                 {
+                    "name": "ETV News",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900001AQ_20250811T033458SQUARE.png",
+                    "number": "1095",
+                    "url": "https://jmp2.uk/sam-IN4900001AQ.m3u8",
+                    "epgId": "IN4900001AQ"
+                },
+                {
                     "name": "TV9 Kannada",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500003XT_20241023T011724SQUARE.png",
                     "number": "1101",
@@ -621,6 +635,13 @@
                     "epgId": "INBD4700006JD"
                 },
                 {
+                    "name": "ETV Comedy",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900003U3_20250811T033449SQUARE.png",
+                    "number": "1003",
+                    "url": "https://jmp2.uk/sam-IN4900003U3.m3u8",
+                    "epgId": "IN4900003U3"
+                },
+                {
                     "name": "Fully Faltoo",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600013B3_20240925T102252SQUARE.png",
                     "number": "1113",
@@ -670,11 +691,25 @@
                     "epgId": "IN2600020H9"
                 },
                 {
+                    "name": "E24",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900002KB_20250811T033446SQUARE.png",
+                    "number": "1122",
+                    "url": "https://jmp2.uk/sam-IN3900002KB.m3u8",
+                    "epgId": "IN3900002KB"
+                },
+                {
                     "name": "Colors Infinity Lite",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000147D_20250625T011521SQUARE.png",
                     "number": "1123",
                     "url": "https://jmp2.uk/sam-IN26000147D.m3u8",
                     "epgId": "IN26000147D"
+                },
+                {
+                    "name": "Star Central",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN24000052F_20250811T033512SQUARE.png",
+                    "number": "1124",
+                    "url": "https://jmp2.uk/sam-IN24000052F.m3u8",
+                    "epgId": "IN24000052F"
                 },
                 {
                     "name": "Pitaara Comedy",
@@ -691,11 +726,11 @@
                     "epgId": "IN3000001V5"
                 },
                 {
-                    "name": "E24",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900002KB_20250811T033446SQUARE.png",
-                    "number": "1127",
-                    "url": "https://jmp2.uk/sam-IN3900002KB.m3u8",
-                    "epgId": "IN3900002KB"
+                    "name": "ETV Josh",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900004LP_20250811T033452SQUARE.png",
+                    "number": "1128",
+                    "url": "https://jmp2.uk/sam-IN4900004LP.m3u8",
+                    "epgId": "IN4900004LP"
                 },
                 {
                     "name": "FailArmy",
@@ -703,6 +738,13 @@
                     "number": "1129",
                     "url": "https://jmp2.uk/sam-INBA5100030AO.m3u8",
                     "epgId": "INBA5100030AO"
+                },
+                {
+                    "name": "Crime Scene TV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN24000030L_20250811T033443SQUARE.png",
+                    "number": "1130",
+                    "url": "https://jmp2.uk/sam-IN24000030L.m3u8",
+                    "epgId": "IN24000030L"
                 },
                 {
                     "name": "The Pet Collective",
@@ -731,6 +773,13 @@
             "name": "Kids",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Kids.png",
             "stations": [
+                {
+                    "name": "Mr. Bean",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000010V5_20250811T033509SQUARE.png",
+                    "number": "1004",
+                    "url": "https://jmp2.uk/sam-IN3000010V5.m3u8",
+                    "epgId": "IN3000010V5"
+                },
                 {
                     "name": "The Jungle Book",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20241024T054036SQUARE.png",
@@ -809,10 +858,10 @@
                 },
                 {
                     "name": "Boxing TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100007ME_20250811T033429SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800015P4_20250811T033441SQUARE.png",
                     "number": "1215",
-                    "url": "https://jmp2.uk/sam-INBA5100007ME.m3u8",
-                    "epgId": "INBA5100007ME"
+                    "url": "https://jmp2.uk/sam-IN800015P4.m3u8",
+                    "epgId": "IN800015P4"
                 },
                 {
                     "name": "FIGHT TV",
@@ -844,10 +893,10 @@
                 },
                 {
                     "name": "Billiard TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100006V5_20250811T033426SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800014F8_20250811T033434SQUARE.png",
                     "number": "1229",
-                    "url": "https://jmp2.uk/sam-INBA5100006V5.m3u8",
-                    "epgId": "INBA5100006V5"
+                    "url": "https://jmp2.uk/sam-IN800014F8.m3u8",
+                    "epgId": "IN800014F8"
                 }
             ]
         },
@@ -905,6 +954,13 @@
                     "epgId": "IN46000011Q"
                 },
                 {
+                    "name": "Go Wild",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2400002A3_20250811T033501SQUARE.png",
+                    "number": "1180",
+                    "url": "https://jmp2.uk/sam-IN2400002A3.m3u8",
+                    "epgId": "IN2400002A3"
+                },
+                {
                     "name": "WeatherSpy",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100028R4_20220427T054720SQUARE.png_20220427054721.png",
                     "number": "1181",
@@ -938,6 +994,13 @@
             "name": "Lifestyle",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Lifestyle.png",
             "stations": [
+                {
+                    "name": "Bon Voyage",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2400004WL_20250811T033437SQUARE.png",
+                    "number": "1327",
+                    "url": "https://jmp2.uk/sam-IN2400004WL.m3u8",
+                    "epgId": "IN2400004WL"
+                },
                 {
                     "name": "Travelxp HD",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN300000210_20241113T015626SQUARE.png",
@@ -1035,6 +1098,13 @@
                     "number": "1381",
                     "url": "https://jmp2.uk/sam-INBA5100031R2.m3u8",
                     "epgId": "INBA5100031R2"
+                },
+                {
+                    "name": "Life+Style",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2400001L0_20250811T033504SQUARE.png",
+                    "number": "1383",
+                    "url": "https://jmp2.uk/sam-IN2400001L0.m3u8",
+                    "epgId": "IN2400001L0"
                 },
                 {
                     "name": "GoUSA TV",

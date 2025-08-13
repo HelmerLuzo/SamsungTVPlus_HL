@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 13/08/2025 00:15",
+    "author": "Actualizada 14/08/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -516,6 +516,13 @@
                     "number": "4637",
                     "url": "https://jmp2.uk/sam-ITBD2300001MT.m3u8",
                     "epgId": "ITBD2300001MT"
+                },
+                {
+                    "name": "DFB Play TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200003YZ_20250811T172510SQUARE.png",
+                    "number": "4645",
+                    "url": "https://jmp2.uk/sam-IT3200003YZ.m3u8",
+                    "epgId": "IT3200003YZ"
                 }
             ]
         },
@@ -571,6 +578,13 @@
                     "number": "4658",
                     "url": "https://jmp2.uk/sam-IT2400001AE.m3u8",
                     "epgId": "IT2400001AE"
+                },
+                {
+                    "name": "Motor1",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000282Q_20250811T173011SQUARE.png",
+                    "number": "4660",
+                    "url": "https://jmp2.uk/sam-IT3000282Q.m3u8",
+                    "epgId": "IT3000282Q"
                 },
                 {
                     "name": "Motoretrò",
