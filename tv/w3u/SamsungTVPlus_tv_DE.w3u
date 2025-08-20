@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇩🇪 by HL",
-    "author": "Actualizada 20/08/2025 00:15",
+    "author": "Actualizada 21/08/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
@@ -10,9 +10,16 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
                 {
+                    "name": "H2O & Friends",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE500002LD_20250819T033050SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-DE500002LD",
+                    "epgId": "DE500002LD"
+                },
+                {
                     "name": "Entertainment Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700002Z2_20250819T032125SQUARE.png",
-                    "number": "4001",
+                    "number": "4007",
                     "url": "https://jmp2.uk/stvp-DEBC4700002Z2",
                     "epgId": "DEBC4700002Z2"
                 },
@@ -136,13 +143,6 @@
                     "epgId": "DE1100001CQ"
                 },
                 {
-                    "name": "H2O & Friends",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE500002LD_20250819T033050SQUARE.png",
-                    "number": "4214",
-                    "url": "https://jmp2.uk/stvp-DE500002LD",
-                    "epgId": "DE500002LD"
-                },
-                {
                     "name": "Fireplace Vibes",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE22000012Y_20250729T044923SQUARE.png",
                     "number": "4219",
@@ -197,6 +197,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
                 {
+                    "name": "Hudson & Rex",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800002GM_20250819T033053SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-DE4800002GM",
+                    "epgId": "DE4800002GM"
+                },
+                {
                     "name": "Baywatch",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD26000020X_20250708T031551SQUARE.png",
                     "number": "4231",
@@ -216,13 +223,6 @@
                     "number": "4233",
                     "url": "https://jmp2.uk/stvp-DE4600001CD",
                     "epgId": "DE4600001CD"
-                },
-                {
-                    "name": "Hudson & Rex",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800002GM_20250819T033053SQUARE.png",
-                    "number": "4234",
-                    "url": "https://jmp2.uk/stvp-DE4800002GM",
-                    "epgId": "DE4800002GM"
                 },
                 {
                     "name": "Herzfrequenz",
@@ -446,20 +446,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
-                    "name": "Wilder Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20250819T033033SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-DEBA3300042XG",
-                    "epgId": "DEBA3300042XG"
-                },
-                {
-                    "name": "Fluss Monsters",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3700001F7_20250819T033047SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-DE3700001F7",
-                    "epgId": "DE3700001F7"
-                },
-                {
                     "name": "The Wicked Tuna Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC220000422_20250107T024428SQUARE.png",
                     "number": "4352",
@@ -544,6 +530,13 @@
                     "epgId": "DEAK3504506A"
                 },
                 {
+                    "name": "Wilder Planet",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20250819T033033SQUARE.png",
+                    "number": "4486",
+                    "url": "https://jmp2.uk/stvp-DEBA3300042XG",
+                    "epgId": "DEBA3300042XG"
+                },
+                {
                     "name": "BBC Earth",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png",
                     "number": "4488",
@@ -572,6 +565,13 @@
                     "epgId": "DEAJ0500423A"
                 },
                 {
+                    "name": "Fluss Monsters",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3700001F7_20250819T033047SQUARE.png",
+                    "number": "4496",
+                    "url": "https://jmp2.uk/stvp-DE3700001F7",
+                    "epgId": "DE3700001F7"
+                },
+                {
                     "name": "Pluto TV Animals",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504503A_20250107T023950SQUARE.png",
                     "number": "4500",
@@ -592,18 +592,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Food & Travel.png",
             "stations": [
                 {
+                    "name": "ZDF kocht!",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700002HO_20250819T033057SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-DEBD3700002HO",
+                    "epgId": "DEBD3700002HO"
+                },
+                {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20250107T024747SQUARE.png",
                     "number": "4511",
                     "url": "https://jmp2.uk/stvp-DE200003PX",
                     "epgId": "DE200003PX"
-                },
-                {
-                    "name": "ZDF kocht!",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700002HO_20250819T033057SQUARE.png",
-                    "number": "4515",
-                    "url": "https://jmp2.uk/stvp-DEBD3700002HO",
-                    "epgId": "DEBD3700002HO"
                 },
                 {
                     "name": "BBC Food",

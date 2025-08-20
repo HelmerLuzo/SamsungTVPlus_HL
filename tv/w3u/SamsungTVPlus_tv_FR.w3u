@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇫🇷 by HL",
-    "author": "Actualizada 20/08/2025 00:15",
+    "author": "Actualizada 21/08/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/fr.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/fr.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_FR.w3u",
@@ -37,6 +37,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Divertissement.png",
             "stations": [
                 {
+                    "name": "Qui veut gagner des millions ?",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900007PQ_20250819T032508SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-FRBD1900007PQ",
+                    "epgId": "FRBD1900007PQ"
+                },
+                {
                     "name": "RMC Story",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20250218T040019SQUARE.png",
                     "number": "4008",
@@ -70,13 +77,6 @@
                     "number": "4107",
                     "url": "https://jmp2.uk/stvp-FR3600004UH",
                     "epgId": "FR3600004UH"
-                },
-                {
-                    "name": "Qui veut gagner des millions ?",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900007PQ_20250819T032508SQUARE.png",
-                    "number": "4108",
-                    "url": "https://jmp2.uk/stvp-FRBD1900007PQ",
-                    "epgId": "FRBD1900007PQ"
                 },
                 {
                     "name": "Les Z'amours",
@@ -245,13 +245,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Séries TV.png",
             "stations": [
                 {
-                    "name": "Les riches pleurent aussi",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300022OA_20250819T032118SQUARE.png",
-                    "number": "4006",
-                    "url": "https://jmp2.uk/stvp-FRBA3300022OA",
-                    "epgId": "FRBA3300022OA"
-                },
-                {
                     "name": "Plus belle la vie",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD37000020Y_20250415T020906SQUARE.png",
                     "number": "4007",
@@ -371,6 +364,13 @@
                     "epgId": "FRBC14000010C"
                 },
                 {
+                    "name": "Les riches pleurent aussi",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300022OA_20250819T032118SQUARE.png",
+                    "number": "4269",
+                    "url": "https://jmp2.uk/stvp-FRBA3300022OA",
+                    "epgId": "FRBA3300022OA"
+                },
+                {
                     "name": "Passion Bollywood",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100001V1_20250513T005820SQUARE.png",
                     "number": "4271",
@@ -391,18 +391,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
+                    "name": "Homicide",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20250819T032505SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-FRBB49000033R",
+                    "epgId": "FRBB49000033R"
+                },
+                {
                     "name": "Faites entrer l'accusé",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400002XF_20241112T093135SQUARE.png",
                     "number": "4293",
                     "url": "https://jmp2.uk/stvp-FR1400002XF",
                     "epgId": "FR1400002XF"
-                },
-                {
-                    "name": "Homicide",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20250819T032505SQUARE.png",
-                    "number": "4297",
-                    "url": "https://jmp2.uk/stvp-FRBB49000033R",
-                    "epgId": "FRBB49000033R"
                 },
                 {
                     "name": "Love Crime & History",
@@ -453,13 +453,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentaires.png",
             "stations": [
                 {
-                    "name": "Enquêtes de Choc",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC90000220_20250819T032502SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-FRBC90000220",
-                    "epgId": "FRBC90000220"
-                },
-                {
                     "name": "J'irai dormir chez vous",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20241106T142647SQUARE.png",
                     "number": "4354",
@@ -472,6 +465,13 @@
                     "number": "4356",
                     "url": "https://jmp2.uk/stvp-FR30000271",
                     "epgId": "FR30000271"
+                },
+                {
+                    "name": "Enquêtes de Choc",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC90000220_20250819T032502SQUARE.png",
+                    "number": "4357",
+                    "url": "https://jmp2.uk/stvp-FRBC90000220",
+                    "epgId": "FRBC90000220"
                 },
                 {
                     "name": "Les secrets de nos régions",
@@ -986,18 +986,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Cinéma.png",
             "stations": [
                 {
-                    "name": "100% Cinema",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR13000020W_20250819T032458SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-FR13000020W",
-                    "epgId": "FR13000020W"
-                },
-                {
                     "name": "Top Films - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600007CB_20250415T020909SQUARE.png",
                     "number": "4005",
                     "url": "https://jmp2.uk/stvp-FR2600007CB",
                     "epgId": "FR2600007CB"
+                },
+                {
+                    "name": "Ciné Nanar",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB39000020C_20250819T032115SQUARE.png",
+                    "number": "4006",
+                    "url": "https://jmp2.uk/stvp-FRBB39000020C",
+                    "epgId": "FRBB39000020C"
                 },
                 {
                     "name": "Box Office Teens",
@@ -1028,11 +1028,11 @@
                     "epgId": "FRBA1000009KO"
                 },
                 {
-                    "name": "Ciné Nanar",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB39000020C_20250819T032115SQUARE.png",
-                    "number": "4870",
-                    "url": "https://jmp2.uk/stvp-FRBB39000020C",
-                    "epgId": "FRBB39000020C"
+                    "name": "100% Cinema",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR13000020W_20250819T032458SQUARE.png",
+                    "number": "4871",
+                    "url": "https://jmp2.uk/stvp-FR13000020W",
+                    "epgId": "FR13000020W"
                 },
                 {
                     "name": "Wild Side TV",

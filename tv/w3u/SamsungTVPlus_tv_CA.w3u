@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇨🇦 by HL",
-    "author": "Actualizada 20/08/2025 00:15",
+    "author": "Actualizada 21/08/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/ca.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/ca.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CA.w3u",
@@ -156,11 +156,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Movies.png",
             "stations": [
                 {
-                    "name": "Grjngo",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA44000025P_20250812T003251SQUARE.png",
+                    "name": "Genie K-Movie",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000005K2_20250819T224256SQUARE.png",
                     "number": "1004",
-                    "url": "https://jmp2.uk/stvp-CA44000025P",
-                    "epgId": "CA44000025P"
+                    "url": "https://jmp2.uk/stvp-CA2000005K2",
+                    "epgId": "CA2000005K2"
                 },
                 {
                     "name": "FilmRise Free Movies",
@@ -205,18 +205,18 @@
                     "epgId": "CABC2300019UD"
                 },
                 {
-                    "name": "Genie K-Movie",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000005K2_20250813T151527SQUARE.png",
-                    "number": "1277",
-                    "url": "https://jmp2.uk/stvp-CA2000005K2",
-                    "epgId": "CA2000005K2"
-                },
-                {
                     "name": "Cinevault Westerns",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA35000078O_20250318T232425SQUARE.png",
                     "number": "1405",
                     "url": "https://jmp2.uk/stvp-CA35000078O",
                     "epgId": "CA35000078O"
+                },
+                {
+                    "name": "Grjngo",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA44000025P_20250819T224258SQUARE.png",
+                    "number": "1407",
+                    "url": "https://jmp2.uk/stvp-CA44000025P",
+                    "epgId": "CA44000025P"
                 },
                 {
                     "name": "FilmRise Western",
@@ -232,11 +232,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
                 {
-                    "name": "Murdoch Mysteries",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600001IG_20250812T003309SQUARE.png",
-                    "number": "1000",
-                    "url": "https://jmp2.uk/stvp-CA4600001IG",
-                    "epgId": "CA4600001IG"
+                    "name": "21 Jump Street",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB26000082J_20250819T224221SQUARE.png",
+                    "number": "1001",
+                    "url": "https://jmp2.uk/stvp-CABB26000082J",
+                    "epgId": "CABB26000082J"
                 },
                 {
                     "name": "Midsomer Murders",
@@ -244,6 +244,13 @@
                     "number": "1409",
                     "url": "https://jmp2.uk/stvp-CABC23000056U",
                     "epgId": "CABC23000056U"
+                },
+                {
+                    "name": "Murdoch Mysteries",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600001IG_20250819T224303SQUARE.png",
+                    "number": "1410",
+                    "url": "https://jmp2.uk/stvp-CA4600001IG",
+                    "epgId": "CA4600001IG"
                 },
                 {
                     "name": "Death Valley Days",
@@ -286,13 +293,6 @@
                     "number": "1590",
                     "url": "https://jmp2.uk/stvp-CABA3700002ML",
                     "epgId": "CABA3700002ML"
-                },
-                {
-                    "name": "21 Jump Street",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB26000082J_20250121T094036SQUARE.png",
-                    "number": "1600",
-                    "url": "https://jmp2.uk/stvp-CABB26000082J",
-                    "epgId": "CABB26000082J"
                 },
                 {
                     "name": "Highway to Heaven",
@@ -447,6 +447,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality TV.png",
             "stations": [
                 {
+                    "name": "Ax Men",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA900009VP_20250819T224251SQUARE.png",
+                    "number": "1002",
+                    "url": "https://jmp2.uk/stvp-CA900009VP",
+                    "epgId": "CA900009VP"
+                },
+                {
                     "name": "Hell's Kitchen",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600006SV_20250729T184525SQUARE.png",
                     "number": "1902",
@@ -466,13 +473,6 @@
                     "number": "1904",
                     "url": "https://jmp2.uk/stvp-CA1400014EH",
                     "epgId": "CA1400014EH"
-                },
-                {
-                    "name": "Ax Men",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA900009VP_20250805T010107SQUARE.png",
-                    "number": "1905",
-                    "url": "https://jmp2.uk/stvp-CA900009VP",
-                    "epgId": "CA900009VP"
                 },
                 {
                     "name": "CTV Gridlock",
@@ -564,13 +564,6 @@
             "name": "Home & Food",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Home & Food.png",
             "stations": [
-                {
-                    "name": "The Emeril Lagasse Channel",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4500002UA_20250812T003348SQUARE.png",
-                    "number": "1001",
-                    "url": "https://jmp2.uk/stvp-CA4500002UA",
-                    "epgId": "CA4500002UA"
-                },
                 {
                     "name": "Property Brothers",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400017PU_20250812T003317SQUARE.png",
@@ -670,6 +663,13 @@
                     "epgId": "CA4500001CL"
                 },
                 {
+                    "name": "The Emeril Lagasse Channel",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4500002UA_20250819T224307SQUARE.png",
+                    "number": "2109",
+                    "url": "https://jmp2.uk/stvp-CA4500002UA",
+                    "epgId": "CA4500002UA"
+                },
+                {
                     "name": "Bon Appétit",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200006AL_20250729T185053SQUARE.png",
                     "number": "2112",
@@ -710,13 +710,6 @@
             "name": "Sports & Outdoors",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sports & Outdoors.png",
             "stations": [
-                {
-                    "name": "MeatEater",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA210000317_20250812T003306SQUARE.png",
-                    "number": "1003",
-                    "url": "https://jmp2.uk/stvp-CA210000317",
-                    "epgId": "CA210000317"
-                },
                 {
                     "name": "MLB Channel",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400001PI_20250805T010157SQUARE.png",
@@ -830,6 +823,13 @@
                     "epgId": "CABD1200013IH"
                 },
                 {
+                    "name": "MeatEater",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA210000317_20250819T224301SQUARE.png",
+                    "number": "2481",
+                    "url": "https://jmp2.uk/stvp-CA210000317",
+                    "epgId": "CA210000317"
+                },
+                {
                     "name": "Game & Fish TV",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4400001O0_20250729T185148SQUARE.png",
                     "number": "2483",
@@ -912,11 +912,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Comedy.png",
             "stations": [
                 {
-                    "name": "CBC Comedy",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200043OK_20250812T003233SQUARE.png",
-                    "number": "1002",
-                    "url": "https://jmp2.uk/stvp-CABD1200043OK",
-                    "epgId": "CABD1200043OK"
+                    "name": "Animation+",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA400003FQ_20250819T224248SQUARE.png",
+                    "number": "1000",
+                    "url": "https://jmp2.uk/stvp-CA400003FQ",
+                    "epgId": "CA400003FQ"
                 },
                 {
                     "name": "Conan O'Brien TV",
@@ -924,13 +924,6 @@
                     "number": "1318",
                     "url": "https://jmp2.uk/stvp-CABD1700002R4",
                     "epgId": "CABD1700002R4"
-                },
-                {
-                    "name": "Animation+",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA400003FQ_20250805T010104SQUARE.png",
-                    "number": "2605",
-                    "url": "https://jmp2.uk/stvp-CA400003FQ",
-                    "epgId": "CA400003FQ"
                 },
                 {
                     "name": "Letterman TV",
@@ -959,6 +952,13 @@
                     "number": "2626",
                     "url": "https://jmp2.uk/stvp-CA3100001IB",
                     "epgId": "CA3100001IB"
+                },
+                {
+                    "name": "CBC Comedy",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200043OK_20250819T224253SQUARE.png",
+                    "number": "2628",
+                    "url": "https://jmp2.uk/stvp-CABD1200043OK",
+                    "epgId": "CABD1200043OK"
                 },
                 {
                     "name": "CTV Laughs",
@@ -1112,6 +1112,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Anime & Gaming.png",
             "stations": [
                 {
+                    "name": "Team Liquid",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2400001LE_20250819T224305SQUARE.png",
+                    "number": "1003",
+                    "url": "https://jmp2.uk/stvp-CA2400001LE",
+                    "epgId": "CA2400001LE"
+                },
+                {
                     "name": "It’s Anime",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1100002J6_20250714T223050SQUARE.png",
                     "number": "3202",
@@ -1131,13 +1138,6 @@
                     "number": "3214",
                     "url": "https://jmp2.uk/stvp-CA2000002N3",
                     "epgId": "CA2000002N3"
-                },
-                {
-                    "name": "Team Liquid",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2400001LE_20250812T003346SQUARE.png",
-                    "number": "3222",
-                    "url": "https://jmp2.uk/stvp-CA2400001LE",
-                    "epgId": "CA2400001LE"
                 }
             ]
         },

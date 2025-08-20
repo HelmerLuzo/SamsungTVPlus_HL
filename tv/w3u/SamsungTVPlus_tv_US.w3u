@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇺🇸 by HL",
-    "author": "Actualizada 20/08/2025 00:15",
+    "author": "Actualizada 21/08/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/us.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_US.w3u",
@@ -178,8 +178,8 @@
             "stations": [
                 {
                     "name": "Movie Hub",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20250812T003422SQUARE.png",
-                    "number": "1000",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20250819T224327SQUARE.png",
+                    "number": "1200",
                     "url": "https://jmp2.uk/stvp-USBA3000041ZP",
                     "epgId": "USBA3000041ZP"
                 },
@@ -495,6 +495,13 @@
                     "number": "1560",
                     "url": "https://jmp2.uk/stvp-USBC1000004G8",
                     "epgId": "USBC1000004G8"
+                },
+                {
+                    "name": "Las Vegas",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US180001143_20250819T224347SQUARE.png",
+                    "number": "1562",
+                    "url": "https://jmp2.uk/stvp-US180001143",
+                    "epgId": "US180001143"
                 },
                 {
                     "name": "Drama Life",
@@ -1012,11 +1019,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Home & Food.png",
             "stations": [
                 {
-                    "name": "The Martha Stewart Channel",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500011SP_20250812T003527SQUARE.png",
+                    "name": "Million Dollar Dream Home",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300067FX_20250819T224350SQUARE.png",
                     "number": "1001",
-                    "url": "https://jmp2.uk/stvp-US4500011SP",
-                    "epgId": "US4500011SP"
+                    "url": "https://jmp2.uk/stvp-US300067FX",
+                    "epgId": "US300067FX"
                 },
                 {
                     "name": "Home Refresh",
@@ -1024,13 +1031,6 @@
                     "number": "2005",
                     "url": "https://jmp2.uk/stvp-USBC21000142T",
                     "epgId": "USBC21000142T"
-                },
-                {
-                    "name": "Million Dollar Dream Home",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300067FX_20250415T005952SQUARE.png",
-                    "number": "2008",
-                    "url": "https://jmp2.uk/stvp-US300067FX",
-                    "epgId": "US300067FX"
                 },
                 {
                     "name": "Home.Made.Nation",
@@ -1143,6 +1143,13 @@
                     "number": "2105",
                     "url": "https://jmp2.uk/stvp-USBC1300008AZ",
                     "epgId": "USBC1300008AZ"
+                },
+                {
+                    "name": "The Martha Stewart Channel",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500011SP_20250819T224356SQUARE.png",
+                    "number": "2107",
+                    "url": "https://jmp2.uk/stvp-US4500011SP",
+                    "epgId": "US4500011SP"
                 },
                 {
                     "name": "Emeril Lagasse Channel",
@@ -1549,13 +1556,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Motor Sports.png",
             "stations": [
                 {
-                    "name": "RACER Select",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700019RN_20250812T003512SQUARE.png",
-                    "number": "1002",
-                    "url": "https://jmp2.uk/stvp-USBD1700019RN",
-                    "epgId": "USBD1700019RN"
-                },
-                {
                     "name": "NASCAR Channel",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700021SM_20250505T232701SQUARE.png",
                     "number": "2505",
@@ -1589,6 +1589,13 @@
                     "number": "2525",
                     "url": "https://jmp2.uk/stvp-USBC3600005U9",
                     "epgId": "USBC3600005U9"
+                },
+                {
+                    "name": "RACER Select",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700019RN_20250819T224353SQUARE.png",
+                    "number": "2530",
+                    "url": "https://jmp2.uk/stvp-USBD1700019RN",
+                    "epgId": "USBD1700019RN"
                 },
                 {
                     "name": "POWERNATION",
@@ -1806,18 +1813,25 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality Competition.png",
             "stations": [
                 {
+                    "name": "American Ninja Warrior",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US19000017A_20250819T224342SQUARE.png",
+                    "number": "1002",
+                    "url": "https://jmp2.uk/stvp-US19000017A",
+                    "epgId": "US19000017A"
+                },
+                {
+                    "name": "Ax Men",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200020Z0_20250819T224345SQUARE.png",
+                    "number": "1003",
+                    "url": "https://jmp2.uk/stvp-USBB5200020Z0",
+                    "epgId": "USBB5200020Z0"
+                },
+                {
                     "name": "Hell's Kitchen",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900002Z7_20250610T001038SQUARE.png",
                     "number": "2704",
                     "url": "https://jmp2.uk/stvp-USBB2900002Z7",
                     "epgId": "USBB2900002Z7"
-                },
-                {
-                    "name": "Top Chef Vault",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US180001143_20240826T235603SQUARE.png",
-                    "number": "2710",
-                    "url": "https://jmp2.uk/stvp-US180001143",
-                    "epgId": "US180001143"
                 },
                 {
                     "name": "Storage Wars: LA",
@@ -1839,13 +1853,6 @@
                     "number": "2716",
                     "url": "https://jmp2.uk/stvp-USBB4400018LR",
                     "epgId": "USBB4400018LR"
-                },
-                {
-                    "name": "American Ninja Warrior",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US19000017A_20240730T012806SQUARE.png",
-                    "number": "2718",
-                    "url": "https://jmp2.uk/stvp-US19000017A",
-                    "epgId": "US19000017A"
                 },
                 {
                     "name": "Fear Factor",
@@ -1881,13 +1888,6 @@
                     "number": "2739",
                     "url": "https://jmp2.uk/stvp-USBB520002173",
                     "epgId": "USBB520002173"
-                },
-                {
-                    "name": "Ax Men",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200020Z0_20250520T211340SQUARE.png",
-                    "number": "2744",
-                    "url": "https://jmp2.uk/stvp-USBB5200020Z0",
-                    "epgId": "USBB5200020Z0"
                 },
                 {
                     "name": "Alone By History",
@@ -2125,13 +2125,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sci-Fi & Horror.png",
             "stations": [
                 {
-                    "name": "The UnXplained with William Shatner",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700011JL_20250812T003529SQUARE.png",
-                    "number": "1003",
-                    "url": "https://jmp2.uk/stvp-US700011JL",
-                    "epgId": "US700011JL"
-                },
-                {
                     "name": "Fear Zone",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20250408T020801SQUARE.png",
                     "number": "3005",
@@ -2207,6 +2200,13 @@
                     "number": "3055",
                     "url": "https://jmp2.uk/stvp-USBB10000047W",
                     "epgId": "USBB10000047W"
+                },
+                {
+                    "name": "The UnXplained with William Shatner",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700011JL_20250819T224358SQUARE.png",
+                    "number": "3060",
+                    "url": "https://jmp2.uk/stvp-US700011JL",
+                    "epgId": "US700011JL"
                 },
                 {
                     "name": "Ancient Aliens",
@@ -2305,18 +2305,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Animals, Nature & History.png",
             "stations": [
                 {
+                    "name": "Samsung Wild Life",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20250819T224332SQUARE.png",
+                    "number": "1000",
+                    "url": "https://jmp2.uk/stvp-USBA3000043LH",
+                    "epgId": "USBA3000043LH"
+                },
+                {
                     "name": "PBS Genealogy",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US130000639_20250805T005831SQUARE.png",
                     "number": "2905",
                     "url": "https://jmp2.uk/stvp-US130000639",
                     "epgId": "US130000639"
-                },
-                {
-                    "name": "Samsung Wild Life",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20250408T020746SQUARE.png",
-                    "number": "3505",
-                    "url": "https://jmp2.uk/stvp-USBA3000043LH",
-                    "epgId": "USBA3000043LH"
                 },
                 {
                     "name": "The Jack Hanna Channel",

@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz"
+#EXTINF:-1 tvg-id="GBBD25000038Y" tvg-name="GBBD25000038Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20250819T032550SQUARE.png" group-title="Entertainment" , Comedy Hub
+https://jmp2.uk/stvp-GBBD25000038Y
 #EXTINF:-1 tvg-id="GBBC2300003ZQ" tvg-name="GBBC2300003ZQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20250819T032557SQUARE.png" group-title="Entertainment" , Entertainment Hub
 https://jmp2.uk/stvp-GBBC2300003ZQ
 #EXTINF:-1 tvg-id="GBBD3100003J5" tvg-name="GBBD3100003J5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100003J5_20250107T030818SQUARE.png" group-title="Entertainment" , U&Laughs
@@ -31,8 +33,6 @@ https://jmp2.uk/stvp-GB300001QO
 https://jmp2.uk/stvp-GB1100001EB
 #EXTINF:-1 tvg-id="GB4600001W9" tvg-name="GB4600001W9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4600001W9_20250107T031126SQUARE.png" group-title="Entertainment" , Hot Ones
 https://jmp2.uk/stvp-GB4600001W9
-#EXTINF:-1 tvg-id="GBBD25000038Y" tvg-name="GBBD25000038Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20250819T032550SQUARE.png" group-title="Entertainment" , Comedy Hub
-https://jmp2.uk/stvp-GBBD25000038Y
 #EXTINF:-1 tvg-id="GB1800002FA" tvg-name="GB1800002FA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1800002FA_20250211T013901SQUARE.png" group-title="Entertainment" , 8 Out Of 10 Cats
 https://jmp2.uk/stvp-GB1800002FA
 #EXTINF:-1 tvg-id="GB4000008O5" tvg-name="GB4000008O5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4000008O5_20250107T031325SQUARE.png" group-title="Entertainment" , Mr Bean Live Action
@@ -51,14 +51,14 @@ https://jmp2.uk/stvp-GB500004YN
 https://jmp2.uk/stvp-GBBD1100003I0
 #EXTINF:-1 tvg-id="GB2200001N2" tvg-name="GB2200001N2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2200001N2_20250729T045859SQUARE.png" group-title="Entertainment" , Fireplace Vibes
 https://jmp2.uk/stvp-GB2200001N2
+#EXTINF:-1 tvg-id="GBBC900013K9" tvg-name="GBBC900013K9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900013K9_20250819T032600SQUARE.png" group-title="Reality" , Homes Under the Hammer
+https://jmp2.uk/stvp-GBBC900013K9
 #EXTINF:-1 tvg-id="GBBB4600001IK" tvg-name="GBBB4600001IK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB4600001IK_20250107T030734SQUARE.png" group-title="Reality" , Project Runway
 https://jmp2.uk/stvp-GBBB4600001IK
 #EXTINF:-1 tvg-id="GBBC2300002GG" tvg-name="GBBC2300002GG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20250722T005726SQUARE.png" group-title="Reality" , America's Got Talent
 https://jmp2.uk/stvp-GBBC2300002GG
 #EXTINF:-1 tvg-id="GBBC2300001X5" tvg-name="GBBC2300001X5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20250610T011245SQUARE.png" group-title="Reality" , American Idol
 https://jmp2.uk/stvp-GBBC2300001X5
-#EXTINF:-1 tvg-id="GBBC900013K9" tvg-name="GBBC900013K9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900013K9_20250819T032600SQUARE.png" group-title="Reality" , Homes Under the Hammer
-https://jmp2.uk/stvp-GBBC900013K9
 #EXTINF:-1 tvg-id="GBBC9000062G" tvg-name="GBBC9000062G" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC9000062G_20250107T022825SQUARE.png" group-title="Reality" , Come Dine With Me
 https://jmp2.uk/stvp-GBBC9000062G
 #EXTINF:-1 tvg-id="GB300008I8" tvg-name="GB300008I8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300008I8_20250107T030753SQUARE.png" group-title="Reality" , Sony One Dragons Den
@@ -87,8 +87,6 @@ https://jmp2.uk/stvp-GBBA330003941
 https://jmp2.uk/stvp-GB2000007ID
 #EXTINF:-1 tvg-id="GBBD1100009M9" tvg-name="GBBD1100009M9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100009M9_20250715T004427SQUARE.png" group-title="Reality" , So…Real
 https://jmp2.uk/stvp-GBBD1100009M9
-#EXTINF:-1 tvg-id="GBBD600002XT" tvg-name="GBBD600002XT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20250819T032547SQUARE.png" group-title="TV Series" , Baywatch
-https://jmp2.uk/stvp-GBBD600002XT
 #EXTINF:-1 tvg-id="GBBD3100006XM" tvg-name="GBBD3100006XM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20250107T030748SQUARE.png" group-title="TV Series" , Sky Mix
 https://jmp2.uk/stvp-GBBD3100006XM
 #EXTINF:-1 tvg-id="GB5100001EW" tvg-name="GB5100001EW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB5100001EW_20250121T013043SQUARE.png" group-title="TV Series" , Heartland
@@ -103,6 +101,8 @@ https://jmp2.uk/stvp-GB280000829
 https://jmp2.uk/stvp-GBAK3504525A
 #EXTINF:-1 tvg-id="GB37000041H" tvg-name="GB37000041H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB37000041H_20250307T151840SQUARE.png" group-title="TV Series" , Nashville
 https://jmp2.uk/stvp-GB37000041H
+#EXTINF:-1 tvg-id="GBBD600002XT" tvg-name="GBBD600002XT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20250819T032547SQUARE.png" group-title="TV Series" , Baywatch
+https://jmp2.uk/stvp-GBBD600002XT
 #EXTINF:-1 tvg-id="GB900005KI" tvg-name="GB900005KI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900005KI_20250708T031725SQUARE.png" group-title="TV Series" , Demand Drama
 https://jmp2.uk/stvp-GB900005KI
 #EXTINF:-1 tvg-id="GB2100005YU" tvg-name="GB2100005YU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2100005YU_20250811T172955SQUARE.png" group-title="TV Series" , Rookie Blue
