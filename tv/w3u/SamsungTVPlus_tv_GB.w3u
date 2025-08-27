@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 27/08/2025 00:15",
+    "author": "Actualizada 28/08/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -268,6 +268,13 @@
                     "epgId": "GB2400006I0"
                 },
                 {
+                    "name": "A New Life In The Sun",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB60000381_20250826T004913SQUARE.png",
+                    "number": "4080",
+                    "url": "https://jmp2.uk/stvp-GB60000381",
+                    "epgId": "GB60000381"
+                },
+                {
                     "name": "Cash in the Attic",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1200004J4_20250415T020928SQUARE.png",
                     "number": "4082",
@@ -419,6 +426,13 @@
                     "number": "4256",
                     "url": "https://jmp2.uk/stvp-GB2100002R7",
                     "epgId": "GB2100002R7"
+                },
+                {
+                    "name": "K-Content by CJ ENM",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB17000066A_20250826T004916SQUARE.png",
+                    "number": "4258",
+                    "url": "https://jmp2.uk/stvp-GB17000066A",
+                    "epgId": "GB17000066A"
                 }
             ]
         },
@@ -858,6 +872,13 @@
                     "epgId": "GBAJ700002OS"
                 },
                 {
+                    "name": "K-Food by CJ ENM",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1700004YC_20250826T004919SQUARE.png",
+                    "number": "4521",
+                    "url": "https://jmp2.uk/stvp-GB1700004YC",
+                    "epgId": "GB1700004YC"
+                },
+                {
                     "name": "GoUSA TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000197P_20250513T005656SQUARE.png",
                     "number": "4522",
@@ -960,13 +981,6 @@
                     "number": "4574",
                     "url": "https://jmp2.uk/stvp-GBBD4900001RG",
                     "epgId": "GBBD4900001RG"
-                },
-                {
-                    "name": "The Guardian",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600016U8_20250826T004909SQUARE.png",
-                    "number": "4586",
-                    "url": "https://jmp2.uk/stvp-GB2600016U8",
-                    "epgId": "GB2600016U8"
                 }
             ]
         },

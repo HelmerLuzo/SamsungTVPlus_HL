@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇪🇸 by HL",
-    "author": "Actualizada 27/08/2025 00:15",
+    "author": "Actualizada 28/08/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/es.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -108,13 +108,6 @@
                     "epgId": "ESBC3500002PW"
                 },
                 {
-                    "name": "Fashion TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500017Y1_20241022T050724SQUARE.png",
-                    "number": "4205",
-                    "url": "https://jmp2.uk/stvp-ESAJ4500017Y1",
-                    "epgId": "ESAJ4500017Y1"
-                },
-                {
                     "name": "Azteca Internacional",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20241022T050448SQUARE.png",
                     "number": "4211",
@@ -148,6 +141,13 @@
                     "number": "4219",
                     "url": "https://jmp2.uk/stvp-ES4700001VS",
                     "epgId": "ES4700001VS"
+                },
+                {
+                    "name": "Coreano by CJ ENM",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20250826T004843SQUARE.png",
+                    "number": "4222",
+                    "url": "https://jmp2.uk/stvp-ES1700003C6",
+                    "epgId": "ES1700003C6"
                 },
                 {
                     "name": "Fireplace Vibes",
@@ -774,6 +774,13 @@
                     "epgId": "ESBC2700002LO"
                 },
                 {
+                    "name": "Cine Western",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20250826T004840SQUARE.png",
+                    "number": "4926",
+                    "url": "https://jmp2.uk/stvp-ES2300005G7",
+                    "epgId": "ES2300005G7"
+                },
+                {
                     "name": "Bigtime - Películas Gratis",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20241022T050457SQUARE.png",
                     "number": "4927",
@@ -972,6 +979,13 @@
                     "number": "4347",
                     "url": "https://jmp2.uk/stvp-ES1600002QL",
                     "epgId": "ES1600002QL"
+                },
+                {
+                    "name": "Los Gipsy Kings - Rakuten TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900002JG_20250826T004846SQUARE.png",
+                    "number": "4350",
+                    "url": "https://jmp2.uk/stvp-ES2900002JG",
+                    "epgId": "ES2900002JG"
                 },
                 {
                     "name": "Top Gear",
