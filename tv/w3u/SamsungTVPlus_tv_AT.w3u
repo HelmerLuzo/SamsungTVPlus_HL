@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇦🇹 by HL",
-    "author": "Actualizada 02/09/2025 00:15",
+    "author": "Actualizada 03/09/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/at.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/at.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_AT.w3u",
@@ -11,14 +11,14 @@
             "stations": [
                 {
                     "name": "Comedy Mix",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD41000046O_20250819T033005SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD41000046O_20250902T003432SQUARE.png",
                     "number": "4001",
                     "url": "https://jmp2.uk/stvp-ATBD41000046O",
                     "epgId": "ATBD41000046O"
                 },
                 {
                     "name": "Hochzeit auf den ersten Blick",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT48000012I_20250819T033014SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT48000012I_20250902T003438SQUARE.png",
                     "number": "4002",
                     "url": "https://jmp2.uk/stvp-AT48000012I",
                     "epgId": "AT48000012I"
@@ -163,21 +163,21 @@
             "stations": [
                 {
                     "name": "Hudson & Rex",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20250819T033017SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20250902T003441SQUARE.png",
                     "number": "4003",
                     "url": "https://jmp2.uk/stvp-AT4800002G5",
                     "epgId": "AT4800002G5"
                 },
                 {
                     "name": "Baywatch",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600008HN_20250624T021036SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600008HN_20250902T003429SQUARE.png",
                     "number": "4231",
                     "url": "https://jmp2.uk/stvp-ATBD2600008HN",
                     "epgId": "ATBD2600008HN"
                 },
                 {
                     "name": "Heartland",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3700002Z3_20250722T005130SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3700002Z3_20250902T003436SQUARE.png",
                     "number": "4232",
                     "url": "https://jmp2.uk/stvp-AT3700002Z3",
                     "epgId": "AT3700002Z3"
@@ -529,7 +529,7 @@
                 },
                 {
                     "name": "Red Bull TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1500003ES_20250708T031452SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1500003ES_20250902T003443SQUARE.png",
                     "number": "4609",
                     "url": "https://jmp2.uk/stvp-ATBD1500003ES",
                     "epgId": "ATBD1500003ES"
