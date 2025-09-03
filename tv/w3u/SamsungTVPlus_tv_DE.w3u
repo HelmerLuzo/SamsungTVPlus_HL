@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇩🇪 by HL",
-    "author": "Actualizada 03/09/2025 00:15",
+    "author": "Actualizada 04/09/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
@@ -10,11 +10,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
                 {
-                    "name": "H2O & Friends",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE500002LD_20250902T003359SQUARE.png",
+                    "name": "ZDF zu Hause",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE37000038D_20250902T003353SQUARE.png",
                     "number": "4002",
-                    "url": "https://jmp2.uk/stvp-DE500002LD",
-                    "epgId": "DE500002LD"
+                    "url": "https://jmp2.uk/stvp-DE37000038D",
+                    "epgId": "DE37000038D"
                 },
                 {
                     "name": "Entertainment Mix",
@@ -108,13 +108,6 @@
                     "epgId": "DEAJ3200004UF"
                 },
                 {
-                    "name": "ZDF zu Hause",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE37000038D_20250902T003353SQUARE.png",
-                    "number": "4201",
-                    "url": "https://jmp2.uk/stvp-DE37000038D",
-                    "epgId": "DE37000038D"
-                },
-                {
                     "name": "Stars in Gefahr",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2200003Z3_20250107T024417SQUARE.png",
                     "number": "4207",
@@ -134,6 +127,13 @@
                     "number": "4213",
                     "url": "https://jmp2.uk/stvp-DE1100001CQ",
                     "epgId": "DE1100001CQ"
+                },
+                {
+                    "name": "H2O & Friends",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE500002LD_20250902T003359SQUARE.png",
+                    "number": "4214",
+                    "url": "https://jmp2.uk/stvp-DE500002LD",
+                    "epgId": "DE500002LD"
                 },
                 {
                     "name": "Fireplace Vibes",
@@ -183,16 +183,9 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
                 {
-                    "name": "Hudson & Rex",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800002GM_20250902T003402SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-DE4800002GM",
-                    "epgId": "DE4800002GM"
-                },
-                {
                     "name": "Baywatch",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD26000020X_20250902T003357SQUARE.png",
-                    "number": "4231",
+                    "number": "4001",
                     "url": "https://jmp2.uk/stvp-DEBD26000020X",
                     "epgId": "DEBD26000020X"
                 },
@@ -209,6 +202,13 @@
                     "number": "4233",
                     "url": "https://jmp2.uk/stvp-DE4600001CD",
                     "epgId": "DE4600001CD"
+                },
+                {
+                    "name": "Hudson & Rex",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800002GM_20250902T003402SQUARE.png",
+                    "number": "4234",
+                    "url": "https://jmp2.uk/stvp-DE4800002GM",
+                    "epgId": "DE4800002GM"
                 },
                 {
                     "name": "Herzfrequenz",
@@ -578,18 +578,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Food & Travel.png",
             "stations": [
                 {
-                    "name": "ZDF kocht!",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700002HO_20250902T003408SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-DEBD3700002HO",
-                    "epgId": "DEBD3700002HO"
-                },
-                {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20250107T024747SQUARE.png",
                     "number": "4511",
                     "url": "https://jmp2.uk/stvp-DE200003PX",
                     "epgId": "DE200003PX"
+                },
+                {
+                    "name": "ZDF kocht!",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700002HO_20250902T003408SQUARE.png",
+                    "number": "4515",
+                    "url": "https://jmp2.uk/stvp-DEBD3700002HO",
+                    "epgId": "DEBD3700002HO"
                 },
                 {
                     "name": "BBC Food",
@@ -640,6 +640,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sport.png",
             "stations": [
                 {
+                    "name": "Red Bull TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2300001EU_20250902T003405SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-DEBC2300001EU",
+                    "epgId": "DEBC2300001EU"
+                },
+                {
                     "name": "DAZN Rise",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD700001C5_20250107T024314SQUARE.png",
                     "number": "4601",
@@ -659,13 +666,6 @@
                     "number": "4606",
                     "url": "https://jmp2.uk/stvp-DE2000007B5",
                     "epgId": "DE2000007B5"
-                },
-                {
-                    "name": "Red Bull TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2300001EU_20250902T003405SQUARE.png",
-                    "number": "4609",
-                    "url": "https://jmp2.uk/stvp-DEBC2300001EU",
-                    "epgId": "DEBC2300001EU"
                 },
                 {
                     "name": "Sportdigital Free",

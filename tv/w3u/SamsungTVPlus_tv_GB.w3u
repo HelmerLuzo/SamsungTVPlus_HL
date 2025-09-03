@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 03/09/2025 00:15",
+    "author": "Actualizada 04/09/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -10,16 +10,9 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
                 {
-                    "name": "Comedy Hub",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20250902T003750SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-GBBD25000038Y",
-                    "epgId": "GBBD25000038Y"
-                },
-                {
                     "name": "Entertainment Hub",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20250902T003754SQUARE.png",
-                    "number": "4007",
+                    "number": "4001",
                     "url": "https://jmp2.uk/stvp-GBBC2300003ZQ",
                     "epgId": "GBBC2300003ZQ"
                 },
@@ -129,6 +122,13 @@
                     "epgId": "GB4600001W9"
                 },
                 {
+                    "name": "Comedy Hub",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20250902T003750SQUARE.png",
+                    "number": "4156",
+                    "url": "https://jmp2.uk/stvp-GBBD25000038Y",
+                    "epgId": "GBBD25000038Y"
+                },
+                {
                     "name": "8 Out Of 10 Cats",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1800002FA_20250211T013901SQUARE.png",
                     "number": "4158",
@@ -198,11 +198,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality.png",
             "stations": [
                 {
-                    "name": "Homes Under the Hammer",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900013K9_20250902T003800SQUARE.png",
+                    "name": "Come Dine With Me",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC9000062G_20250902T003747SQUARE.png",
                     "number": "4003",
-                    "url": "https://jmp2.uk/stvp-GBBC900013K9",
-                    "epgId": "GBBC900013K9"
+                    "url": "https://jmp2.uk/stvp-GBBC9000062G",
+                    "epgId": "GBBC9000062G"
                 },
                 {
                     "name": "Project Runway",
@@ -226,11 +226,11 @@
                     "epgId": "GBBC2300001X5"
                 },
                 {
-                    "name": "Come Dine With Me",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC9000062G_20250902T003747SQUARE.png",
-                    "number": "4068",
-                    "url": "https://jmp2.uk/stvp-GBBC9000062G",
-                    "epgId": "GBBC9000062G"
+                    "name": "Homes Under the Hammer",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900013K9_20250902T003800SQUARE.png",
+                    "number": "4067",
+                    "url": "https://jmp2.uk/stvp-GBBC900013K9",
+                    "epgId": "GBBC900013K9"
                 },
                 {
                     "name": "Sony One Dragons Den",
@@ -337,18 +337,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/TV Series.png",
             "stations": [
                 {
+                    "name": "Heartland",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB5100001EW_20250902T003757SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-GB5100001EW",
+                    "epgId": "GB5100001EW"
+                },
+                {
                     "name": "Sky Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20250107T030748SQUARE.png",
                     "number": "4231",
                     "url": "https://jmp2.uk/stvp-GBBD3100006XM",
                     "epgId": "GBBD3100006XM"
-                },
-                {
-                    "name": "Heartland",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB5100001EW_20250902T003757SQUARE.png",
-                    "number": "4232",
-                    "url": "https://jmp2.uk/stvp-GB5100001EW",
-                    "epgId": "GB5100001EW"
                 },
                 {
                     "name": "Sony One FAVES",
@@ -839,7 +839,7 @@
                 {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4000002H3_20250902T003803SQUARE.png",
-                    "number": "4002",
+                    "number": "4511",
                     "url": "https://jmp2.uk/stvp-GBBC4000002H3",
                     "epgId": "GBBC4000002H3"
                 },

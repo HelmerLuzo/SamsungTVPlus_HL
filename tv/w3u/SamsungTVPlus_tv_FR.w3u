@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇫🇷 by HL",
-    "author": "Actualizada 03/09/2025 00:15",
+    "author": "Actualizada 04/09/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/fr.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/fr.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_FR.w3u",
@@ -37,11 +37,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Divertissement.png",
             "stations": [
                 {
-                    "name": "Qui veut gagner des millions ?",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900007PQ_20250902T003717SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-FRBD1900007PQ",
-                    "epgId": "FRBD1900007PQ"
+                    "name": "Y'a que la vérité qui compte",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900003KP_20250902T003719SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-FRBC900003KP",
+                    "epgId": "FRBC900003KP"
+                },
+                {
+                    "name": "Juste Pour Rire",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300035UK_20250902T003714SQUARE.png",
+                    "number": "4006",
+                    "url": "https://jmp2.uk/stvp-FRBA3300035UK",
+                    "epgId": "FRBA3300035UK"
                 },
                 {
                     "name": "RMC Story",
@@ -79,6 +86,13 @@
                     "epgId": "FR3600004UH"
                 },
                 {
+                    "name": "Qui veut gagner des millions ?",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900007PQ_20250902T003717SQUARE.png",
+                    "number": "4108",
+                    "url": "https://jmp2.uk/stvp-FRBD1900007PQ",
+                    "epgId": "FRBD1900007PQ"
+                },
+                {
                     "name": "Les Z'amours",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900005BA_20241015T040344SQUARE.png",
                     "number": "4116",
@@ -100,13 +114,6 @@
                     "epgId": "FR3600002W2"
                 },
                 {
-                    "name": "Y'a que la vérité qui compte",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900003KP_20250902T003719SQUARE.png",
-                    "number": "4138",
-                    "url": "https://jmp2.uk/stvp-FRBC900003KP",
-                    "epgId": "FRBC900003KP"
-                },
-                {
                     "name": "Le meilleur d'Arthur",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900006NA_20241015T040338SQUARE.png",
                     "number": "4142",
@@ -126,13 +133,6 @@
                     "number": "4146",
                     "url": "https://jmp2.uk/stvp-FRBD4100002R7",
                     "epgId": "FRBD4100002R7"
-                },
-                {
-                    "name": "Juste Pour Rire",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300035UK_20250902T003714SQUARE.png",
-                    "number": "4160",
-                    "url": "https://jmp2.uk/stvp-FRBA3300035UK",
-                    "epgId": "FRBA3300035UK"
                 },
                 {
                     "name": "FailArmy",
@@ -384,18 +384,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
-                    "name": "Homicide",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20250902T003711SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-FRBB49000033R",
-                    "epgId": "FRBB49000033R"
-                },
-                {
                     "name": "Faites entrer l'accusé",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400002XF_20241112T093135SQUARE.png",
                     "number": "4293",
                     "url": "https://jmp2.uk/stvp-FR1400002XF",
                     "epgId": "FR1400002XF"
+                },
+                {
+                    "name": "Homicide",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20250902T003711SQUARE.png",
+                    "number": "4297",
+                    "url": "https://jmp2.uk/stvp-FRBB49000033R",
+                    "epgId": "FRBB49000033R"
                 },
                 {
                     "name": "Love Crime & History",
@@ -445,6 +445,13 @@
             "name": "Documentaires",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentaires.png",
             "stations": [
+                {
+                    "name": "BBC Earth",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20250902T003708SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-FR3200001NQ",
+                    "epgId": "FR3200001NQ"
+                },
                 {
                     "name": "J'irai dormir chez vous",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20241106T142647SQUARE.png",
@@ -535,13 +542,6 @@
                     "number": "4487",
                     "url": "https://jmp2.uk/stvp-FRBC4000001IO",
                     "epgId": "FRBC4000001IO"
-                },
-                {
-                    "name": "BBC Earth",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20250902T003708SQUARE.png",
-                    "number": "4489",
-                    "url": "https://jmp2.uk/stvp-FR3200001NQ",
-                    "epgId": "FR3200001NQ"
                 },
                 {
                     "name": "NatureTime",
@@ -979,13 +979,6 @@
                     "epgId": "FR2600007CB"
                 },
                 {
-                    "name": "Ciné Nanar",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB39000020C_20250902T003655SQUARE.png",
-                    "number": "4006",
-                    "url": "https://jmp2.uk/stvp-FRBB39000020C",
-                    "epgId": "FRBB39000020C"
-                },
-                {
                     "name": "Box Office Teens",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20241210T052728SQUARE.png",
                     "number": "4856",
@@ -1012,6 +1005,13 @@
                     "number": "4866",
                     "url": "https://jmp2.uk/stvp-FRBA1000009KO",
                     "epgId": "FRBA1000009KO"
+                },
+                {
+                    "name": "Ciné Nanar",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB39000020C_20250902T003655SQUARE.png",
+                    "number": "4870",
+                    "url": "https://jmp2.uk/stvp-FRBB39000020C",
+                    "epgId": "FRBB39000020C"
                 },
                 {
                     "name": "100% Cinema",
