@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇳 by HL",
-    "author": "Actualizada 10/09/2025 00:15",
+    "author": "Actualizada 11/09/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/in.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/in.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IN.w3u",
@@ -78,20 +78,6 @@
             "name": "Music",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Music.png",
             "stations": [
-                {
-                    "name": "Kaan Phod Music",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000122C_20241211T020344SQUARE.png",
-                    "number": "1431",
-                    "url": "https://jmp2.uk/stvp-IN26000122C",
-                    "epgId": "IN26000122C"
-                },
-                {
-                    "name": "Superhit Beats",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600011UH_20241024T054045SQUARE.png",
-                    "number": "1432",
-                    "url": "https://jmp2.uk/stvp-IN2600011UH",
-                    "epgId": "IN2600011UH"
-                },
                 {
                     "name": "Mastiii",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700003HF_20250811T033507SQUARE.png",
@@ -191,6 +177,27 @@
                     "epgId": "IN4900002RV"
                 },
                 {
+                    "name": "NOW 70s",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800001OD_20250910T004936SQUARE.png",
+                    "number": "1457",
+                    "url": "https://jmp2.uk/stvp-IN800001OD",
+                    "epgId": "IN800001OD"
+                },
+                {
+                    "name": "NOW 80s",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN8000027E_20250910T004940SQUARE.png",
+                    "number": "1458",
+                    "url": "https://jmp2.uk/stvp-IN8000027E",
+                    "epgId": "IN8000027E"
+                },
+                {
+                    "name": "NOW ROCK",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800003JE_20250910T004947SQUARE.png",
+                    "number": "1459",
+                    "url": "https://jmp2.uk/stvp-IN800003JE",
+                    "epgId": "IN800003JE"
+                },
+                {
                     "name": "SMTOWN",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900008ZP_20250730T015808SQUARE.png",
                     "number": "1460",
@@ -203,6 +210,27 @@
                     "number": "1461",
                     "url": "https://jmp2.uk/stvp-IN3800006RD",
                     "epgId": "IN3800006RD"
+                },
+                {
+                    "name": "Concerto",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800005S8_20250910T004933SQUARE.png",
+                    "number": "1462",
+                    "url": "https://jmp2.uk/stvp-IN800005S8",
+                    "epgId": "IN800005S8"
+                },
+                {
+                    "name": "TRACE Urban",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800007SR_20250910T004958SQUARE.png",
+                    "number": "1463",
+                    "url": "https://jmp2.uk/stvp-IN800007SR",
+                    "epgId": "IN800007SR"
+                },
+                {
+                    "name": "NOW 90s00s",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800004YV_20250910T004944SQUARE.png",
+                    "number": "1464",
+                    "url": "https://jmp2.uk/stvp-IN800004YV",
+                    "epgId": "IN800004YV"
                 },
                 {
                     "name": "Qwest TV",
@@ -635,13 +663,6 @@
                     "epgId": "IN4900003U3"
                 },
                 {
-                    "name": "Fully Faltoo",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600013B3_20240925T102252SQUARE.png",
-                    "number": "1113",
-                    "url": "https://jmp2.uk/stvp-IN2600013B3",
-                    "epgId": "IN2600013B3"
-                },
-                {
                     "name": "Korean TV",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300008IH_20241113T015622SQUARE.png",
                     "number": "1114",
@@ -689,13 +710,6 @@
                     "number": "1122",
                     "url": "https://jmp2.uk/stvp-IN3900002KB",
                     "epgId": "IN3900002KB"
-                },
-                {
-                    "name": "Colors Infinity Lite",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000147D_20250625T011521SQUARE.png",
-                    "number": "1123",
-                    "url": "https://jmp2.uk/stvp-IN26000147D",
-                    "epgId": "IN26000147D"
                 },
                 {
                     "name": "Star Central",
@@ -897,6 +911,13 @@
                     "number": "1229",
                     "url": "https://jmp2.uk/stvp-IN800014F8",
                     "epgId": "IN800014F8"
+                },
+                {
+                    "name": "TRACE Sport Stars",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN8000085E_20250910T004955SQUARE.png",
+                    "number": "1231",
+                    "url": "https://jmp2.uk/stvp-IN8000085E",
+                    "epgId": "IN8000085E"
                 }
             ]
         },
@@ -987,6 +1008,13 @@
                     "number": "1187",
                     "url": "https://jmp2.uk/stvp-IN460000250",
                     "epgId": "IN460000250"
+                },
+                {
+                    "name": "Pulse",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800006BS_20250910T004951SQUARE.png",
+                    "number": "1189",
+                    "url": "https://jmp2.uk/stvp-IN800006BS",
+                    "epgId": "IN800006BS"
                 }
             ]
         },
@@ -1021,13 +1049,6 @@
                     "number": "1366",
                     "url": "https://jmp2.uk/stvp-IN46000105Q",
                     "epgId": "IN46000105Q"
-                },
-                {
-                    "name": "Fashion TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA51000038B_20220427T054758SQUARE.png_20220427054759.png",
-                    "number": "1367",
-                    "url": "https://jmp2.uk/stvp-INBA51000038B",
-                    "epgId": "INBA51000038B"
                 },
                 {
                     "name": "Gusto TV",
