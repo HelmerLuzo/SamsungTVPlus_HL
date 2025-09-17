@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇨🇭 by HL",
-    "author": "Actualizada 17/09/2025 00:15",
+    "author": "Actualizada 18/09/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/ch.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/ch.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CH.w3u",
@@ -64,6 +64,13 @@
                     "number": "4106",
                     "url": "https://jmp2.uk/stvp-CHBB49000023B",
                     "epgId": "CHBB49000023B"
+                },
+                {
+                    "name": "Ladykracher",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3200009XW_20250916T003520SQUARE.png",
+                    "number": "4158",
+                    "url": "https://jmp2.uk/stvp-CH3200009XW",
+                    "epgId": "CH3200009XW"
                 },
                 {
                     "name": "Comedy Central Pluto TV",
@@ -232,13 +239,6 @@
                     "epgId": "CHBD2000023S"
                 },
                 {
-                    "name": "Comedy & Shows",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB4900004VT_20250916T003157SQUARE.png",
-                    "number": "4253",
-                    "url": "https://jmp2.uk/stvp-CHBB4900004VT",
-                    "epgId": "CHBB4900004VT"
-                },
-                {
                     "name": "Pastewka",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3200010F6_20250909T014559SQUARE.png",
                     "number": "4254",
@@ -246,18 +246,25 @@
                     "epgId": "CH3200010F6"
                 },
                 {
-                    "name": "Pluto TV Sitcoms",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAK3504505A_20250916T003153SQUARE.png",
+                    "name": "Comedy & Shows",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB4900004VT_20250916T003157SQUARE.png",
                     "number": "4255",
-                    "url": "https://jmp2.uk/stvp-CHAK3504505A",
-                    "epgId": "CHAK3504505A"
+                    "url": "https://jmp2.uk/stvp-CHBB4900004VT",
+                    "epgId": "CHBB4900004VT"
                 },
                 {
-                    "name": "Génération Sitcoms [FR]",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD200003G1_20250916T003200SQUARE.png",
+                    "name": "Stromberg",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3200011YH_20250916T003523SQUARE.png",
+                    "number": "4256",
+                    "url": "https://jmp2.uk/stvp-CH3200011YH",
+                    "epgId": "CH3200011YH"
+                },
+                {
+                    "name": "Pluto TV Sitcoms",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAK3504505A_20250916T003153SQUARE.png",
                     "number": "4257",
-                    "url": "https://jmp2.uk/stvp-CHBD200003G1",
-                    "epgId": "CHBD200003G1"
+                    "url": "https://jmp2.uk/stvp-CHAK3504505A",
+                    "epgId": "CHAK3504505A"
                 },
                 {
                     "name": "Les filles d'à côté [FR]",
@@ -265,6 +272,13 @@
                     "number": "4259",
                     "url": "https://jmp2.uk/stvp-CHBD200004J8",
                     "epgId": "CHBD200004J8"
+                },
+                {
+                    "name": "Génération Sitcoms [FR]",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD200003G1_20250916T003200SQUARE.png",
+                    "number": "4260",
+                    "url": "https://jmp2.uk/stvp-CHBD200003G1",
+                    "epgId": "CHBD200003G1"
                 },
                 {
                     "name": "Lindenstraße",
