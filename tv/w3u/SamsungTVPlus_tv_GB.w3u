@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 23/09/2025 00:15",
+    "author": "Actualizada 24/09/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -11,14 +11,14 @@
             "stations": [
                 {
                     "name": "Entertainment Hub",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20250902T003754SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20250923T010642SQUARE.png",
                     "number": "4001",
                     "url": "https://jmp2.uk/stvp-GBBC2300003ZQ",
                     "epgId": "GBBC2300003ZQ"
                 },
                 {
                     "name": "U&Laughs",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100003J5_20250107T030818SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100003J5_20250923T010453SQUARE.png",
                     "number": "4033",
                     "url": "https://jmp2.uk/stvp-GBBD3100003J5",
                     "epgId": "GBBD3100003J5"
@@ -199,7 +199,7 @@
             "stations": [
                 {
                     "name": "Come Dine With Me",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC9000062G_20250902T003747SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC9000062G_20250923T010437SQUARE.png",
                     "number": "4003",
                     "url": "https://jmp2.uk/stvp-GBBC9000062G",
                     "epgId": "GBBC9000062G"
@@ -213,7 +213,7 @@
                 },
                 {
                     "name": "America's Got Talent",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20250722T005726SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20250923T010434SQUARE.png",
                     "number": "4064",
                     "url": "https://jmp2.uk/stvp-GBBC2300002GG",
                     "epgId": "GBBC2300002GG"
@@ -338,7 +338,7 @@
             "stations": [
                 {
                     "name": "Heartland",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB5100001EW_20250902T003757SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB5100001EW_20250923T010440SQUARE.png",
                     "number": "4002",
                     "url": "https://jmp2.uk/stvp-GB5100001EW",
                     "epgId": "GB5100001EW"
@@ -380,7 +380,7 @@
                 },
                 {
                     "name": "Nashville",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB37000041H_20250307T151840SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB37000041H_20250923T010446SQUARE.png",
                     "number": "4238",
                     "url": "https://jmp2.uk/stvp-GB37000041H",
                     "epgId": "GB37000041H"
@@ -1199,7 +1199,7 @@
                 },
                 {
                     "name": "SMTOWN",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1000001G0_20250916T003233SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1000001G0_20250923T065326SQUARE.png",
                     "number": "4743",
                     "url": "https://jmp2.uk/stvp-GB1000001G0",
                     "epgId": "GB1000001G0"
@@ -1338,14 +1338,14 @@
                 },
                 {
                     "name": "Mr Bean Animated",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900003KR_20250107T031153SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900003KR_20250923T010443SQUARE.png",
                     "number": "4823",
                     "url": "https://jmp2.uk/stvp-GB900003KR",
                     "epgId": "GB900003KR"
                 },
                 {
                     "name": "Family - Rakuten TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600017PX_20250107T031119SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600017PX_20250923T010432SQUARE.png",
                     "number": "4842",
                     "url": "https://jmp2.uk/stvp-GB2600017PX",
                     "epgId": "GB2600017PX"
