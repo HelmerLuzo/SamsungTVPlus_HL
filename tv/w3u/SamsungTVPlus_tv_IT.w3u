@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 24/09/2025 00:15",
+    "author": "Actualizada 25/09/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -289,13 +289,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/News.png",
             "stations": [
                 {
-                    "name": "Urania News",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT50001295_20250923T010559SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-IT50001295",
-                    "epgId": "IT50001295"
-                },
-                {
                     "name": "Euronews IN DIRETTA",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600009QD_20250415T022338SQUARE.png",
                     "number": "4004",
@@ -310,11 +303,25 @@
                     "epgId": "ITBD1500002NL"
                 },
                 {
+                    "name": "Rai News 24",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200004WU_20250923T010552SQUARE.png",
+                    "number": "4553",
+                    "url": "https://jmp2.uk/stvp-IT3200004WU",
+                    "epgId": "IT3200004WU"
+                },
+                {
                     "name": "Giornale Radio TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB5000002N0_20250107T022423SQUARE.png",
                     "number": "4555",
                     "url": "https://jmp2.uk/stvp-ITBB5000002N0",
                     "epgId": "ITBB5000002N0"
+                },
+                {
+                    "name": "Urania News",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT50001295_20250923T010559SQUARE.png",
+                    "number": "4556",
+                    "url": "https://jmp2.uk/stvp-IT50001295",
+                    "epgId": "IT50001295"
                 },
                 {
                     "name": "3BMeteo",
@@ -635,11 +642,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serie TV.png",
             "stations": [
                 {
-                    "name": "Vita Da Strega",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2000003B8_20250923T010602SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-IT2000003B8",
-                    "epgId": "IT2000003B8"
+                    "name": "Soap Latino",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4600001JQ_20250923T010555SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-IT4600001JQ",
+                    "epgId": "IT4600001JQ"
+                },
+                {
+                    "name": "Baywatch",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1300001FA_20250923T010541SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-ITBD1300001FA",
+                    "epgId": "ITBD1300001FA"
                 },
                 {
                     "name": "H2O & Friends",
@@ -647,13 +661,6 @@
                     "number": "4216",
                     "url": "https://jmp2.uk/stvp-IT500007X2",
                     "epgId": "IT500007X2"
-                },
-                {
-                    "name": "WBTV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900012M7_20250923T010043SQUARE.png",
-                    "number": "4231",
-                    "url": "https://jmp2.uk/stvp-IT900012M7",
-                    "epgId": "IT900012M7"
                 },
                 {
                     "name": "BBC Series",
@@ -684,18 +691,18 @@
                     "epgId": "IT500003NO"
                 },
                 {
+                    "name": "Vita Da Strega",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2000003B8_20250923T010602SQUARE.png",
+                    "number": "4240",
+                    "url": "https://jmp2.uk/stvp-IT2000003B8",
+                    "epgId": "IT2000003B8"
+                },
+                {
                     "name": "Andromeda",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200003HL_20241022T051531SQUARE.png",
                     "number": "4241",
                     "url": "https://jmp2.uk/stvp-ITBD3200003HL",
                     "epgId": "ITBD3200003HL"
-                },
-                {
-                    "name": "Baywatch",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1300001FA_20250923T010541SQUARE.png",
-                    "number": "4245",
-                    "url": "https://jmp2.uk/stvp-ITBD1300001FA",
-                    "epgId": "ITBD1300001FA"
                 },
                 {
                     "name": "Mutant X",
@@ -747,11 +754,11 @@
                     "epgId": "IT300007SE"
                 },
                 {
-                    "name": "Soap Latino",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4600001JQ_20250923T010555SQUARE.png",
-                    "number": "4258",
-                    "url": "https://jmp2.uk/stvp-IT4600001JQ",
-                    "epgId": "IT4600001JQ"
+                    "name": "Mr Bean Animated",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900001A7_20250923T010547SQUARE.png",
+                    "number": "4260",
+                    "url": "https://jmp2.uk/stvp-IT900001A7",
+                    "epgId": "IT900001A7"
                 },
                 {
                     "name": "Soap Turco",
@@ -926,13 +933,6 @@
                     "epgId": "ITBD51000010V"
                 },
                 {
-                    "name": "Mr Bean Animated",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900001A7_20250923T010547SQUARE.png",
-                    "number": "4817",
-                    "url": "https://jmp2.uk/stvp-IT900001A7",
-                    "epgId": "IT900001A7"
-                },
-                {
                     "name": "Video Game Heroes",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT34000016N_20250326T013226SQUARE.png",
                     "number": "4819",
@@ -1029,11 +1029,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Cucina & Viaggi.png",
             "stations": [
                 {
-                    "name": "Per Caso TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2200009F9_20250923T010549SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-IT2200009F9",
-                    "epgId": "IT2200009F9"
+                    "name": "Gambero Rosso",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20250923T010544SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-IT500011RG",
+                    "epgId": "IT500011RG"
                 },
                 {
                     "name": "Hell's Kitchen",
@@ -1048,13 +1048,6 @@
                     "number": "4515",
                     "url": "https://jmp2.uk/stvp-ITBD4100007LO",
                     "epgId": "ITBD4100007LO"
-                },
-                {
-                    "name": "Gambero Rosso",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20250923T010544SQUARE.png",
-                    "number": "4516",
-                    "url": "https://jmp2.uk/stvp-IT500011RG",
-                    "epgId": "IT500011RG"
                 },
                 {
                     "name": "Viaggi & Sapori",
@@ -1076,6 +1069,13 @@
                     "number": "4525",
                     "url": "https://jmp2.uk/stvp-IT900003FU",
                     "epgId": "IT900003FU"
+                },
+                {
+                    "name": "Per Caso TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2200009F9_20250923T010549SQUARE.png",
+                    "number": "4526",
+                    "url": "https://jmp2.uk/stvp-IT2200009F9",
+                    "epgId": "IT2200009F9"
                 },
                 {
                     "name": "Brindiamo!",

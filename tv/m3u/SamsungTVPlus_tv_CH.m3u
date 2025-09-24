@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/ch.xml.gz"
+#EXTINF:-1 tvg-id="CH800001RT" tvg-name="CH800001RT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH800001RT_20250923T011307SQUARE.png" group-title="Entertainment" , H2O & Friends
+https://jmp2.uk/stvp-CH800001RT
 #EXTINF:-1 tvg-id="CHBD41000043H" tvg-name="CHBD41000043H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD41000043H_20250902T003510SQUARE.png" group-title="Entertainment" , Comedy Mix
 https://jmp2.uk/stvp-CHBD41000043H
 #EXTINF:-1 tvg-id="CH500002H2" tvg-name="CH500002H2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500002H2_20250107T031525SQUARE.png" group-title="Entertainment" , RMC Story
@@ -13,6 +15,8 @@ https://jmp2.uk/stvp-CHBD26000017A
 https://jmp2.uk/stvp-CHAJ700010NR
 #EXTINF:-1 tvg-id="CHAJ700002UB" tvg-name="CHAJ700002UB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ700002UB_20250107T025148SQUARE.png" group-title="Entertainment" , MTV Pluto TV
 https://jmp2.uk/stvp-CHAJ700002UB
+#EXTINF:-1 tvg-id="CH28000014U" tvg-name="CH28000014U" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH28000014U_20250923T010037SQUARE.png" group-title="Entertainment" , Big Brother Classics
+https://jmp2.uk/stvp-CH28000014U
 #EXTINF:-1 tvg-id="CHBB49000023B" tvg-name="CHBB49000023B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB49000023B_20250107T031539SQUARE.png" group-title="Entertainment" , Y'a que la vérité qui compte [FR]
 https://jmp2.uk/stvp-CHBB49000023B
 #EXTINF:-1 tvg-id="CH3200009XW" tvg-name="CH3200009XW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3200009XW_20250916T003520SQUARE.png" group-title="Entertainment" , Ladykracher
@@ -31,8 +35,6 @@ https://jmp2.uk/stvp-CHAJ32000026J
 https://jmp2.uk/stvp-CHBB49000054U
 #EXTINF:-1 tvg-id="CHBD2500001SY" tvg-name="CHBD2500001SY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2500001SY_20250107T025546SQUARE.png" group-title="Entertainment" , Out TV
 https://jmp2.uk/stvp-CHBD2500001SY
-#EXTINF:-1 tvg-id="CH800001RT" tvg-name="CH800001RT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH800001RT_20250923T011307SQUARE.png" group-title="Entertainment" , H2O & Friends
-https://jmp2.uk/stvp-CH800001RT
 #EXTINF:-1 tvg-id="CH220000164" tvg-name="CH220000164" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH220000164_20250729T044454SQUARE.png" group-title="Entertainment" , Fireplace Vibes
 https://jmp2.uk/stvp-CH220000164
 #EXTINF:-1 tvg-id="CHBD39000015L" tvg-name="CHBD39000015L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD39000015L_20250513T005202SQUARE.png" group-title="Anime" , Aniverse TV
@@ -45,12 +47,12 @@ https://jmp2.uk/stvp-CH700003RV
 https://jmp2.uk/stvp-CH230000401
 #EXTINF:-1 tvg-id="CHBD5100001EF" tvg-name="CHBD5100001EF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD5100001EF_20250107T025428SQUARE.png" group-title="Anime" , ADN [FR]
 https://jmp2.uk/stvp-CHBD5100001EF
-#EXTINF:-1 tvg-id="CH4600002VO" tvg-name="CH4600002VO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4600002VO_20250923T011313SQUARE.png" group-title="Serien" , Nashville
-https://jmp2.uk/stvp-CH4600002VO
-#EXTINF:-1 tvg-id="CH3700002YI" tvg-name="CH3700002YI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3700002YI_20250923T011310SQUARE.png" group-title="Serien" , Heartland
-https://jmp2.uk/stvp-CH3700002YI
 #EXTINF:-1 tvg-id="CHBD2600009ZC" tvg-name="CHBD2600009ZC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2600009ZC_20250923T011304SQUARE.png" group-title="Serien" , Baywatch
 https://jmp2.uk/stvp-CHBD2600009ZC
+#EXTINF:-1 tvg-id="CH3700002YI" tvg-name="CH3700002YI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3700002YI_20250923T011310SQUARE.png" group-title="Serien" , Heartland
+https://jmp2.uk/stvp-CH3700002YI
+#EXTINF:-1 tvg-id="CH4600002VO" tvg-name="CH4600002VO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4600002VO_20250923T011313SQUARE.png" group-title="Serien" , Nashville
+https://jmp2.uk/stvp-CH4600002VO
 #EXTINF:-1 tvg-id="CH48000025D" tvg-name="CH48000025D" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH48000025D_20250902T003520SQUARE.png" group-title="Serien" , Hudson & Rex
 https://jmp2.uk/stvp-CH48000025D
 #EXTINF:-1 tvg-id="CHBD27000011N" tvg-name="CHBD27000011N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD27000011N_20250701T033229SQUARE.png" group-title="Serien" , Zee One
@@ -77,10 +79,10 @@ https://jmp2.uk/stvp-CHBD200003G1
 https://jmp2.uk/stvp-CH4600001X9
 #EXTINF:-1 tvg-id="CHBC800006EP" tvg-name="CHBC800006EP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC800006EP_20250107T031503SQUARE.png" group-title="Serien" , Fréquence Novelas [FR]
 https://jmp2.uk/stvp-CHBC800006EP
-#EXTINF:-1 tvg-id="CH2600007IJ" tvg-name="CH2600007IJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2600007IJ_20250415T021609SQUARE.png" group-title="Crime" , Crime Serien - Rakuten TV
-https://jmp2.uk/stvp-CH2600007IJ
 #EXTINF:-1 tvg-id="CH300006UT" tvg-name="CH300006UT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH300006UT_20250923T011301SQUARE.png" group-title="Crime" , Alarm für Cobra 11 / Balko
 https://jmp2.uk/stvp-CH300006UT
+#EXTINF:-1 tvg-id="CH2600007IJ" tvg-name="CH2600007IJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2600007IJ_20250415T021609SQUARE.png" group-title="Crime" , Crime Serien - Rakuten TV
+https://jmp2.uk/stvp-CH2600007IJ
 #EXTINF:-1 tvg-id="CHBA3300026CA" tvg-name="CHBA3300026CA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300026CA_20250326T013159SQUARE.png" group-title="Crime" , Top Serien
 https://jmp2.uk/stvp-CHBA3300026CA
 #EXTINF:-1 tvg-id="CH330000132" tvg-name="CH330000132" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH330000132_20250107T031459SQUARE.png" group-title="Crime" , Faites entrer l'accusé [FR]
@@ -197,12 +199,12 @@ https://jmp2.uk/stvp-CHAJ7000057P
 https://jmp2.uk/stvp-CHBD2600010Q6
 #EXTINF:-1 tvg-id="CHAJ700006QR" tvg-name="CHAJ700006QR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ700006QR_20250107T025417SQUARE.png" group-title="Kids" , iCarly
 https://jmp2.uk/stvp-CHAJ700006QR
-#EXTINF:-1 tvg-id="CH26000056O" tvg-name="CH26000056O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH26000056O_20250923T011258SQUARE.png" group-title="Kids" , Family - Rakuten TV
-https://jmp2.uk/stvp-CH26000056O
 #EXTINF:-1 tvg-id="CHAJ700004GX" tvg-name="CHAJ700004GX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ700004GX_20250603T004837SQUARE.png" group-title="Kids" , Teen Nick
 https://jmp2.uk/stvp-CHAJ700004GX
 #EXTINF:-1 tvg-id="CHAJ700003CV" tvg-name="CHAJ700003CV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ700003CV_20250603T004835SQUARE.png" group-title="Kids" , Nickelodeon Toons
 https://jmp2.uk/stvp-CHAJ700003CV
+#EXTINF:-1 tvg-id="CH26000056O" tvg-name="CH26000056O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH26000056O_20250923T011258SQUARE.png" group-title="Filme" , 100% Weihnachten
+https://jmp2.uk/stvp-CH26000056O
 #EXTINF:-1 tvg-id="CHBA3300030AJ" tvg-name="CHBA3300030AJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300030AJ_20250117T134626SQUARE.png" group-title="Filme" , Moviedome Family
 https://jmp2.uk/stvp-CHBA3300030AJ
 #EXTINF:-1 tvg-id="CHBA330002991" tvg-name="CHBA330002991" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA330002991_20250527T015617SQUARE.png" group-title="Filme" , Moviedome

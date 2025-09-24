@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇨🇭 by HL",
-    "author": "Actualizada 24/09/2025 00:15",
+    "author": "Actualizada 25/09/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/ch.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/ch.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CH.w3u",
@@ -9,6 +9,13 @@
             "name": "Entertainment",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
+                {
+                    "name": "H2O & Friends",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH800001RT_20250923T011307SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-CH800001RT",
+                    "epgId": "CH800001RT"
+                },
                 {
                     "name": "Comedy Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD41000043H_20250902T003510SQUARE.png",
@@ -57,6 +64,13 @@
                     "number": "4077",
                     "url": "https://jmp2.uk/stvp-CHAJ700002UB",
                     "epgId": "CHAJ700002UB"
+                },
+                {
+                    "name": "Big Brother Classics",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH28000014U_20250923T010037SQUARE.png",
+                    "number": "4081",
+                    "url": "https://jmp2.uk/stvp-CH28000014U",
+                    "epgId": "CH28000014U"
                 },
                 {
                     "name": "Y'a que la vérité qui compte [FR]",
@@ -122,13 +136,6 @@
                     "epgId": "CHBD2500001SY"
                 },
                 {
-                    "name": "H2O & Friends",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH800001RT_20250923T011307SQUARE.png",
-                    "number": "4214",
-                    "url": "https://jmp2.uk/stvp-CH800001RT",
-                    "epgId": "CH800001RT"
-                },
-                {
                     "name": "Fireplace Vibes",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH220000164_20250729T044454SQUARE.png",
                     "number": "4219",
@@ -183,25 +190,25 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
                 {
-                    "name": "Nashville",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4600002VO_20250923T011313SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-CH4600002VO",
-                    "epgId": "CH4600002VO"
+                    "name": "Baywatch",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2600009ZC_20250923T011304SQUARE.png",
+                    "number": "4231",
+                    "url": "https://jmp2.uk/stvp-CHBD2600009ZC",
+                    "epgId": "CHBD2600009ZC"
                 },
                 {
                     "name": "Heartland",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3700002YI_20250923T011310SQUARE.png",
-                    "number": "4002",
+                    "number": "4232",
                     "url": "https://jmp2.uk/stvp-CH3700002YI",
                     "epgId": "CH3700002YI"
                 },
                 {
-                    "name": "Baywatch",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2600009ZC_20250923T011304SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-CHBD2600009ZC",
-                    "epgId": "CHBD2600009ZC"
+                    "name": "Nashville",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4600002VO_20250923T011313SQUARE.png",
+                    "number": "4233",
+                    "url": "https://jmp2.uk/stvp-CH4600002VO",
+                    "epgId": "CH4600002VO"
                 },
                 {
                     "name": "Hudson & Rex",
@@ -301,18 +308,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
+                    "name": "Alarm für Cobra 11 / Balko",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH300006UT_20250923T011301SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-CH300006UT",
+                    "epgId": "CH300006UT"
+                },
+                {
                     "name": "Crime Serien - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2600007IJ_20250415T021609SQUARE.png",
                     "number": "4005",
                     "url": "https://jmp2.uk/stvp-CH2600007IJ",
                     "epgId": "CH2600007IJ"
-                },
-                {
-                    "name": "Alarm für Cobra 11 / Balko",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH300006UT_20250923T011301SQUARE.png",
-                    "number": "4292",
-                    "url": "https://jmp2.uk/stvp-CH300006UT",
-                    "epgId": "CH300006UT"
                 },
                 {
                     "name": "Top Serien",
@@ -538,7 +545,7 @@
                 {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH20000288_20250923T011316SQUARE.png",
-                    "number": "4511",
+                    "number": "4003",
                     "url": "https://jmp2.uk/stvp-CH20000288",
                     "epgId": "CH20000288"
                 },
@@ -769,13 +776,6 @@
                     "epgId": "CHAJ700006QR"
                 },
                 {
-                    "name": "Family - Rakuten TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH26000056O_20250923T011258SQUARE.png",
-                    "number": "4825",
-                    "url": "https://jmp2.uk/stvp-CH26000056O",
-                    "epgId": "CH26000056O"
-                },
-                {
                     "name": "Teen Nick",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ700004GX_20250603T004837SQUARE.png",
                     "number": "4827",
@@ -795,6 +795,13 @@
             "name": "Filme",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Filme.png",
             "stations": [
+                {
+                    "name": "100% Weihnachten",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH26000056O_20250923T011258SQUARE.png",
+                    "number": "4852",
+                    "url": "https://jmp2.uk/stvp-CH26000056O",
+                    "epgId": "CH26000056O"
+                },
                 {
                     "name": "Moviedome Family",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300030AJ_20250117T134626SQUARE.png",
