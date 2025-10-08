@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇺🇸 by HL",
-    "author": "Actualizada 08/10/2025 00:15",
+    "author": "Actualizada 09/10/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/us.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_US.w3u",
@@ -177,13 +177,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Movies.png",
             "stations": [
                 {
-                    "name": "Movie Hub Romance",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20251006T225032SQUARE.png",
-                    "number": "1000",
-                    "url": "https://jmp2.uk/stvp-USBD3500033U0",
-                    "epgId": "USBD3500033U0"
-                },
-                {
                     "name": "Movie Hub",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20250923T020521SQUARE.png",
                     "number": "1200",
@@ -203,6 +196,13 @@
                     "number": "1204",
                     "url": "https://jmp2.uk/stvp-USBD3500032H0",
                     "epgId": "USBD3500032H0"
+                },
+                {
+                    "name": "Movie Hub Romance",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20251006T225032SQUARE.png",
+                    "number": "1206",
+                    "url": "https://jmp2.uk/stvp-USBD3500033U0",
+                    "epgId": "USBD3500033U0"
                 },
                 {
                     "name": "Hallmark Movies & More",
@@ -422,9 +422,16 @@
                 {
                     "name": "Samsung Television Network",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20251006T225037SQUARE.png",
-                    "number": "1004",
+                    "number": "1000",
                     "url": "https://jmp2.uk/stvp-US300068X7",
                     "epgId": "US300068X7"
+                },
+                {
+                    "name": "Dhar Mann TV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100005WS_20251006T225028SQUARE.png",
+                    "number": "1001",
+                    "url": "https://jmp2.uk/stvp-US2100005WS",
+                    "epgId": "US2100005WS"
                 },
                 {
                     "name": "ALL ACTION",
@@ -551,13 +558,6 @@
                     "number": "1567",
                     "url": "https://jmp2.uk/stvp-US4100005NW",
                     "epgId": "US4100005NW"
-                },
-                {
-                    "name": "Dhar Mann TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100005WS_20251006T225028SQUARE.png",
-                    "number": "1575",
-                    "url": "https://jmp2.uk/stvp-US2100005WS",
-                    "epgId": "US2100005WS"
                 },
                 {
                     "name": "Heartland",
@@ -852,13 +852,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality TV.png",
             "stations": [
                 {
-                    "name": "Dance Moms",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900021HS_20251006T225025SQUARE.png",
-                    "number": "1003",
-                    "url": "https://jmp2.uk/stvp-USBC3900021HS",
-                    "epgId": "USBC3900021HS"
-                },
-                {
                     "name": "All-Out Reality",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20250714T223122SQUARE.png",
                     "number": "1904",
@@ -885,6 +878,13 @@
                     "number": "1910",
                     "url": "https://jmp2.uk/stvp-USBD170000771",
                     "epgId": "USBD170000771"
+                },
+                {
+                    "name": "Dance Moms",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900021HS_20251006T225025SQUARE.png",
+                    "number": "1912",
+                    "url": "https://jmp2.uk/stvp-USBC3900021HS",
+                    "epgId": "USBC3900021HS"
                 },
                 {
                     "name": "E! Keeping Up",
@@ -1674,13 +1674,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Comedy.png",
             "stations": [
                 {
-                    "name": "Conan O'Brien TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20251006T225022SQUARE.png",
-                    "number": "1001",
-                    "url": "https://jmp2.uk/stvp-USBD120001614",
-                    "epgId": "USBD120001614"
-                },
-                {
                     "name": "Animation+",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20250902T225851SQUARE.png",
                     "number": "2605",
@@ -1693,6 +1686,13 @@
                     "number": "2615",
                     "url": "https://jmp2.uk/stvp-US4000004N1",
                     "epgId": "US4000004N1"
+                },
+                {
+                    "name": "Conan O'Brien TV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20251006T225022SQUARE.png",
+                    "number": "2620",
+                    "url": "https://jmp2.uk/stvp-USBD120001614",
+                    "epgId": "USBD120001614"
                 },
                 {
                     "name": "Hot Ones",
@@ -1883,6 +1883,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality Competition.png",
             "stations": [
                 {
+                    "name": "Pawn Stars",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300003S3_20251006T225034SQUARE.png",
+                    "number": "1003",
+                    "url": "https://jmp2.uk/stvp-US300003S3",
+                    "epgId": "US300003S3"
+                },
+                {
                     "name": "Hell's Kitchen",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900002Z7_20250610T001038SQUARE.png",
                     "number": "2704",
@@ -1895,13 +1902,6 @@
                     "number": "2712",
                     "url": "https://jmp2.uk/stvp-USBD1700006T2",
                     "epgId": "USBD1700006T2"
-                },
-                {
-                    "name": "Pawn Stars",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300003S3_20251006T225034SQUARE.png",
-                    "number": "2714",
-                    "url": "https://jmp2.uk/stvp-US300003S3",
-                    "epgId": "US300003S3"
                 },
                 {
                     "name": "Wipeout Xtra",
@@ -2056,11 +2056,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Lifestyle & Pop Culture.png",
             "stations": [
                 {
-                    "name": "In Depth with Graham Bensinger",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600024EO_20251006T225030SQUARE.png",
-                    "number": "1002",
-                    "url": "https://jmp2.uk/stvp-US2600024EO",
-                    "epgId": "US2600024EO"
+                    "name": "Billboard TV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1300003SW_20251006T225018SQUARE.png",
+                    "number": "1004",
+                    "url": "https://jmp2.uk/stvp-US1300003SW",
+                    "epgId": "US1300003SW"
                 },
                 {
                     "name": "Biography: The Icons",
@@ -2075,6 +2075,13 @@
                     "number": "2904",
                     "url": "https://jmp2.uk/stvp-US700005ID",
                     "epgId": "US700005ID"
+                },
+                {
+                    "name": "In Depth with Graham Bensinger",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600024EO_20251006T225030SQUARE.png",
+                    "number": "2907",
+                    "url": "https://jmp2.uk/stvp-US2600024EO",
+                    "epgId": "US2600024EO"
                 },
                 {
                     "name": "The Bob Ross Channel",
@@ -2145,13 +2152,6 @@
                     "number": "2942",
                     "url": "https://jmp2.uk/stvp-USBC10000129R",
                     "epgId": "USBC10000129R"
-                },
-                {
-                    "name": "Billboard TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1300003SW_20251006T225018SQUARE.png",
-                    "number": "2944",
-                    "url": "https://jmp2.uk/stvp-US1300003SW",
-                    "epgId": "US1300003SW"
                 },
                 {
                     "name": "Documentary+",
@@ -2334,6 +2334,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Anime & Gaming.png",
             "stations": [
                 {
+                    "name": "BizaarTV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1700027JI_20251006T225020SQUARE.png",
+                    "number": "1002",
+                    "url": "https://jmp2.uk/stvp-US1700027JI",
+                    "epgId": "US1700027JI"
+                },
+                {
                     "name": "It’s Anime",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US11000020V_20250714T223132SQUARE.png",
                     "number": "3202",
@@ -2353,13 +2360,6 @@
                     "number": "3207",
                     "url": "https://jmp2.uk/stvp-USBC36000073J",
                     "epgId": "USBC36000073J"
-                },
-                {
-                    "name": "BizaarTV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1700027JI_20251006T225020SQUARE.png",
-                    "number": "3208",
-                    "url": "https://jmp2.uk/stvp-US1700027JI",
-                    "epgId": "US1700027JI"
                 },
                 {
                     "name": "FilmRise Anime",
