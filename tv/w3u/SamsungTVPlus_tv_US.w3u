@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇺🇸 by HL",
-    "author": "Actualizada 17/10/2025 00:15",
+    "author": "Actualizada 18/10/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/us.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_US.w3u",
@@ -178,8 +178,8 @@
             "stations": [
                 {
                     "name": "Movie Hub",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20250923T020521SQUARE.png",
-                    "number": "1200",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20251017T161824SQUARE.png",
+                    "number": "1001",
                     "url": "https://jmp2.uk/stvp-USBA3000041ZP",
                     "epgId": "USBA3000041ZP"
                 },
@@ -308,13 +308,6 @@
                     "number": "1285",
                     "url": "https://jmp2.uk/stvp-USAJ3000007MT",
                     "epgId": "USAJ3000007MT"
-                },
-                {
-                    "name": "Halloween Movies!",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3200011IH_20251013T235712SQUARE.png",
-                    "number": "3002",
-                    "url": "https://jmp2.uk/stvp-US3200011IH",
-                    "epgId": "US3200011IH"
                 }
             ]
         },
@@ -420,6 +413,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Action & Drama.png",
             "stations": [
                 {
+                    "name": "ION",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300002TU_20251017T161836SQUARE.png",
+                    "number": "1000",
+                    "url": "https://jmp2.uk/stvp-USBD300002TU",
+                    "epgId": "USBD300002TU"
+                },
+                {
                     "name": "Samsung Television Network",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20251013T235723SQUARE.png",
                     "number": "1004",
@@ -432,13 +432,6 @@
                     "number": "1505",
                     "url": "https://jmp2.uk/stvp-USBB2300001QP",
                     "epgId": "USBB2300001QP"
-                },
-                {
-                    "name": "ION",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300002TU_20250623T224714SQUARE.png",
-                    "number": "1510",
-                    "url": "https://jmp2.uk/stvp-USBD300002TU",
-                    "epgId": "USBD300002TU"
                 },
                 {
                     "name": "ION Plus",
@@ -1702,13 +1695,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Comedy.png",
             "stations": [
                 {
-                    "name": "Smosh",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100007V7_20251013T235726SQUARE.png",
-                    "number": "1001",
-                    "url": "https://jmp2.uk/stvp-US2100007V7",
-                    "epgId": "US2100007V7"
-                },
-                {
                     "name": "Animation+",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20250902T225851SQUARE.png",
                     "number": "2605",
@@ -1735,6 +1721,13 @@
                     "number": "2622",
                     "url": "https://jmp2.uk/stvp-US2900006IV",
                     "epgId": "US2900006IV"
+                },
+                {
+                    "name": "Smosh",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100007V7_20251017T161839SQUARE.png",
+                    "number": "2623",
+                    "url": "https://jmp2.uk/stvp-US2100007V7",
+                    "epgId": "US2100007V7"
                 },
                 {
                     "name": "The Try Guys",
@@ -2251,9 +2244,16 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sci-Fi & Horror.png",
             "stations": [
                 {
+                    "name": "Halloween Movies!",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3200011IH_20251017T161831SQUARE.png",
+                    "number": "3002",
+                    "url": "https://jmp2.uk/stvp-US3200011IH",
+                    "epgId": "US3200011IH"
+                },
+                {
                     "name": "Fear Zone",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20251013T235709SQUARE.png",
-                    "number": "1000",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20251017T161833SQUARE.png",
+                    "number": "3005",
                     "url": "https://jmp2.uk/stvp-USBC1300012VK",
                     "epgId": "USBC1300012VK"
                 },
