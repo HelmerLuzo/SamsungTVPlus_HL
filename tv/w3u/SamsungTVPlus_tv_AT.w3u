@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇦🇹 by HL",
-    "author": "Actualizada 29/10/2025 00:15",
+    "author": "Actualizada 30/10/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/at.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/at.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_AT.w3u",
@@ -10,16 +10,9 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
                 {
-                    "name": "Hochzeit auf den ersten Blick",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT48000012I_20251028T011131SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-AT48000012I",
-                    "epgId": "AT48000012I"
-                },
-                {
                     "name": "Comedy Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD41000046O_20251028T011126SQUARE.png",
-                    "number": "4007",
+                    "number": "4001",
                     "url": "https://jmp2.uk/stvp-ATBD41000046O",
                     "epgId": "ATBD41000046O"
                 },
@@ -29,6 +22,13 @@
                     "number": "4009",
                     "url": "https://jmp2.uk/stvp-ATBD3700001EH",
                     "epgId": "ATBD3700001EH"
+                },
+                {
+                    "name": "Hochzeit auf den ersten Blick",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT48000012I_20251028T011131SQUARE.png",
+                    "number": "4069",
+                    "url": "https://jmp2.uk/stvp-AT48000012I",
+                    "epgId": "AT48000012I"
                 },
                 {
                     "name": "Hell's Kitchen",
@@ -183,6 +183,20 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
                 {
+                    "name": "Heartland",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3700002Z3_20251028T011129SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-AT3700002Z3",
+                    "epgId": "AT3700002Z3"
+                },
+                {
+                    "name": "Hudson & Rex",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20251028T011134SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-AT4800002G5",
+                    "epgId": "AT4800002G5"
+                },
+                {
                     "name": "Baywatch",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600008HN_20250923T011200SQUARE.png",
                     "number": "4231",
@@ -190,25 +204,11 @@
                     "epgId": "ATBD2600008HN"
                 },
                 {
-                    "name": "Heartland",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3700002Z3_20251028T011129SQUARE.png",
-                    "number": "4232",
-                    "url": "https://jmp2.uk/stvp-AT3700002Z3",
-                    "epgId": "AT3700002Z3"
-                },
-                {
                     "name": "Nashville",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4600003EY_20251013T053817SQUARE.png",
                     "number": "4233",
                     "url": "https://jmp2.uk/stvp-AT4600003EY",
                     "epgId": "AT4600003EY"
-                },
-                {
-                    "name": "Hudson & Rex",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20251028T011134SQUARE.png",
-                    "number": "4234",
-                    "url": "https://jmp2.uk/stvp-AT4800002G5",
-                    "epgId": "AT4800002G5"
                 },
                 {
                     "name": "AMC Stories",
@@ -397,13 +397,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
-                    "name": "Wilder Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300031VR_20251028T011123SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-ATBA3300031VR",
-                    "epgId": "ATBA3300031VR"
-                },
-                {
                     "name": "The Wicked Tuna Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC3900001W3_20250107T022235SQUARE.png",
                     "number": "4352",
@@ -474,6 +467,13 @@
                     "epgId": "ATAK3504503A"
                 },
                 {
+                    "name": "Wilder Planet",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300031VR_20251028T011123SQUARE.png",
+                    "number": "4486",
+                    "url": "https://jmp2.uk/stvp-ATBA3300031VR",
+                    "epgId": "ATBA3300031VR"
+                },
+                {
                     "name": "One Terra",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1500021SL_20250107T021810SQUARE.png",
                     "number": "4490",
@@ -517,7 +517,7 @@
                 {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2000029T_20251028T011136SQUARE.png",
-                    "number": "4003",
+                    "number": "4511",
                     "url": "https://jmp2.uk/stvp-AT2000029T",
                     "epgId": "AT2000029T"
                 },

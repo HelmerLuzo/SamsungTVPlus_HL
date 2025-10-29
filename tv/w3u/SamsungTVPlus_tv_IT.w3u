@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 29/10/2025 00:15",
+    "author": "Actualizada 30/10/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -17,6 +17,13 @@
                     "epgId": "ITBA3300024IU"
                 },
                 {
+                    "name": "Brividy Cinema",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD600001CL_20251028T010418SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-ITBD600001CL",
+                    "epgId": "ITBD600001CL"
+                },
+                {
                     "name": "Film Top - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600002F6_20250415T022347SQUARE.png",
                     "number": "4005",
@@ -24,7 +31,14 @@
                     "epgId": "IT2600002F6"
                 },
                 {
-                    "name": "Comicità piccante",
+                    "name": "100% Natale - Rakuten TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600010E0_20251028T011520SQUARE.png",
+                    "number": "4852",
+                    "url": "https://jmp2.uk/stvp-IT2600010E0",
+                    "epgId": "IT2600010E0"
+                },
+                {
+                    "name": "Cinema italiano",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000238E_20251028T011515SQUARE.png",
                     "number": "4868",
                     "url": "https://jmp2.uk/stvp-ITBA33000238E",
@@ -66,11 +80,11 @@
                     "epgId": "ITAJ38000055E"
                 },
                 {
-                    "name": "Brividy Cinema",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD600001CL_20251028T010418SQUARE.png",
-                    "number": "4880",
-                    "url": "https://jmp2.uk/stvp-ITBD600001CL",
-                    "epgId": "ITBD600001CL"
+                    "name": "Cine Natale",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20251028T010422SQUARE.png",
+                    "number": "4884",
+                    "url": "https://jmp2.uk/stvp-IT3800001XM",
+                    "epgId": "IT3800001XM"
                 },
                 {
                     "name": "Film Al Femminile - Wedo Movies",
@@ -289,11 +303,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/News.png",
             "stations": [
                 {
-                    "name": "Urania News",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT50001295_20251028T010433SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-IT50001295",
-                    "epgId": "IT50001295"
+                    "name": "Rai News 24",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200004WU_20251028T010426SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-IT3200004WU",
+                    "epgId": "IT3200004WU"
                 },
                 {
                     "name": "Euronews IN DIRETTA",
@@ -310,18 +324,18 @@
                     "epgId": "ITBD1500002NL"
                 },
                 {
-                    "name": "Rai News 24",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200004WU_20251028T010426SQUARE.png",
-                    "number": "4553",
-                    "url": "https://jmp2.uk/stvp-IT3200004WU",
-                    "epgId": "IT3200004WU"
-                },
-                {
                     "name": "Giornale Radio TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB5000002N0_20250107T022423SQUARE.png",
                     "number": "4555",
                     "url": "https://jmp2.uk/stvp-ITBB5000002N0",
                     "epgId": "ITBB5000002N0"
+                },
+                {
+                    "name": "Urania News",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT50001295_20251028T010433SQUARE.png",
+                    "number": "4556",
+                    "url": "https://jmp2.uk/stvp-IT50001295",
+                    "epgId": "IT50001295"
                 },
                 {
                     "name": "3BMeteo",
@@ -552,13 +566,6 @@
                     "epgId": "IT600001L6"
                 },
                 {
-                    "name": "Sailing Channel",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD31000021A_20251028T010415SQUARE.png",
-                    "number": "4623",
-                    "url": "https://jmp2.uk/stvp-ITBD31000021A",
-                    "epgId": "ITBD31000021A"
-                },
-                {
                     "name": "Golf Television",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4200001D8_20250513T010712SQUARE.png",
                     "number": "4625",
@@ -642,20 +649,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serie TV.png",
             "stations": [
                 {
-                    "name": "Soap Turco",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600007QQ_20251028T010429SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-IT3600007QQ",
-                    "epgId": "IT3600007QQ"
-                },
-                {
-                    "name": "H2O & Friends",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500007X2_20251028T011525SQUARE.png",
-                    "number": "4216",
-                    "url": "https://jmp2.uk/stvp-IT500007X2",
-                    "epgId": "IT500007X2"
-                },
-                {
                     "name": "BBC Series",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2900001B5_20250916T003606SQUARE.png",
                     "number": "4233",
@@ -689,6 +682,13 @@
                     "number": "4241",
                     "url": "https://jmp2.uk/stvp-ITBD3200003HL",
                     "epgId": "ITBD3200003HL"
+                },
+                {
+                    "name": "H2O & Friends",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500007X2_20251028T011525SQUARE.png",
+                    "number": "4244",
+                    "url": "https://jmp2.uk/stvp-IT500007X2",
+                    "epgId": "IT500007X2"
                 },
                 {
                     "name": "Baywatch",
@@ -766,6 +766,13 @@
                     "number": "4260",
                     "url": "https://jmp2.uk/stvp-IT900001A7",
                     "epgId": "IT900001A7"
+                },
+                {
+                    "name": "Soap Turco",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600007QQ_20251028T010429SQUARE.png",
+                    "number": "4266",
+                    "url": "https://jmp2.uk/stvp-IT3600007QQ",
+                    "epgId": "IT3600007QQ"
                 },
                 {
                     "name": "Anche i ricchi piangono",
@@ -863,13 +870,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Bambini.png",
             "stations": [
                 {
-                    "name": "DeAPlaneta Kids",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200007SZ_20251028T011522SQUARE.png",
-                    "number": "4007",
-                    "url": "https://jmp2.uk/stvp-ITBD3200007SZ",
-                    "epgId": "ITBD3200007SZ"
-                },
-                {
                     "name": "Teletubbies",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT480000143_20250819T032309SQUARE.png",
                     "number": "4772",
@@ -889,6 +889,13 @@
                     "number": "4776",
                     "url": "https://jmp2.uk/stvp-ITBC4700001E6",
                     "epgId": "ITBC4700001E6"
+                },
+                {
+                    "name": "DeAPlaneta Kids",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200007SZ_20251028T011522SQUARE.png",
+                    "number": "4778",
+                    "url": "https://jmp2.uk/stvp-ITBD3200007SZ",
+                    "epgId": "ITBD3200007SZ"
                 },
                 {
                     "name": "Pocoyo",
@@ -959,13 +966,6 @@
                     "number": "4834",
                     "url": "https://jmp2.uk/stvp-ITAJ380000343",
                     "epgId": "ITAJ380000343"
-                },
-                {
-                    "name": "Family - Rakuten TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600010E0_20251028T011520SQUARE.png",
-                    "number": "4848",
-                    "url": "https://jmp2.uk/stvp-IT2600010E0",
-                    "epgId": "IT2600010E0"
                 }
             ]
         },
@@ -1112,6 +1112,13 @@
                     "epgId": "ITBC210000200"
                 },
                 {
+                    "name": "Vevo Natale",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3500001Q6_20251028T010436SQUARE.png",
+                    "number": "4690",
+                    "url": "https://jmp2.uk/stvp-IT3500001Q6",
+                    "epgId": "IT3500001Q6"
+                },
+                {
                     "name": "Trace Urban",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300041LY_20241022T043644SQUARE.png",
                     "number": "4705",
@@ -1131,6 +1138,20 @@
                     "number": "4723",
                     "url": "https://jmp2.uk/stvp-IT39000028R",
                     "epgId": "IT39000028R"
+                },
+                {
+                    "name": "NEW KPOP",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1700002R5_20251028T011527SQUARE.png",
+                    "number": "4724",
+                    "url": "https://jmp2.uk/stvp-IT1700002R5",
+                    "epgId": "IT1700002R5"
+                },
+                {
+                    "name": "SMTOWN",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1000001YA_20251028T011530SQUARE.png",
+                    "number": "4726",
+                    "url": "https://jmp2.uk/stvp-IT1000001YA",
+                    "epgId": "IT1000001YA"
                 },
                 {
                     "name": "Cool Summer Channel",
@@ -1166,20 +1187,6 @@
                     "number": "4748",
                     "url": "https://jmp2.uk/stvp-ITBC11000108G",
                     "epgId": "ITBC11000108G"
-                },
-                {
-                    "name": "NEW KPOP",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1700002R5_20251028T011527SQUARE.png",
-                    "number": "4749",
-                    "url": "https://jmp2.uk/stvp-IT1700002R5",
-                    "epgId": "IT1700002R5"
-                },
-                {
-                    "name": "SMTOWN",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1000001YA_20251028T011530SQUARE.png",
-                    "number": "4751",
-                    "url": "https://jmp2.uk/stvp-IT1000001YA",
-                    "epgId": "IT1000001YA"
                 },
                 {
                     "name": "Deluxe Lounge HD",

@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇩🇪 by HL",
-    "author": "Actualizada 29/10/2025 00:15",
+    "author": "Actualizada 30/10/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
@@ -10,11 +10,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
                 {
-                    "name": "Comedy Mix",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000002Z5_20251028T011231SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-DEBC3000002Z5",
-                    "epgId": "DEBC3000002Z5"
+                    "name": "Hochzeit auf den ersten Blick",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800003M6_20251028T011234SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-DE4800003M6",
+                    "epgId": "DE4800003M6"
                 },
                 {
                     "name": "Entertainment Mix",
@@ -22,6 +22,13 @@
                     "number": "4007",
                     "url": "https://jmp2.uk/stvp-DEBC4700002Z2",
                     "epgId": "DEBC4700002Z2"
+                },
+                {
+                    "name": "Comedy Mix",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000002Z5_20251028T011231SQUARE.png",
+                    "number": "4008",
+                    "url": "https://jmp2.uk/stvp-DEBC3000002Z5",
+                    "epgId": "DEBC3000002Z5"
                 },
                 {
                     "name": "X-MAS Mix",
@@ -36,13 +43,6 @@
                     "number": "4063",
                     "url": "https://jmp2.uk/stvp-DEBD30000014M",
                     "epgId": "DEBD30000014M"
-                },
-                {
-                    "name": "Hochzeit auf den ersten Blick",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800003M6_20251028T011234SQUARE.png",
-                    "number": "4069",
-                    "url": "https://jmp2.uk/stvp-DE4800003M6",
-                    "epgId": "DE4800003M6"
                 },
                 {
                     "name": "Hell's Kitchen",
@@ -204,6 +204,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
                 {
+                    "name": "Hudson & Rex",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800002GM_20251028T011237SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-DE4800002GM",
+                    "epgId": "DE4800002GM"
+                },
+                {
                     "name": "Baywatch",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD26000020X_20250923T011354SQUARE.png",
                     "number": "4231",
@@ -223,13 +230,6 @@
                     "number": "4233",
                     "url": "https://jmp2.uk/stvp-DE4600001CD",
                     "epgId": "DE4600001CD"
-                },
-                {
-                    "name": "Hudson & Rex",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800002GM_20251028T011237SQUARE.png",
-                    "number": "4234",
-                    "url": "https://jmp2.uk/stvp-DE4800002GM",
-                    "epgId": "DE4800002GM"
                 },
                 {
                     "name": "AMC Stories",
@@ -481,13 +481,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
-                    "name": "Wilder Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20251028T011226SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-DEBA3300042XG",
-                    "epgId": "DEBA3300042XG"
-                },
-                {
                     "name": "The Wicked Tuna Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC220000422_20250107T024428SQUARE.png",
                     "number": "4352",
@@ -572,6 +565,13 @@
                     "epgId": "DEAK3504506A"
                 },
                 {
+                    "name": "Wilder Planet",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20251028T011226SQUARE.png",
+                    "number": "4486",
+                    "url": "https://jmp2.uk/stvp-DEBA3300042XG",
+                    "epgId": "DEBA3300042XG"
+                },
+                {
                     "name": "BBC Earth",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png",
                     "number": "4488",
@@ -627,18 +627,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Food & Travel.png",
             "stations": [
                 {
-                    "name": "The Jamie Oliver Channel",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20251028T011239SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-DE200003PX",
-                    "epgId": "DE200003PX"
-                },
-                {
                     "name": "ZDF kocht!",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700002HO_20251028T011244SQUARE.png",
-                    "number": "4515",
+                    "number": "4002",
                     "url": "https://jmp2.uk/stvp-DEBD3700002HO",
                     "epgId": "DEBD3700002HO"
+                },
+                {
+                    "name": "The Jamie Oliver Channel",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20251028T011239SQUARE.png",
+                    "number": "4511",
+                    "url": "https://jmp2.uk/stvp-DE200003PX",
+                    "epgId": "DE200003PX"
                 },
                 {
                     "name": "BBC Food",
@@ -839,6 +839,13 @@
                     "number": "4684",
                     "url": "https://jmp2.uk/stvp-DEBC21000022L",
                     "epgId": "DEBC21000022L"
+                },
+                {
+                    "name": "Vevo Weihnachten",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3500002C4_20251028T011242SQUARE.png",
+                    "number": "4686",
+                    "url": "https://jmp2.uk/stvp-DE3500002C4",
+                    "epgId": "DE3500002C4"
                 },
                 {
                     "name": "DELUXE RAP",

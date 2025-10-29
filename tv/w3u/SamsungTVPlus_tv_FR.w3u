@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇫🇷 by HL",
-    "author": "Actualizada 29/10/2025 00:15",
+    "author": "Actualizada 30/10/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/fr.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/fr.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_FR.w3u",
@@ -238,20 +238,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Séries TV.png",
             "stations": [
                 {
-                    "name": "Mr Bean Animated",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR90000160_20251028T011422SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-FR90000160",
-                    "epgId": "FR90000160"
-                },
-                {
-                    "name": "Alerte à Malibu",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700002RF_20251028T011415SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-FRBC4700002RF",
-                    "epgId": "FRBC4700002RF"
-                },
-                {
                     "name": "Plus belle la vie",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD37000020Y_20250415T020906SQUARE.png",
                     "number": "4007",
@@ -285,6 +271,13 @@
                     "number": "4239",
                     "url": "https://jmp2.uk/stvp-FR2900001UF",
                     "epgId": "FR2900001UF"
+                },
+                {
+                    "name": "Alerte à Malibu",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700002RF_20251028T011415SQUARE.png",
+                    "number": "4242",
+                    "url": "https://jmp2.uk/stvp-FRBC4700002RF",
+                    "epgId": "FRBC4700002RF"
                 },
                 {
                     "name": "Rookie Blue",
@@ -341,6 +334,13 @@
                     "number": "4257",
                     "url": "https://jmp2.uk/stvp-FRBD41000124S",
                     "epgId": "FRBD41000124S"
+                },
+                {
+                    "name": "Mr Bean Animated",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR90000160_20251028T011422SQUARE.png",
+                    "number": "4260",
+                    "url": "https://jmp2.uk/stvp-FR90000160",
+                    "epgId": "FR90000160"
                 },
                 {
                     "name": "Fréquence Novelas",
@@ -400,7 +400,7 @@
                 {
                     "name": "Faites entrer l'accusé",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400002XF_20251028T011420SQUARE.png",
-                    "number": "4293",
+                    "number": "4001",
                     "url": "https://jmp2.uk/stvp-FR1400002XF",
                     "epgId": "FR1400002XF"
                 },
@@ -737,13 +737,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sports.png",
             "stations": [
                 {
-                    "name": "FIFA+",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300037Y7_20251028T011417SQUARE.png",
-                    "number": "4006",
-                    "url": "https://jmp2.uk/stvp-FRBA3300037Y7",
-                    "epgId": "FRBA3300037Y7"
-                },
-                {
                     "name": "L'Equipe",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR200016Y5_20250422T103213SQUARE.png",
                     "number": "4604",
@@ -777,6 +770,13 @@
                     "number": "4632",
                     "url": "https://jmp2.uk/stvp-FR1100002RF",
                     "epgId": "FR1100002RF"
+                },
+                {
+                    "name": "FIFA+",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300037Y7_20251028T011417SQUARE.png",
+                    "number": "4633",
+                    "url": "https://jmp2.uk/stvp-FRBA3300037Y7",
+                    "epgId": "FRBA3300037Y7"
                 },
                 {
                     "name": "RMC MECANIC",
@@ -819,6 +819,13 @@
             "name": "Musique",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Musique.png",
             "stations": [
+                {
+                    "name": "Vevo Noël",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3500001PK_20251028T011429SQUARE.png",
+                    "number": "4010",
+                    "url": "https://jmp2.uk/stvp-FR3500001PK",
+                    "epgId": "FR3500001PK"
+                },
                 {
                     "name": "Vevo Pop",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100001YY_20241015T040412SQUARE.png",
@@ -882,6 +889,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Jeunesse.png",
             "stations": [
                 {
+                    "name": "Pocoyo",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700001VJ_20251028T011424SQUARE.png",
+                    "number": "4006",
+                    "url": "https://jmp2.uk/stvp-FR700001VJ",
+                    "epgId": "FR700001VJ"
+                },
+                {
                     "name": "Caillou",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4800002NE_20250121T012923SQUARE.png",
                     "number": "4775",
@@ -894,13 +908,6 @@
                     "number": "4777",
                     "url": "https://jmp2.uk/stvp-FR5000001UH",
                     "epgId": "FR5000001UH"
-                },
-                {
-                    "name": "Pocoyo",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700001VJ_20251028T011424SQUARE.png",
-                    "number": "4779",
-                    "url": "https://jmp2.uk/stvp-FR700001VJ",
-                    "epgId": "FR700001VJ"
                 },
                 {
                     "name": "Garfield",
@@ -971,13 +978,6 @@
                     "number": "4825",
                     "url": "https://jmp2.uk/stvp-FRAJ38000061J",
                     "epgId": "FRAJ38000061J"
-                },
-                {
-                    "name": "Famille - Rakuten TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20251028T011452SQUARE.png",
-                    "number": "4827",
-                    "url": "https://jmp2.uk/stvp-FR2600001PI",
-                    "epgId": "FR2600001PI"
                 }
             ]
         },
@@ -986,6 +986,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Cinéma.png",
             "stations": [
                 {
+                    "name": "Scream'IN",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600002K5_20251028T011427SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-FRBB4600002K5",
+                    "epgId": "FRBB4600002K5"
+                },
+                {
                     "name": "Top Films - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600007CB_20250415T020909SQUARE.png",
                     "number": "4005",
@@ -993,11 +1000,11 @@
                     "epgId": "FR2600007CB"
                 },
                 {
-                    "name": "Box Office Thriller",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20251028T011454SQUARE.png",
-                    "number": "4856",
-                    "url": "https://jmp2.uk/stvp-FR3700001AG",
-                    "epgId": "FR3700001AG"
+                    "name": "100% Noël - Rakuten TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20251028T011452SQUARE.png",
+                    "number": "4852",
+                    "url": "https://jmp2.uk/stvp-FR2600001PI",
+                    "epgId": "FR2600001PI"
                 },
                 {
                     "name": "Family Club",
@@ -1112,18 +1119,18 @@
                     "epgId": "FRBD19000095S"
                 },
                 {
-                    "name": "Scream'IN",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600002K5_20251028T011427SQUARE.png",
-                    "number": "4949",
-                    "url": "https://jmp2.uk/stvp-FRBB4600002K5",
-                    "epgId": "FRBB4600002K5"
-                },
-                {
                     "name": "Box Office Drama",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700003N4_20250610T011321SQUARE.png",
                     "number": "4961",
                     "url": "https://jmp2.uk/stvp-FR3700003N4",
                     "epgId": "FR3700003N4"
+                },
+                {
+                    "name": "Box Office Thriller",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20251028T011454SQUARE.png",
+                    "number": "4964",
+                    "url": "https://jmp2.uk/stvp-FR3700001AG",
+                    "epgId": "FR3700001AG"
                 },
                 {
                     "name": "Shadowz",

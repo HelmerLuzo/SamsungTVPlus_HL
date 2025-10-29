@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇪🇸 by HL",
-    "author": "Actualizada 29/10/2025 00:15",
+    "author": "Actualizada 30/10/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/es.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -163,13 +163,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serie.png",
             "stations": [
                 {
-                    "name": "Baywatch – Los Vigilantes de la Playa",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20251028T011342SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-ESBD1300001EP",
-                    "epgId": "ESBD1300001EP"
-                },
-                {
                     "name": "Cuéntame cómo pasó",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20251013T053438SQUARE.png",
                     "number": "4006",
@@ -182,6 +175,13 @@
                     "number": "4235",
                     "url": "https://jmp2.uk/stvp-ES3300006QL",
                     "epgId": "ES3300006QL"
+                },
+                {
+                    "name": "Baywatch – Los Vigilantes de la Playa",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20251028T011342SQUARE.png",
+                    "number": "4237",
+                    "url": "https://jmp2.uk/stvp-ESBD1300001EP",
+                    "epgId": "ESBD1300001EP"
                 },
                 {
                     "name": "FreeTV Estelar",
@@ -447,13 +447,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Deporte.png",
             "stations": [
                 {
-                    "name": "FIFA+",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20251028T011349SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-ESBC2700009B4",
-                    "epgId": "ESBC2700009B4"
-                },
-                {
                     "name": "Tennis Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20250923T011606SQUARE.png",
                     "number": "4603",
@@ -501,6 +494,13 @@
                     "number": "4640",
                     "url": "https://jmp2.uk/stvp-ES300031A5",
                     "epgId": "ES300031A5"
+                },
+                {
+                    "name": "FIFA+",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20251028T011349SQUARE.png",
+                    "number": "4641",
+                    "url": "https://jmp2.uk/stvp-ESBC2700009B4",
+                    "epgId": "ESBC2700009B4"
                 },
                 {
                     "name": "Motorvision",
@@ -661,13 +661,6 @@
                     "number": "4823",
                     "url": "https://jmp2.uk/stvp-ESBA3300028OE",
                     "epgId": "ESBA3300028OE"
-                },
-                {
-                    "name": "En Familia - Rakuten TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20251028T011440SQUARE.png",
-                    "number": "4825",
-                    "url": "https://jmp2.uk/stvp-ES260001081",
-                    "epgId": "ES260001081"
                 }
             ]
         },
@@ -676,11 +669,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Cine.png",
             "stations": [
                 {
-                    "name": "Grjngo - Películas Del Oeste",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20251028T011352SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-ESBC2700002LO",
-                    "epgId": "ESBC2700002LO"
+                    "name": "Cine Friki",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20251028T011345SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-ESBD800001RJ",
+                    "epgId": "ESBD800001RJ"
+                },
+                {
+                    "name": "Cine Western",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20251028T011347SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-ES2300005G7",
+                    "epgId": "ES2300005G7"
                 },
                 {
                     "name": "Runtime Familia",
@@ -688,6 +688,13 @@
                     "number": "4851",
                     "url": "https://jmp2.uk/stvp-ES700004C8",
                     "epgId": "ES700004C8"
+                },
+                {
+                    "name": "100% Navidad - Rakuten TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20251028T011440SQUARE.png",
+                    "number": "4852",
+                    "url": "https://jmp2.uk/stvp-ES260001081",
+                    "epgId": "ES260001081"
                 },
                 {
                     "name": "RTVE Somos Cine",
@@ -788,11 +795,11 @@
                     "epgId": "ES300007KS"
                 },
                 {
-                    "name": "Cine Western",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20251028T011347SQUARE.png",
-                    "number": "4926",
-                    "url": "https://jmp2.uk/stvp-ES2300005G7",
-                    "epgId": "ES2300005G7"
+                    "name": "Grjngo - Películas Del Oeste",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20251028T011352SQUARE.png",
+                    "number": "4925",
+                    "url": "https://jmp2.uk/stvp-ESBC2700002LO",
+                    "epgId": "ESBC2700002LO"
                 },
                 {
                     "name": "Bigtime - Películas Gratis",
@@ -851,13 +858,6 @@
                     "epgId": "ES500004NO"
                 },
                 {
-                    "name": "Cine Friki",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20251028T011345SQUARE.png",
-                    "number": "4949",
-                    "url": "https://jmp2.uk/stvp-ESBD800001RJ",
-                    "epgId": "ESBD800001RJ"
-                },
-                {
                     "name": "Runtime Acción",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20250902T003646SQUARE.png",
                     "number": "4994",
@@ -891,6 +891,13 @@
             "name": "Música",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Música.png",
             "stations": [
+                {
+                    "name": "Vevo Navidad",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES35000016A_20251028T011357SQUARE.png",
+                    "number": "4010",
+                    "url": "https://jmp2.uk/stvp-ES35000016A",
+                    "epgId": "ES35000016A"
+                },
                 {
                     "name": "Vevo Latino",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20241022T051144SQUARE.png",
@@ -1011,7 +1018,7 @@
                 {
                     "name": "Ice Pilots",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20251028T011354SQUARE.png",
-                    "number": "4346",
+                    "number": "4003",
                     "url": "https://jmp2.uk/stvp-ES24000028L",
                     "epgId": "ES24000028L"
                 },
