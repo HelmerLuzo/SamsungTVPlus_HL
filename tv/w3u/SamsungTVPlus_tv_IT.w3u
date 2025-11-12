@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 12/11/2025 00:15",
+    "author": "Actualizada 13/11/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -10,18 +10,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Film.png",
             "stations": [
                 {
-                    "name": "Bizzarro Movies",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20251111T012346SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-ITBA3300024IU",
-                    "epgId": "ITBA3300024IU"
+                    "name": "CineMadame",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20251111T012430SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-ITBD1400003D0",
+                    "epgId": "ITBD1400003D0"
                 },
                 {
-                    "name": "Brividy Cinema",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD600001CL_20251111T012425SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-ITBD600001CL",
-                    "epgId": "ITBD600001CL"
+                    "name": "Cine Natale",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20251111T012428SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-IT3800001XM",
+                    "epgId": "IT3800001XM"
                 },
                 {
                     "name": "Film Top - Rakuten TV",
@@ -52,7 +52,7 @@
                     "epgId": "ITBC1100008L4"
                 },
                 {
-                    "name": "CG Grandi Film:  Bollenti spiriti & Co",
+                    "name": "CG Grandi Film",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000093A_20251111T011343SQUARE.png",
                     "number": "4871",
                     "url": "https://jmp2.uk/stvp-ITBA14000093A",
@@ -66,13 +66,6 @@
                     "epgId": "ITBC1100003KC"
                 },
                 {
-                    "name": "CineMadame",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20251111T012430SQUARE.png",
-                    "number": "4873",
-                    "url": "https://jmp2.uk/stvp-ITBD1400003D0",
-                    "epgId": "ITBD1400003D0"
-                },
-                {
                     "name": "Pluto TV Film",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ38000055E_20241022T051450SQUARE.png",
                     "number": "4876",
@@ -80,11 +73,11 @@
                     "epgId": "ITAJ38000055E"
                 },
                 {
-                    "name": "Cine Natale",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20251111T012428SQUARE.png",
-                    "number": "4884",
-                    "url": "https://jmp2.uk/stvp-IT3800001XM",
-                    "epgId": "IT3800001XM"
+                    "name": "Brividy Cinema",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD600001CL_20251111T012425SQUARE.png",
+                    "number": "4880",
+                    "url": "https://jmp2.uk/stvp-ITBD600001CL",
+                    "epgId": "ITBD600001CL"
                 },
                 {
                     "name": "Film Al Femminile - Wedo Movies",
@@ -199,7 +192,7 @@
                     "epgId": "IT2600006JG"
                 },
                 {
-                    "name": "I Bellissimi - Film by Cinema Excelsior",
+                    "name": "Christmas Time",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200001VR_20251111T011340SQUARE.png",
                     "number": "4944",
                     "url": "https://jmp2.uk/stvp-ITBD3200001VR",
@@ -218,6 +211,13 @@
                     "number": "4949",
                     "url": "https://jmp2.uk/stvp-ITBC400001LX",
                     "epgId": "ITBC400001LX"
+                },
+                {
+                    "name": "Bizzarro Movies",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20251111T012346SQUARE.png",
+                    "number": "4951",
+                    "url": "https://jmp2.uk/stvp-ITBA3300024IU",
+                    "epgId": "ITBA3300024IU"
                 },
                 {
                     "name": "Cine Paura",
@@ -303,13 +303,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/News.png",
             "stations": [
                 {
-                    "name": "Rai News 24",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200004WU_20251111T012440SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-IT3200004WU",
-                    "epgId": "IT3200004WU"
-                },
-                {
                     "name": "Euronews IN DIRETTA",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600009QD_20250415T022338SQUARE.png",
                     "number": "4004",
@@ -322,6 +315,13 @@
                     "number": "4551",
                     "url": "https://jmp2.uk/stvp-ITBD1500002NL",
                     "epgId": "ITBD1500002NL"
+                },
+                {
+                    "name": "Rai News 24",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200004WU_20251111T012440SQUARE.png",
+                    "number": "4553",
+                    "url": "https://jmp2.uk/stvp-IT3200004WU",
+                    "epgId": "IT3200004WU"
                 },
                 {
                     "name": "Giornale Radio TV",
@@ -357,6 +357,13 @@
                     "number": "4563",
                     "url": "https://jmp2.uk/stvp-ITBD1100002WX",
                     "epgId": "ITBD1100002WX"
+                },
+                {
+                    "name": "Al Jazeera",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT23000034W_20251111T012418SQUARE.png",
+                    "number": "4564",
+                    "url": "https://jmp2.uk/stvp-IT23000034W",
+                    "epgId": "IT23000034W"
                 },
                 {
                     "name": "TV5 Monde Info",
@@ -802,6 +809,13 @@
                     "epgId": "IT2600008RA"
                 },
                 {
+                    "name": "Guardia Costiera",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800003GX_20251111T012433SQUARE.png",
+                    "number": "4296",
+                    "url": "https://jmp2.uk/stvp-IT3800003GX",
+                    "epgId": "IT3800003GX"
+                },
+                {
                     "name": "True Crime",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1000006RD_20250624T021752SQUARE.png",
                     "number": "4297",
@@ -821,6 +835,13 @@
                     "number": "4301",
                     "url": "https://jmp2.uk/stvp-ITBD3700001TM",
                     "epgId": "ITBD3700001TM"
+                },
+                {
+                    "name": "Forensic Files",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3700001R9_20251111T011346SQUARE.png",
+                    "number": "4309",
+                    "url": "https://jmp2.uk/stvp-IT3700001R9",
+                    "epgId": "IT3700001R9"
                 }
             ]
         },
@@ -974,6 +995,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentari.png",
             "stations": [
                 {
+                    "name": "BBC Earth",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20251111T012421SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-IT3200002L5",
+                    "epgId": "IT3200002L5"
+                },
+                {
                     "name": "Discovery",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT31000026G_20251013T054531SQUARE.png",
                     "number": "4344",
@@ -995,18 +1023,18 @@
                     "epgId": "IT9000023T"
                 },
                 {
-                    "name": "BBC Earth",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20251111T012421SQUARE.png",
-                    "number": "4487",
-                    "url": "https://jmp2.uk/stvp-IT3200002L5",
-                    "epgId": "IT3200002L5"
-                },
-                {
                     "name": "WildEarth",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300046KE_20241022T043940SQUARE.png",
                     "number": "4489",
                     "url": "https://jmp2.uk/stvp-ITBA3300046KE",
                     "epgId": "ITBA3300046KE"
+                },
+                {
+                    "name": "NatureTime",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2100001EZ_20251111T012436SQUARE.png",
+                    "number": "4491",
+                    "url": "https://jmp2.uk/stvp-IT2100001EZ",
+                    "epgId": "IT2100001EZ"
                 },
                 {
                     "name": "Love the Planet",
@@ -1161,7 +1189,7 @@
                     "epgId": "IT2500001IF"
                 },
                 {
-                    "name": "RADIO ITALIA TREND",
+                    "name": "Radio Italia Live",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200008IM_20251111T012413SQUARE.png",
                     "number": "4742",
                     "url": "https://jmp2.uk/stvp-ITBA2200008IM",
