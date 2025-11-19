@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇺🇸 by HL",
-    "author": "Actualizada 19/11/2025 00:15",
+    "author": "Actualizada 20/11/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/us.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_US.w3u",
@@ -11,7 +11,7 @@
             "stations": [
                 {
                     "name": "CBS News 24/7",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20251111T202304SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20251118T230104SQUARE.png",
                     "number": "1110",
                     "url": "https://jmp2.uk/stvp-USBA370000104",
                     "epgId": "USBA370000104"
@@ -177,11 +177,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Movies.png",
             "stations": [
                 {
-                    "name": "Movie Hub Action",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20251118T030623SQUARE.png",
+                    "name": "Movie Hub Romance",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20251118T030626SQUARE.png",
                     "number": "1000",
-                    "url": "https://jmp2.uk/stvp-USBD3500032H0",
-                    "epgId": "USBD3500032H0"
+                    "url": "https://jmp2.uk/stvp-USBD3500033U0",
+                    "epgId": "USBD3500033U0"
                 },
                 {
                     "name": "Movie Hub",
@@ -198,18 +198,18 @@
                     "epgId": "USBD3500036HP"
                 },
                 {
+                    "name": "Movie Hub Action",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20251118T030623SQUARE.png",
+                    "number": "1204",
+                    "url": "https://jmp2.uk/stvp-USBD3500032H0",
+                    "epgId": "USBD3500032H0"
+                },
+                {
                     "name": "Movie Hub Action West",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US38000108V_20251028T215505SQUARE.png",
                     "number": "1205",
                     "url": "https://jmp2.uk/stvp-US38000108V",
                     "epgId": "US38000108V"
-                },
-                {
-                    "name": "Movie Hub Romance",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20251118T030626SQUARE.png",
-                    "number": "1206",
-                    "url": "https://jmp2.uk/stvp-USBD3500033U0",
-                    "epgId": "USBD3500033U0"
                 },
                 {
                     "name": "Movie Hub Holiday",
@@ -427,13 +427,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Action & Drama.png",
             "stations": [
                 {
-                    "name": "Bounce XL",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300008G1_20251118T030601SQUARE.png",
-                    "number": "1002",
-                    "url": "https://jmp2.uk/stvp-USBD300008G1",
-                    "epgId": "USBD300008G1"
-                },
-                {
                     "name": "Samsung Television Network",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20251110T235122SQUARE.png",
                     "number": "1004",
@@ -518,6 +511,13 @@
                     "epgId": "US1800019OC"
                 },
                 {
+                    "name": "Bounce XL",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300008G1_20251118T030601SQUARE.png",
+                    "number": "1540",
+                    "url": "https://jmp2.uk/stvp-USBD300008G1",
+                    "epgId": "USBD300008G1"
+                },
+                {
                     "name": "ALLBLK Gems",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300022FH_20250304T041443SQUARE.png",
                     "number": "1545",
@@ -558,6 +558,13 @@
                     "number": "1562",
                     "url": "https://jmp2.uk/stvp-US180001143",
                     "epgId": "US180001143"
+                },
+                {
+                    "name": "Nashville",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US19000072T_20251118T030629SQUARE.png",
+                    "number": "1564",
+                    "url": "https://jmp2.uk/stvp-US19000072T",
+                    "epgId": "US19000072T"
                 },
                 {
                     "name": "Drama Life",
@@ -685,13 +692,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
-                    "name": "Crime 24/7",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508703A_20251118T030546SQUARE.png",
-                    "number": "1003",
-                    "url": "https://jmp2.uk/stvp-USAK3508703A",
-                    "epgId": "USAK3508703A"
-                },
-                {
                     "name": "Crime Zone",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20250616T221654SQUARE.png",
                     "number": "1805",
@@ -725,6 +725,13 @@
                     "number": "1816",
                     "url": "https://jmp2.uk/stvp-USBC24000134A",
                     "epgId": "USBC24000134A"
+                },
+                {
+                    "name": "Crime 24/7",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508703A_20251118T030546SQUARE.png",
+                    "number": "1820",
+                    "url": "https://jmp2.uk/stvp-USAK3508703A",
+                    "epgId": "USAK3508703A"
                 },
                 {
                     "name": "I Survived…",
@@ -886,6 +893,13 @@
             "name": "Reality TV",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality TV.png",
             "stations": [
+                {
+                    "name": "Caught on Tape",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700007CV_20251118T030604SQUARE.png",
+                    "number": "1003",
+                    "url": "https://jmp2.uk/stvp-US700007CV",
+                    "epgId": "US700007CV"
+                },
                 {
                     "name": "All-Out Reality",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20250714T223122SQUARE.png",
@@ -1076,13 +1090,6 @@
                     "epgId": "USAJ3504708A"
                 },
                 {
-                    "name": "Caught on Tape",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700007CV_20251118T030604SQUARE.png",
-                    "number": "1988",
-                    "url": "https://jmp2.uk/stvp-US700007CV",
-                    "epgId": "US700007CV"
-                },
-                {
                     "name": "Road Renegades",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700002ZB_20250325T015256SQUARE.png",
                     "number": "1990",
@@ -1103,16 +1110,9 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Home & Food.png",
             "stations": [
                 {
-                    "name": "TheSorryGirls TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100008CW_20251118T030641SQUARE.png",
-                    "number": "1001",
-                    "url": "https://jmp2.uk/stvp-US2100008CW",
-                    "epgId": "US2100008CW"
-                },
-                {
                     "name": "Home Refresh",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC21000142T_20251118T030621SQUARE.png",
-                    "number": "2005",
+                    "number": "1001",
                     "url": "https://jmp2.uk/stvp-USBC21000142T",
                     "epgId": "USBC21000142T"
                 },
@@ -1178,6 +1178,13 @@
                     "number": "2029",
                     "url": "https://jmp2.uk/stvp-USBC3200022W6",
                     "epgId": "USBC3200022W6"
+                },
+                {
+                    "name": "TheSorryGirls TV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100008CW_20251118T030641SQUARE.png",
+                    "number": "2031",
+                    "url": "https://jmp2.uk/stvp-US2100008CW",
+                    "epgId": "US2100008CW"
                 },
                 {
                     "name": "NBC LX Home",
@@ -1450,6 +1457,13 @@
                     "number": "2344",
                     "url": "https://jmp2.uk/stvp-US1400012RF",
                     "epgId": "US1400012RF"
+                },
+                {
+                    "name": "Team USA TV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900007ZW_20251118T030639SQUARE.png",
+                    "number": "2345",
+                    "url": "https://jmp2.uk/stvp-US3900007ZW",
+                    "epgId": "US3900007ZW"
                 },
                 {
                     "name": "The Jim Rome Show",
@@ -2174,6 +2188,13 @@
                     "number": "2835",
                     "url": "https://jmp2.uk/stvp-USBA3000100X",
                     "epgId": "USBA3000100X"
+                },
+                {
+                    "name": "Celebrity Name Game",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900010IY_20251118T030607SQUARE.png",
+                    "number": "2849",
+                    "url": "https://jmp2.uk/stvp-US1900010IY",
+                    "epgId": "US1900010IY"
                 }
             ]
         },
@@ -2201,6 +2222,13 @@
                     "number": "2904",
                     "url": "https://jmp2.uk/stvp-US700005ID",
                     "epgId": "US700005ID"
+                },
+                {
+                    "name": "PBS Genealogy",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US130000639_20251118T030559SQUARE.png",
+                    "number": "2905",
+                    "url": "https://jmp2.uk/stvp-US130000639",
+                    "epgId": "US130000639"
                 },
                 {
                     "name": "In Depth with Graham Bensinger",
@@ -2370,6 +2398,13 @@
                     "epgId": "USBC1300012VK"
                 },
                 {
+                    "name": "Ghost Hunters",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000218V_20251118T030614SQUARE.png",
+                    "number": "3009",
+                    "url": "https://jmp2.uk/stvp-US39000218V",
+                    "epgId": "US39000218V"
+                },
+                {
                     "name": "Mysteries Xplored",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200028MM_20250325T015240SQUARE.png",
                     "number": "3010",
@@ -2424,6 +2459,13 @@
                     "number": "3045",
                     "url": "https://jmp2.uk/stvp-USBC4400006BR",
                     "epgId": "USBC4400006BR"
+                },
+                {
+                    "name": "Ghost Stories",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4200004KK_20251118T030618SQUARE.png",
+                    "number": "3048",
+                    "url": "https://jmp2.uk/stvp-US4200004KK",
+                    "epgId": "US4200004KK"
                 },
                 {
                     "name": "Alien Nation by DUST",
@@ -2481,18 +2523,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Anime & Gaming.png",
             "stations": [
                 {
+                    "name": "Crunchyroll",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000018YI_20251118T030611SQUARE.png",
+                    "number": "1002",
+                    "url": "https://jmp2.uk/stvp-US2000018YI",
+                    "epgId": "US2000018YI"
+                },
+                {
                     "name": "It’s Anime",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US11000020V_20250714T223132SQUARE.png",
                     "number": "3202",
                     "url": "https://jmp2.uk/stvp-US11000020V",
                     "epgId": "US11000020V"
-                },
-                {
-                    "name": "Crunchyroll",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000018YI_20251118T030611SQUARE.png",
-                    "number": "3203",
-                    "url": "https://jmp2.uk/stvp-US2000018YI",
-                    "epgId": "US2000018YI"
                 },
                 {
                     "name": "Anime All day",
@@ -2577,13 +2619,6 @@
             "name": "Nature, History & Science",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Nature, History & Science.png",
             "stations": [
-                {
-                    "name": "PBS Genealogy",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US130000639_20251118T030559SQUARE.png",
-                    "number": "2905",
-                    "url": "https://jmp2.uk/stvp-US130000639",
-                    "epgId": "US130000639"
-                },
                 {
                     "name": "Samsung Wild Life",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20250826T234450SQUARE.png",
@@ -2820,6 +2855,13 @@
                     "number": "3630",
                     "url": "https://jmp2.uk/stvp-US9000032J",
                     "epgId": "US9000032J"
+                },
+                {
+                    "name": "Peppa Pig & Friends",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100025G5_20251118T030633SQUARE.png",
+                    "number": "3631",
+                    "url": "https://jmp2.uk/stvp-US4100025G5",
+                    "epgId": "US4100025G5"
                 },
                 {
                     "name": "BABY SHARK TV",
@@ -3351,6 +3393,13 @@
             "name": "Music",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Music.png",
             "stations": [
+                {
+                    "name": "Vevo Holiday",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700012Z0_20251118T030644SQUARE.png",
+                    "number": "4310",
+                    "url": "https://jmp2.uk/stvp-US3700012Z0",
+                    "epgId": "US3700012Z0"
+                },
                 {
                     "name": "XITE Hits",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20250421T234930SQUARE.png",

@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 19/11/2025 00:15",
+    "author": "Actualizada 20/11/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -1197,6 +1197,13 @@
                     "number": "4636",
                     "url": "https://jmp2.uk/stvp-GB2200002CC",
                     "epgId": "GB2200002CC"
+                },
+                {
+                    "name": "INTER 24/7",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB310000151_20251118T015428SQUARE.png",
+                    "number": "4643",
+                    "url": "https://jmp2.uk/stvp-GB310000151",
+                    "epgId": "GB310000151"
                 },
                 {
                     "name": "FIFA+ Women",
