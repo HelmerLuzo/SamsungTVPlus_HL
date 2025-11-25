@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇨🇦 by HL",
-    "author": "Actualizada 25/11/2025 00:15",
+    "author": "Actualizada 26/11/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/ca.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/ca.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CA.w3u",
@@ -18,7 +18,7 @@
                 },
                 {
                     "name": "CBC News",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20250812T003235SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20251125T031029SQUARE.png",
                     "number": "1060",
                     "url": "https://jmp2.uk/stvp-CABC2300009KD",
                     "epgId": "CABC2300009KD"
@@ -157,14 +157,14 @@
             "stations": [
                 {
                     "name": "FilmRise Action",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700014EE_20251118T030700SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700014EE_20251125T030959SQUARE.png",
                     "number": "1001",
                     "url": "https://jmp2.uk/stvp-CAAJ2700014EE",
                     "epgId": "CAAJ2700014EE"
                 },
                 {
                     "name": "FilmRise Free Movies",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ40000077N_20251118T030709SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ40000077N_20251125T031022SQUARE.png",
                     "number": "1210",
                     "url": "https://jmp2.uk/stvp-CAAJ40000077N",
                     "epgId": "CAAJ40000077N"
@@ -185,7 +185,7 @@
                 },
                 {
                     "name": "Gravitas Movies",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200001SY_20251104T004711SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200001SY_20251125T031039SQUARE.png",
                     "number": "1260",
                     "url": "https://jmp2.uk/stvp-CABD1200001SY",
                     "epgId": "CABD1200001SY"
@@ -566,14 +566,14 @@
             "stations": [
                 {
                     "name": "Epic Gardening TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000008F8_20251118T030729SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000008F8_20251125T031037SQUARE.png",
                     "number": "1000",
                     "url": "https://jmp2.uk/stvp-CA2000008F8",
                     "epgId": "CA2000008F8"
                 },
                 {
                     "name": "Drool",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA210001035_20251118T030727SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA210001035_20251125T031034SQUARE.png",
                     "number": "1002",
                     "url": "https://jmp2.uk/stvp-CA210001035",
                     "epgId": "CA210001035"
@@ -713,7 +713,7 @@
                 },
                 {
                     "name": "Tastemade",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200002T9_20250729T185426SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200002T9_20251125T031050SQUARE.png",
                     "number": "2120",
                     "url": "https://jmp2.uk/stvp-CABD1200002T9",
                     "epgId": "CABD1200002T9"
@@ -942,7 +942,7 @@
                 },
                 {
                     "name": "Donut",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1700007YN_20251118T030725SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1700007YN_20251125T031020SQUARE.png",
                     "number": "2543",
                     "url": "https://jmp2.uk/stvp-CA1700007YN",
                     "epgId": "CA1700007YN"
@@ -1412,7 +1412,7 @@
                 },
                 {
                     "name": "Mark Rober TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000004MI_20251110T235246SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000004MI_20251125T031047SQUARE.png",
                     "number": "3570",
                     "url": "https://jmp2.uk/stvp-CA2000004MI",
                     "epgId": "CA2000004MI"
@@ -1550,7 +1550,7 @@
             "stations": [
                 {
                     "name": "Vevo Holiday",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3700001IB_20251118T030737SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3700001IB_20251125T031053SQUARE.png",
                     "number": "4310",
                     "url": "https://jmp2.uk/stvp-CA3700001IB",
                     "epgId": "CA3700001IB"
@@ -1655,7 +1655,7 @@
                 },
                 {
                     "name": "K-POP by CJ ENM",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3900002PM_20250729T185214SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3900002PM_20251125T031045SQUARE.png",
                     "number": "4445",
                     "url": "https://jmp2.uk/stvp-CA3900002PM",
                     "epgId": "CA3900002PM"
@@ -1962,7 +1962,7 @@
                 },
                 {
                     "name": "Holiday Fireplace Vibes",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA34000078F_20251028T215510SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA34000078F_20251125T031042SQUARE.png",
                     "number": "5338",
                     "url": "https://jmp2.uk/stvp-CA34000078F",
                     "epgId": "CA34000078F"
