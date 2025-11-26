@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 26/11/2025 00:15",
+    "author": "Actualizada 27/11/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -10,18 +10,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
                 {
-                    "name": "Festive Hub",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC400000345_20251125T100258SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-GBBC400000345",
-                    "epgId": "GBBC400000345"
-                },
-                {
                     "name": "Entertainment Hub",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20250923T010642SQUARE.png",
                     "number": "4007",
                     "url": "https://jmp2.uk/stvp-GBBC2300003ZQ",
                     "epgId": "GBBC2300003ZQ"
+                },
+                {
+                    "name": "Festive Hub",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC400000345_20251125T100258SQUARE.png",
+                    "number": "4009",
+                    "url": "https://jmp2.uk/stvp-GBBC400000345",
+                    "epgId": "GBBC400000345"
                 },
                 {
                     "name": "U&Laughs",
@@ -226,18 +226,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality.png",
             "stations": [
                 {
-                    "name": "Sony One Dragons Den",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300008I8_20251125T100303SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-GB300008I8",
-                    "epgId": "GB300008I8"
-                },
-                {
-                    "name": "Escape to the Country",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500006EX_20251125T100007SQUARE.png",
+                    "name": "The Osbournes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3600002EB_20251125T100308SQUARE.png",
                     "number": "4003",
-                    "url": "https://jmp2.uk/stvp-GB500006EX",
-                    "epgId": "GB500006EX"
+                    "url": "https://jmp2.uk/stvp-GB3600002EB",
+                    "epgId": "GB3600002EB"
                 },
                 {
                     "name": "Project Runway",
@@ -268,11 +261,11 @@
                     "epgId": "GB3500003E5"
                 },
                 {
-                    "name": "The Osbournes",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3600002EB_20251125T100308SQUARE.png",
-                    "number": "4068",
-                    "url": "https://jmp2.uk/stvp-GB3600002EB",
-                    "epgId": "GB3600002EB"
+                    "name": "Duck Dynasty",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700004BC_20251125T100004SQUARE.png",
+                    "number": "4071",
+                    "url": "https://jmp2.uk/stvp-GB2700004BC",
+                    "epgId": "GB2700004BC"
                 },
                 {
                     "name": "Survivor",
@@ -282,11 +275,25 @@
                     "epgId": "GBBB3800007BN"
                 },
                 {
+                    "name": "Sony One Dragons Den",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300008I8_20251125T100303SQUARE.png",
+                    "number": "4080",
+                    "url": "https://jmp2.uk/stvp-GB300008I8",
+                    "epgId": "GB300008I8"
+                },
+                {
                     "name": "Come Dine With Me",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC9000062G_20251111T012221SQUARE.png",
                     "number": "4084",
                     "url": "https://jmp2.uk/stvp-GBBC9000062G",
                     "epgId": "GBBC9000062G"
+                },
+                {
+                    "name": "Escape to the Country",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500006EX_20251125T100007SQUARE.png",
+                    "number": "4085",
+                    "url": "https://jmp2.uk/stvp-GB500006EX",
+                    "epgId": "GB500006EX"
                 },
                 {
                     "name": "Homes Under the Hammer",
@@ -671,13 +678,6 @@
                     "epgId": "GBBC900004G9"
                 },
                 {
-                    "name": "Duck Dynasty",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700004BC_20251125T100004SQUARE.png",
-                    "number": "4353",
-                    "url": "https://jmp2.uk/stvp-GB2700004BC",
-                    "epgId": "GB2700004BC"
-                },
-                {
                     "name": "Ax Men",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700011DR_20250107T031058SQUARE.png",
                     "number": "4354",
@@ -809,6 +809,13 @@
                     "number": "4425",
                     "url": "https://jmp2.uk/stvp-GB1400001E4",
                     "epgId": "GB1400001E4"
+                },
+                {
+                    "name": "Most Haunted",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4300003ZT_20251125T100300SQUARE.png",
+                    "number": "4440",
+                    "url": "https://jmp2.uk/stvp-GB4300003ZT",
+                    "epgId": "GB4300003ZT"
                 },
                 {
                     "name": "Ghost Hunters",
@@ -951,7 +958,7 @@
                 {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4000002H3_20251125T100306SQUARE.png",
-                    "number": "4511",
+                    "number": "4001",
                     "url": "https://jmp2.uk/stvp-GBBC4000002H3",
                     "epgId": "GBBC4000002H3"
                 },

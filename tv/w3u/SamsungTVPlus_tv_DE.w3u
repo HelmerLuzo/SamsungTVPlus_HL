@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇩🇪 by HL",
-    "author": "Actualizada 26/11/2025 00:15",
+    "author": "Actualizada 27/11/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
@@ -19,7 +19,7 @@
                 {
                     "name": "Entertainment Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700002Z2_20251125T102304SQUARE.png",
-                    "number": "4007",
+                    "number": "4002",
                     "url": "https://jmp2.uk/stvp-DEBC4700002Z2",
                     "epgId": "DEBC4700002Z2"
                 },
@@ -225,6 +225,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
                 {
+                    "name": "Stromberg",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE32000175T_20251125T102312SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-DE32000175T",
+                    "epgId": "DE32000175T"
+                },
+                {
                     "name": "Baywatch",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD26000020X_20250923T011354SQUARE.png",
                     "number": "4231",
@@ -337,6 +344,13 @@
                     "epgId": "DE300005NB"
                 },
                 {
+                    "name": "The Good Wife",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3700008VR_20251125T102315SQUARE.png",
+                    "number": "4252",
+                    "url": "https://jmp2.uk/stvp-DE3700008VR",
+                    "epgId": "DE3700008VR"
+                },
+                {
                     "name": "Sony One Comedy TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3000016Q_20250107T024726SQUARE.png",
                     "number": "4253",
@@ -356,13 +370,6 @@
                     "number": "4255",
                     "url": "https://jmp2.uk/stvp-DE3400003PW",
                     "epgId": "DE3400003PW"
-                },
-                {
-                    "name": "Stromberg",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE32000175T_20251125T102312SQUARE.png",
-                    "number": "4256",
-                    "url": "https://jmp2.uk/stvp-DE32000175T",
-                    "epgId": "DE32000175T"
                 },
                 {
                     "name": "Pluto TV Sitcoms",
@@ -731,18 +738,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sport.png",
             "stations": [
                 {
-                    "name": "Tennis Channel Deutschland",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200008NL_20251125T102245SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-DEBA2200008NL",
-                    "epgId": "DEBA2200008NL"
-                },
-                {
                     "name": "DAZN Rise",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD700001C5_20250107T024314SQUARE.png",
                     "number": "4601",
                     "url": "https://jmp2.uk/stvp-DEBD700001C5",
                     "epgId": "DEBD700001C5"
+                },
+                {
+                    "name": "Tennis Channel Deutschland",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200008NL_20251125T102245SQUARE.png",
+                    "number": "4605",
+                    "url": "https://jmp2.uk/stvp-DEBA2200008NL",
+                    "epgId": "DEBA2200008NL"
                 },
                 {
                     "name": "Tennis+",
@@ -849,18 +856,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Fußball.png",
             "stations": [
                 {
-                    "name": "FIFA+",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20251125T102307SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-DEBA3300019EB",
-                    "epgId": "DEBA3300019EB"
-                },
-                {
                     "name": "DAZN FAST+",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC470000128_20250610T010412SQUARE.png",
                     "number": "4631",
                     "url": "https://jmp2.uk/stvp-DEBC470000128",
                     "epgId": "DEBC470000128"
+                },
+                {
+                    "name": "FIFA+",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20251125T102307SQUARE.png",
+                    "number": "4639",
+                    "url": "https://jmp2.uk/stvp-DEBA3300019EB",
+                    "epgId": "DEBA3300019EB"
                 },
                 {
                     "name": "Scooore",
@@ -1173,6 +1180,13 @@
                     "number": "4890",
                     "url": "https://jmp2.uk/stvp-DEBA15000130L",
                     "epgId": "DEBA15000130L"
+                },
+                {
+                    "name": "Sparkle Movies",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE43000043H_20251125T102309SQUARE.png",
+                    "number": "4894",
+                    "url": "https://jmp2.uk/stvp-DE43000043H",
+                    "epgId": "DE43000043H"
                 },
                 {
                     "name": "Filmgold",

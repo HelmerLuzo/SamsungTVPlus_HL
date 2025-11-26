@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇦🇹 by HL",
-    "author": "Actualizada 26/11/2025 00:15",
+    "author": "Actualizada 27/11/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/at.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/at.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_AT.w3u",
@@ -15,13 +15,6 @@
                     "number": "4001",
                     "url": "https://jmp2.uk/stvp-ATBD3700001EH",
                     "epgId": "ATBD3700001EH"
-                },
-                {
-                    "name": "H2O & Friends",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT80000194_20251125T100538SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-AT80000194",
-                    "epgId": "AT80000194"
                 },
                 {
                     "name": "Comedy Mix",
@@ -157,6 +150,13 @@
                     "epgId": "AT1100001B5"
                 },
                 {
+                    "name": "H2O & Friends",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT80000194_20251125T100538SQUARE.png",
+                    "number": "4214",
+                    "url": "https://jmp2.uk/stvp-AT80000194",
+                    "epgId": "AT80000194"
+                },
+                {
                     "name": "Fireplace Vibes",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT22000019A_20250729T044437SQUARE.png",
                     "number": "4219",
@@ -204,6 +204,20 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
                 {
+                    "name": "Nashville",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4600003EY_20251125T100540SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-AT4600003EY",
+                    "epgId": "AT4600003EY"
+                },
+                {
+                    "name": "Stromberg",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3200012MN_20251125T100546SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-AT3200012MN",
+                    "epgId": "AT3200012MN"
+                },
+                {
                     "name": "Baywatch",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600008HN_20250923T011200SQUARE.png",
                     "number": "4231",
@@ -216,13 +230,6 @@
                     "number": "4232",
                     "url": "https://jmp2.uk/stvp-AT3700002Z3",
                     "epgId": "AT3700002Z3"
-                },
-                {
-                    "name": "Nashville",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4600003EY_20251125T100540SQUARE.png",
-                    "number": "4233",
-                    "url": "https://jmp2.uk/stvp-AT4600003EY",
-                    "epgId": "AT4600003EY"
                 },
                 {
                     "name": "Hudson & Rex",
@@ -281,6 +288,13 @@
                     "epgId": "ATAK3504506A"
                 },
                 {
+                    "name": "The Good Wife",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3700006RS_20251125T100548SQUARE.png",
+                    "number": "4252",
+                    "url": "https://jmp2.uk/stvp-AT3700006RS",
+                    "epgId": "AT3700006RS"
+                },
+                {
                     "name": "Sony One Comedy TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2100002QM_20250916T003536SQUARE.png",
                     "number": "4253",
@@ -300,13 +314,6 @@
                     "number": "4255",
                     "url": "https://jmp2.uk/stvp-AT3400004QH",
                     "epgId": "AT3400004QH"
-                },
-                {
-                    "name": "Stromberg",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3200012MN_20251125T100546SQUARE.png",
-                    "number": "4256",
-                    "url": "https://jmp2.uk/stvp-AT3200012MN",
-                    "epgId": "AT3200012MN"
                 },
                 {
                     "name": "Pluto TV Sitcoms",
@@ -591,18 +598,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sport.png",
             "stations": [
                 {
-                    "name": "Tennis Channel",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA2200008XN_20251125T100519SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-ATBA2200008XN",
-                    "epgId": "ATBA2200008XN"
-                },
-                {
                     "name": "DAZN Rise",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD700001VF_20250513T005127SQUARE.png",
                     "number": "4601",
                     "url": "https://jmp2.uk/stvp-ATBD700001VF",
                     "epgId": "ATBD700001VF"
+                },
+                {
+                    "name": "Tennis Channel",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA2200008XN_20251125T100519SQUARE.png",
+                    "number": "4605",
+                    "url": "https://jmp2.uk/stvp-ATBA2200008XN",
+                    "epgId": "ATBA2200008XN"
                 },
                 {
                     "name": "Red Bull TV",
@@ -913,6 +920,13 @@
                     "number": "4890",
                     "url": "https://jmp2.uk/stvp-ATBA1500012BI",
                     "epgId": "ATBA1500012BI"
+                },
+                {
+                    "name": "Sparkle Movies",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT430000288_20251125T100543SQUARE.png",
+                    "number": "4894",
+                    "url": "https://jmp2.uk/stvp-AT430000288",
+                    "epgId": "AT430000288"
                 },
                 {
                     "name": "Filmgold",

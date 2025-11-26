@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 26/11/2025 00:15",
+    "author": "Actualizada 27/11/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -17,11 +17,11 @@
                     "epgId": "ITBD1400003D0"
                 },
                 {
-                    "name": "Cine Natale",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20251125T102451SQUARE.png",
+                    "name": "Adrenaline Movies",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000050E_20251125T102445SQUARE.png",
                     "number": "4002",
-                    "url": "https://jmp2.uk/stvp-IT3800001XM",
-                    "epgId": "IT3800001XM"
+                    "url": "https://jmp2.uk/stvp-ITBC11000050E",
+                    "epgId": "ITBC11000050E"
                 },
                 {
                     "name": "Film Top - Rakuten TV",
@@ -78,6 +78,13 @@
                     "number": "4880",
                     "url": "https://jmp2.uk/stvp-ITBD600001CL",
                     "epgId": "ITBD600001CL"
+                },
+                {
+                    "name": "Cine Natale",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20251125T102451SQUARE.png",
+                    "number": "4884",
+                    "url": "https://jmp2.uk/stvp-IT3800001XM",
+                    "epgId": "IT3800001XM"
                 },
                 {
                     "name": "Film Al Femminile - Wedo Movies",
@@ -262,13 +269,6 @@
                     "epgId": "ITBD1100001B7"
                 },
                 {
-                    "name": "Adrenaline Movies",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000050E_20251125T102445SQUARE.png",
-                    "number": "4993",
-                    "url": "https://jmp2.uk/stvp-ITBC11000050E",
-                    "epgId": "ITBC11000050E"
-                },
-                {
                     "name": "Pluto TV Film Azione",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000003CT_20241022T051703SQUARE.png",
                     "number": "4995",
@@ -322,6 +322,13 @@
                     "number": "4553",
                     "url": "https://jmp2.uk/stvp-IT3200004WU",
                     "epgId": "IT3200004WU"
+                },
+                {
+                    "name": "Il Sole 24 Ore TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3300001G3_20251125T102453SQUARE.png",
+                    "number": "4554",
+                    "url": "https://jmp2.uk/stvp-IT3300001G3",
+                    "epgId": "IT3300001G3"
                 },
                 {
                     "name": "Giornale Radio TV",
@@ -677,6 +684,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serie TV.png",
             "stations": [
                 {
+                    "name": "Soap Turco",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600007QQ_20251125T102456SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-IT3600007QQ",
+                    "epgId": "IT3600007QQ"
+                },
+                {
                     "name": "BBC Series",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2900001B5_20250916T003606SQUARE.png",
                     "number": "4233",
@@ -691,7 +705,7 @@
                     "epgId": "ITAJ3800007P8"
                 },
                 {
-                    "name": "Hannibal - La serie completa",
+                    "name": "Elisa di Rivombrosa",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100001MG_20251125T102440SQUARE.png",
                     "number": "4237",
                     "url": "https://jmp2.uk/stvp-ITBD4100001MG",
@@ -794,13 +808,6 @@
                     "number": "4260",
                     "url": "https://jmp2.uk/stvp-IT900001A7",
                     "epgId": "IT900001A7"
-                },
-                {
-                    "name": "Soap Turco",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600007QQ_20251125T102456SQUARE.png",
-                    "number": "4266",
-                    "url": "https://jmp2.uk/stvp-IT3600007QQ",
-                    "epgId": "IT3600007QQ"
                 },
                 {
                     "name": "Anche i ricchi piangono",
@@ -1023,13 +1030,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentari.png",
             "stations": [
                 {
-                    "name": "BBC Earth",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20251125T102448SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-IT3200002L5",
-                    "epgId": "IT3200002L5"
-                },
-                {
                     "name": "Discovery",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT31000026G_20251013T054531SQUARE.png",
                     "number": "4344",
@@ -1049,6 +1049,13 @@
                     "number": "4414",
                     "url": "https://jmp2.uk/stvp-IT9000023T",
                     "epgId": "IT9000023T"
+                },
+                {
+                    "name": "BBC Earth",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20251125T102448SQUARE.png",
+                    "number": "4487",
+                    "url": "https://jmp2.uk/stvp-IT3200002L5",
+                    "epgId": "IT3200002L5"
                 },
                 {
                     "name": "WildEarth",
