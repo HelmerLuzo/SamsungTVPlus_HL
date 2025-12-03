@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 03/12/2025 00:15",
+    "author": "Actualizada 04/12/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -10,18 +10,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
                 {
+                    "name": "Festive Hub",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC400000345_20251202T002705SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-GBBC400000345",
+                    "epgId": "GBBC400000345"
+                },
+                {
                     "name": "Entertainment Hub",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20250923T010642SQUARE.png",
                     "number": "4007",
                     "url": "https://jmp2.uk/stvp-GBBC2300003ZQ",
                     "epgId": "GBBC2300003ZQ"
-                },
-                {
-                    "name": "Festive Hub",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC400000345_20251202T002705SQUARE.png",
-                    "number": "4009",
-                    "url": "https://jmp2.uk/stvp-GBBC400000345",
-                    "epgId": "GBBC400000345"
                 },
                 {
                     "name": "U&Laughs",
@@ -600,6 +600,13 @@
                     "number": "4303",
                     "url": "https://jmp2.uk/stvp-GBAK3504518A",
                     "epgId": "GBAK3504518A"
+                },
+                {
+                    "name": "Medical Detectives",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3600001XM_20251202T002708SQUARE.png",
+                    "number": "4304",
+                    "url": "https://jmp2.uk/stvp-GB3600001XM",
+                    "epgId": "GB3600001XM"
                 },
                 {
                     "name": "Bloodline Detectives",
@@ -1192,6 +1199,13 @@
                     "epgId": "GB26000118T"
                 },
                 {
+                    "name": "Bundesliga",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3500002R8_20251202T002702SQUARE.png",
+                    "number": "4634",
+                    "url": "https://jmp2.uk/stvp-GB3500002R8",
+                    "epgId": "GB3500002R8"
+                },
+                {
                     "name": "Sky Sports Classics",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700012HS_20250603T102403SQUARE.png",
                     "number": "4635",
@@ -1670,6 +1684,13 @@
                     "number": "4961",
                     "url": "https://jmp2.uk/stvp-GB3000370X",
                     "epgId": "GB3000370X"
+                },
+                {
+                    "name": "Thrillers - Rakuten TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4100003VP_20251202T002711SQUARE.png",
+                    "number": "4963",
+                    "url": "https://jmp2.uk/stvp-GB4100003VP",
+                    "epgId": "GB4100003VP"
                 },
                 {
                     "name": "Pluto TV Action",

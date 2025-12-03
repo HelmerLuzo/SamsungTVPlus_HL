@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇫🇷 by HL",
-    "author": "Actualizada 03/12/2025 00:15",
+    "author": "Actualizada 04/12/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/fr.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/fr.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_FR.w3u",
@@ -49,6 +49,13 @@
                     "number": "4009",
                     "url": "https://jmp2.uk/stvp-FRBD4100008QS",
                     "epgId": "FRBD4100008QS"
+                },
+                {
+                    "name": "RMC Life",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000003O1_20251202T002645SQUARE.png",
+                    "number": "4031",
+                    "url": "https://jmp2.uk/stvp-FR4000003O1",
+                    "epgId": "FR4000003O1"
                 },
                 {
                     "name": "RMC Wow",
@@ -156,7 +163,14 @@
                     "epgId": "FRBA10000029E"
                 },
                 {
-                    "name": "Epicurieux",
+                    "name": "Incroyables Fortunes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600001I2_20251202T002639SQUARE.png",
+                    "number": "4203",
+                    "url": "https://jmp2.uk/stvp-FR600001I2",
+                    "epgId": "FR600001I2"
+                },
+                {
+                    "name": "Epicurieux avec Jamy",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100003TP_20251202T002632SQUARE.png",
                     "number": "4205",
                     "url": "https://jmp2.uk/stvp-FRBD5100003TP",
@@ -189,13 +203,6 @@
                     "number": "4218",
                     "url": "https://jmp2.uk/stvp-FRBC3900003ZH",
                     "epgId": "FRBC3900003ZH"
-                },
-                {
-                    "name": "Top Sci-Fi",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4600001FK_20251202T002648SQUARE.png",
-                    "number": "4221",
-                    "url": "https://jmp2.uk/stvp-FR4600001FK",
-                    "epgId": "FR4600001FK"
                 },
                 {
                     "name": "Fireplace Vibes",
@@ -404,6 +411,13 @@
                     "number": "4273",
                     "url": "https://jmp2.uk/stvp-FR360000680",
                     "epgId": "FR360000680"
+                },
+                {
+                    "name": "Jodha Akbar",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000001TX_20251202T002642SQUARE.png",
+                    "number": "4277",
+                    "url": "https://jmp2.uk/stvp-FR4000001TX",
+                    "epgId": "FR4000001TX"
                 }
             ]
         },
@@ -454,7 +468,7 @@
                     "epgId": "FR300032ZK"
                 },
                 {
-                    "name": "Immersion - Crime & Justice",
+                    "name": "Crimes Enquêtes Faits Divers",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600002ZR_20251202T002626SQUARE.png",
                     "number": "4308",
                     "url": "https://jmp2.uk/stvp-FR600002ZR",
@@ -509,7 +523,7 @@
                     "epgId": "FRBD410000436"
                 },
                 {
-                    "name": "Real Life",
+                    "name": "Mission Intervention",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700002UP_20251202T002629SQUARE.png",
                     "number": "4362",
                     "url": "https://jmp2.uk/stvp-FR700002UP",
@@ -632,13 +646,6 @@
                     "number": "4530",
                     "url": "https://jmp2.uk/stvp-FRBC3500002E4",
                     "epgId": "FRBC3500002E4"
-                },
-                {
-                    "name": "Ailleurs - Destination Luxe",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600001I2_20251202T002639SQUARE.png",
-                    "number": "4531",
-                    "url": "https://jmp2.uk/stvp-FR600001I2",
-                    "epgId": "FR600001I2"
                 }
             ]
         },
@@ -1124,6 +1131,13 @@
                     "number": "4951",
                     "url": "https://jmp2.uk/stvp-FR4100001D0",
                     "epgId": "FR4100001D0"
+                },
+                {
+                    "name": "Top Sci-Fi",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4600001FK_20251202T002648SQUARE.png",
+                    "number": "4953",
+                    "url": "https://jmp2.uk/stvp-FR4600001FK",
+                    "epgId": "FR4600001FK"
                 },
                 {
                     "name": "Box Office Drama",

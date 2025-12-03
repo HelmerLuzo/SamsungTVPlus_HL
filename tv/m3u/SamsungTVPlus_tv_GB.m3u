@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz"
-#EXTINF:-1 tvg-id="GBBC2300003ZQ" tvg-name="GBBC2300003ZQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20250923T010642SQUARE.png" group-title="Entertainment" , Entertainment Hub
-https://jmp2.uk/stvp-GBBC2300003ZQ
 #EXTINF:-1 tvg-id="GBBC400000345" tvg-name="GBBC400000345" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC400000345_20251202T002705SQUARE.png" group-title="Entertainment" , Festive Hub
 https://jmp2.uk/stvp-GBBC400000345
+#EXTINF:-1 tvg-id="GBBC2300003ZQ" tvg-name="GBBC2300003ZQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20250923T010642SQUARE.png" group-title="Entertainment" , Entertainment Hub
+https://jmp2.uk/stvp-GBBC2300003ZQ
 #EXTINF:-1 tvg-id="GBBD3100003J5" tvg-name="GBBD3100003J5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100003J5_20251013T054433SQUARE.png" group-title="Entertainment" , U&Laughs
 https://jmp2.uk/stvp-GBBD3100003J5
 #EXTINF:-1 tvg-id="GB60000197" tvg-name="GB60000197" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB60000197_20250107T153913SQUARE.png" group-title="Entertainment" , Sky Arts
@@ -163,6 +163,8 @@ https://jmp2.uk/stvp-GBBD260000189
 https://jmp2.uk/stvp-GBAK3504516A
 #EXTINF:-1 tvg-id="GBAK3504518A" tvg-name="GBAK3504518A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504518A_20250107T022641SQUARE.png" group-title="Crime" , Pluto TV Inside
 https://jmp2.uk/stvp-GBAK3504518A
+#EXTINF:-1 tvg-id="GB3600001XM" tvg-name="GB3600001XM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3600001XM_20251202T002708SQUARE.png" group-title="Crime" , Medical Detectives
+https://jmp2.uk/stvp-GB3600001XM
 #EXTINF:-1 tvg-id="GB37000128Y" tvg-name="GB37000128Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB37000128Y_20251111T012218SQUARE.png" group-title="Crime" , Bloodline Detectives
 https://jmp2.uk/stvp-GB37000128Y
 #EXTINF:-1 tvg-id="GB3700011PO" tvg-name="GB3700011PO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700011PO_20251111T012230SQUARE.png" group-title="Crime" , Evidence of Evil
@@ -323,6 +325,8 @@ https://jmp2.uk/stvp-GBBD2300003IK
 https://jmp2.uk/stvp-GBBD1100008YW
 #EXTINF:-1 tvg-id="GB26000118T" tvg-name="GB26000118T" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB26000118T_20250513T010726SQUARE.png" group-title="Sport" , DFB Play TV
 https://jmp2.uk/stvp-GB26000118T
+#EXTINF:-1 tvg-id="GB3500002R8" tvg-name="GB3500002R8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3500002R8_20251202T002702SQUARE.png" group-title="Sport" , Bundesliga
+https://jmp2.uk/stvp-GB3500002R8
 #EXTINF:-1 tvg-id="GB2700012HS" tvg-name="GB2700012HS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700012HS_20250603T102403SQUARE.png" group-title="Sport" , Sky Sports Classics
 https://jmp2.uk/stvp-GB2700012HS
 #EXTINF:-1 tvg-id="GB2200002CC" tvg-name="GB2200002CC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2200002CC_20250811T172929SQUARE.png" group-title="Sport" , GFN Soccer TV
@@ -455,6 +459,8 @@ https://jmp2.uk/stvp-GB1700007PK
 https://jmp2.uk/stvp-GB2600013BO
 #EXTINF:-1 tvg-id="GB3000370X" tvg-name="GB3000370X" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000370X_20250909T014635SQUARE.png" group-title="Movies" , GREAT! Christmas
 https://jmp2.uk/stvp-GB3000370X
+#EXTINF:-1 tvg-id="GB4100003VP" tvg-name="GB4100003VP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4100003VP_20251202T002711SQUARE.png" group-title="Movies" , Thrillers - Rakuten TV
+https://jmp2.uk/stvp-GB4100003VP
 #EXTINF:-1 tvg-id="GBAK3504503A" tvg-name="GBAK3504503A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504503A_20250107T022859SQUARE.png" group-title="Movies" , Pluto TV Action
 https://jmp2.uk/stvp-GBAK3504503A
 #EXTINF:-1 tvg-id="GB3000041I" tvg-name="GB3000041I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000041I_20251111T012209SQUARE.png" group-title="Movies" , Sony One Action HITS

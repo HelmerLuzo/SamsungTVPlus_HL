@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇪🇸 by HL",
-    "author": "Actualizada 03/12/2025 00:15",
+    "author": "Actualizada 04/12/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/es.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -129,6 +129,13 @@
                     "epgId": "ESBC3500002PW"
                 },
                 {
+                    "name": "Xataka",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES42000022E_20251202T002550SQUARE.png",
+                    "number": "4205",
+                    "url": "https://jmp2.uk/stvp-ES42000022E",
+                    "epgId": "ES42000022E"
+                },
+                {
                     "name": "Azteca Internacional",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20241022T050448SQUARE.png",
                     "number": "4211",
@@ -164,6 +171,13 @@
                     "epgId": "ES4700001VS"
                 },
                 {
+                    "name": "El Mueble",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300006I4_20251202T002547SQUARE.png",
+                    "number": "4220",
+                    "url": "https://jmp2.uk/stvp-ES4300006I4",
+                    "epgId": "ES4300006I4"
+                },
+                {
                     "name": "Coreano by CJ ENM",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20250826T004843SQUARE.png",
                     "number": "4222",
@@ -191,7 +205,7 @@
                     "epgId": "ES400002P5"
                 },
                 {
-                    "name": "RTVE Época",
+                    "name": "RTVE La Promesa",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20251202T002531SQUARE.png",
                     "number": "4235",
                     "url": "https://jmp2.uk/stvp-ES3300006QL",
@@ -287,6 +301,13 @@
                     "number": "4260",
                     "url": "https://jmp2.uk/stvp-ES900001SH",
                     "epgId": "ES900001SH"
+                },
+                {
+                    "name": "RTVE La Moderna",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20251202T002539SQUARE.png",
+                    "number": "4412",
+                    "url": "https://jmp2.uk/stvp-ES33000036Q",
+                    "epgId": "ES33000036Q"
                 }
             ]
         },
@@ -406,13 +427,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crimen.png",
             "stations": [
                 {
-                    "name": "RTVE Crimen",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000079W_20251202T002541SQUARE.png",
-                    "number": "4291",
-                    "url": "https://jmp2.uk/stvp-ES33000079W",
-                    "epgId": "ES33000079W"
-                },
-                {
                     "name": "El Comisario",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png",
                     "number": "4293",
@@ -467,6 +481,13 @@
                     "number": "4305",
                     "url": "https://jmp2.uk/stvp-ES2600005G9",
                     "epgId": "ES2600005G9"
+                },
+                {
+                    "name": "Alerta Cobra",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES45000012U_20251202T002544SQUARE.png",
+                    "number": "4307",
+                    "url": "https://jmp2.uk/stvp-ES45000012U",
+                    "epgId": "ES45000012U"
                 }
             ]
         },
@@ -718,7 +739,7 @@
                     "epgId": "ES300006QJ"
                 },
                 {
-                    "name": "Runtime Familia",
+                    "name": "Runtime Christmas",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20251202T002536SQUARE.png",
                     "number": "4851",
                     "url": "https://jmp2.uk/stvp-ES700004C8",
@@ -1031,6 +1052,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Viajes y Cocina.png",
             "stations": [
                 {
+                    "name": "RTVE Cocina",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000079W_20251202T002541SQUARE.png",
+                    "number": "4291",
+                    "url": "https://jmp2.uk/stvp-ES33000079W",
+                    "epgId": "ES33000079W"
+                },
+                {
                     "name": "Pluto TV Cocina",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png",
                     "number": "4513",
@@ -1084,13 +1112,6 @@
                     "number": "4369",
                     "url": "https://jmp2.uk/stvp-ES2800002MM",
                     "epgId": "ES2800002MM"
-                },
-                {
-                    "name": "RTVE Docs",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20251202T002539SQUARE.png",
-                    "number": "4412",
-                    "url": "https://jmp2.uk/stvp-ES33000036Q",
-                    "epgId": "ES33000036Q"
                 },
                 {
                     "name": "CURIOSITY Now",

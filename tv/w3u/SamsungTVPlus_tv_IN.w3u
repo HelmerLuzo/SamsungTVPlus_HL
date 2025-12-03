@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇳 by HL",
-    "author": "Actualizada 03/12/2025 00:15",
+    "author": "Actualizada 04/12/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/in.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/in.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IN.w3u",
@@ -185,14 +185,14 @@
                 },
                 {
                     "name": "SMTOWN",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900008ZP_20251119T004155SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900008ZP_20251203T010611SQUARE.png",
                     "number": "1460",
                     "url": "https://jmp2.uk/stvp-IN4900008ZP",
                     "epgId": "IN4900008ZP"
                 },
                 {
                     "name": "K-POP by CJ ENM",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800006RD_20251119T004158SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800006RD_20251203T010147SQUARE.png",
                     "number": "1461",
                     "url": "https://jmp2.uk/stvp-IN3800006RD",
                     "epgId": "IN3800006RD"
@@ -238,6 +238,20 @@
             "name": "Hindi News",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Hindi News.png",
             "stations": [
+                {
+                    "name": "India TV News",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000001LP_20251203T010214SQUARE.png",
+                    "number": "1005",
+                    "url": "https://jmp2.uk/stvp-IN4000001LP",
+                    "epgId": "IN4000001LP"
+                },
+                {
+                    "name": "India Daily 24x7",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000007M9_20251203T010211SQUARE.png",
+                    "number": "1007",
+                    "url": "https://jmp2.uk/stvp-IN4000007M9",
+                    "epgId": "IN4000007M9"
+                },
                 {
                     "name": "Aaj Tak HD",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20241024T054104SQUARE.png",
@@ -295,13 +309,6 @@
                     "epgId": "IN3800003SV"
                 },
                 {
-                    "name": "India TV News",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000183G_20240911T003810SQUARE.png",
-                    "number": "1028",
-                    "url": "https://jmp2.uk/stvp-IN26000183G",
-                    "epgId": "IN26000183G"
-                },
-                {
                     "name": "Good News Today",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN17000129W_20241016T011359SQUARE.png",
                     "number": "1029",
@@ -335,13 +342,6 @@
                     "number": "1037",
                     "url": "https://jmp2.uk/stvp-INBD400004NS",
                     "epgId": "INBD400004NS"
-                },
-                {
-                    "name": "India Daily 24x7",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000007M9_20251126T004255SQUARE.png",
-                    "number": "1038",
-                    "url": "https://jmp2.uk/stvp-IN4000007M9",
-                    "epgId": "IN4000007M9"
                 },
                 {
                     "name": "Zee News",
@@ -440,25 +440,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Regional News.png",
             "stations": [
                 {
+                    "name": "ABP Majha",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000005BW_20251203T010204SQUARE.png",
+                    "number": "1006",
+                    "url": "https://jmp2.uk/stvp-IN4000005BW",
+                    "epgId": "IN4000005BW"
+                },
+                {
                     "name": "TV9 Marathi",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000003V7_20251126T004303SQUARE.png",
-                    "number": "1005",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000003V7_20251203T010217SQUARE.png",
+                    "number": "1059",
                     "url": "https://jmp2.uk/stvp-IN4000003V7",
                     "epgId": "IN4000003V7"
-                },
-                {
-                    "name": "TV9 Telugu",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000048N_20251126T004306SQUARE.png",
-                    "number": "1006",
-                    "url": "https://jmp2.uk/stvp-IN40000048N",
-                    "epgId": "IN40000048N"
-                },
-                {
-                    "name": "ABP Majha",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400008VR_20240912T093659SQUARE.png",
-                    "number": "1060",
-                    "url": "https://jmp2.uk/stvp-INBD400008VR",
-                    "epgId": "INBD400008VR"
                 },
                 {
                     "name": "Zee 24 Taas",
@@ -511,10 +504,10 @@
                 },
                 {
                     "name": "ABP Ananda",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400007NT_20240131T032433SQUARE.png_20240131032434.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000006CF_20251203T010201SQUARE.png",
                     "number": "1076",
-                    "url": "https://jmp2.uk/stvp-INBD400007NT",
-                    "epgId": "INBD400007NT"
+                    "url": "https://jmp2.uk/stvp-IN4000006CF",
+                    "epgId": "IN4000006CF"
                 },
                 {
                     "name": "Zee 24 Ghanta",
@@ -557,6 +550,13 @@
                     "number": "1086",
                     "url": "https://jmp2.uk/stvp-INBD25000148M",
                     "epgId": "INBD25000148M"
+                },
+                {
+                    "name": "TV9 Telugu",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000048N_20251203T010221SQUARE.png",
+                    "number": "1093",
+                    "url": "https://jmp2.uk/stvp-IN40000048N",
+                    "epgId": "IN40000048N"
                 },
                 {
                     "name": "ETV News",
@@ -663,13 +663,6 @@
                     "epgId": "IN3900022KR"
                 },
                 {
-                    "name": "Auto Live",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600007DC_20251126T004246SQUARE.png",
-                    "number": "1007",
-                    "url": "https://jmp2.uk/stvp-IN3600007DC",
-                    "epgId": "IN3600007DC"
-                },
-                {
                     "name": "Comedy King",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600006RT_20251126T004249SQUARE.png",
                     "number": "1112",
@@ -731,6 +724,13 @@
                     "number": "1122",
                     "url": "https://jmp2.uk/stvp-IN3900002KB",
                     "epgId": "IN3900002KB"
+                },
+                {
+                    "name": "Auto Live",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600007DC_20251203T010208SQUARE.png",
+                    "number": "1123",
+                    "url": "https://jmp2.uk/stvp-IN3600007DC",
+                    "epgId": "IN3600007DC"
                 },
                 {
                     "name": "Star Central",
