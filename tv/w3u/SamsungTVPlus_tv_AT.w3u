@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇦🇹 by HL",
-    "author": "Actualizada 10/12/2025 00:15",
+    "author": "Actualizada 11/12/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/at.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/at.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_AT.w3u",
@@ -204,20 +204,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
                 {
-                    "name": "Nashville",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4600003EY_20251209T004008SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-AT4600003EY",
-                    "epgId": "AT4600003EY"
-                },
-                {
-                    "name": "Stromberg",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3200012MN_20251209T004021SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-AT3200012MN",
-                    "epgId": "AT3200012MN"
-                },
-                {
                     "name": "Baywatch",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600008HN_20250923T011200SQUARE.png",
                     "number": "4231",
@@ -230,6 +216,13 @@
                     "number": "4232",
                     "url": "https://jmp2.uk/stvp-AT3700002Z3",
                     "epgId": "AT3700002Z3"
+                },
+                {
+                    "name": "Nashville",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4600003EY_20251209T004008SQUARE.png",
+                    "number": "4233",
+                    "url": "https://jmp2.uk/stvp-AT4600003EY",
+                    "epgId": "AT4600003EY"
                 },
                 {
                     "name": "Hudson & Rex",
@@ -316,11 +309,32 @@
                     "epgId": "AT3400004QH"
                 },
                 {
+                    "name": "Stromberg",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3200012MN_20251209T004021SQUARE.png",
+                    "number": "4256",
+                    "url": "https://jmp2.uk/stvp-AT3200012MN",
+                    "epgId": "AT3200012MN"
+                },
+                {
                     "name": "Pluto TV Sitcoms",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504505A_20250916T003136SQUARE.png",
                     "number": "4257",
                     "url": "https://jmp2.uk/stvp-ATAK3504505A",
                     "epgId": "ATAK3504505A"
+                },
+                {
+                    "name": "Vier Frauen & ein Todesfall",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4400005XG_20251209T004027SQUARE.png",
+                    "number": "4261",
+                    "url": "https://jmp2.uk/stvp-AT4400005XG",
+                    "epgId": "AT4400005XG"
+                },
+                {
+                    "name": "Schlosshotel Orth",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4400004GQ_20251209T004012SQUARE.png",
+                    "number": "4262",
+                    "url": "https://jmp2.uk/stvp-AT4400004GQ",
+                    "epgId": "AT4400004GQ"
                 },
                 {
                     "name": "Lindenstraße",
@@ -364,6 +378,13 @@
                     "epgId": "ATBA33000270C"
                 },
                 {
+                    "name": "Abschnitt 40 / GSG9",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3400006VA_20251209T003959SQUARE.png",
+                    "number": "4296",
+                    "url": "https://jmp2.uk/stvp-AT3400006VA",
+                    "epgId": "AT3400006VA"
+                },
+                {
                     "name": "Komissar Montalbano",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3700004SR_20251111T013650SQUARE.png",
                     "number": "4297",
@@ -383,6 +404,13 @@
                     "number": "4302",
                     "url": "https://jmp2.uk/stvp-AT4500001S1",
                     "epgId": "AT4500001S1"
+                },
+                {
+                    "name": "Schnell ermittelt & Cop stories",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4400006FA_20251209T004018SQUARE.png",
+                    "number": "4306",
+                    "url": "https://jmp2.uk/stvp-AT4400006FA",
+                    "epgId": "AT4400006FA"
                 }
             ]
         },
@@ -566,7 +594,7 @@
                 {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2000029T_20251209T004024SQUARE.png",
-                    "number": "4511",
+                    "number": "4002",
                     "url": "https://jmp2.uk/stvp-AT2000029T",
                     "epgId": "AT2000029T"
                 },
@@ -603,6 +631,13 @@
                     "number": "4601",
                     "url": "https://jmp2.uk/stvp-ATBD700001VF",
                     "epgId": "ATBD700001VF"
+                },
+                {
+                    "name": "Laola1 FAST",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3300002K2_20251209T003956SQUARE.png",
+                    "number": "4604",
+                    "url": "https://jmp2.uk/stvp-AT3300002K2",
+                    "epgId": "AT3300002K2"
                 },
                 {
                     "name": "Tennis Channel",
@@ -735,6 +770,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Musik.png",
             "stations": [
                 {
+                    "name": "Deluxe Wintertime",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3400007C0_20251209T004002SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-AT3400007C0",
+                    "epgId": "AT3400007C0"
+                },
+                {
                     "name": "DELUXE RAP",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD3800001SY_20250107T022103SQUARE.png",
                     "number": "4694",
@@ -754,13 +796,6 @@
                     "number": "4698",
                     "url": "https://jmp2.uk/stvp-AT23000017K",
                     "epgId": "AT23000017K"
-                },
-                {
-                    "name": "Deluxe Wintertime",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3400007C0_20251209T004002SQUARE.png",
-                    "number": "4700",
-                    "url": "https://jmp2.uk/stvp-AT3400007C0",
-                    "epgId": "AT3400007C0"
                 },
                 {
                     "name": "GoldStar TV",
@@ -1004,6 +1039,13 @@
                     "number": "4961",
                     "url": "https://jmp2.uk/stvp-ATAK3504514A",
                     "epgId": "ATAK3504514A"
+                },
+                {
+                    "name": "Hochspannung",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT33000033D_20251209T004005SQUARE.png",
+                    "number": "4994",
+                    "url": "https://jmp2.uk/stvp-AT33000033D",
+                    "epgId": "AT33000033D"
                 },
                 {
                     "name": "Sony One Action HITS",

@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇺🇸 by HL",
-    "author": "Actualizada 10/12/2025 00:15",
+    "author": "Actualizada 11/12/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/us.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_US.w3u",
@@ -102,7 +102,7 @@
                 },
                 {
                     "name": "NEWSMAX2",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300028QU_20250325T020239SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300028QU_20251209T230208SQUARE.png",
                     "number": "1170",
                     "url": "https://jmp2.uk/stvp-USBA300028QU",
                     "epgId": "USBA300028QU"
@@ -149,11 +149,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Movies.png",
             "stations": [
                 {
-                    "name": "Hallmark Movies & More",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20251209T013517SQUARE.png",
-                    "number": "1002",
-                    "url": "https://jmp2.uk/stvp-USBD270001633",
-                    "epgId": "USBD270001633"
+                    "name": "Movie Hub Holiday",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400006RQ_20251209T013507SQUARE.png",
+                    "number": "1000",
+                    "url": "https://jmp2.uk/stvp-US3400006RQ",
+                    "epgId": "US3400006RQ"
+                },
+                {
+                    "name": "Holiday Movie Favorites by Lifetime",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20251209T013523SQUARE.png",
+                    "number": "1003",
+                    "url": "https://jmp2.uk/stvp-USBB5200019FO",
+                    "epgId": "USBB5200019FO"
                 },
                 {
                     "name": "Movie Hub",
@@ -191,18 +198,11 @@
                     "epgId": "USBD3500033U0"
                 },
                 {
-                    "name": "Movie Hub Holiday",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400006RQ_20251209T013507SQUARE.png",
-                    "number": "1207",
-                    "url": "https://jmp2.uk/stvp-US3400006RQ",
-                    "epgId": "US3400006RQ"
-                },
-                {
-                    "name": "Holiday Movie Favorites by Lifetime",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20251209T013523SQUARE.png",
-                    "number": "1225",
-                    "url": "https://jmp2.uk/stvp-USBB5200019FO",
-                    "epgId": "USBB5200019FO"
+                    "name": "Hallmark Movies & More",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20251209T013517SQUARE.png",
+                    "number": "1220",
+                    "url": "https://jmp2.uk/stvp-USBD270001633",
+                    "epgId": "USBD270001633"
                 },
                 {
                     "name": "Lifetime Movies Love & Drama",
@@ -406,13 +406,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Action & Drama.png",
             "stations": [
                 {
-                    "name": "Heartland",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900003O3_20251209T013457SQUARE.png",
-                    "number": "1000",
-                    "url": "https://jmp2.uk/stvp-USBB2900003O3",
-                    "epgId": "USBB2900003O3"
-                },
-                {
                     "name": "Samsung Television Network",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20251125T030904SQUARE.png",
                     "number": "1004",
@@ -581,6 +574,13 @@
                     "epgId": "US1900013Z7"
                 },
                 {
+                    "name": "Heartland",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900003O3_20251209T013457SQUARE.png",
+                    "number": "1580",
+                    "url": "https://jmp2.uk/stvp-USBB2900003O3",
+                    "epgId": "USBB2900003O3"
+                },
+                {
                     "name": "Baywatch",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2000001BR_20250707T234337SQUARE.png",
                     "number": "1590",
@@ -607,6 +607,27 @@
                     "number": "1600",
                     "url": "https://jmp2.uk/stvp-USBB320000397",
                     "epgId": "USBB320000397"
+                },
+                {
+                    "name": "Series K Edge",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4400006IX_20251209T005947SQUARE.png",
+                    "number": "1606",
+                    "url": "https://jmp2.uk/stvp-US4400006IX",
+                    "epgId": "US4400006IX"
+                },
+                {
+                    "name": "Series K Legacy",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US440000708_20251209T005954SQUARE.png",
+                    "number": "1607",
+                    "url": "https://jmp2.uk/stvp-US440000708",
+                    "epgId": "US440000708"
+                },
+                {
+                    "name": "Series K Heart",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4300002FK_20251209T005951SQUARE.png",
+                    "number": "1608",
+                    "url": "https://jmp2.uk/stvp-US4300002FK",
+                    "epgId": "US4300002FK"
                 },
                 {
                     "name": "K-Stories by CJ ENM",
@@ -1300,7 +1321,7 @@
                 },
                 {
                     "name": "Hungry",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200009C2_20250428T223309SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200009C2_20251209T230204SQUARE.png",
                     "number": "2118",
                     "url": "https://jmp2.uk/stvp-USAJ2200009C2",
                     "epgId": "USAJ2200009C2"
@@ -1382,6 +1403,13 @@
                     "epgId": "US1400001WV"
                 },
                 {
+                    "name": "The NBA Channel",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3600003R7_20251209T005958SQUARE.png",
+                    "number": "2317",
+                    "url": "https://jmp2.uk/stvp-US3600003R7",
+                    "epgId": "US3600003R7"
+                },
+                {
                     "name": "Victory+",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300063BQ_20251014T231807SQUARE.png",
                     "number": "2320",
@@ -1436,6 +1464,13 @@
                     "number": "2340",
                     "url": "https://jmp2.uk/stvp-US34000040T",
                     "epgId": "US34000040T"
+                },
+                {
+                    "name": "Yahoo! Sports Network",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3200012O8_20251209T010005SQUARE.png",
+                    "number": "2341",
+                    "url": "https://jmp2.uk/stvp-US3200012O8",
+                    "epgId": "US3200012O8"
                 },
                 {
                     "name": "Overtime",
@@ -1529,6 +1564,13 @@
                     "epgId": "US1000004YJ"
                 },
                 {
+                    "name": "Willow Sports",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US20000131M_20251209T010001SQUARE.png",
+                    "number": "2377",
+                    "url": "https://jmp2.uk/stvp-US20000131M",
+                    "epgId": "US20000131M"
+                },
+                {
                     "name": "fubo Sports Network",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20251014T230120SQUARE.png",
                     "number": "2380",
@@ -1606,7 +1648,7 @@
                     "epgId": "US4600010KE"
                 },
                 {
-                    "name": "GOLFPASS",
+                    "name": "GolfPass",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20251209T005933SQUARE.png",
                     "number": "2438",
                     "url": "https://jmp2.uk/stvp-USBB400000145",
@@ -1945,13 +1987,6 @@
                     "number": "2673",
                     "url": "https://jmp2.uk/stvp-US4100003MA",
                     "epgId": "US4100003MA"
-                },
-                {
-                    "name": "ALF",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100023FK_20251209T005936SQUARE.png",
-                    "number": "2674",
-                    "url": "https://jmp2.uk/stvp-US4100023FK",
-                    "epgId": "US4100023FK"
                 },
                 {
                     "name": "Family Ties",
@@ -2405,13 +2440,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sci-Fi & Horror.png",
             "stations": [
                 {
-                    "name": "Ghost Stories",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4200004KK_20251209T013514SQUARE.png",
-                    "number": "1003",
-                    "url": "https://jmp2.uk/stvp-US4200004KK",
-                    "epgId": "US4200004KK"
-                },
-                {
                     "name": "Fear Zone",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20251017T161833SQUARE.png",
                     "number": "3005",
@@ -2461,13 +2489,6 @@
                     "epgId": "USBD1200007FE"
                 },
                 {
-                    "name": "FARSCAPE",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100022W9_20251209T005939SQUARE.png",
-                    "number": "3033",
-                    "url": "https://jmp2.uk/stvp-US4100022W9",
-                    "epgId": "US4100022W9"
-                },
-                {
                     "name": "The Curse of Oak Island",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300002BE_20250805T005837SQUARE.png",
                     "number": "3035",
@@ -2480,6 +2501,13 @@
                     "number": "3045",
                     "url": "https://jmp2.uk/stvp-USBC4400006BR",
                     "epgId": "USBC4400006BR"
+                },
+                {
+                    "name": "Ghost Stories",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4200004KK_20251209T013514SQUARE.png",
+                    "number": "3048",
+                    "url": "https://jmp2.uk/stvp-US4200004KK",
+                    "epgId": "US4200004KK"
                 },
                 {
                     "name": "Alien Nation by DUST",
@@ -2614,7 +2642,7 @@
                     "epgId": "US27000062U"
                 },
                 {
-                    "name": "D&D Adventures",
+                    "name": "Dungeons & Dragons: Adventures",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400005I4_20251209T005943SQUARE.png",
                     "number": "3220",
                     "url": "https://jmp2.uk/stvp-US3400005I4",
@@ -3410,7 +3438,7 @@
                 {
                     "name": "Vevo Holiday",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700012Z0_20251209T013526SQUARE.png",
-                    "number": "4310",
+                    "number": "1002",
                     "url": "https://jmp2.uk/stvp-US3700012Z0",
                     "epgId": "US3700012Z0"
                 },
@@ -3750,11 +3778,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Ambiance.png",
             "stations": [
                 {
-                    "name": "Holiday Fireplace Vibes",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US34000086U_20251209T013520SQUARE.png",
+                    "name": "Christmas Vibes",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400007P5_20251209T013511SQUARE.png",
                     "number": "1001",
-                    "url": "https://jmp2.uk/stvp-US34000086U",
-                    "epgId": "US34000086U"
+                    "url": "https://jmp2.uk/stvp-US3400007P5",
+                    "epgId": "US3400007P5"
                 },
                 {
                     "name": "Ocean Vibes",
@@ -3862,11 +3890,11 @@
                     "epgId": "USBA3800004EL"
                 },
                 {
-                    "name": "Christmas Vibes",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400007P5_20251209T013511SQUARE.png",
-                    "number": "4592",
-                    "url": "https://jmp2.uk/stvp-US3400007P5",
-                    "epgId": "US3400007P5"
+                    "name": "Holiday Fireplace Vibes",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US34000086U_20251209T013520SQUARE.png",
+                    "number": "4590",
+                    "url": "https://jmp2.uk/stvp-US34000086U",
+                    "epgId": "US34000086U"
                 }
             ]
         }

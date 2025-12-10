@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇳 by HL",
-    "author": "Actualizada 10/12/2025 00:15",
+    "author": "Actualizada 11/12/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/in.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/in.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IN.w3u",
@@ -185,7 +185,7 @@
                 },
                 {
                     "name": "SMTOWN",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900008ZP_20251203T010611SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900008ZP_20251210T003940SQUARE.png",
                     "number": "1460",
                     "url": "https://jmp2.uk/stvp-IN4900008ZP",
                     "epgId": "IN4900008ZP"
@@ -552,6 +552,13 @@
                     "epgId": "INBD25000148M"
                 },
                 {
+                    "name": "Malai Murasu Seithikal",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900003LA_20251210T003947SQUARE.png",
+                    "number": "1087",
+                    "url": "https://jmp2.uk/stvp-IN3900003LA",
+                    "epgId": "IN3900003LA"
+                },
+                {
                     "name": "TV9 Telugu",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000048N_20251203T010221SQUARE.png",
                     "number": "1093",
@@ -829,6 +836,13 @@
                     "number": "1138",
                     "url": "https://jmp2.uk/stvp-IN3000010V5",
                     "epgId": "IN3000010V5"
+                },
+                {
+                    "name": "Cine Jomjomat",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100007QM_20251210T003944SQUARE.png",
+                    "number": "1139",
+                    "url": "https://jmp2.uk/stvp-IN2100007QM",
+                    "epgId": "IN2100007QM"
                 }
             ]
         },

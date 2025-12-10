@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇨🇭 by HL",
-    "author": "Actualizada 10/12/2025 00:15",
+    "author": "Actualizada 11/12/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/ch.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/ch.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CH.w3u",
@@ -225,20 +225,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
                 {
-                    "name": "Nashville",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4600002VO_20251209T125804SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-CH4600002VO",
-                    "epgId": "CH4600002VO"
-                },
-                {
-                    "name": "Stromberg",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3200011YH_20251209T125810SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-CH3200011YH",
-                    "epgId": "CH3200011YH"
-                },
-                {
                     "name": "Baywatch",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2600009ZC_20251111T013749SQUARE.png",
                     "number": "4231",
@@ -251,6 +237,13 @@
                     "number": "4232",
                     "url": "https://jmp2.uk/stvp-CH3700002YI",
                     "epgId": "CH3700002YI"
+                },
+                {
+                    "name": "Nashville",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4600002VO_20251209T125804SQUARE.png",
+                    "number": "4233",
+                    "url": "https://jmp2.uk/stvp-CH4600002VO",
+                    "epgId": "CH4600002VO"
                 },
                 {
                     "name": "Hudson & Rex",
@@ -323,6 +316,13 @@
                     "epgId": "CH340000286"
                 },
                 {
+                    "name": "Stromberg",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3200011YH_20251209T125810SQUARE.png",
+                    "number": "4256",
+                    "url": "https://jmp2.uk/stvp-CH3200011YH",
+                    "epgId": "CH3200011YH"
+                },
+                {
                     "name": "Pluto TV Sitcoms",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAK3504505A_20250916T003153SQUARE.png",
                     "number": "4257",
@@ -342,6 +342,20 @@
                     "number": "4260",
                     "url": "https://jmp2.uk/stvp-CHBD200003G1",
                     "epgId": "CHBD200003G1"
+                },
+                {
+                    "name": "Vier Frauen & ein Todesfall",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4400005U9_20251209T125815SQUARE.png",
+                    "number": "4261",
+                    "url": "https://jmp2.uk/stvp-CH4400005U9",
+                    "epgId": "CH4400005U9"
+                },
+                {
+                    "name": "Schlosshotel Orth",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4400004DK_20251209T125807SQUARE.png",
+                    "number": "4262",
+                    "url": "https://jmp2.uk/stvp-CH4400004DK",
+                    "epgId": "CH4400004DK"
                 },
                 {
                     "name": "Lindenstraße",
@@ -385,11 +399,25 @@
                     "epgId": "CHBA3300026CA"
                 },
                 {
+                    "name": "Abschnitt 40 / GSG9",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3400004AF_20251209T125755SQUARE.png",
+                    "number": "4296",
+                    "url": "https://jmp2.uk/stvp-CH3400004AF",
+                    "epgId": "CH3400004AF"
+                },
+                {
                     "name": "Komissar Montalbano",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH37000043J_20251111T013811SQUARE.png",
                     "number": "4297",
                     "url": "https://jmp2.uk/stvp-CH37000043J",
                     "epgId": "CH37000043J"
+                },
+                {
+                    "name": "Schnell ermittelt & Cop stories",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4400006BZ_20251209T004058SQUARE.png",
+                    "number": "4306",
+                    "url": "https://jmp2.uk/stvp-CH4400006BZ",
+                    "epgId": "CH4400006BZ"
                 },
                 {
                     "name": "Faites entrer l'accusé [FR]",
@@ -608,7 +636,7 @@
                 {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH20000288_20251209T125812SQUARE.png",
-                    "number": "4511",
+                    "number": "4002",
                     "url": "https://jmp2.uk/stvp-CH20000288",
                     "epgId": "CH20000288"
                 },
@@ -763,6 +791,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Musik.png",
             "stations": [
                 {
+                    "name": "Deluxe Wintertime",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3400005S4_20251209T125758SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-CH3400005S4",
+                    "epgId": "CH3400005S4"
+                },
+                {
                     "name": "DELUXE RAP",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD38000019N_20250107T025452SQUARE.png",
                     "number": "4694",
@@ -782,13 +817,6 @@
                     "number": "4698",
                     "url": "https://jmp2.uk/stvp-CH2300001O9",
                     "epgId": "CH2300001O9"
-                },
-                {
-                    "name": "Deluxe Wintertime",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3400005S4_20251209T125758SQUARE.png",
-                    "number": "4700",
-                    "url": "https://jmp2.uk/stvp-CH3400005S4",
-                    "epgId": "CH3400005S4"
                 },
                 {
                     "name": "Trace Latina [FR]",
@@ -1046,6 +1074,13 @@
                     "number": "4961",
                     "url": "https://jmp2.uk/stvp-CHAK3504514A",
                     "epgId": "CHAK3504514A"
+                },
+                {
+                    "name": "Hochspannung",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3300002MN_20251209T125801SQUARE.png",
+                    "number": "4994",
+                    "url": "https://jmp2.uk/stvp-CH3300002MN",
+                    "epgId": "CH3300002MN"
                 },
                 {
                     "name": "Drama Filme - Rakuten TV",

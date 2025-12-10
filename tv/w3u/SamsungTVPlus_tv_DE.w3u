@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇩🇪 by HL",
-    "author": "Actualizada 10/12/2025 00:15",
+    "author": "Actualizada 11/12/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
@@ -225,13 +225,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
                 {
-                    "name": "Stromberg",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE32000175T_20251209T125853SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-DE32000175T",
-                    "epgId": "DE32000175T"
-                },
-                {
                     "name": "Baywatch",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD26000020X_20250923T011354SQUARE.png",
                     "number": "4231",
@@ -372,11 +365,32 @@
                     "epgId": "DE3400003PW"
                 },
                 {
+                    "name": "Stromberg",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE32000175T_20251209T125853SQUARE.png",
+                    "number": "4256",
+                    "url": "https://jmp2.uk/stvp-DE32000175T",
+                    "epgId": "DE32000175T"
+                },
+                {
                     "name": "Pluto TV Sitcoms",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504508A_20250107T024006SQUARE.png",
                     "number": "4257",
                     "url": "https://jmp2.uk/stvp-DEAK3504508A",
                     "epgId": "DEAK3504508A"
+                },
+                {
+                    "name": "Vier Frauen & ein Todesfall",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4400005PI_20251209T125856SQUARE.png",
+                    "number": "4261",
+                    "url": "https://jmp2.uk/stvp-DE4400005PI",
+                    "epgId": "DE4400005PI"
+                },
+                {
+                    "name": "Schlosshotel Orth",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE44000048T_20251209T004102SQUARE.png",
+                    "number": "4262",
+                    "url": "https://jmp2.uk/stvp-DE44000048T",
+                    "epgId": "DE44000048T"
                 },
                 {
                     "name": "Lindenstraße",
@@ -420,6 +434,13 @@
                     "epgId": "DE300020D3"
                 },
                 {
+                    "name": "Abschnitt 40 / GSG9",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3400005QJ_20251209T125838SQUARE.png",
+                    "number": "4296",
+                    "url": "https://jmp2.uk/stvp-DE3400005QJ",
+                    "epgId": "DE3400005QJ"
+                },
+                {
                     "name": "Komissar Montalbano",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3700006DB_20251111T014005SQUARE.png",
                     "number": "4297",
@@ -460,6 +481,13 @@
                     "number": "4304",
                     "url": "https://jmp2.uk/stvp-DE1400003DP",
                     "epgId": "DE1400003DP"
+                },
+                {
+                    "name": "Schnell ermittelt & Cop stories",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4400006F5_20251209T125850SQUARE.png",
+                    "number": "4306",
+                    "url": "https://jmp2.uk/stvp-DE4400006F5",
+                    "epgId": "DE4400006F5"
                 }
             ]
         },
@@ -480,6 +508,13 @@
                     "number": "4006",
                     "url": "https://jmp2.uk/stvp-DEBD800001S4",
                     "epgId": "DEBD800001S4"
+                },
+                {
+                    "name": "Nachrichten 360",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4300003MR_20251209T125847SQUARE.png",
+                    "number": "4552",
+                    "url": "https://jmp2.uk/stvp-DE4300003MR",
+                    "epgId": "DE4300003MR"
                 },
                 {
                     "name": "CNN Headlines",
@@ -883,6 +918,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Musik.png",
             "stations": [
                 {
+                    "name": "Deluxe Wintertime",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE340000678_20251209T125841SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-DE340000678",
+                    "epgId": "DE340000678"
+                },
+                {
                     "name": "Vevo Pop",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2100001ZJ_20250107T024435SQUARE.png",
                     "number": "4682",
@@ -923,13 +965,6 @@
                     "number": "4698",
                     "url": "https://jmp2.uk/stvp-DE23000015Y",
                     "epgId": "DE23000015Y"
-                },
-                {
-                    "name": "Deluxe Wintertime",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE340000678_20251209T125841SQUARE.png",
-                    "number": "4700",
-                    "url": "https://jmp2.uk/stvp-DE340000678",
-                    "epgId": "DE340000678"
                 },
                 {
                     "name": "XITE Hits",
@@ -1161,6 +1196,13 @@
                     "epgId": "DEAJ0500419A"
                 },
                 {
+                    "name": "Merhaba Türkische Filme",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3900004ZH_20251209T005109SQUARE.png",
+                    "number": "4883",
+                    "url": "https://jmp2.uk/stvp-DE3900004ZH",
+                    "epgId": "DE3900004ZH"
+                },
+                {
                     "name": "Moviesphere by Lionsgate",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4000002I3_20250107T024903SQUARE.png",
                     "number": "4885",
@@ -1278,6 +1320,13 @@
                     "number": "4961",
                     "url": "https://jmp2.uk/stvp-DEAK3504517A",
                     "epgId": "DEAK3504517A"
+                },
+                {
+                    "name": "Hochspannung",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE33000025Y_20251209T125844SQUARE.png",
+                    "number": "4994",
+                    "url": "https://jmp2.uk/stvp-DE33000025Y",
+                    "epgId": "DE33000025Y"
                 },
                 {
                     "name": "Sony One Action HITS",
