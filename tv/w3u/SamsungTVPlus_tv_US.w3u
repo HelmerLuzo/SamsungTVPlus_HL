@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇺🇸 by HL",
-    "author": "Actualizada 16/12/2025 00:15",
+    "author": "Actualizada 17/12/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/us.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_US.w3u",
@@ -45,6 +45,34 @@
                     "epgId": "USBD3000073N"
                 },
                 {
+                    "name": "NBC Chicago News",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500002OJ_20241112T001253SQUARE.png",
+                    "number": "1122",
+                    "url": "https://jmp2.uk/stvp-USBC1500002OJ",
+                    "epgId": "USBC1500002OJ"
+                },
+                {
+                    "name": "ABC7 Chicago",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300019RE_20241112T001346SQUARE.png",
+                    "number": "1123",
+                    "url": "https://jmp2.uk/stvp-USBD300019RE",
+                    "epgId": "USBD300019RE"
+                },
+                {
+                    "name": "CBS News Chicago",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000081I_20241112T001555SQUARE.png",
+                    "number": "1124",
+                    "url": "https://jmp2.uk/stvp-USBD7000081I",
+                    "epgId": "USBD7000081I"
+                },
+                {
+                    "name": "FOX LOCAL Chicago",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300002A3_20251028T010910SQUARE.png",
+                    "number": "1125",
+                    "url": "https://jmp2.uk/stvp-USBD3300002A3",
+                    "epgId": "USBD3300002A3"
+                },
+                {
                     "name": "FOX Weather",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20250909T213109SQUARE.png",
                     "number": "1130",
@@ -52,11 +80,11 @@
                     "epgId": "USBD700003L7"
                 },
                 {
-                    "name": "WeatherNation",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20241112T000830SQUARE.png",
+                    "name": "WN Chicago",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC15000128G_20241112T001917SQUARE.png",
                     "number": "1135",
-                    "url": "https://jmp2.uk/stvp-USBC1500009LD",
-                    "epgId": "USBC1500009LD"
+                    "url": "https://jmp2.uk/stvp-USBC15000128G",
+                    "epgId": "USBC15000128G"
                 },
                 {
                     "name": "BBC News",
@@ -150,21 +178,21 @@
             "stations": [
                 {
                     "name": "Movie Hub Holiday",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400006RQ_20251209T013507SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400006RQ_20251216T003717SQUARE.png",
                     "number": "1000",
                     "url": "https://jmp2.uk/stvp-US3400006RQ",
                     "epgId": "US3400006RQ"
                 },
                 {
                     "name": "Holiday Movie Favorites by Lifetime",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20251209T013523SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20251216T003711SQUARE.png",
                     "number": "1003",
                     "url": "https://jmp2.uk/stvp-USBB5200019FO",
                     "epgId": "USBB5200019FO"
                 },
                 {
                     "name": "Movie Hub",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20251202T005848SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20251216T003701SQUARE.png",
                     "number": "1200",
                     "url": "https://jmp2.uk/stvp-USBA3000041ZP",
                     "epgId": "USBA3000041ZP"
@@ -407,7 +435,7 @@
             "stations": [
                 {
                     "name": "Samsung Television Network",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20251125T030904SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20251216T003720SQUARE.png",
                     "number": "1004",
                     "url": "https://jmp2.uk/stvp-US300068X7",
                     "epgId": "US300068X7"
@@ -1139,7 +1167,7 @@
                 },
                 {
                     "name": "Home.Made.Nation",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000006X5_20250805T005643SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000006X5_20251216T003637SQUARE.png",
                     "number": "2010",
                     "url": "https://jmp2.uk/stvp-USAJ3000006X5",
                     "epgId": "USAJ3000006X5"
@@ -1501,6 +1529,13 @@
                     "epgId": "US2900014UU"
                 },
                 {
+                    "name": "CHGO Sports",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300005V2_20241112T001706SQUARE.png",
+                    "number": "2348",
+                    "url": "https://jmp2.uk/stvp-US3300005V2",
+                    "epgId": "US3300005V2"
+                },
+                {
                     "name": "UFC",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900017P2_20241125T235015SQUARE.png",
                     "number": "2350",
@@ -1850,7 +1885,7 @@
                 },
                 {
                     "name": "AFV with Alfonso Ribeiro",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100038R9_20251202T005904SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100038R9_20251216T003703SQUARE.png",
                     "number": "2621",
                     "url": "https://jmp2.uk/stvp-US4100038R9",
                     "epgId": "US4100038R9"
@@ -2115,7 +2150,7 @@
                 },
                 {
                     "name": "America's Got Talent",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500006VF_20251125T030908SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500006VF_20251216T003706SQUARE.png",
                     "number": "2727",
                     "url": "https://jmp2.uk/stvp-US3500006VF",
                     "epgId": "US3500006VF"
@@ -3437,7 +3472,7 @@
             "stations": [
                 {
                     "name": "Vevo Holiday",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700012Z0_20251209T013526SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700012Z0_20251216T003729SQUARE.png",
                     "number": "1002",
                     "url": "https://jmp2.uk/stvp-US3700012Z0",
                     "epgId": "US3700012Z0"
@@ -3766,7 +3801,7 @@
                 },
                 {
                     "name": "Stingray Greatest Holiday Hits",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20251110T235026SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20251216T003726SQUARE.png",
                     "number": "4482",
                     "url": "https://jmp2.uk/stvp-USBD3500022DN",
                     "epgId": "USBD3500022DN"
@@ -3779,7 +3814,7 @@
             "stations": [
                 {
                     "name": "Christmas Vibes",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400007P5_20251209T013511SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400007P5_20251216T003708SQUARE.png",
                     "number": "1001",
                     "url": "https://jmp2.uk/stvp-US3400007P5",
                     "epgId": "US3400007P5"
