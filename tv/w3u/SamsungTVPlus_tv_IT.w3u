@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 17/12/2025 00:15",
+    "author": "Actualizada 18/12/2025 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -12,9 +12,16 @@
                 {
                     "name": "Cine Natale",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20251216T040647SQUARE.png",
-                    "number": "4001",
+                    "number": "4002",
                     "url": "https://jmp2.uk/stvp-IT3800001XM",
                     "epgId": "IT3800001XM"
+                },
+                {
+                    "name": "Natale con Cinemadame",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20251216T040653SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-ITBD1400003D0",
+                    "epgId": "ITBD1400003D0"
                 },
                 {
                     "name": "Film Top - Rakuten TV",
@@ -57,13 +64,6 @@
                     "number": "4872",
                     "url": "https://jmp2.uk/stvp-ITBC1100003KC",
                     "epgId": "ITBC1100003KC"
-                },
-                {
-                    "name": "Natale con Cinemadame",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20251216T040653SQUARE.png",
-                    "number": "4873",
-                    "url": "https://jmp2.uk/stvp-ITBD1400003D0",
-                    "epgId": "ITBD1400003D0"
                 },
                 {
                     "name": "Pluto TV Film",
@@ -532,6 +532,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Calcio.png",
             "stations": [
                 {
+                    "name": "Sportitalia",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200010O1_20251216T040639SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-ITBA2200010O1",
+                    "epgId": "ITBA2200010O1"
+                },
+                {
                     "name": "FIFA+",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1000002HF_20250513T010658SQUARE.png",
                     "number": "4631",
@@ -544,13 +551,6 @@
                     "number": "4633",
                     "url": "https://jmp2.uk/stvp-ITBC4700002CO",
                     "epgId": "ITBC4700002CO"
-                },
-                {
-                    "name": "Sportitalia",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200010O1_20251216T040639SQUARE.png",
-                    "number": "4635",
-                    "url": "https://jmp2.uk/stvp-ITBA2200010O1",
-                    "epgId": "ITBA2200010O1"
                 },
                 {
                     "name": "RBN",
@@ -1120,13 +1120,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Cucina & Viaggi.png",
             "stations": [
                 {
-                    "name": "Gambero Rosso",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20251216T040650SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-IT500011RG",
-                    "epgId": "IT500011RG"
-                },
-                {
                     "name": "Hell's Kitchen",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3900003FE_20250211T014001SQUARE.png",
                     "number": "4513",
@@ -1139,6 +1132,13 @@
                     "number": "4515",
                     "url": "https://jmp2.uk/stvp-ITBD4100007LO",
                     "epgId": "ITBD4100007LO"
+                },
+                {
+                    "name": "Gambero Rosso",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20251216T040650SQUARE.png",
+                    "number": "4516",
+                    "url": "https://jmp2.uk/stvp-IT500011RG",
+                    "epgId": "IT500011RG"
                 },
                 {
                     "name": "Viaggi & Sapori",
@@ -1182,13 +1182,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Musica.png",
             "stations": [
                 {
-                    "name": "Vevo Natale",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3500001Q6_20251216T040655SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-IT3500001Q6",
-                    "epgId": "IT3500001Q6"
-                },
-                {
                     "name": "Vevo Pop",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC2100001G9_20241022T043927SQUARE.png",
                     "number": "4682",
@@ -1208,6 +1201,13 @@
                     "number": "4686",
                     "url": "https://jmp2.uk/stvp-ITBC210000200",
                     "epgId": "ITBC210000200"
+                },
+                {
+                    "name": "Vevo Natale",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3500001Q6_20251216T040655SQUARE.png",
+                    "number": "4690",
+                    "url": "https://jmp2.uk/stvp-IT3500001Q6",
+                    "epgId": "IT3500001Q6"
                 },
                 {
                     "name": "Trace Urban",
