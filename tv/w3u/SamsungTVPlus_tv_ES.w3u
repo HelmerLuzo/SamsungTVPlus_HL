@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇪🇸 by HL",
-    "author": "Actualizada 31/12/2025 00:15",
+    "author": "Actualizada 01/01/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/es.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -10,11 +10,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entretenimiento.png",
             "stations": [
                 {
-                    "name": "Canal Sur Andalucía",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20251230T030914SQUARE.png",
+                    "name": "La 1",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20251230T030921SQUARE.png",
                     "number": "4001",
-                    "url": "https://jmp2.uk/stvp-ESBD3000002GP",
-                    "epgId": "ESBD3000002GP"
+                    "url": "https://jmp2.uk/stvp-ESBC4100001NZ",
+                    "epgId": "ESBC4100001NZ"
                 },
                 {
                     "name": "Estilo y Vida – Rakuten TV",
@@ -24,11 +24,11 @@
                     "epgId": "ES26000068D"
                 },
                 {
-                    "name": "La 1",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20251230T030921SQUARE.png",
-                    "number": "4007",
-                    "url": "https://jmp2.uk/stvp-ESBC4100001NZ",
-                    "epgId": "ESBC4100001NZ"
+                    "name": "Canal Sur Andalucía",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20251230T030914SQUARE.png",
+                    "number": "4031",
+                    "url": "https://jmp2.uk/stvp-ESBD3000002GP",
+                    "epgId": "ESBD3000002GP"
                 },
                 {
                     "name": "La 2",
@@ -200,7 +200,7 @@
                 {
                     "name": "Cuéntame cómo pasó",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20251230T030917SQUARE.png",
-                    "number": "4002",
+                    "number": "4006",
                     "url": "https://jmp2.uk/stvp-ES400002P5",
                     "epgId": "ES400002P5"
                 },
@@ -217,13 +217,6 @@
                     "number": "4236",
                     "url": "https://jmp2.uk/stvp-ES33000036Q",
                     "epgId": "ES33000036Q"
-                },
-                {
-                    "name": "Baywatch – Los Vigilantes de la Playa",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20251230T030910SQUARE.png",
-                    "number": "4237",
-                    "url": "https://jmp2.uk/stvp-ESBD1300001EP",
-                    "epgId": "ESBD1300001EP"
                 },
                 {
                     "name": "FreeTV Estelar",
@@ -496,6 +489,20 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Deporte.png",
             "stations": [
                 {
+                    "name": "Tennis+",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES20000065W_20251230T030932SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-ES20000065W",
+                    "epgId": "ES20000065W"
+                },
+                {
+                    "name": "Red Bull TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800001V1_20251230T030925SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-ES3800001V1",
+                    "epgId": "ES3800001V1"
+                },
+                {
                     "name": "Tennis Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20250923T011606SQUARE.png",
                     "number": "4603",
@@ -508,20 +515,6 @@
                     "number": "4605",
                     "url": "https://jmp2.uk/stvp-ES30000091V",
                     "epgId": "ES30000091V"
-                },
-                {
-                    "name": "Tennis+",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES20000065W_20251230T030932SQUARE.png",
-                    "number": "4606",
-                    "url": "https://jmp2.uk/stvp-ES20000065W",
-                    "epgId": "ES20000065W"
-                },
-                {
-                    "name": "Red Bull TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800001V1_20251230T030925SQUARE.png",
-                    "number": "4609",
-                    "url": "https://jmp2.uk/stvp-ES3800001V1",
-                    "epgId": "ES3800001V1"
                 },
                 {
                     "name": "Teledeporte",
@@ -734,12 +727,12 @@
                 {
                     "name": "Runtime Christmas",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20251230T030929SQUARE.png",
-                    "number": "4003",
+                    "number": "4851",
                     "url": "https://jmp2.uk/stvp-ES700004C8",
                     "epgId": "ES700004C8"
                 },
                 {
-                    "name": "100% Navidad - Rakuten TV",
+                    "name": "En Familia - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20251230T030900SQUARE.png",
                     "number": "4852",
                     "url": "https://jmp2.uk/stvp-ES260001081",

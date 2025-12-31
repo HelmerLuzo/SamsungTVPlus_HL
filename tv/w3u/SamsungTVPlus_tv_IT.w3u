@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 31/12/2025 00:15",
+    "author": "Actualizada 01/01/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -10,18 +10,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Film.png",
             "stations": [
                 {
-                    "name": "Cine Natale",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20251230T031333SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-IT3800001XM",
-                    "epgId": "IT3800001XM"
-                },
-                {
-                    "name": "Natale con Cinemadame",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20251230T031336SQUARE.png",
+                    "name": "Cinema italiano",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000238E_20251230T031251SQUARE.png",
                     "number": "4003",
-                    "url": "https://jmp2.uk/stvp-ITBD1400003D0",
-                    "epgId": "ITBD1400003D0"
+                    "url": "https://jmp2.uk/stvp-ITBA33000238E",
+                    "epgId": "ITBA33000238E"
                 },
                 {
                     "name": "Film Top - Rakuten TV",
@@ -31,18 +24,11 @@
                     "epgId": "IT2600002F6"
                 },
                 {
-                    "name": "100% Natale - Rakuten TV",
+                    "name": "Family - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600010E0_20251230T031311SQUARE.png",
                     "number": "4852",
                     "url": "https://jmp2.uk/stvp-IT2600010E0",
                     "epgId": "IT2600010E0"
-                },
-                {
-                    "name": "Cinema italiano",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000238E_20251230T031251SQUARE.png",
-                    "number": "4868",
-                    "url": "https://jmp2.uk/stvp-ITBA33000238E",
-                    "epgId": "ITBA33000238E"
                 },
                 {
                     "name": "Alberto Sordi & Co",
@@ -66,6 +52,13 @@
                     "epgId": "ITBC1100003KC"
                 },
                 {
+                    "name": "Natale con Cinemadame",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20251230T031336SQUARE.png",
+                    "number": "4873",
+                    "url": "https://jmp2.uk/stvp-ITBD1400003D0",
+                    "epgId": "ITBD1400003D0"
+                },
+                {
                     "name": "Pluto TV Film",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ38000055E_20241022T051450SQUARE.png",
                     "number": "4876",
@@ -78,6 +71,13 @@
                     "number": "4880",
                     "url": "https://jmp2.uk/stvp-ITBD600001CL",
                     "epgId": "ITBD600001CL"
+                },
+                {
+                    "name": "Cine Natale",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20251230T031333SQUARE.png",
+                    "number": "4884",
+                    "url": "https://jmp2.uk/stvp-IT3800001XM",
+                    "epgId": "IT3800001XM"
                 },
                 {
                     "name": "Film Al Femminile - Wedo Movies",
@@ -463,13 +463,6 @@
                     "epgId": "ITAJ3800006UB"
                 },
                 {
-                    "name": "U-Trend",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1300004A2_20251230T031330SQUARE.png",
-                    "number": "4076",
-                    "url": "https://jmp2.uk/stvp-ITBD1300004A2",
-                    "epgId": "ITBD1300004A2"
-                },
-                {
                     "name": "Mudù - Risate dal Sud",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200006YF_20241022T044114SQUARE.png",
                     "number": "4163",
@@ -691,6 +684,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serie TV.png",
             "stations": [
                 {
+                    "name": "Vita Da Strega",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2000003B8_20251230T031340SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-IT2000003B8",
+                    "epgId": "IT2000003B8"
+                },
+                {
                     "name": "BBC Series",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2900001B5_20250916T003606SQUARE.png",
                     "number": "4233",
@@ -712,13 +712,6 @@
                     "epgId": "ITBD4100001MG"
                 },
                 {
-                    "name": "Vita Da Strega",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2000003B8_20251230T031340SQUARE.png",
-                    "number": "4240",
-                    "url": "https://jmp2.uk/stvp-IT2000003B8",
-                    "epgId": "IT2000003B8"
-                },
-                {
                     "name": "Andromeda",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200003HL_20241022T051531SQUARE.png",
                     "number": "4241",
@@ -731,13 +724,6 @@
                     "number": "4244",
                     "url": "https://jmp2.uk/stvp-IT500007X2",
                     "epgId": "IT500007X2"
-                },
-                {
-                    "name": "Baywatch",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1300001FA_20251230T031320SQUARE.png",
-                    "number": "4245",
-                    "url": "https://jmp2.uk/stvp-ITBD1300001FA",
-                    "epgId": "ITBD1300001FA"
                 },
                 {
                     "name": "Mutant X",
@@ -987,20 +973,6 @@
                     "number": "4782",
                     "url": "https://jmp2.uk/stvp-IT5000006B7",
                     "epgId": "IT5000006B7"
-                },
-                {
-                    "name": "Frisbee",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900005HF_20251230T031324SQUARE.png",
-                    "number": "4798",
-                    "url": "https://jmp2.uk/stvp-IT900005HF",
-                    "epgId": "IT900005HF"
-                },
-                {
-                    "name": "K2",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900009KL_20251230T031327SQUARE.png",
-                    "number": "4800",
-                    "url": "https://jmp2.uk/stvp-IT900009KL",
-                    "epgId": "IT900009KL"
                 },
                 {
                     "name": "SuperToons TV",

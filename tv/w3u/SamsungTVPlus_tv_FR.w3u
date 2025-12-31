@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇫🇷 by HL",
-    "author": "Actualizada 31/12/2025 00:15",
+    "author": "Actualizada 01/01/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/fr.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/fr.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_FR.w3u",
@@ -12,7 +12,7 @@
                 {
                     "name": "Les Anges",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100001DF_20251230T031043SQUARE.png",
-                    "number": "4064",
+                    "number": "4006",
                     "url": "https://jmp2.uk/stvp-FRBD4100001DF",
                     "epgId": "FRBD4100001DF"
                 },
@@ -261,7 +261,7 @@
                 {
                     "name": "Plus belle la vie",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD37000020Y_20251230T031046SQUARE.png",
-                    "number": "4007",
+                    "number": "4001",
                     "url": "https://jmp2.uk/stvp-FRBD37000020Y",
                     "epgId": "FRBD37000020Y"
                 },
@@ -606,13 +606,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Voyages et Gastronomie.png",
             "stations": [
                 {
-                    "name": "Invitation au voyage",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700004HZ_20251230T031040SQUARE.png",
-                    "number": "4006",
-                    "url": "https://jmp2.uk/stvp-FR3700004HZ",
-                    "epgId": "FR3700004HZ"
-                },
-                {
                     "name": "Chefclub TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB3900001PZ_20241015T040912SQUARE.png",
                     "number": "4515",
@@ -639,6 +632,13 @@
                     "number": "4524",
                     "url": "https://jmp2.uk/stvp-FR3600005C7",
                     "epgId": "FR3600005C7"
+                },
+                {
+                    "name": "Invitation au voyage",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700004HZ_20251230T031040SQUARE.png",
+                    "number": "4526",
+                    "url": "https://jmp2.uk/stvp-FR3700004HZ",
+                    "epgId": "FR3700004HZ"
                 },
                 {
                     "name": "TV5 MONDE+ Chefs",
@@ -765,13 +765,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sports.png",
             "stations": [
                 {
-                    "name": "AFTER FOOT TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100002RF_20251230T031034SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-FR1100002RF",
-                    "epgId": "FR1100002RF"
-                },
-                {
                     "name": "L'Equipe",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR200016Y5_20250422T103213SQUARE.png",
                     "number": "4604",
@@ -784,6 +777,13 @@
                     "number": "4611",
                     "url": "https://jmp2.uk/stvp-FR5000002SW",
                     "epgId": "FR5000002SW"
+                },
+                {
+                    "name": "AFTER FOOT TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100002RF_20251230T031034SQUARE.png",
+                    "number": "4632",
+                    "url": "https://jmp2.uk/stvp-FR1100002RF",
+                    "epgId": "FR1100002RF"
                 },
                 {
                     "name": "FIFA+",
@@ -903,13 +903,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Jeunesse.png",
             "stations": [
                 {
-                    "name": "100% Kidz",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3400004L5_20251230T031031SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-FR3400004L5",
-                    "epgId": "FR3400004L5"
-                },
-                {
                     "name": "Caillou",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4800002NE_20250121T012923SQUARE.png",
                     "number": "4775",
@@ -931,25 +924,11 @@
                     "epgId": "FR700001VJ"
                 },
                 {
-                    "name": "Garfield",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600001MQ_20251230T031027SQUARE.png",
-                    "number": "4781",
-                    "url": "https://jmp2.uk/stvp-FRBB4600001MQ",
-                    "epgId": "FRBB4600001MQ"
-                },
-                {
                     "name": "Wonderland Kids TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800002C4_20250722T005829SQUARE.png",
                     "number": "4783",
                     "url": "https://jmp2.uk/stvp-FR1800002C4",
                     "epgId": "FR1800002C4"
-                },
-                {
-                    "name": "Xilam TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300018I9_20241112T093119SQUARE.png",
-                    "number": "4799",
-                    "url": "https://jmp2.uk/stvp-FRBA3300018I9",
-                    "epgId": "FRBA3300018I9"
                 },
                 {
                     "name": "Les Lapins Crétins",
@@ -1001,6 +980,13 @@
                     "epgId": "FRAJ38000035M"
                 },
                 {
+                    "name": "100% Kidz",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3400004L5_20251230T031031SQUARE.png",
+                    "number": "4815",
+                    "url": "https://jmp2.uk/stvp-FR3400004L5",
+                    "epgId": "FR3400004L5"
+                },
+                {
                     "name": "iCarly",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000061J_20241106T142552SQUARE.png",
                     "number": "4825",
@@ -1014,6 +1000,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Cinéma.png",
             "stations": [
                 {
+                    "name": "Box Office Action",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20251230T031037SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-FR370000288",
+                    "epgId": "FR370000288"
+                },
+                {
                     "name": "Top Films - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600007CB_20250415T020909SQUARE.png",
                     "number": "4005",
@@ -1021,7 +1014,7 @@
                     "epgId": "FR2600007CB"
                 },
                 {
-                    "name": "100% Noël - Rakuten TV",
+                    "name": "Famille - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20251230T031018SQUARE.png",
                     "number": "4852",
                     "url": "https://jmp2.uk/stvp-FR2600001PI",
@@ -1194,13 +1187,6 @@
                     "number": "4993",
                     "url": "https://jmp2.uk/stvp-FR4000002JN",
                     "epgId": "FR4000002JN"
-                },
-                {
-                    "name": "Box Office Action",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20251230T031037SQUARE.png",
-                    "number": "4994",
-                    "url": "https://jmp2.uk/stvp-FR370000288",
-                    "epgId": "FR370000288"
                 },
                 {
                     "name": "Sony One Action HITS",

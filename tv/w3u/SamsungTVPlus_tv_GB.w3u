@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 31/12/2025 00:15",
+    "author": "Actualizada 01/01/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -10,18 +10,25 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
                 {
-                    "name": "Festive Hub",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC400000345_20251230T031152SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-GBBC400000345",
-                    "epgId": "GBBC400000345"
+                    "name": "Who Wants to be a Millionaire",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4200010V1_20251230T031202SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-GB4200010V1",
+                    "epgId": "GB4200010V1"
                 },
                 {
                     "name": "Entertainment Hub",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20251230T031148SQUARE.png",
-                    "number": "4002",
+                    "number": "4007",
                     "url": "https://jmp2.uk/stvp-GBBC2300003ZQ",
                     "epgId": "GBBC2300003ZQ"
+                },
+                {
+                    "name": "Festive Hub",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC400000345_20251230T031152SQUARE.png",
+                    "number": "4009",
+                    "url": "https://jmp2.uk/stvp-GBBC400000345",
+                    "epgId": "GBBC400000345"
                 },
                 {
                     "name": "U&Laughs",
@@ -106,13 +113,6 @@
                     "number": "4122",
                     "url": "https://jmp2.uk/stvp-GB500007VM",
                     "epgId": "GB500007VM"
-                },
-                {
-                    "name": "Who Wants to be a Millionaire",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4200010V1_20251230T031202SQUARE.png",
-                    "number": "4126",
-                    "url": "https://jmp2.uk/stvp-GB4200010V1",
-                    "epgId": "GB4200010V1"
                 },
                 {
                     "name": "The Graham Norton Show",
@@ -240,6 +240,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality.png",
             "stations": [
                 {
+                    "name": "Keeping Up With...",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3500003E5_20251230T031155SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-GB3500003E5",
+                    "epgId": "GB3500003E5"
+                },
+                {
                     "name": "Project Runway",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB4600001IK_20250107T030734SQUARE.png",
                     "number": "4062",
@@ -259,13 +266,6 @@
                     "number": "4065",
                     "url": "https://jmp2.uk/stvp-GBBC2300001X5",
                     "epgId": "GBBC2300001X5"
-                },
-                {
-                    "name": "Keeping Up With...",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3500003E5_20251230T031155SQUARE.png",
-                    "number": "4067",
-                    "url": "https://jmp2.uk/stvp-GB3500003E5",
-                    "epgId": "GB3500003E5"
                 },
                 {
                     "name": "The Osbournes",
@@ -380,13 +380,6 @@
                     "epgId": "GB2600021LP"
                 },
                 {
-                    "name": "The Great Christmas Light Fight",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3900007C6_20251230T031146SQUARE.png",
-                    "number": "4099",
-                    "url": "https://jmp2.uk/stvp-GB3900007C6",
-                    "epgId": "GB3900007C6"
-                },
-                {
                     "name": "Catfish",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA330003941_20251013T054307SQUARE.png",
                     "number": "4100",
@@ -461,13 +454,6 @@
                     "number": "4238",
                     "url": "https://jmp2.uk/stvp-GB37000041H",
                     "epgId": "GB37000041H"
-                },
-                {
-                    "name": "Baywatch",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20251230T031142SQUARE.png",
-                    "number": "4239",
-                    "url": "https://jmp2.uk/stvp-GBBD600002XT",
-                    "epgId": "GBBD600002XT"
                 },
                 {
                     "name": "Demand Drama",
@@ -986,7 +972,7 @@
                 {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4000002H3_20251230T031159SQUARE.png",
-                    "number": "4003",
+                    "number": "4511",
                     "url": "https://jmp2.uk/stvp-GBBC4000002H3",
                     "epgId": "GBBC4000002H3"
                 },
@@ -1150,6 +1136,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sport.png",
             "stations": [
                 {
+                    "name": "Tennis Channel",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000529G_20251230T031100SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-GBBA33000529G",
+                    "epgId": "GBBA33000529G"
+                },
+                {
                     "name": "talkSPORT",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB30003577_20250131T145302SQUARE.png",
                     "number": "4603",
@@ -1169,13 +1162,6 @@
                     "number": "4605",
                     "url": "https://jmp2.uk/stvp-GB300036IM",
                     "epgId": "GB300036IM"
-                },
-                {
-                    "name": "Tennis Channel",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000529G_20251230T031100SQUARE.png",
-                    "number": "4606",
-                    "url": "https://jmp2.uk/stvp-GBBA33000529G",
-                    "epgId": "GBBA33000529G"
                 },
                 {
                     "name": "Tennis+",
@@ -1574,7 +1560,7 @@
                     "epgId": "GB2600020OP"
                 },
                 {
-                    "name": "100% Christmas - Rakuten TV",
+                    "name": "Family - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600017PX_20251230T031130SQUARE.png",
                     "number": "4852",
                     "url": "https://jmp2.uk/stvp-GB2600017PX",
@@ -1658,7 +1644,7 @@
                     "epgId": "GBAJ400042T1"
                 },
                 {
-                    "name": "Christmas Movies by Lifetime",
+                    "name": "Lifetime Movies",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB37000067A_20251230T031133SQUARE.png",
                     "number": "4894",
                     "url": "https://jmp2.uk/stvp-GB37000067A",
