@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇦🇹 by HL",
-    "author": "Actualizada 14/01/2026 00:15",
+    "author": "Actualizada 15/01/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/at.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/at.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_AT.w3u",
@@ -12,7 +12,7 @@
                 {
                     "name": "Comedy Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD41000046O_20260113T032051SQUARE.png",
-                    "number": "4007",
+                    "number": "4001",
                     "url": "https://jmp2.uk/stvp-ATBD41000046O",
                     "epgId": "ATBD41000046O"
                 },
@@ -197,13 +197,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
                 {
-                    "name": "Hudson & Rex",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20260113T032054SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-AT4800002G5",
-                    "epgId": "AT4800002G5"
-                },
-                {
                     "name": "Heartland",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3700002Z3_20251111T013644SQUARE.png",
                     "number": "4232",
@@ -216,6 +209,13 @@
                     "number": "4233",
                     "url": "https://jmp2.uk/stvp-AT4600003EY",
                     "epgId": "AT4600003EY"
+                },
+                {
+                    "name": "Hudson & Rex",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20260113T032054SQUARE.png",
+                    "number": "4234",
+                    "url": "https://jmp2.uk/stvp-AT4800002G5",
+                    "epgId": "AT4800002G5"
                 },
                 {
                     "name": "AMC Stories",
@@ -343,18 +343,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
-                    "name": "Alarm für Cobra 11 / Balko",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300009BI_20260113T032048SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-AT300009BI",
-                    "epgId": "AT300009BI"
-                },
-                {
                     "name": "Crime Serien - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT260000634_20250415T021529SQUARE.png",
                     "number": "4005",
                     "url": "https://jmp2.uk/stvp-AT260000634",
                     "epgId": "AT260000634"
+                },
+                {
+                    "name": "Alarm für Cobra 11 / Balko",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300009BI_20260113T032048SQUARE.png",
+                    "number": "4292",
+                    "url": "https://jmp2.uk/stvp-AT300009BI",
+                    "epgId": "AT300009BI"
                 },
                 {
                     "name": "Top Serien",
@@ -460,13 +460,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
-                    "name": "Wilder Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300031VR_20260113T032043SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-ATBA3300031VR",
-                    "epgId": "ATBA3300031VR"
-                },
-                {
                     "name": "The Wicked Tuna Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC3900001W3_20250107T022235SQUARE.png",
                     "number": "4352",
@@ -535,6 +528,13 @@
                     "number": "4435",
                     "url": "https://jmp2.uk/stvp-ATAK3504503A",
                     "epgId": "ATAK3504503A"
+                },
+                {
+                    "name": "Wilder Planet",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300031VR_20260113T032043SQUARE.png",
+                    "number": "4486",
+                    "url": "https://jmp2.uk/stvp-ATBA3300031VR",
+                    "epgId": "ATBA3300031VR"
                 },
                 {
                     "name": "One Terra",
@@ -612,6 +612,20 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sport.png",
             "stations": [
                 {
+                    "name": "Rally.TV FAST+",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1600002QV_20260113T032057SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-AT1600002QV",
+                    "epgId": "AT1600002QV"
+                },
+                {
+                    "name": "Red Bull TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1500003ES_20260113T032100SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-ATBD1500003ES",
+                    "epgId": "ATBD1500003ES"
+                },
+                {
                     "name": "DAZN Rise",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD700001VF_20250513T005127SQUARE.png",
                     "number": "4601",
@@ -631,13 +645,6 @@
                     "number": "4605",
                     "url": "https://jmp2.uk/stvp-ATBA2200008XN",
                     "epgId": "ATBA2200008XN"
-                },
-                {
-                    "name": "Red Bull TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1500003ES_20260113T032100SQUARE.png",
-                    "number": "4609",
-                    "url": "https://jmp2.uk/stvp-ATBD1500003ES",
-                    "epgId": "ATBD1500003ES"
                 },
                 {
                     "name": "Sportdigital Free",
@@ -666,13 +673,6 @@
                     "number": "4662",
                     "url": "https://jmp2.uk/stvp-ATBD2600010EC",
                     "epgId": "ATBD2600010EC"
-                },
-                {
-                    "name": "Rally.TV FAST+",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1600002QV_20260113T032057SQUARE.png",
-                    "number": "4663",
-                    "url": "https://jmp2.uk/stvp-AT1600002QV",
-                    "epgId": "AT1600002QV"
                 },
                 {
                     "name": "auto motor und sport",

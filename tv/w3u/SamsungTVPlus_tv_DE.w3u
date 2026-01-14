@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇩🇪 by HL",
-    "author": "Actualizada 14/01/2026 00:15",
+    "author": "Actualizada 15/01/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
@@ -10,11 +10,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
                 {
-                    "name": "Bares für Rares",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD30000014M_20260113T032200SQUARE.png",
+                    "name": "Hochzeit auf den ersten Blick",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800003M6_20260113T032205SQUARE.png",
                     "number": "4001",
-                    "url": "https://jmp2.uk/stvp-DEBD30000014M",
-                    "epgId": "DEBD30000014M"
+                    "url": "https://jmp2.uk/stvp-DE4800003M6",
+                    "epgId": "DE4800003M6"
                 },
                 {
                     "name": "Entertainment Mix",
@@ -38,11 +38,11 @@
                     "epgId": "DEBD3700001YD"
                 },
                 {
-                    "name": "Hochzeit auf den ersten Blick",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800003M6_20260113T032205SQUARE.png",
-                    "number": "4069",
-                    "url": "https://jmp2.uk/stvp-DE4800003M6",
-                    "epgId": "DE4800003M6"
+                    "name": "Bares für Rares",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD30000014M_20260113T032200SQUARE.png",
+                    "number": "4063",
+                    "url": "https://jmp2.uk/stvp-DEBD30000014M",
+                    "epgId": "DEBD30000014M"
                 },
                 {
                     "name": "Dating hinter Gittern",
@@ -551,13 +551,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
-                    "name": "Wilder Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20260113T032149SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-DEBA3300042XG",
-                    "epgId": "DEBA3300042XG"
-                },
-                {
                     "name": "The Wicked Tuna Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC220000422_20250107T024428SQUARE.png",
                     "number": "4352",
@@ -640,6 +633,13 @@
                     "number": "4435",
                     "url": "https://jmp2.uk/stvp-DEAK3504506A",
                     "epgId": "DEAK3504506A"
+                },
+                {
+                    "name": "Wilder Planet",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20260113T032149SQUARE.png",
+                    "number": "4486",
+                    "url": "https://jmp2.uk/stvp-DEBA3300042XG",
+                    "epgId": "DEBA3300042XG"
                 },
                 {
                     "name": "BBC Earth",
@@ -759,11 +759,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sport.png",
             "stations": [
                 {
-                    "name": "DF1",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE400010IF_20260113T032202SQUARE.png",
+                    "name": "Tennis+",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2000007B5_20260113T032210SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-DE2000007B5",
+                    "epgId": "DE2000007B5"
+                },
+                {
+                    "name": "Red Bull TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2300001EU_20260113T032207SQUARE.png",
                     "number": "4003",
-                    "url": "https://jmp2.uk/stvp-DE400010IF",
-                    "epgId": "DE400010IF"
+                    "url": "https://jmp2.uk/stvp-DEBC2300001EU",
+                    "epgId": "DEBC2300001EU"
                 },
                 {
                     "name": "DAZN Rise",
@@ -780,25 +787,18 @@
                     "epgId": "DEBA2200008NL"
                 },
                 {
-                    "name": "Tennis+",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2000007B5_20260113T032210SQUARE.png",
-                    "number": "4606",
-                    "url": "https://jmp2.uk/stvp-DE2000007B5",
-                    "epgId": "DE2000007B5"
-                },
-                {
-                    "name": "Red Bull TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2300001EU_20260113T032207SQUARE.png",
-                    "number": "4609",
-                    "url": "https://jmp2.uk/stvp-DEBC2300001EU",
-                    "epgId": "DEBC2300001EU"
-                },
-                {
                     "name": "Sportdigital Free",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500429A_20250527T015726SQUARE.png",
                     "number": "4611",
                     "url": "https://jmp2.uk/stvp-DEAJ0500429A",
                     "epgId": "DEAJ0500429A"
+                },
+                {
+                    "name": "DF1",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE400010IF_20260113T032202SQUARE.png",
+                    "number": "4613",
+                    "url": "https://jmp2.uk/stvp-DE400010IF",
+                    "epgId": "DE400010IF"
                 },
                 {
                     "name": "Top Gear",
@@ -916,13 +916,6 @@
                     "number": "4684",
                     "url": "https://jmp2.uk/stvp-DEBC21000022L",
                     "epgId": "DEBC21000022L"
-                },
-                {
-                    "name": "Vevo Weihnachten",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3500002C4_20260113T032157SQUARE.png",
-                    "number": "4686",
-                    "url": "https://jmp2.uk/stvp-DE3500002C4",
-                    "epgId": "DE3500002C4"
                 },
                 {
                     "name": "DELUXE RAP",

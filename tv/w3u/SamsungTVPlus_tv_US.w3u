@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇺🇸 by HL",
-    "author": "Actualizada 14/01/2026 00:15",
+    "author": "Actualizada 15/01/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/us.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_US.w3u",
@@ -172,7 +172,7 @@
                 {
                     "name": "Movie Hub",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260112T181520SQUARE.png",
-                    "number": "1200",
+                    "number": "1000",
                     "url": "https://jmp2.uk/stvp-USBA3000041ZP",
                     "epgId": "USBA3000041ZP"
                 },
@@ -427,13 +427,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Action & Drama.png",
             "stations": [
                 {
-                    "name": "Wildfire",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900013Z7_20260112T181539SQUARE.png",
-                    "number": "1001",
-                    "url": "https://jmp2.uk/stvp-US1900013Z7",
-                    "epgId": "US1900013Z7"
-                },
-                {
                     "name": "Samsung Television Network",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260105T175808SQUARE.png",
                     "number": "1004",
@@ -593,6 +586,13 @@
                     "number": "1575",
                     "url": "https://jmp2.uk/stvp-US2100005WS",
                     "epgId": "US2100005WS"
+                },
+                {
+                    "name": "Wildfire",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900013Z7_20260112T181539SQUARE.png",
+                    "number": "1578",
+                    "url": "https://jmp2.uk/stvp-US1900013Z7",
+                    "epgId": "US1900013Z7"
                 },
                 {
                     "name": "Heartland",
@@ -1138,11 +1138,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Home & Food.png",
             "stations": [
                 {
-                    "name": "Tiny House Nation",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400020KC_20260112T181523SQUARE.png",
+                    "name": "Flipping Nation",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200008RS_20260112T181533SQUARE.png",
                     "number": "1003",
-                    "url": "https://jmp2.uk/stvp-USAJ3400020KC",
-                    "epgId": "USAJ3400020KC"
+                    "url": "https://jmp2.uk/stvp-USBD4200008RS",
+                    "epgId": "USBD4200008RS"
                 },
                 {
                     "name": "Home Refresh",
@@ -1166,6 +1166,13 @@
                     "epgId": "USAJ3000006X5"
                 },
                 {
+                    "name": "Tiny House Nation",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400020KC_20260112T181523SQUARE.png",
+                    "number": "2012",
+                    "url": "https://jmp2.uk/stvp-USAJ3400020KC",
+                    "epgId": "USAJ3400020KC"
+                },
+                {
                     "name": "This Old House",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC13000065U_20250325T015318SQUARE.png",
                     "number": "2015",
@@ -1178,13 +1185,6 @@
                     "number": "2016",
                     "url": "https://jmp2.uk/stvp-USBC1300005T6",
                     "epgId": "USBC1300005T6"
-                },
-                {
-                    "name": "Flipping Nation",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200008RS_20260112T181533SQUARE.png",
-                    "number": "2020",
-                    "url": "https://jmp2.uk/stvp-USBD4200008RS",
-                    "epgId": "USBD4200008RS"
                 },
                 {
                     "name": "Homeful",
@@ -1403,6 +1403,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sports & Outdoors.png",
             "stations": [
                 {
+                    "name": "Yahoo! Sports Network",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3200012O8_20260112T181542SQUARE.png",
+                    "number": "1002",
+                    "url": "https://jmp2.uk/stvp-US3200012O8",
+                    "epgId": "US3200012O8"
+                },
+                {
                     "name": "NFL Channel",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20251224T064916SQUARE.png",
                     "number": "2310",
@@ -1478,13 +1485,6 @@
                     "number": "2340",
                     "url": "https://jmp2.uk/stvp-US34000040T",
                     "epgId": "US34000040T"
-                },
-                {
-                    "name": "Yahoo! Sports Network",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3200012O8_20260112T181542SQUARE.png",
-                    "number": "2341",
-                    "url": "https://jmp2.uk/stvp-US3200012O8",
-                    "epgId": "US3200012O8"
                 },
                 {
                     "name": "Overtime",
@@ -1842,18 +1842,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Comedy.png",
             "stations": [
                 {
-                    "name": "Letterman TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000004N1_20260112T181536SQUARE.png",
-                    "number": "1000",
-                    "url": "https://jmp2.uk/stvp-US4000004N1",
-                    "epgId": "US4000004N1"
-                },
-                {
                     "name": "Animation+",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20250902T225851SQUARE.png",
                     "number": "2605",
                     "url": "https://jmp2.uk/stvp-US400002PS",
                     "epgId": "US400002PS"
+                },
+                {
+                    "name": "Letterman TV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000004N1_20260112T181536SQUARE.png",
+                    "number": "2615",
+                    "url": "https://jmp2.uk/stvp-US4000004N1",
+                    "epgId": "US4000004N1"
                 },
                 {
                     "name": "Conan O'Brien TV",
@@ -2079,6 +2079,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality Competition.png",
             "stations": [
                 {
+                    "name": "Fear Factor",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300002Q6_20260112T181458SQUARE.png",
+                    "number": "1001",
+                    "url": "https://jmp2.uk/stvp-USBB2300002Q6",
+                    "epgId": "USBB2300002Q6"
+                },
+                {
                     "name": "Hell's Kitchen",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900002Z7_20251125T030826SQUARE.png",
                     "number": "2704",
@@ -2112,13 +2119,6 @@
                     "number": "2718",
                     "url": "https://jmp2.uk/stvp-US19000017A",
                     "epgId": "US19000017A"
-                },
-                {
-                    "name": "Fear Factor",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300002Q6_20260112T181458SQUARE.png",
-                    "number": "2720",
-                    "url": "https://jmp2.uk/stvp-USBB2300002Q6",
-                    "epgId": "USBB2300002Q6"
                 },
                 {
                     "name": "The Challenge",
@@ -2211,13 +2211,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Game Shows.png",
             "stations": [
                 {
-                    "name": "Celebrity Name Game",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900010IY_20260112T181529SQUARE.png",
-                    "number": "1002",
-                    "url": "https://jmp2.uk/stvp-US1900010IY",
-                    "epgId": "US1900010IY"
-                },
-                {
                     "name": "Let's Make A Deal Classic",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US7000229B_20250826T234540SQUARE.png",
                     "number": "2803",
@@ -2258,6 +2251,13 @@
                     "number": "2835",
                     "url": "https://jmp2.uk/stvp-USBA3000100X",
                     "epgId": "USBA3000100X"
+                },
+                {
+                    "name": "Celebrity Name Game",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900010IY_20260112T181529SQUARE.png",
+                    "number": "2849",
+                    "url": "https://jmp2.uk/stvp-US1900010IY",
+                    "epgId": "US1900010IY"
                 }
             ]
         },
@@ -3428,13 +3428,6 @@
             "name": "Music",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Music.png",
             "stations": [
-                {
-                    "name": "Vevo Holiday",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700012Z0_20260112T181526SQUARE.png",
-                    "number": "4310",
-                    "url": "https://jmp2.uk/stvp-US3700012Z0",
-                    "epgId": "US3700012Z0"
-                },
                 {
                     "name": "XITE Hits",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20250421T234930SQUARE.png",
