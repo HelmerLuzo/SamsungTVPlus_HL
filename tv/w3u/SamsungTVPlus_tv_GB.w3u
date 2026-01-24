@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 21/01/2026 00:15",
+    "author": "Actualizada 24/01/2026 04:08",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -414,13 +414,6 @@
                     "epgId": "GBBD3100006XM"
                 },
                 {
-                    "name": "Heartland",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB5100001EW_20260120T031430SQUARE.png",
-                    "number": "4232",
-                    "url": "https://jmp2.uk/stvp-GB5100001EW",
-                    "epgId": "GB5100001EW"
-                },
-                {
                     "name": "Sony One FAVES",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300007J7_20250107T031235SQUARE.png",
                     "number": "4233",
@@ -447,13 +440,6 @@
                     "number": "4237",
                     "url": "https://jmp2.uk/stvp-GBAK3504525A",
                     "epgId": "GBAK3504525A"
-                },
-                {
-                    "name": "Nashville",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB37000041H_20260120T031433SQUARE.png",
-                    "number": "4238",
-                    "url": "https://jmp2.uk/stvp-GB37000041H",
-                    "epgId": "GB37000041H"
                 },
                 {
                     "name": "Demand Drama",
@@ -1256,10 +1242,10 @@
                 },
                 {
                     "name": "Rally.TV FAST+",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1600007CB_20260120T031436SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB51000026A_20260120T031439SQUARE.png",
                     "number": "4663",
-                    "url": "https://jmp2.uk/stvp-GB1600007CB",
-                    "epgId": "GB1600007CB"
+                    "url": "https://jmp2.uk/stvp-GB51000026A",
+                    "epgId": "GB51000026A"
                 },
                 {
                     "name": "Wheels & Steel",
@@ -1693,7 +1679,7 @@
                     "epgId": "GB2600013BO"
                 },
                 {
-                    "name": "GREAT! Christmas",
+                    "name": "GREAT! Mystery",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000370X_20260120T031419SQUARE.png",
                     "number": "4961",
                     "url": "https://jmp2.uk/stvp-GB3000370X",

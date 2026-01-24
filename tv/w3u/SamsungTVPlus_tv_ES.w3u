@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇪🇸 by HL",
-    "author": "Actualizada 21/01/2026 00:15",
+    "author": "Actualizada 24/01/2026 04:08",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/es.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -178,6 +178,13 @@
                     "epgId": "ES4300006I4"
                 },
                 {
+                    "name": "Mi Casa",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400002LI_20260120T031331SQUARE.png",
+                    "number": "4221",
+                    "url": "https://jmp2.uk/stvp-ES4400002LI",
+                    "epgId": "ES4400002LI"
+                },
+                {
                     "name": "Coreano by CJ ENM",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20250826T004843SQUARE.png",
                     "number": "4222",
@@ -238,6 +245,13 @@
                     "number": "4243",
                     "url": "https://jmp2.uk/stvp-ESBD1300003VN",
                     "epgId": "ESBD1300003VN"
+                },
+                {
+                    "name": "Todo Drama",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES440000327_20260120T031340SQUARE.png",
+                    "number": "4245",
+                    "url": "https://jmp2.uk/stvp-ES440000327",
+                    "epgId": "ES440000327"
                 },
                 {
                     "name": "BBC Series",
@@ -517,6 +531,13 @@
                     "epgId": "ES3800001V1"
                 },
                 {
+                    "name": "Rugby Challenge",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300004JP_20260120T031337SQUARE.png",
+                    "number": "4611",
+                    "url": "https://jmp2.uk/stvp-ES4300004JP",
+                    "epgId": "ES4300004JP"
+                },
+                {
                     "name": "Teledeporte",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20250819T033228SQUARE.png",
                     "number": "4631",
@@ -560,10 +581,10 @@
                 },
                 {
                     "name": "Rally.TV FAST+",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600005T1_20260120T031324SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES51000017V_20260120T031334SQUARE.png",
                     "number": "4663",
-                    "url": "https://jmp2.uk/stvp-ES1600005T1",
-                    "epgId": "ES1600005T1"
+                    "url": "https://jmp2.uk/stvp-ES51000017V",
+                    "epgId": "ES51000017V"
                 },
                 {
                     "name": "Surf Channel",
@@ -703,6 +724,13 @@
                     "number": "4815",
                     "url": "https://jmp2.uk/stvp-ES2600008NX",
                     "epgId": "ES2600008NX"
+                },
+                {
+                    "name": "Las 3 Mellizas",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400001N3_20260120T031327SQUARE.png",
+                    "number": "4817",
+                    "url": "https://jmp2.uk/stvp-ES4400001N3",
+                    "epgId": "ES4400001N3"
                 },
                 {
                     "name": "Pluto TV Kids",
