@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇩🇪 by HL",
-    "author": "Actualizada 28/01/2026 00:15",
+    "author": "Actualizada 29/01/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
@@ -9,13 +9,6 @@
             "name": "Entertainment",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
-                {
-                    "name": "Hochzeit auf den ersten Blick",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800003M6_20260127T040807SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-DE4800003M6",
-                    "epgId": "DE4800003M6"
-                },
                 {
                     "name": "Entertainment Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700002Z2_20260113T032154SQUARE.png",
@@ -31,18 +24,18 @@
                     "epgId": "DEBC3000002Z5"
                 },
                 {
-                    "name": "X-MAS Mix",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700001YD_20260127T040758SQUARE.png",
-                    "number": "4009",
-                    "url": "https://jmp2.uk/stvp-DEBD3700001YD",
-                    "epgId": "DEBD3700001YD"
-                },
-                {
                     "name": "Bares für Rares",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD30000014M_20260113T032200SQUARE.png",
                     "number": "4063",
                     "url": "https://jmp2.uk/stvp-DEBD30000014M",
                     "epgId": "DEBD30000014M"
+                },
+                {
+                    "name": "Hochzeit auf den ersten Blick",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800003M6_20260127T040807SQUARE.png",
+                    "number": "4069",
+                    "url": "https://jmp2.uk/stvp-DE4800003M6",
+                    "epgId": "DE4800003M6"
                 },
                 {
                     "name": "Dating hinter Gittern",
@@ -227,7 +220,7 @@
                 {
                     "name": "Hudson & Rex",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800002GM_20260127T040810SQUARE.png",
-                    "number": "4234",
+                    "number": "4002",
                     "url": "https://jmp2.uk/stvp-DE4800002GM",
                     "epgId": "DE4800002GM"
                 },
@@ -399,18 +392,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
+                    "name": "Alarm für Cobra 11 / Balko",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE300020D3_20260127T040801SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-DE300020D3",
+                    "epgId": "DE300020D3"
+                },
+                {
                     "name": "Crime Serien - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600004U3_20250415T021646SQUARE.png",
                     "number": "4005",
                     "url": "https://jmp2.uk/stvp-DE2600004U3",
                     "epgId": "DE2600004U3"
-                },
-                {
-                    "name": "Alarm für Cobra 11 / Balko",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE300020D3_20260127T040801SQUARE.png",
-                    "number": "4292",
-                    "url": "https://jmp2.uk/stvp-DE300020D3",
-                    "epgId": "DE300020D3"
                 },
                 {
                     "name": "Abschnitt 40 / GSG9",
@@ -544,6 +537,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
+                    "name": "Terra X",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000003IG_20260127T040821SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-DEBC3000003IG",
+                    "epgId": "DEBC3000003IG"
+                },
+                {
                     "name": "The Wicked Tuna Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC220000422_20250107T024428SQUARE.png",
                     "number": "4352",
@@ -558,11 +558,11 @@
                     "epgId": "DEAJ7000096L"
                 },
                 {
-                    "name": "Terra X",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000003IG_20260127T040821SQUARE.png",
-                    "number": "4413",
-                    "url": "https://jmp2.uk/stvp-DEBC3000003IG",
-                    "epgId": "DEBC3000003IG"
+                    "name": "Ax Men - Die Holzfäller",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE46000025H_20260127T040805SQUARE.png",
+                    "number": "4362",
+                    "url": "https://jmp2.uk/stvp-DE46000025H",
+                    "epgId": "DE46000025H"
                 },
                 {
                     "name": "BBC History",
@@ -752,20 +752,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sport.png",
             "stations": [
                 {
-                    "name": "Tennis+",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2000007B5_20260127T110307SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-DE2000007B5",
-                    "epgId": "DE2000007B5"
-                },
-                {
-                    "name": "Red Bull TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2300001EU_20260127T100114SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-DEBC2300001EU",
-                    "epgId": "DEBC2300001EU"
-                },
-                {
                     "name": "DAZN Rise",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD700001C5_20250107T024314SQUARE.png",
                     "number": "4601",
@@ -778,6 +764,20 @@
                     "number": "4605",
                     "url": "https://jmp2.uk/stvp-DEBA2200008NL",
                     "epgId": "DEBA2200008NL"
+                },
+                {
+                    "name": "Tennis+",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2000007B5_20260127T110307SQUARE.png",
+                    "number": "4606",
+                    "url": "https://jmp2.uk/stvp-DE2000007B5",
+                    "epgId": "DE2000007B5"
+                },
+                {
+                    "name": "Red Bull TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2300001EU_20260127T100114SQUARE.png",
+                    "number": "4609",
+                    "url": "https://jmp2.uk/stvp-DEBC2300001EU",
+                    "epgId": "DEBC2300001EU"
                 },
                 {
                     "name": "Sportdigital Free",
@@ -981,18 +981,18 @@
                     "epgId": "DEAK0500445A"
                 },
                 {
-                    "name": "K-POP by CJ ENM",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3900002R1_20260127T040812SQUARE.png",
-                    "number": "4746",
-                    "url": "https://jmp2.uk/stvp-DE3900002R1",
-                    "epgId": "DE3900002R1"
-                },
-                {
                     "name": "NEW KPOP",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE17000032I_20260127T040815SQUARE.png",
-                    "number": "4747",
+                    "number": "4752",
                     "url": "https://jmp2.uk/stvp-DE17000032I",
                     "epgId": "DE17000032I"
+                },
+                {
+                    "name": "K-POP by CJ ENM",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3900002R1_20260127T040812SQUARE.png",
+                    "number": "4753",
+                    "url": "https://jmp2.uk/stvp-DE3900002R1",
+                    "epgId": "DE3900002R1"
                 },
                 {
                     "name": "Deluxe Lounge HD",

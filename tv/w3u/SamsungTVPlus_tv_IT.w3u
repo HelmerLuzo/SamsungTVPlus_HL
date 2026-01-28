@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 28/01/2026 00:15",
+    "author": "Actualizada 29/01/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -10,11 +10,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Film.png",
             "stations": [
                 {
-                    "name": "Adrenaline Movies",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000050E_20260127T040632SQUARE.png",
+                    "name": "Sony One Film d’azione",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300004KM_20260127T040645SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-IT300004KM",
+                    "epgId": "IT300004KM"
+                },
+                {
+                    "name": "Cinemadame",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20260127T040634SQUARE.png",
                     "number": "4003",
-                    "url": "https://jmp2.uk/stvp-ITBC11000050E",
-                    "epgId": "ITBC11000050E"
+                    "url": "https://jmp2.uk/stvp-ITBD1400003D0",
+                    "epgId": "ITBD1400003D0"
                 },
                 {
                     "name": "Film Top - Rakuten TV",
@@ -57,13 +64,6 @@
                     "number": "4872",
                     "url": "https://jmp2.uk/stvp-ITBC1100003KC",
                     "epgId": "ITBC1100003KC"
-                },
-                {
-                    "name": "Cinemadame",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20260127T040634SQUARE.png",
-                    "number": "4873",
-                    "url": "https://jmp2.uk/stvp-ITBD1400003D0",
-                    "epgId": "ITBD1400003D0"
                 },
                 {
                     "name": "Pluto TV Film",
@@ -143,7 +143,7 @@
                     "epgId": "IT300029U3"
                 },
                 {
-                    "name": "Risate Cult '80",
+                    "name": "CG Cine Mania",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD140000119_20260126T115809SQUARE.png",
                     "number": "4909",
                     "url": "https://jmp2.uk/stvp-ITBD140000119",
@@ -269,18 +269,18 @@
                     "epgId": "ITBD1100001B7"
                 },
                 {
+                    "name": "Adrenaline Movies",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000050E_20260127T040632SQUARE.png",
+                    "number": "4993",
+                    "url": "https://jmp2.uk/stvp-ITBC11000050E",
+                    "epgId": "ITBC11000050E"
+                },
+                {
                     "name": "Pluto TV Film Azione",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000003CT_20241022T051703SQUARE.png",
                     "number": "4995",
                     "url": "https://jmp2.uk/stvp-ITBC3000003CT",
                     "epgId": "ITBC3000003CT"
-                },
-                {
-                    "name": "Sony One Film d’azione",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300004KM_20260127T040645SQUARE.png",
-                    "number": "4997",
-                    "url": "https://jmp2.uk/stvp-IT300004KM",
-                    "epgId": "IT300004KM"
                 },
                 {
                     "name": "Dramma - Rakuten TV",
@@ -303,6 +303,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/News.png",
             "stations": [
                 {
+                    "name": "Rai News 24",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200004WU_20260127T040639SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-IT3200004WU",
+                    "epgId": "IT3200004WU"
+                },
+                {
                     "name": "Euronews IN DIRETTA",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600009QD_20250415T022338SQUARE.png",
                     "number": "4004",
@@ -315,13 +322,6 @@
                     "number": "4551",
                     "url": "https://jmp2.uk/stvp-ITBD1500002NL",
                     "epgId": "ITBD1500002NL"
-                },
-                {
-                    "name": "Rai News 24",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200004WU_20260127T040639SQUARE.png",
-                    "number": "4553",
-                    "url": "https://jmp2.uk/stvp-IT3200004WU",
-                    "epgId": "IT3200004WU"
                 },
                 {
                     "name": "Il Sole 24 Ore TV",
@@ -449,13 +449,6 @@
                     "epgId": "IT900007I0"
                 },
                 {
-                    "name": "Pluto TV Reality",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC30000017U_20260126T112603SQUARE.png",
-                    "number": "4070",
-                    "url": "https://jmp2.uk/stvp-ITBC30000017U",
-                    "epgId": "ITBC30000017U"
-                },
-                {
                     "name": "Pluto TV Real Life",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800006UB_20241022T051502SQUARE.png",
                     "number": "4072",
@@ -525,13 +518,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Calcio.png",
             "stations": [
                 {
-                    "name": "INTER 24/7",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3100001FT_20260127T040637SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-IT3100001FT",
-                    "epgId": "IT3100001FT"
-                },
-                {
                     "name": "FIFA+",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1000002HF_20250513T010658SQUARE.png",
                     "number": "4631",
@@ -560,6 +546,13 @@
                     "epgId": "ITBD2300001MT"
                 },
                 {
+                    "name": "INTER 24/7",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3100001FT_20260127T040637SQUARE.png",
+                    "number": "4643",
+                    "url": "https://jmp2.uk/stvp-IT3100001FT",
+                    "epgId": "IT3100001FT"
+                },
+                {
                     "name": "DFB Play TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200003YZ_20251230T031317SQUARE.png",
                     "number": "4645",
@@ -572,6 +565,13 @@
             "name": "Sport",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sport.png",
             "stations": [
+                {
+                    "name": "Supertennis",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800003V4_20260127T040648SQUARE.png",
+                    "number": "4605",
+                    "url": "https://jmp2.uk/stvp-IT800003V4",
+                    "epgId": "IT800003V4"
+                },
                 {
                     "name": "Tennis+",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT20000053A_20250729T045608SQUARE.png",
@@ -684,11 +684,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serie TV.png",
             "stations": [
                 {
-                    "name": "Soap Latino",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4600001JQ_20260127T040642SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-IT4600001JQ",
-                    "epgId": "IT4600001JQ"
+                    "name": "Un medico in famiglia",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4000061Q_20260127T040651SQUARE.png",
+                    "number": "4230",
+                    "url": "https://jmp2.uk/stvp-IT4000061Q",
+                    "epgId": "IT4000061Q"
                 },
                 {
                     "name": "BBC Series",
@@ -780,6 +780,13 @@
                     "number": "4256",
                     "url": "https://jmp2.uk/stvp-IT300007SE",
                     "epgId": "IT300007SE"
+                },
+                {
+                    "name": "Soap Latino",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4600001JQ_20260127T040642SQUARE.png",
+                    "number": "4258",
+                    "url": "https://jmp2.uk/stvp-IT4600001JQ",
+                    "epgId": "IT4600001JQ"
                 },
                 {
                     "name": "K-Drama+",

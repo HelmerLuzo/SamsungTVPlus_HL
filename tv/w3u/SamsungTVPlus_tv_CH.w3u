@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇨🇭 by HL",
-    "author": "Actualizada 28/01/2026 00:15",
+    "author": "Actualizada 29/01/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/ch.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/ch.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CH.w3u",
@@ -12,23 +12,9 @@
                 {
                     "name": "Comedy Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD41000043H_20260127T040006SQUARE.png",
-                    "number": "4001",
+                    "number": "4007",
                     "url": "https://jmp2.uk/stvp-CHBD41000043H",
                     "epgId": "CHBD41000043H"
-                },
-                {
-                    "name": "Hochzeit auf den ersten Blick",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4800001LT_20260127T040010SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-CH4800001LT",
-                    "epgId": "CH4800001LT"
-                },
-                {
-                    "name": "X-MAS Mix",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD3700001XS_20260127T035959SQUARE.png",
-                    "number": "4009",
-                    "url": "https://jmp2.uk/stvp-CHBD3700001XS",
-                    "epgId": "CHBD3700001XS"
                 },
                 {
                     "name": "RMC Story",
@@ -50,6 +36,13 @@
                     "number": "4043",
                     "url": "https://jmp2.uk/stvp-CH40000020D",
                     "epgId": "CH40000020D"
+                },
+                {
+                    "name": "Hochzeit auf den ersten Blick",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4800001LT_20260127T040010SQUARE.png",
+                    "number": "4069",
+                    "url": "https://jmp2.uk/stvp-CH4800001LT",
+                    "epgId": "CH4800001LT"
                 },
                 {
                     "name": "Hell's Kitchen",
@@ -148,6 +141,13 @@
                     "number": "4209",
                     "url": "https://jmp2.uk/stvp-CHBD2500001SY",
                     "epgId": "CHBD2500001SY"
+                },
+                {
+                    "name": "Zee TV HD DE",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH1400001FA_20260127T040022SQUARE.png",
+                    "number": "4210",
+                    "url": "https://jmp2.uk/stvp-CH1400001FA",
+                    "epgId": "CH1400001FA"
                 },
                 {
                     "name": "Landlust TV",
@@ -350,18 +350,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
+                    "name": "Alarm für Cobra 11 / Balko",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH300006UT_20260127T040003SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-CH300006UT",
+                    "epgId": "CH300006UT"
+                },
+                {
                     "name": "Crime Serien - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2600007IJ_20250415T021609SQUARE.png",
                     "number": "4005",
                     "url": "https://jmp2.uk/stvp-CH2600007IJ",
                     "epgId": "CH2600007IJ"
-                },
-                {
-                    "name": "Alarm für Cobra 11 / Balko",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH300006UT_20260127T040003SQUARE.png",
-                    "number": "4292",
-                    "url": "https://jmp2.uk/stvp-CH300006UT",
-                    "epgId": "CH300006UT"
                 },
                 {
                     "name": "Top Serien",
@@ -481,6 +481,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
+                    "name": "Terra Mater WILD",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2700002B7_20260127T040016SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-CHBD2700002B7",
+                    "epgId": "CHBD2700002B7"
+                },
+                {
                     "name": "The Wicked Tuna Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000011Y_20250107T025613SQUARE.png",
                     "number": "4352",
@@ -565,13 +572,6 @@
                     "epgId": "CHBA1500021M5"
                 },
                 {
-                    "name": "Terra Mater WILD",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2700002B7_20260127T040016SQUARE.png",
-                    "number": "4492",
-                    "url": "https://jmp2.uk/stvp-CHBD2700002B7",
-                    "epgId": "CHBD2700002B7"
-                },
-                {
                     "name": "Tierwelt",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500427A_20250107T025348SQUARE.png",
                     "number": "4494",
@@ -608,7 +608,7 @@
                 {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH20000288_20260127T040019SQUARE.png",
-                    "number": "4511",
+                    "number": "4001",
                     "url": "https://jmp2.uk/stvp-CH20000288",
                     "epgId": "CH20000288"
                 },
@@ -647,13 +647,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sport.png",
             "stations": [
                 {
-                    "name": "Rally.TV FAST+",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH5100001XI_20260127T040013SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-CH5100001XI",
-                    "epgId": "CH5100001XI"
-                },
-                {
                     "name": "Tennis Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA22000080G_20251125T102207SQUARE.png",
                     "number": "4605",
@@ -687,6 +680,13 @@
                     "number": "4662",
                     "url": "https://jmp2.uk/stvp-CHBD2600012Y6",
                     "epgId": "CHBD2600012Y6"
+                },
+                {
+                    "name": "Rally.TV FAST+",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH5100001XI_20260127T040013SQUARE.png",
+                    "number": "4663",
+                    "url": "https://jmp2.uk/stvp-CH5100001XI",
+                    "epgId": "CH5100001XI"
                 },
                 {
                     "name": "auto motor und sport",

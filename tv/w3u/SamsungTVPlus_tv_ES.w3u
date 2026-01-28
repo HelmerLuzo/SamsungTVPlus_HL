@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇪🇸 by HL",
-    "author": "Actualizada 28/01/2026 00:15",
+    "author": "Actualizada 29/01/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/es.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -205,18 +205,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serie.png",
             "stations": [
                 {
+                    "name": "RTVE La Promesa",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20260127T040154SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-ES3300006QL",
+                    "epgId": "ES3300006QL"
+                },
+                {
                     "name": "Cuéntame cómo pasó",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20251230T030917SQUARE.png",
                     "number": "4006",
                     "url": "https://jmp2.uk/stvp-ES400002P5",
                     "epgId": "ES400002P5"
-                },
-                {
-                    "name": "RTVE La Promesa",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20260127T040154SQUARE.png",
-                    "number": "4235",
-                    "url": "https://jmp2.uk/stvp-ES3300006QL",
-                    "epgId": "ES3300006QL"
                 },
                 {
                     "name": "RTVE La Moderna",
@@ -303,11 +303,25 @@
                     "epgId": "ES2900002JG"
                 },
                 {
+                    "name": "Series K DRAMA",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200040YF_20260127T040143SQUARE.png",
+                    "number": "4256",
+                    "url": "https://jmp2.uk/stvp-ES200040YF",
+                    "epgId": "ES200040YF"
+                },
+                {
                     "name": "K-Drama+",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4100001DU_20251013T053448SQUARE.png",
                     "number": "4257",
                     "url": "https://jmp2.uk/stvp-ESBD4100001DU",
                     "epgId": "ESBD4100001DU"
+                },
+                {
+                    "name": "Series K COMEDIA ROMÁNTICA",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200041FT_20260127T040140SQUARE.png",
+                    "number": "4258",
+                    "url": "https://jmp2.uk/stvp-ES200041FT",
+                    "epgId": "ES200041FT"
                 },
                 {
                     "name": "Mr Bean Animated",
@@ -753,14 +767,7 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Cine.png",
             "stations": [
                 {
-                    "name": "Cine Western",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-ES2300005G7",
-                    "epgId": "ES2300005G7"
-                },
-                {
-                    "name": "Runtime Christmas",
+                    "name": "Runtime Familia",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20260127T040120SQUARE.png",
                     "number": "4851",
                     "url": "https://jmp2.uk/stvp-ES700004C8",
@@ -884,6 +891,13 @@
                     "number": "4925",
                     "url": "https://jmp2.uk/stvp-ESBC2700002LO",
                     "epgId": "ESBC2700002LO"
+                },
+                {
+                    "name": "Cine Western",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png",
+                    "number": "4926",
+                    "url": "https://jmp2.uk/stvp-ES2300005G7",
+                    "epgId": "ES2300005G7"
                 },
                 {
                     "name": "Bigtime - Películas Gratis",
@@ -1080,6 +1094,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Viajes y Cocina.png",
             "stations": [
                 {
+                    "name": "RTVE Cocina",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000079W_20260127T040151SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-ES33000079W",
+                    "epgId": "ES33000079W"
+                },
+                {
                     "name": "Pluto TV Cocina",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png",
                     "number": "4513",
@@ -1099,13 +1120,6 @@
                     "number": "4515",
                     "url": "https://jmp2.uk/stvp-ESBC27000040I",
                     "epgId": "ESBC27000040I"
-                },
-                {
-                    "name": "RTVE Cocina",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000079W_20260127T040151SQUARE.png",
-                    "number": "4518",
-                    "url": "https://jmp2.uk/stvp-ES33000079W",
-                    "epgId": "ES33000079W"
                 }
             ]
         },
@@ -1114,11 +1128,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentales.png",
             "stations": [
                 {
-                    "name": "BBC Earth",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260127T040146SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-ES3200001F1",
-                    "epgId": "ES3200001F1"
+                    "name": "Royalworld - Nobleza y Dinastias",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20260127T040200SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-ESBD1400003QN",
+                    "epgId": "ESBD1400003QN"
                 },
                 {
                     "name": "Ice Pilots",
@@ -1163,11 +1177,11 @@
                     "epgId": "ES12000024R"
                 },
                 {
-                    "name": "Royalworld - Nobleza y Dinastias",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20260127T040200SQUARE.png",
-                    "number": "4420",
-                    "url": "https://jmp2.uk/stvp-ESBD1400003QN",
-                    "epgId": "ESBD1400003QN"
+                    "name": "BBC Earth",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260127T040146SQUARE.png",
+                    "number": "4488",
+                    "url": "https://jmp2.uk/stvp-ES3200001F1",
+                    "epgId": "ES3200001F1"
                 },
                 {
                     "name": "NatureTime",
@@ -1211,13 +1225,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Telenovela.png",
             "stations": [
                 {
-                    "name": "Rebelde",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3600001Y7_20260127T040157SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-ES3600001Y7",
-                    "epgId": "ES3600001Y7"
-                },
-                {
                     "name": "Stormcast Novelas",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000504_20241022T051108SQUARE.png",
                     "number": "4263",
@@ -1230,6 +1237,13 @@
                     "number": "4265",
                     "url": "https://jmp2.uk/stvp-ESBC43000013T",
                     "epgId": "ESBC43000013T"
+                },
+                {
+                    "name": "Rebelde",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3600001Y7_20260127T040157SQUARE.png",
+                    "number": "4267",
+                    "url": "https://jmp2.uk/stvp-ES3600001Y7",
+                    "epgId": "ES3600001Y7"
                 },
                 {
                     "name": "Piel Salvaje",
