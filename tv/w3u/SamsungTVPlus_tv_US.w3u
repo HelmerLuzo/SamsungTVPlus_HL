@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇺🇸 by HL",
-    "author": "Actualizada 04/02/2026 00:15",
+    "author": "Actualizada 05/02/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/us.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_US.w3u",
@@ -170,16 +170,9 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Movies.png",
             "stations": [
                 {
-                    "name": "Lifetime Movies: Black Stories",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1600002OK_20260127T205350SQUARE.png",
-                    "number": "1003",
-                    "url": "https://jmp2.uk/stvp-US1600002OK",
-                    "epgId": "US1600002OK"
-                },
-                {
                     "name": "Movie Hub",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260117T020324SQUARE.png",
-                    "number": "1200",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260203T191054SQUARE.png",
+                    "number": "1000",
                     "url": "https://jmp2.uk/stvp-USBA3000041ZP",
                     "epgId": "USBA3000041ZP"
                 },
@@ -224,6 +217,13 @@
                     "number": "1225",
                     "url": "https://jmp2.uk/stvp-USBB5200019FO",
                     "epgId": "USBB5200019FO"
+                },
+                {
+                    "name": "Lifetime Movies: Black Stories",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1600002OK_20260203T191112SQUARE.png",
+                    "number": "1226",
+                    "url": "https://jmp2.uk/stvp-US1600002OK",
+                    "epgId": "US1600002OK"
                 },
                 {
                     "name": "MovieSphere",
@@ -420,11 +420,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Action & Drama.png",
             "stations": [
                 {
-                    "name": "Nash Bridges",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20260127T205353SQUARE.png",
-                    "number": "1001",
-                    "url": "https://jmp2.uk/stvp-US1900014Y2",
-                    "epgId": "US1900014Y2"
+                    "name": "BET x Tyler Perry Drama",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20260203T191106SQUARE.png",
+                    "number": "1003",
+                    "url": "https://jmp2.uk/stvp-US2500008CV",
+                    "epgId": "US2500008CV"
                 },
                 {
                     "name": "Samsung Television Network",
@@ -532,13 +532,6 @@
                     "epgId": "USBD2500012DH"
                 },
                 {
-                    "name": "BET x Tyler Perry Drama",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500008CV_20250923T020544SQUARE.png",
-                    "number": "1553",
-                    "url": "https://jmp2.uk/stvp-US2500008CV",
-                    "epgId": "US2500008CV"
-                },
-                {
                     "name": "BET Pluto TV",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC450000130_20241112T000954SQUARE.png",
                     "number": "1555",
@@ -614,6 +607,13 @@
                     "number": "1595",
                     "url": "https://jmp2.uk/stvp-USBB3500002FL",
                     "epgId": "USBB3500002FL"
+                },
+                {
+                    "name": "Nash Bridges",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20260203T191119SQUARE.png",
+                    "number": "1598",
+                    "url": "https://jmp2.uk/stvp-US1900014Y2",
+                    "epgId": "US1900014Y2"
                 },
                 {
                     "name": "21 Jump Street",
@@ -714,8 +714,8 @@
             "stations": [
                 {
                     "name": "Crime Zone",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20260127T205240SQUARE.png",
-                    "number": "1000",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20260203T191036SQUARE.png",
+                    "number": "1805",
                     "url": "https://jmp2.uk/stvp-USBB36000040M",
                     "epgId": "USBB36000040M"
                 },
@@ -1397,10 +1397,17 @@
             "stations": [
                 {
                     "name": "NFL Channel",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20251224T064916SQUARE.png",
-                    "number": "2310",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20260203T191116SQUARE.png",
+                    "number": "1002",
                     "url": "https://jmp2.uk/stvp-US2600007WJ",
                     "epgId": "US2600007WJ"
+                },
+                {
+                    "name": "The Jim Rome Show",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900014UU_20260203T191121SQUARE.png",
+                    "number": "1004",
+                    "url": "https://jmp2.uk/stvp-US2900014UU",
+                    "epgId": "US2900014UU"
                 },
                 {
                     "name": "MLB Channel",
@@ -1499,13 +1506,6 @@
                     "number": "2345",
                     "url": "https://jmp2.uk/stvp-US3900007ZW",
                     "epgId": "US3900007ZW"
-                },
-                {
-                    "name": "The Jim Rome Show",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900014UU_20250909T002831SQUARE.png",
-                    "number": "2346",
-                    "url": "https://jmp2.uk/stvp-US2900014UU",
-                    "epgId": "US2900014UU"
                 },
                 {
                     "name": "UFC",
@@ -1835,11 +1835,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Comedy.png",
             "stations": [
                 {
-                    "name": "BET x Tyler Perry Comedy",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500009PQ_20260127T205339SQUARE.png",
-                    "number": "1004",
-                    "url": "https://jmp2.uk/stvp-US2500009PQ",
-                    "epgId": "US2500009PQ"
+                    "name": "Are We There Yet?",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900011ZN_20260203T191100SQUARE.png",
+                    "number": "1001",
+                    "url": "https://jmp2.uk/stvp-US1900011ZN",
+                    "epgId": "US1900011ZN"
                 },
                 {
                     "name": "Animation+",
@@ -1919,11 +1919,11 @@
                     "epgId": "USBC1300009VM"
                 },
                 {
-                    "name": "Are We There Yet?",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900011ZN_20251230T035648SQUARE.png",
-                    "number": "2633",
-                    "url": "https://jmp2.uk/stvp-US1900011ZN",
-                    "epgId": "US1900011ZN"
+                    "name": "BET x Tyler Perry Comedy",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500009PQ_20260203T191103SQUARE.png",
+                    "number": "2632",
+                    "url": "https://jmp2.uk/stvp-US2500009PQ",
+                    "epgId": "US2500009PQ"
                 },
                 {
                     "name": "National Lampoon",
@@ -2259,13 +2259,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Lifestyle & Pop Culture.png",
             "stations": [
                 {
-                    "name": "Billboard TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1300003SW_20260127T205342SQUARE.png",
-                    "number": "1002",
-                    "url": "https://jmp2.uk/stvp-US1300003SW",
-                    "epgId": "US1300003SW"
-                },
-                {
                     "name": "The Ringer from Spotify",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900021H0_20251028T011134SQUARE.png",
                     "number": "2902",
@@ -2376,6 +2369,13 @@
                     "number": "2942",
                     "url": "https://jmp2.uk/stvp-USBC10000129R",
                     "epgId": "USBC10000129R"
+                },
+                {
+                    "name": "Billboard TV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1300003SW_20260203T191109SQUARE.png",
+                    "number": "2944",
+                    "url": "https://jmp2.uk/stvp-US1300003SW",
+                    "epgId": "US1300003SW"
                 },
                 {
                     "name": "Documentary+",

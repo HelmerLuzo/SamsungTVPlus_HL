@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇳 by HL",
-    "author": "Actualizada 04/02/2026 00:15",
+    "author": "Actualizada 05/02/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/in.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/in.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IN.w3u",
@@ -22,13 +22,6 @@
                     "number": "1002",
                     "url": "https://jmp2.uk/stvp-IN3800008CX",
                     "epgId": "IN3800008CX"
-                },
-                {
-                    "name": "The Movie Club+2",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260121T010848SQUARE.png",
-                    "number": "1003",
-                    "url": "https://jmp2.uk/stvp-IN40000100Y",
-                    "epgId": "IN40000100Y"
                 },
                 {
                     "name": "Hollywood Desi",
@@ -71,6 +64,13 @@
                     "number": "1319",
                     "url": "https://jmp2.uk/stvp-IN1700002C8",
                     "epgId": "IN1700002C8"
+                },
+                {
+                    "name": "The Movie Club+2",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260204T004058SQUARE.png",
+                    "number": "1320",
+                    "url": "https://jmp2.uk/stvp-IN40000100Y",
+                    "epgId": "IN40000100Y"
                 },
                 {
                     "name": "B4U Bhojpuri",
@@ -684,18 +684,18 @@
                     "epgId": "IN46000184H"
                 },
                 {
+                    "name": "Comedy King",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600006RT_20260204T004055SQUARE.png",
+                    "number": "1003",
+                    "url": "https://jmp2.uk/stvp-IN3600006RT",
+                    "epgId": "IN3600006RT"
+                },
+                {
                     "name": "Nazara",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700011V7_20260121T010834SQUARE.png",
                     "number": "1007",
                     "url": "https://jmp2.uk/stvp-IN1700011V7",
                     "epgId": "IN1700011V7"
-                },
-                {
-                    "name": "Comedy King",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600006RT_20251126T004249SQUARE.png",
-                    "number": "1112",
-                    "url": "https://jmp2.uk/stvp-IN3600006RT",
-                    "epgId": "IN3600006RT"
                 },
                 {
                     "name": "Korean TV",
