@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇳 by HL",
-    "author": "Actualizada 11/02/2026 00:15",
+    "author": "Actualizada 12/02/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/in.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/in.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IN.w3u",
@@ -31,11 +31,11 @@
                     "epgId": "IN3800010SH"
                 },
                 {
-                    "name": "KCM",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600011DE_20240828T013137SQUARE.png",
-                    "number": "1314",
-                    "url": "https://jmp2.uk/stvp-IN1600011DE",
-                    "epgId": "IN1600011DE"
+                    "name": "B4U Movies",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900016WI_20260211T003251SQUARE.png",
+                    "number": "1006",
+                    "url": "https://jmp2.uk/stvp-IN3900016WI",
+                    "epgId": "IN3900016WI"
                 },
                 {
                     "name": "NH BollyFlix",
@@ -43,13 +43,6 @@
                     "number": "1316",
                     "url": "https://jmp2.uk/stvp-IN46000140Q",
                     "epgId": "IN46000140Q"
-                },
-                {
-                    "name": "B4U Movies",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900016WI_20250521T010031SQUARE.png",
-                    "number": "1317",
-                    "url": "https://jmp2.uk/stvp-IN3900016WI",
-                    "epgId": "IN3900016WI"
                 },
                 {
                     "name": "B4U Kadak",
@@ -192,7 +185,7 @@
                 },
                 {
                     "name": "SMTOWN",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900008ZP_20260121T010748SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900008ZP_20260211T003242SQUARE.png",
                     "number": "1460",
                     "url": "https://jmp2.uk/stvp-IN4900008ZP",
                     "epgId": "IN4900008ZP"
@@ -691,18 +684,18 @@
                     "epgId": "IN3600006RT"
                 },
                 {
-                    "name": "Nazara",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700011V7_20260121T010834SQUARE.png",
-                    "number": "1007",
-                    "url": "https://jmp2.uk/stvp-IN1700011V7",
-                    "epgId": "IN1700011V7"
-                },
-                {
                     "name": "Korean TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600005NF_20251029T003643SQUARE.png",
-                    "number": "1114",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600005NF_20260211T003302SQUARE.png",
+                    "number": "1005",
                     "url": "https://jmp2.uk/stvp-IN3600005NF",
                     "epgId": "IN3600005NF"
+                },
+                {
+                    "name": "Nazara",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700011V7_20260211T003305SQUARE.png",
+                    "number": "1115",
+                    "url": "https://jmp2.uk/stvp-IN1700011V7",
+                    "epgId": "IN1700011V7"
                 },
                 {
                     "name": "Crime Tak",
@@ -801,13 +794,6 @@
                     "number": "1131",
                     "url": "https://jmp2.uk/stvp-INBA5100029JI",
                     "epgId": "INBA5100029JI"
-                },
-                {
-                    "name": "Animax",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000043W_20241023T011741SQUARE.png",
-                    "number": "1132",
-                    "url": "https://jmp2.uk/stvp-INBD13000043W",
-                    "epgId": "INBD13000043W"
                 },
                 {
                     "name": "Nosey",
@@ -927,18 +913,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sports.png",
             "stations": [
                 {
-                    "name": "FIFA+",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20260121T010807SQUARE.png",
-                    "number": "1006",
-                    "url": "https://jmp2.uk/stvp-IN270000230",
-                    "epgId": "IN270000230"
-                },
-                {
                     "name": "Cricket Gold",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1300001NN_20240731T012436SQUARE.png",
-                    "number": "1211",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1300001NN_20260211T003257SQUARE.png",
+                    "number": "1007",
                     "url": "https://jmp2.uk/stvp-IN1300001NN",
                     "epgId": "IN1300001NN"
+                },
+                {
+                    "name": "FIFA+",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20260211T003300SQUARE.png",
+                    "number": "1212",
+                    "url": "https://jmp2.uk/stvp-IN270000230",
+                    "epgId": "IN270000230"
                 },
                 {
                     "name": "MAVTV Motorsports",
@@ -1204,13 +1190,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Devotional.png",
             "stations": [
                 {
-                    "name": "Bhakti Play",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600011RZ_20260121T010757SQUARE.png",
-                    "number": "1005",
-                    "url": "https://jmp2.uk/stvp-IN4600011RZ",
-                    "epgId": "IN4600011RZ"
-                },
-                {
                     "name": "Divya",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000053R_20241024T054024SQUARE.png",
                     "number": "1411",
@@ -1223,6 +1202,13 @@
                     "number": "1413",
                     "url": "https://jmp2.uk/stvp-IN1600002IQ",
                     "epgId": "IN1600002IQ"
+                },
+                {
+                    "name": "Bhakti Play",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600011RZ_20260211T003254SQUARE.png",
+                    "number": "1415",
+                    "url": "https://jmp2.uk/stvp-IN4600011RZ",
+                    "epgId": "IN4600011RZ"
                 }
             ]
         }

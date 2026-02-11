@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇫🇷 by HL",
-    "author": "Actualizada 11/02/2026 00:15",
+    "author": "Actualizada 12/02/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/fr.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/fr.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_FR.w3u",
@@ -37,11 +37,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Divertissement.png",
             "stations": [
                 {
-                    "name": "Qui veut gagner des millions ?",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900007PQ_20260210T035946SQUARE.png",
-                    "number": "4006",
-                    "url": "https://jmp2.uk/stvp-FRBD1900007PQ",
-                    "epgId": "FRBD1900007PQ"
+                    "name": "Les Z'amours",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900005BA_20260210T035944SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-FRBD1900005BA",
+                    "epgId": "FRBD1900005BA"
                 },
                 {
                     "name": "RMC Story",
@@ -86,11 +86,11 @@
                     "epgId": "FR3600004UH"
                 },
                 {
-                    "name": "Les Z'amours",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900005BA_20260210T035944SQUARE.png",
-                    "number": "4116",
-                    "url": "https://jmp2.uk/stvp-FRBD1900005BA",
-                    "epgId": "FRBD1900005BA"
+                    "name": "Qui veut gagner des millions ?",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900007PQ_20260210T035946SQUARE.png",
+                    "number": "4108",
+                    "url": "https://jmp2.uk/stvp-FRBD1900007PQ",
+                    "epgId": "FRBD1900007PQ"
                 },
                 {
                     "name": "Motus",
@@ -433,6 +433,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
+                    "name": "Alerte Cobra",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600007GW_20260210T035933SQUARE.png",
+                    "number": "4291",
+                    "url": "https://jmp2.uk/stvp-FR3600007GW",
+                    "epgId": "FR3600007GW"
+                },
+                {
                     "name": "Faites entrer l'accusé",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400002XF_20251111T012047SQUARE.png",
                     "number": "4293",
@@ -494,13 +501,6 @@
             "name": "Documentaires",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentaires.png",
             "stations": [
-                {
-                    "name": "Destination Nature",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20260210T035938SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-FRBC4000001IO",
-                    "epgId": "FRBC4000001IO"
-                },
                 {
                     "name": "J'irai dormir chez vous",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20241106T142647SQUARE.png",
@@ -577,6 +577,13 @@
                     "number": "4427",
                     "url": "https://jmp2.uk/stvp-FRBB49000059E",
                     "epgId": "FRBB49000059E"
+                },
+                {
+                    "name": "Destination Nature",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20260210T035938SQUARE.png",
+                    "number": "4487",
+                    "url": "https://jmp2.uk/stvp-FRBC4000001IO",
+                    "epgId": "FRBC4000001IO"
                 },
                 {
                     "name": "BBC Earth",
@@ -896,6 +903,20 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Jeunesse.png",
             "stations": [
                 {
+                    "name": "100% Kidz",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3400004L5_20260210T035930SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-FR3400004L5",
+                    "epgId": "FR3400004L5"
+                },
+                {
+                    "name": "Les Lapins Crétins",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300002CM_20260210T035941SQUARE.png",
+                    "number": "4006",
+                    "url": "https://jmp2.uk/stvp-FRBD2300002CM",
+                    "epgId": "FRBD2300002CM"
+                },
+                {
                     "name": "Caillou",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4800002NE_20250121T012923SQUARE.png",
                     "number": "4775",
@@ -915,13 +936,6 @@
                     "number": "4779",
                     "url": "https://jmp2.uk/stvp-FR700001VJ",
                     "epgId": "FR700001VJ"
-                },
-                {
-                    "name": "Les Lapins Crétins",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300002CM_20260210T035941SQUARE.png",
-                    "number": "4801",
-                    "url": "https://jmp2.uk/stvp-FRBD2300002CM",
-                    "epgId": "FRBD2300002CM"
                 },
                 {
                     "name": "Tortues Ninja",
@@ -966,13 +980,6 @@
                     "epgId": "FRAJ38000035M"
                 },
                 {
-                    "name": "100% Kidz",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3400004L5_20260210T035930SQUARE.png",
-                    "number": "4815",
-                    "url": "https://jmp2.uk/stvp-FR3400004L5",
-                    "epgId": "FR3400004L5"
-                },
-                {
                     "name": "iCarly",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000061J_20241106T142552SQUARE.png",
                     "number": "4825",
@@ -985,13 +992,6 @@
             "name": "Cinéma",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Cinéma.png",
             "stations": [
-                {
-                    "name": "Ciné Western",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000095S_20260210T035936SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-FRBD19000095S",
-                    "epgId": "FRBD19000095S"
-                },
                 {
                     "name": "Top Films - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600007CB_20250415T020909SQUARE.png",
@@ -1117,6 +1117,13 @@
                     "number": "4910",
                     "url": "https://jmp2.uk/stvp-FR26000068C",
                     "epgId": "FR26000068C"
+                },
+                {
+                    "name": "Ciné Western",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000095S_20260210T035936SQUARE.png",
+                    "number": "4927",
+                    "url": "https://jmp2.uk/stvp-FRBD19000095S",
+                    "epgId": "FRBD19000095S"
                 },
                 {
                     "name": "Scream'IN",

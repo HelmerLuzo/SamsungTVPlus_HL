@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 11/02/2026 00:15",
+    "author": "Actualizada 12/02/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -10,18 +10,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Film.png",
             "stations": [
                 {
-                    "name": "Sony One Film d’azione",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300004KM_20260210T040141SQUARE.png",
+                    "name": "Cine Amore",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20260210T040132SQUARE.png",
                     "number": "4002",
-                    "url": "https://jmp2.uk/stvp-IT300004KM",
-                    "epgId": "IT300004KM"
-                },
-                {
-                    "name": "Cinemadame",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20260210T040135SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-ITBD1400003D0",
-                    "epgId": "ITBD1400003D0"
+                    "url": "https://jmp2.uk/stvp-IT3800001XM",
+                    "epgId": "IT3800001XM"
                 },
                 {
                     "name": "Film Top - Rakuten TV",
@@ -66,6 +59,13 @@
                     "epgId": "ITBC1100003KC"
                 },
                 {
+                    "name": "Cinemadame",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20260210T040135SQUARE.png",
+                    "number": "4873",
+                    "url": "https://jmp2.uk/stvp-ITBD1400003D0",
+                    "epgId": "ITBD1400003D0"
+                },
+                {
                     "name": "Pluto TV Film",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ38000055E_20241022T051450SQUARE.png",
                     "number": "4876",
@@ -78,13 +78,6 @@
                     "number": "4880",
                     "url": "https://jmp2.uk/stvp-ITBD600001CL",
                     "epgId": "ITBD600001CL"
-                },
-                {
-                    "name": "Cine Natale",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20260210T040132SQUARE.png",
-                    "number": "4884",
-                    "url": "https://jmp2.uk/stvp-IT3800001XM",
-                    "epgId": "IT3800001XM"
                 },
                 {
                     "name": "Film Al Femminile - Wedo Movies",
@@ -199,7 +192,7 @@
                     "epgId": "IT2600006JG"
                 },
                 {
-                    "name": "Christmas Time",
+                    "name": "Supercinema",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200001VR_20260210T035236SQUARE.png",
                     "number": "4944",
                     "url": "https://jmp2.uk/stvp-ITBD3200001VR",
@@ -281,6 +274,13 @@
                     "number": "4995",
                     "url": "https://jmp2.uk/stvp-ITBC3000003CT",
                     "epgId": "ITBC3000003CT"
+                },
+                {
+                    "name": "Sony One Film d’azione",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300004KM_20260210T040141SQUARE.png",
+                    "number": "4997",
+                    "url": "https://jmp2.uk/stvp-IT300004KM",
+                    "epgId": "IT300004KM"
                 },
                 {
                     "name": "Dramma - Rakuten TV",
@@ -463,6 +463,13 @@
                     "epgId": "IT3200006YF"
                 },
                 {
+                    "name": "BEAUTY CHANNEL",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT5100003XM_20260210T040129SQUARE.png",
+                    "number": "4078",
+                    "url": "https://jmp2.uk/stvp-IT5100003XM",
+                    "epgId": "IT5100003XM"
+                },
+                {
                     "name": "Catfish",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800001Z4_20260113T032828SQUARE.png",
                     "number": "4085",
@@ -566,7 +573,7 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sport.png",
             "stations": [
                 {
-                    "name": "Supertennis",
+                    "name": "SuperTennis",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800003V4_20260210T040123SQUARE.png",
                     "number": "4605",
                     "url": "https://jmp2.uk/stvp-IT800003V4",
@@ -683,6 +690,13 @@
             "name": "Serie TV",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serie TV.png",
             "stations": [
+                {
+                    "name": "Soap Turco",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600007QQ_20260210T040138SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-IT3600007QQ",
+                    "epgId": "IT3600007QQ"
+                },
                 {
                     "name": "Un medico in famiglia",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4000061Q_20260127T040651SQUARE.png",
@@ -801,13 +815,6 @@
                     "number": "4260",
                     "url": "https://jmp2.uk/stvp-IT900001A7",
                     "epgId": "IT900001A7"
-                },
-                {
-                    "name": "Soap Turco",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600007QQ_20260210T040138SQUARE.png",
-                    "number": "4266",
-                    "url": "https://jmp2.uk/stvp-IT3600007QQ",
-                    "epgId": "IT3600007QQ"
                 },
                 {
                     "name": "Anche i ricchi piangono",

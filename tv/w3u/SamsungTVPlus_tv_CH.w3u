@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇨🇭 by HL",
-    "author": "Actualizada 11/02/2026 00:15",
+    "author": "Actualizada 12/02/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/ch.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/ch.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CH.w3u",
@@ -136,7 +136,7 @@
                     "epgId": "CH4100001ZY"
                 },
                 {
-                    "name": "Out TV",
+                    "name": "PR1DE free",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2500001SY_20260210T035625SQUARE.png",
                     "number": "4209",
                     "url": "https://jmp2.uk/stvp-CHBD2500001SY",
@@ -350,11 +350,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
-                    "name": "Alarm für Cobra 11 / Balko",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH300006UT_20260210T035213SQUARE.png",
+                    "name": "Top Serien",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300026CA_20260210T035614SQUARE.png",
                     "number": "4002",
-                    "url": "https://jmp2.uk/stvp-CH300006UT",
-                    "epgId": "CH300006UT"
+                    "url": "https://jmp2.uk/stvp-CHBA3300026CA",
+                    "epgId": "CHBA3300026CA"
                 },
                 {
                     "name": "Crime Serien - Rakuten TV",
@@ -364,11 +364,11 @@
                     "epgId": "CH2600007IJ"
                 },
                 {
-                    "name": "Top Serien",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300026CA_20260210T035614SQUARE.png",
-                    "number": "4294",
-                    "url": "https://jmp2.uk/stvp-CHBA3300026CA",
-                    "epgId": "CHBA3300026CA"
+                    "name": "Alarm für Cobra 11 / Balko",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH300006UT_20260210T035213SQUARE.png",
+                    "number": "4292",
+                    "url": "https://jmp2.uk/stvp-CH300006UT",
+                    "epgId": "CH300006UT"
                 },
                 {
                     "name": "Abschnitt 40 / GSG9",
@@ -390,6 +390,13 @@
                     "number": "4306",
                     "url": "https://jmp2.uk/stvp-CH4400006BZ",
                     "epgId": "CH4400006BZ"
+                },
+                {
+                    "name": "Alerte Cobra",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3600001HH_20260210T035633SQUARE.png",
+                    "number": "4309",
+                    "url": "https://jmp2.uk/stvp-CH3600001HH",
+                    "epgId": "CH3600001HH"
                 },
                 {
                     "name": "Faites entrer l'accusé [FR]",
@@ -481,11 +488,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
-                    "name": "Terra Mater WILD",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2700002B7_20260210T035636SQUARE.png",
+                    "name": "Wilder Planet",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20260210T035617SQUARE.png",
                     "number": "4003",
-                    "url": "https://jmp2.uk/stvp-CHBD2700002B7",
-                    "epgId": "CHBD2700002B7"
+                    "url": "https://jmp2.uk/stvp-CHBA3300028G3",
+                    "epgId": "CHBA3300028G3"
                 },
                 {
                     "name": "The Wicked Tuna Channel",
@@ -558,18 +565,18 @@
                     "epgId": "CHBC40000040J"
                 },
                 {
-                    "name": "Wilder Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20260210T035617SQUARE.png",
-                    "number": "4486",
-                    "url": "https://jmp2.uk/stvp-CHBA3300028G3",
-                    "epgId": "CHBA3300028G3"
-                },
-                {
                     "name": "One Terra",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1500021M5_20250107T025223SQUARE.png",
                     "number": "4490",
                     "url": "https://jmp2.uk/stvp-CHBA1500021M5",
                     "epgId": "CHBA1500021M5"
+                },
+                {
+                    "name": "Terra Mater WILD",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2700002B7_20260210T035636SQUARE.png",
+                    "number": "4492",
+                    "url": "https://jmp2.uk/stvp-CHBD2700002B7",
+                    "epgId": "CHBD2700002B7"
                 },
                 {
                     "name": "Tierwelt",
@@ -608,7 +615,7 @@
                 {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH20000288_20260210T035639SQUARE.png",
-                    "number": "4001",
+                    "number": "4511",
                     "url": "https://jmp2.uk/stvp-CH20000288",
                     "epgId": "CH20000288"
                 },
@@ -878,13 +885,6 @@
                     "number": "4859",
                     "url": "https://jmp2.uk/stvp-CHBA3300030AJ",
                     "epgId": "CHBA3300030AJ"
-                },
-                {
-                    "name": "Weihnachtskino",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3700007UX_20260210T035630SQUARE.png",
-                    "number": "4866",
-                    "url": "https://jmp2.uk/stvp-CH3700007UX",
-                    "epgId": "CH3700007UX"
                 },
                 {
                     "name": "Moviedome",

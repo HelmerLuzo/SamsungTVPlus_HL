@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 11/02/2026 00:15",
+    "author": "Actualizada 12/02/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -233,6 +233,13 @@
                     "epgId": "GBBC2300001X5"
                 },
                 {
+                    "name": "A New Life In The Sun",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB60000381_20260210T040013SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-GB60000381",
+                    "epgId": "GB60000381"
+                },
+                {
                     "name": "Project Runway",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB4600001IK_20250107T030734SQUARE.png",
                     "number": "4062",
@@ -266,6 +273,27 @@
                     "number": "4071",
                     "url": "https://jmp2.uk/stvp-GB2700004BC",
                     "epgId": "GB2700004BC"
+                },
+                {
+                    "name": "AMC Reality",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB200096O2_20260210T040020SQUARE.png",
+                    "number": "4072",
+                    "url": "https://jmp2.uk/stvp-GB200096O2",
+                    "epgId": "GB200096O2"
+                },
+                {
+                    "name": "AMC Cupid",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2000955S_20260210T040016SQUARE.png",
+                    "number": "4073",
+                    "url": "https://jmp2.uk/stvp-GB2000955S",
+                    "epgId": "GB2000955S"
+                },
+                {
+                    "name": "Love After Lockup",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4700004FM_20260210T040026SQUARE.png",
+                    "number": "4074",
+                    "url": "https://jmp2.uk/stvp-GB4700004FM",
+                    "epgId": "GB4700004FM"
                 },
                 {
                     "name": "Survivor",
@@ -315,13 +343,6 @@
                     "number": "4088",
                     "url": "https://jmp2.uk/stvp-GB3000387J",
                     "epgId": "GB3000387J"
-                },
-                {
-                    "name": "A New Life In The Sun",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB60000381_20260210T040013SQUARE.png",
-                    "number": "4089",
-                    "url": "https://jmp2.uk/stvp-GB60000381",
-                    "epgId": "GB60000381"
                 },
                 {
                     "name": "Cash in the Attic",
@@ -393,13 +414,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/TV Series.png",
             "stations": [
                 {
-                    "name": "Poldark",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB280000829_20260210T040029SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-GB280000829",
-                    "epgId": "GB280000829"
-                },
-                {
                     "name": "Sky Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20250107T030748SQUARE.png",
                     "number": "4231",
@@ -419,6 +433,13 @@
                     "number": "4235",
                     "url": "https://jmp2.uk/stvp-GB3000061H",
                     "epgId": "GB3000061H"
+                },
+                {
+                    "name": "Poldark",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB280000829_20260210T040029SQUARE.png",
+                    "number": "4236",
+                    "url": "https://jmp2.uk/stvp-GB280000829",
+                    "epgId": "GB280000829"
                 },
                 {
                     "name": "Pluto TV Classic TV",
@@ -1518,11 +1539,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Movies.png",
             "stations": [
                 {
-                    "name": "Great! romance",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900008L9_20260210T040023SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-GBBC900008L9",
-                    "epgId": "GBBC900008L9"
+                    "name": "Sony One Comedy HITS",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300003UI_20260210T040032SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-GB300003UI",
+                    "epgId": "GB300003UI"
                 },
                 {
                     "name": "Comedy Movies - Rakuten TV",
@@ -1588,6 +1609,13 @@
                     "epgId": "GBAJ400045P5"
                 },
                 {
+                    "name": "Great! romance",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900008L9_20260210T040023SQUARE.png",
+                    "number": "4886",
+                    "url": "https://jmp2.uk/stvp-GBBC900008L9",
+                    "epgId": "GBBC900008L9"
+                },
+                {
                     "name": "Romance Movies - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600014LQ_20250107T031210SQUARE.png",
                     "number": "4888",
@@ -1621,13 +1649,6 @@
                     "number": "4896",
                     "url": "https://jmp2.uk/stvp-GBBA3300059BU",
                     "epgId": "GBBA3300059BU"
-                },
-                {
-                    "name": "Sony One Comedy HITS",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300003UI_20260210T040032SQUARE.png",
-                    "number": "4905",
-                    "url": "https://jmp2.uk/stvp-GB300003UI",
-                    "epgId": "GB300003UI"
                 },
                 {
                     "name": "Grjngo - Western Movies",
