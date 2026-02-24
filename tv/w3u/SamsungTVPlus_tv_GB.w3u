@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 24/02/2026 00:15",
+    "author": "Actualizada 25/02/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -11,7 +11,7 @@
             "stations": [
                 {
                     "name": "Entertainment Hub",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20260120T031427SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20260224T031147SQUARE.png",
                     "number": "4007",
                     "url": "https://jmp2.uk/stvp-GBBC2300003ZQ",
                     "epgId": "GBBC2300003ZQ"
@@ -25,7 +25,7 @@
                 },
                 {
                     "name": "Sky Arts",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB60000197_20250107T153913SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB60000197_20260224T031157SQUARE.png",
                     "number": "4039",
                     "url": "https://jmp2.uk/stvp-GB60000197",
                     "epgId": "GB60000197"
@@ -39,7 +39,7 @@
                 },
                 {
                     "name": "Challenge",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100005RX_20250107T030606SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100005RX_20260224T025321SQUARE.png",
                     "number": "4106",
                     "url": "https://jmp2.uk/stvp-GBBD3100005RX",
                     "epgId": "GBBD3100005RX"
@@ -95,7 +95,7 @@
                 },
                 {
                     "name": "Who Wants to be a Millionaire",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4200010V1_20260113T032626SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4200010V1_20260224T031234SQUARE.png",
                     "number": "4126",
                     "url": "https://jmp2.uk/stvp-GB4200010V1",
                     "epgId": "GB4200010V1"
@@ -137,7 +137,7 @@
                 },
                 {
                     "name": "Comedy Hub",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20260113T032603SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20260224T031137SQUARE.png",
                     "number": "4156",
                     "url": "https://jmp2.uk/stvp-GBBD25000038Y",
                     "epgId": "GBBD25000038Y"
@@ -158,7 +158,7 @@
                 },
                 {
                     "name": "Sony One Comedy TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300005ZR_20250107T031232SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300005ZR_20260224T031211SQUARE.png",
                     "number": "4160",
                     "url": "https://jmp2.uk/stvp-GB300005ZR",
                     "epgId": "GB300005ZR"
@@ -227,14 +227,14 @@
             "stations": [
                 {
                     "name": "American Idol",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20260127T040318SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20260224T031130SQUARE.png",
                     "number": "4001",
                     "url": "https://jmp2.uk/stvp-GBBC2300001X5",
                     "epgId": "GBBC2300001X5"
                 },
                 {
                     "name": "A New Life In The Sun",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB60000381_20260210T040013SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB60000381_20260224T031127SQUARE.png",
                     "number": "4003",
                     "url": "https://jmp2.uk/stvp-GB60000381",
                     "epgId": "GB60000381"
@@ -304,7 +304,7 @@
                 },
                 {
                     "name": "Sony One Dragons Den",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300008I8_20251125T100303SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300008I8_20260224T031215SQUARE.png",
                     "number": "4080",
                     "url": "https://jmp2.uk/stvp-GB300008I8",
                     "epgId": "GB300008I8"
@@ -360,7 +360,7 @@
                 },
                 {
                     "name": "Location Location Location",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB29000059T_20251013T054356SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB29000059T_20260224T031151SQUARE.png",
                     "number": "4092",
                     "url": "https://jmp2.uk/stvp-GB29000059T",
                     "epgId": "GB29000059T"
@@ -415,21 +415,21 @@
             "stations": [
                 {
                     "name": "Sky Mix",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20250107T030748SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20260224T025327SQUARE.png",
                     "number": "4231",
                     "url": "https://jmp2.uk/stvp-GBBD3100006XM",
                     "epgId": "GBBD3100006XM"
                 },
                 {
                     "name": "Sony One FAVES",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300007J7_20250107T031235SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300007J7_20260224T031219SQUARE.png",
                     "number": "4233",
                     "url": "https://jmp2.uk/stvp-GB300007J7",
                     "epgId": "GB300007J7"
                 },
                 {
                     "name": "Sony One Thriller TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000061H_20250107T031239SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000061H_20260224T031223SQUARE.png",
                     "number": "4235",
                     "url": "https://jmp2.uk/stvp-GB3000061H",
                     "epgId": "GB3000061H"
@@ -526,7 +526,7 @@
             "stations": [
                 {
                     "name": "Crime Network",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100010H1_20260113T032606SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100010H1_20260224T031140SQUARE.png",
                     "number": "4291",
                     "url": "https://jmp2.uk/stvp-GBBD4100010H1",
                     "epgId": "GBBD4100010H1"
@@ -798,7 +798,7 @@
                 },
                 {
                     "name": "Sky Sports Stories",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700013Y7_20250603T102749SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700013Y7_20260224T031200SQUARE.png",
                     "number": "4420",
                     "url": "https://jmp2.uk/stvp-GB2700013Y7",
                     "epgId": "GB2700013Y7"
@@ -1144,7 +1144,7 @@
                 },
                 {
                     "name": "DP World Tour",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB5200001TM_20250205T021308SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB5200001TM_20260224T031144SQUARE.png",
                     "number": "4604",
                     "url": "https://jmp2.uk/stvp-GB5200001TM",
                     "epgId": "GB5200001TM"
@@ -1207,7 +1207,7 @@
                 },
                 {
                     "name": "Bundesliga",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3500002R8_20260127T040321SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3500002R8_20260224T031133SQUARE.png",
                     "number": "4634",
                     "url": "https://jmp2.uk/stvp-GB3500002R8",
                     "epgId": "GB3500002R8"
@@ -1374,7 +1374,7 @@
                 },
                 {
                     "name": "SMTOWN",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1000001G0_20260210T040008SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1000001G0_20260224T031154SQUARE.png",
                     "number": "4743",
                     "url": "https://jmp2.uk/stvp-GB1000001G0",
                     "epgId": "GB1000001G0"
@@ -1478,7 +1478,7 @@
                 },
                 {
                     "name": "Transformers",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD23000021U_20250107T025826SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD23000021U_20260224T031231SQUARE.png",
                     "number": "4803",
                     "url": "https://jmp2.uk/stvp-GBBD23000021U",
                     "epgId": "GBBD23000021U"
@@ -1540,7 +1540,7 @@
             "stations": [
                 {
                     "name": "Sony One Comedy HITS",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300003UI_20260210T040032SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300003UI_20260224T031207SQUARE.png",
                     "number": "4002",
                     "url": "https://jmp2.uk/stvp-GB300003UI",
                     "epgId": "GB300003UI"
@@ -1708,7 +1708,7 @@
                 },
                 {
                     "name": "Sony One Action HITS",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000041I_20251111T012209SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000041I_20260224T031203SQUARE.png",
                     "number": "4996",
                     "url": "https://jmp2.uk/stvp-GB3000041I",
                     "epgId": "GB3000041I"
