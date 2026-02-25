@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇳 by HL",
-    "author": "Actualizada 25/02/2026 00:15",
+    "author": "Actualizada 26/02/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/in.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/in.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IN.w3u",
@@ -18,7 +18,7 @@
                 },
                 {
                     "name": "South Station",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260121T010840SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260225T010320SQUARE.png",
                     "number": "1002",
                     "url": "https://jmp2.uk/stvp-IN3800008CX",
                     "epgId": "IN3800008CX"
@@ -31,18 +31,18 @@
                     "epgId": "IN3800010SH"
                 },
                 {
-                    "name": "B4U Movies",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900016WI_20260211T003251SQUARE.png",
-                    "number": "1006",
-                    "url": "https://jmp2.uk/stvp-IN3900016WI",
-                    "epgId": "IN3900016WI"
-                },
-                {
                     "name": "NH BollyFlix",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20251106T195128SQUARE.png",
                     "number": "1316",
                     "url": "https://jmp2.uk/stvp-IN46000140Q",
                     "epgId": "IN46000140Q"
+                },
+                {
+                    "name": "B4U Movies",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900016WI_20260225T005750SQUARE.png",
+                    "number": "1317",
+                    "url": "https://jmp2.uk/stvp-IN3900016WI",
+                    "epgId": "IN3900016WI"
                 },
                 {
                     "name": "B4U Kadak",
@@ -185,7 +185,7 @@
                 },
                 {
                     "name": "SMTOWN",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900008ZP_20260211T003242SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900008ZP_20260225T010354SQUARE.png",
                     "number": "1460",
                     "url": "https://jmp2.uk/stvp-IN4900008ZP",
                     "epgId": "IN4900008ZP"
@@ -227,7 +227,7 @@
                 },
                 {
                     "name": "@K-MUSIC",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900011OU_20251015T010524SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900011OU_20260225T010232SQUARE.png",
                     "number": "1466",
                     "url": "https://jmp2.uk/stvp-IN4900011OU",
                     "epgId": "IN4900011OU"
@@ -671,7 +671,7 @@
             "stations": [
                 {
                     "name": "Kings Of Comedy",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260121T010823SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260225T010342SQUARE.png",
                     "number": "1000",
                     "url": "https://jmp2.uk/stvp-IN46000184H",
                     "epgId": "IN46000184H"
@@ -689,6 +689,13 @@
                     "number": "1005",
                     "url": "https://jmp2.uk/stvp-IN3600005NF",
                     "epgId": "IN3600005NF"
+                },
+                {
+                    "name": "TeleguOne TV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400058AF_20260225T005753SQUARE.png",
+                    "number": "1006",
+                    "url": "https://jmp2.uk/stvp-IN400058AF",
+                    "epgId": "IN400058AF"
                 },
                 {
                     "name": "Nazara",
@@ -804,28 +811,28 @@
                 },
                 {
                     "name": "K-Content by CJ ENM",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN49000103E_20250827T004335SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN49000103E_20260225T010351SQUARE.png",
                     "number": "1134",
                     "url": "https://jmp2.uk/stvp-IN49000103E",
                     "epgId": "IN49000103E"
                 },
                 {
                     "name": "Mark Rober TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900022KR_20251217T003127SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900022KR_20260225T010326SQUARE.png",
                     "number": "1135",
                     "url": "https://jmp2.uk/stvp-IN3900022KR",
                     "epgId": "IN3900022KR"
                 },
                 {
                     "name": "Challenge Accepted",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600009O8_20251106T195111SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600009O8_20260225T010318SQUARE.png",
                     "number": "1136",
                     "url": "https://jmp2.uk/stvp-IN3600009O8",
                     "epgId": "IN3600009O8"
                 },
                 {
                     "name": "The Try Guys",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN390002534_20251106T195139SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN390002534_20260225T010328SQUARE.png",
                     "number": "1137",
                     "url": "https://jmp2.uk/stvp-IN390002534",
                     "epgId": "IN390002534"
@@ -846,7 +853,7 @@
                 },
                 {
                     "name": "Series K BY MBC",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600019L1_20260121T010837SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600019L1_20260225T010345SQUARE.png",
                     "number": "1140",
                     "url": "https://jmp2.uk/stvp-IN4600019L1",
                     "epgId": "IN4600019L1"
@@ -866,7 +873,7 @@
                 },
                 {
                     "name": "Hooray Rhymes",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600007TC_20260121T010816SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600007TC_20260225T010330SQUARE.png",
                     "number": "1265",
                     "url": "https://jmp2.uk/stvp-IN4600007TC",
                     "epgId": "IN4600007TC"
@@ -880,7 +887,7 @@
                 },
                 {
                     "name": "KidDo MATIX",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600008T4_20260121T011214SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600008T4_20260225T010333SQUARE.png",
                     "number": "1268",
                     "url": "https://jmp2.uk/stvp-IN4600008T4",
                     "epgId": "IN4600008T4"
@@ -894,7 +901,7 @@
                 },
                 {
                     "name": "Hooray Kids",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600009F9_20260121T010813SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600009F9_20260225T010336SQUARE.png",
                     "number": "1270",
                     "url": "https://jmp2.uk/stvp-IN4600009F9",
                     "epgId": "IN4600009F9"
@@ -1053,7 +1060,7 @@
                 },
                 {
                     "name": "Brave Wilderness",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600008TY_20251106T195106SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600008TY_20260225T010316SQUARE.png",
                     "number": "1190",
                     "url": "https://jmp2.uk/stvp-IN3600008TY",
                     "epgId": "IN3600008TY"
@@ -1087,7 +1094,7 @@
                 },
                 {
                     "name": "Cook & Bake",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000105Q_20260121T010803SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000105Q_20260225T010339SQUARE.png",
                     "number": "1366",
                     "url": "https://jmp2.uk/stvp-IN46000105Q",
                     "epgId": "IN46000105Q"
@@ -1107,13 +1114,6 @@
                     "epgId": "IN3000003QJ"
                 },
                 {
-                    "name": "Tastemade",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490001909_20220427T054659SQUARE.png_20220427054700.png",
-                    "number": "1371",
-                    "url": "https://jmp2.uk/stvp-INBA490001909",
-                    "epgId": "INBA490001909"
-                },
-                {
                     "name": "Bon Voyage",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2400004WL_20250820T005408SQUARE.png",
                     "number": "1372",
@@ -1129,7 +1129,7 @@
                 },
                 {
                     "name": "K-Food by CJ ENM",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN490000951_20250827T004338SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN490000951_20260225T010348SQUARE.png",
                     "number": "1374",
                     "url": "https://jmp2.uk/stvp-IN490000951",
                     "epgId": "IN490000951"
@@ -1140,6 +1140,13 @@
                     "number": "1375",
                     "url": "https://jmp2.uk/stvp-INBC2800007ZP",
                     "epgId": "INBC2800007ZP"
+                },
+                {
+                    "name": "Automotions",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400054UF_20260225T005747SQUARE.png",
+                    "number": "1376",
+                    "url": "https://jmp2.uk/stvp-IN400054UF",
+                    "epgId": "IN400054UF"
                 },
                 {
                     "name": "INFAST",
@@ -1164,7 +1171,7 @@
                 },
                 {
                     "name": "Epic Gardening TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000216A_20251106T195121SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000216A_20260225T010323SQUARE.png",
                     "number": "1384",
                     "url": "https://jmp2.uk/stvp-IN39000216A",
                     "epgId": "IN39000216A"

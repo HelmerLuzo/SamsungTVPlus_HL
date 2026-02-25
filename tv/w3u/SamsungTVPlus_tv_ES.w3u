@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇪🇸 by HL",
-    "author": "Actualizada 25/02/2026 00:15",
+    "author": "Actualizada 26/02/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/es.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -9,13 +9,6 @@
             "name": "Entretenimiento",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entretenimiento.png",
             "stations": [
-                {
-                    "name": "2M",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4700001VS_20260224T030748SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-ES4700001VS",
-                    "epgId": "ES4700001VS"
-                },
                 {
                     "name": "Estilo y Vida – Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20241126T043113SQUARE.png",
@@ -171,6 +164,13 @@
                     "epgId": "ES500002NY"
                 },
                 {
+                    "name": "2M",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4700001VS_20260224T030748SQUARE.png",
+                    "number": "4219",
+                    "url": "https://jmp2.uk/stvp-ES4700001VS",
+                    "epgId": "ES4700001VS"
+                },
+                {
                     "name": "El Mueble",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300006I4_20251202T002547SQUARE.png",
                     "number": "4220",
@@ -207,9 +207,16 @@
                 {
                     "name": "Cuéntame cómo pasó",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20260224T030751SQUARE.png",
-                    "number": "4006",
+                    "number": "4001",
                     "url": "https://jmp2.uk/stvp-ES400002P5",
                     "epgId": "ES400002P5"
+                },
+                {
+                    "name": "RTVE La Moderna",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20260224T030806SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-ES33000036Q",
+                    "epgId": "ES33000036Q"
                 },
                 {
                     "name": "RTVE La Promesa",
@@ -219,18 +226,11 @@
                     "epgId": "ES3300006QL"
                 },
                 {
-                    "name": "RTVE La Moderna",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20260224T030806SQUARE.png",
-                    "number": "4236",
-                    "url": "https://jmp2.uk/stvp-ES33000036Q",
-                    "epgId": "ES33000036Q"
-                },
-                {
                     "name": "FreeTV Estelar",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20241022T050312SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500009ZJ_20260224T030757SQUARE.png",
                     "number": "4241",
-                    "url": "https://jmp2.uk/stvp-ESBA3300039ZX",
-                    "epgId": "ESBA3300039ZX"
+                    "url": "https://jmp2.uk/stvp-ES500009ZJ",
+                    "epgId": "ES500009ZJ"
                 },
                 {
                     "name": "Águila Roja",
@@ -573,6 +573,13 @@
                     "epgId": "ES3200003OC"
                 },
                 {
+                    "name": "Top Barça",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1100001MT_20260224T030836SQUARE.png",
+                    "number": "4639",
+                    "url": "https://jmp2.uk/stvp-ES1100001MT",
+                    "epgId": "ES1100001MT"
+                },
+                {
                     "name": "GOL CLASSICS",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300031A5_20260224T025336SQUARE.png",
                     "number": "4640",
@@ -760,11 +767,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Cine.png",
             "stations": [
                 {
-                    "name": "Runtime Romance",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20260224T030809SQUARE.png",
+                    "name": "Grjngo - Películas Del Oeste",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20260224T030804SQUARE.png",
                     "number": "4002",
-                    "url": "https://jmp2.uk/stvp-ESBD800004KU",
-                    "epgId": "ESBD800004KU"
+                    "url": "https://jmp2.uk/stvp-ESBC2700002LO",
+                    "epgId": "ESBC2700002LO"
                 },
                 {
                     "name": "Runtime Familia",
@@ -837,6 +844,13 @@
                     "epgId": "ES4200001MR"
                 },
                 {
+                    "name": "Runtime Romance",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20260224T030809SQUARE.png",
+                    "number": "4886",
+                    "url": "https://jmp2.uk/stvp-ESBD800004KU",
+                    "epgId": "ESBD800004KU"
+                },
+                {
                     "name": "Películas Románticas - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600012C9_20241022T050603SQUARE.png",
                     "number": "4888",
@@ -879,13 +893,6 @@
                     "epgId": "ES300007KS"
                 },
                 {
-                    "name": "Grjngo - Películas Del Oeste",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20260224T030804SQUARE.png",
-                    "number": "4925",
-                    "url": "https://jmp2.uk/stvp-ESBC2700002LO",
-                    "epgId": "ESBC2700002LO"
-                },
-                {
                     "name": "Cine Western",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png",
                     "number": "4926",
@@ -908,10 +915,10 @@
                 },
                 {
                     "name": "FreeTV Clásico",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000143_20260224T030745SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500008IU_20260224T030754SQUARE.png",
                     "number": "4940",
-                    "url": "https://jmp2.uk/stvp-ESBD230000143",
-                    "epgId": "ESBD230000143"
+                    "url": "https://jmp2.uk/stvp-ES500008IU",
+                    "epgId": "ES500008IU"
                 },
                 {
                     "name": "Planeta de Cine",

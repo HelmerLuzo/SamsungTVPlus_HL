@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇩🇪 by HL",
-    "author": "Actualizada 25/02/2026 00:15",
+    "author": "Actualizada 26/02/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
@@ -10,16 +10,9 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
                 {
-                    "name": "ZDF zu Hause",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE37000038D_20260224T030455SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-DE37000038D",
-                    "epgId": "DE37000038D"
-                },
-                {
                     "name": "Entertainment Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700002Z2_20260224T030511SQUARE.png",
-                    "number": "4007",
+                    "number": "4001",
                     "url": "https://jmp2.uk/stvp-DEBC4700002Z2",
                     "epgId": "DEBC4700002Z2"
                 },
@@ -134,6 +127,13 @@
                     "number": "4170",
                     "url": "https://jmp2.uk/stvp-DEAJ3200004UF",
                     "epgId": "DEAJ3200004UF"
+                },
+                {
+                    "name": "ZDF zu Hause",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE37000038D_20260224T030455SQUARE.png",
+                    "number": "4201",
+                    "url": "https://jmp2.uk/stvp-DE37000038D",
+                    "epgId": "DE37000038D"
                 },
                 {
                     "name": "Mark Rober TV",
@@ -413,6 +413,13 @@
                     "epgId": "DE300020D3"
                 },
                 {
+                    "name": "Vera",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200044MH_20260224T030547SQUARE.png",
+                    "number": "4293",
+                    "url": "https://jmp2.uk/stvp-DE200044MH",
+                    "epgId": "DE200044MH"
+                },
+                {
                     "name": "Abschnitt 40 / GSG9",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3400005QJ_20251209T125838SQUARE.png",
                     "number": "4296",
@@ -544,6 +551,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
+                    "name": "Wilder Planet",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20260224T030434SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-DEBA3300042XG",
+                    "epgId": "DEBA3300042XG"
+                },
+                {
                     "name": "The Wicked Tuna Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC220000422_20250107T024428SQUARE.png",
                     "number": "4352",
@@ -563,6 +577,13 @@
                     "number": "4362",
                     "url": "https://jmp2.uk/stvp-DE46000025H",
                     "epgId": "DE46000025H"
+                },
+                {
+                    "name": "Swamp People - überleben im sumpf",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4600003OS_20260224T025342SQUARE.png",
+                    "number": "4364",
+                    "url": "https://jmp2.uk/stvp-DE4600003OS",
+                    "epgId": "DE4600003OS"
                 },
                 {
                     "name": "Terra X",
@@ -635,13 +656,6 @@
                     "epgId": "DEAK3504506A"
                 },
                 {
-                    "name": "Wilder Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20260224T030434SQUARE.png",
-                    "number": "4486",
-                    "url": "https://jmp2.uk/stvp-DEBA3300042XG",
-                    "epgId": "DEBA3300042XG"
-                },
-                {
                     "name": "BBC Earth",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png",
                     "number": "4488",
@@ -706,14 +720,14 @@
                 {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20260224T030540SQUARE.png",
-                    "number": "4001",
+                    "number": "4511",
                     "url": "https://jmp2.uk/stvp-DE200003PX",
                     "epgId": "DE200003PX"
                 },
                 {
                     "name": "ZDF kocht!",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700002HO_20260224T030550SQUARE.png",
-                    "number": "4003",
+                    "number": "4515",
                     "url": "https://jmp2.uk/stvp-DEBD3700002HO",
                     "epgId": "DEBD3700002HO"
                 },
@@ -759,6 +773,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sport.png",
             "stations": [
                 {
+                    "name": "DF1",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE400010IF_20260224T030508SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-DE400010IF",
+                    "epgId": "DE400010IF"
+                },
+                {
                     "name": "DAZN Rise",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD700001C5_20260224T030505SQUARE.png",
                     "number": "4601",
@@ -792,13 +813,6 @@
                     "number": "4611",
                     "url": "https://jmp2.uk/stvp-DEAJ0500429A",
                     "epgId": "DEAJ0500429A"
-                },
-                {
-                    "name": "DF1",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE400010IF_20260224T030508SQUARE.png",
-                    "number": "4613",
-                    "url": "https://jmp2.uk/stvp-DE400010IF",
-                    "epgId": "DE400010IF"
                 },
                 {
                     "name": "Top Gear",
@@ -882,6 +896,13 @@
                     "number": "4631",
                     "url": "https://jmp2.uk/stvp-DEBC470000128",
                     "epgId": "DEBC470000128"
+                },
+                {
+                    "name": "Top Barça",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1100003YR_20260224T030543SQUARE.png",
+                    "number": "4635",
+                    "url": "https://jmp2.uk/stvp-DE1100003YR",
+                    "epgId": "DE1100003YR"
                 },
                 {
                     "name": "FIFA+",
