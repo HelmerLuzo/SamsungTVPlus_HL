@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇰🇷 by HL",
-    "author": "Actualizada 11/03/2026 00:15",
+    "author": "Actualizada 12/03/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/kr.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/kr.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_KR.w3u",
@@ -10,18 +10,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/실시간.png",
             "stations": [
                 {
+                    "name": "TV조선",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3700002JT_20260311T004619SQUARE.png",
+                    "number": "529",
+                    "url": "https://jmp2.uk/stvp-KR3700002JT",
+                    "epgId": "KR3700002JT"
+                },
+                {
                     "name": "MBN",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR22000066Q_20251015T000135SQUARE.png",
                     "number": "530",
                     "url": "https://jmp2.uk/stvp-KR22000066Q",
                     "epgId": "KR22000066Q"
-                },
-                {
-                    "name": "TV조선",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3700002JT_20251106T195311SQUARE.png",
-                    "number": "535",
-                    "url": "https://jmp2.uk/stvp-KR3700002JT",
-                    "epgId": "KR3700002JT"
                 },
                 {
                     "name": "JTBC4",
@@ -160,6 +160,20 @@
                     "number": "503",
                     "url": "https://jmp2.uk/stvp-KR5000002QW",
                     "epgId": "KR5000002QW"
+                },
+                {
+                    "name": "tvN 서진이네 1~2 이어보기",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200025QG_20260311T004625SQUARE.png",
+                    "number": "509",
+                    "url": "https://jmp2.uk/stvp-KRBC3200025QG",
+                    "epgId": "KRBC3200025QG"
+                },
+                {
+                    "name": "tvN 진짜 괜찮은 사람",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800013YF_20260311T004629SQUARE.png",
+                    "number": "510",
+                    "url": "https://jmp2.uk/stvp-KRBC800013YF",
+                    "epgId": "KRBC800013YF"
                 },
                 {
                     "name": "MBC 무한도전",
@@ -344,20 +358,6 @@
                     "epgId": "KR48000047I"
                 },
                 {
-                    "name": "tvN 서진이네2",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200025QG_20251029T003931SQUARE.png",
-                    "number": "567",
-                    "url": "https://jmp2.uk/stvp-KRBC3200025QG",
-                    "epgId": "KRBC3200025QG"
-                },
-                {
-                    "name": "tvN STORY 여권들고 등짝 스매싱",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800013YF_20260224T012055SQUARE.png",
-                    "number": "568",
-                    "url": "https://jmp2.uk/stvp-KRBC800013YF",
-                    "epgId": "KRBC800013YF"
-                },
-                {
                     "name": "나는 솔로",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200009C3_20251029T003942SQUARE.png",
                     "number": "569",
@@ -540,13 +540,6 @@
                     "epgId": "KRBC4000002ME"
                 },
                 {
-                    "name": "tvN 바다 건너 바퀴 달린 집 : 북해도편",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200028P2_20260224T012057SQUARE.png",
-                    "number": "595",
-                    "url": "https://jmp2.uk/stvp-KRBC3200028P2",
-                    "epgId": "KRBC3200028P2"
-                },
-                {
                     "name": "tvN 헬스파머",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200029C4_20260224T012107SQUARE.png",
                     "number": "596",
@@ -686,18 +679,18 @@
                     "epgId": "KR44000056U"
                 },
                 {
-                    "name": "낮에 뜨는 달",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000009EC_20260225T010608SQUARE.png",
-                    "number": "509",
-                    "url": "https://jmp2.uk/stvp-KR2000009EC",
-                    "epgId": "KR2000009EC"
+                    "name": "tvN 그놈은 흑염룡",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200016H1_20260311T004621SQUARE.png",
+                    "number": "512",
+                    "url": "https://jmp2.uk/stvp-KRBC3200016H1",
+                    "epgId": "KRBC3200016H1"
                 },
                 {
-                    "name": "라이딩 인생",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000003T6_20260225T010610SQUARE.png",
-                    "number": "510",
-                    "url": "https://jmp2.uk/stvp-KR2000003T6",
-                    "epgId": "KR2000003T6"
+                    "name": "tvN 금주를 부탁해",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20260311T004623SQUARE.png",
+                    "number": "513",
+                    "url": "https://jmp2.uk/stvp-KRBC3200018FU",
+                    "epgId": "KRBC3200018FU"
                 },
                 {
                     "name": "SBS 모범택시",
@@ -777,25 +770,11 @@
                     "epgId": "KR400003IP"
                 },
                 {
-                    "name": "tvN 손해 보기 싫어서",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200016H1_20251223T004911SQUARE.png",
-                    "number": "633",
-                    "url": "https://jmp2.uk/stvp-KRBC3200016H1",
-                    "epgId": "KRBC3200016H1"
-                },
-                {
                     "name": "나의 해리에게",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000010K7_20250827T010223SQUARE.png",
                     "number": "634",
                     "url": "https://jmp2.uk/stvp-KR2000010K7",
                     "epgId": "KR2000010K7"
-                },
-                {
-                    "name": "tvN 선재 업고 튀어",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20260224T012105SQUARE.png",
-                    "number": "635",
-                    "url": "https://jmp2.uk/stvp-KRBC3200018FU",
-                    "epgId": "KRBC3200018FU"
                 },
                 {
                     "name": "SBS HOT CLIP 드라마",
@@ -869,7 +848,7 @@
                 },
                 {
                     "name": "tvN 인급동",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200031KO_20260121T012252SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200031KO_20260311T004627SQUARE.png",
                     "number": "649",
                     "url": "https://jmp2.uk/stvp-KRBC3200031KO",
                     "epgId": "KRBC3200031KO"
@@ -915,6 +894,20 @@
                     "number": "656",
                     "url": "https://jmp2.uk/stvp-KR2000011GA",
                     "epgId": "KR2000011GA"
+                },
+                {
+                    "name": "낮에 뜨는 달",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000009EC_20260311T004632SQUARE.png",
+                    "number": "658",
+                    "url": "https://jmp2.uk/stvp-KR2000009EC",
+                    "epgId": "KR2000009EC"
+                },
+                {
+                    "name": "라이딩 인생",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000003T6_20260311T004634SQUARE.png",
+                    "number": "659",
+                    "url": "https://jmp2.uk/stvp-KR2000003T6",
+                    "epgId": "KR2000003T6"
                 }
             ]
         },
@@ -1213,9 +1206,9 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/영화.png",
             "stations": [
                 {
-                    "name": "Genie 새해웃음특집",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000012AI_20260224T012010SQUARE.png",
-                    "number": "741",
+                    "name": "Genie 봄맞이 로맨스 특집",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000012AI_20260311T004611SQUARE.png",
+                    "number": "514",
                     "url": "https://jmp2.uk/stvp-KR2000012AI",
                     "epgId": "KR2000012AI"
                 },
@@ -1254,6 +1247,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/음악.png",
             "stations": [
                 {
+                    "name": "Mnet 라이브 와이어",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200028P2_20260311T004613SQUARE.png",
+                    "number": "511",
+                    "url": "https://jmp2.uk/stvp-KRBC3200028P2",
+                    "epgId": "KRBC3200028P2"
+                },
+                {
                     "name": "essential; by Bugs",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR410000247_20250402T010541SQUARE.png",
                     "number": "721",
@@ -1283,7 +1283,7 @@
                 },
                 {
                     "name": "SMTOWN",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR10000027H_20260225T010602SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR10000027H_20260311T004615SQUARE.png",
                     "number": "725",
                     "url": "https://jmp2.uk/stvp-KR10000027H",
                     "epgId": "KR10000027H"

@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇦🇹 by HL",
-    "author": "Actualizada 11/03/2026 00:15",
+    "author": "Actualizada 12/03/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/at.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/at.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_AT.w3u",
@@ -10,18 +10,25 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
                 {
-                    "name": "Hochzeit auf den ersten Blick",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT48000012I_20260310T031250SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-AT48000012I",
-                    "epgId": "AT48000012I"
-                },
-                {
                     "name": "Comedy Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD41000046O_20260310T031246SQUARE.png",
-                    "number": "4007",
+                    "number": "4001",
                     "url": "https://jmp2.uk/stvp-ATBD41000046O",
                     "epgId": "ATBD41000046O"
+                },
+                {
+                    "name": "Ladykracher",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT32000109U_20260310T031257SQUARE.png",
+                    "number": "4004",
+                    "url": "https://jmp2.uk/stvp-AT32000109U",
+                    "epgId": "AT32000109U"
+                },
+                {
+                    "name": "Hochzeit auf den ersten Blick",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT48000012I_20260310T031250SQUARE.png",
+                    "number": "4069",
+                    "url": "https://jmp2.uk/stvp-AT48000012I",
+                    "epgId": "AT48000012I"
                 },
                 {
                     "name": "Dating hinter Gittern",
@@ -71,13 +78,6 @@
                     "number": "4157",
                     "url": "https://jmp2.uk/stvp-AT3800001SY",
                     "epgId": "AT3800001SY"
-                },
-                {
-                    "name": "Ladykracher",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT32000109U_20260310T031257SQUARE.png",
-                    "number": "4158",
-                    "url": "https://jmp2.uk/stvp-AT32000109U",
-                    "epgId": "AT32000109U"
                 },
                 {
                     "name": "Comedy Central Pluto TV",
@@ -197,18 +197,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
                 {
-                    "name": "Hudson & Rex",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20260310T031253SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-AT4800002G5",
-                    "epgId": "AT4800002G5"
-                },
-                {
-                    "name": "The Good Wife",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3700006RS_20260310T031307SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-AT3700006RS",
-                    "epgId": "AT3700006RS"
+                    "name": "Poldark",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300045YS_20260310T032306SQUARE.png",
+                    "number": "4231",
+                    "url": "https://jmp2.uk/stvp-AT300045YS",
+                    "epgId": "AT300045YS"
                 },
                 {
                     "name": "AMC Stories",
@@ -258,6 +251,13 @@
                     "number": "4249",
                     "url": "https://jmp2.uk/stvp-ATAK3504506A",
                     "epgId": "ATAK3504506A"
+                },
+                {
+                    "name": "The Good Wife",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3700006RS_20260310T031307SQUARE.png",
+                    "number": "4252",
+                    "url": "https://jmp2.uk/stvp-AT3700006RS",
+                    "epgId": "AT3700006RS"
                 },
                 {
                     "name": "Sony One Comedy TV",
@@ -328,6 +328,13 @@
             "name": "Crime",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
+                {
+                    "name": "Hudson & Rex",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20260310T031253SQUARE.png",
+                    "number": "4291",
+                    "url": "https://jmp2.uk/stvp-AT4800002G5",
+                    "epgId": "AT4800002G5"
+                },
                 {
                     "name": "Alarm für Cobra 11 / Balko",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300009BI_20260210T035545SQUARE.png",
@@ -453,6 +460,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
+                    "name": "Wilder Planet",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300031VR_20260310T031236SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-ATBA3300031VR",
+                    "epgId": "ATBA3300031VR"
+                },
+                {
                     "name": "The Wicked Tuna Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC3900001W3_20250107T022235SQUARE.png",
                     "number": "4352",
@@ -521,13 +535,6 @@
                     "number": "4435",
                     "url": "https://jmp2.uk/stvp-ATAK3504503A",
                     "epgId": "ATAK3504503A"
-                },
-                {
-                    "name": "Wilder Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300031VR_20260310T031236SQUARE.png",
-                    "number": "4486",
-                    "url": "https://jmp2.uk/stvp-ATBA3300031VR",
-                    "epgId": "ATBA3300031VR"
                 },
                 {
                     "name": "One Terra",
@@ -605,6 +612,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sport.png",
             "stations": [
                 {
+                    "name": "Red Bull TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1500003ES_20260310T031300SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-ATBD1500003ES",
+                    "epgId": "ATBD1500003ES"
+                },
+                {
                     "name": "DAZN Rise",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD700001VF_20250513T005127SQUARE.png",
                     "number": "4601",
@@ -624,13 +638,6 @@
                     "number": "4605",
                     "url": "https://jmp2.uk/stvp-ATBA2200008XN",
                     "epgId": "ATBA2200008XN"
-                },
-                {
-                    "name": "Red Bull TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1500003ES_20260310T031300SQUARE.png",
-                    "number": "4609",
-                    "url": "https://jmp2.uk/stvp-ATBD1500003ES",
-                    "epgId": "ATBD1500003ES"
                 },
                 {
                     "name": "Sportdigital Free",
@@ -709,6 +716,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Fußball.png",
             "stations": [
                 {
+                    "name": "Scooore",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD26000124P_20260310T031304SQUARE.png",
+                    "number": "4005",
+                    "url": "https://jmp2.uk/stvp-ATBD26000124P",
+                    "epgId": "ATBD26000124P"
+                },
+                {
                     "name": "DAZN FAST+",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC4700001JX_20250610T010306SQUARE.png",
                     "number": "4631",
@@ -728,13 +742,6 @@
                     "number": "4639",
                     "url": "https://jmp2.uk/stvp-ATBA3300007PT",
                     "epgId": "ATBA3300007PT"
-                },
-                {
-                    "name": "Scooore",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD26000124P_20260310T031304SQUARE.png",
-                    "number": "4641",
-                    "url": "https://jmp2.uk/stvp-ATBD26000124P",
-                    "epgId": "ATBD26000124P"
                 }
             ]
         },
@@ -872,20 +879,6 @@
             "name": "Filme",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Filme.png",
             "stations": [
-                {
-                    "name": "Actionfilme - Rakuten TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT26000054S_20260310T031243SQUARE.png",
-                    "number": "4004",
-                    "url": "https://jmp2.uk/stvp-AT26000054S",
-                    "epgId": "AT26000054S"
-                },
-                {
-                    "name": "Drama Filme - Rakuten TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2600004LH_20260310T032302SQUARE.png",
-                    "number": "4005",
-                    "url": "https://jmp2.uk/stvp-AT2600004LH",
-                    "epgId": "AT2600004LH"
-                },
                 {
                     "name": "Family - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2600007N2_20251230T030422SQUARE.png",
@@ -1036,9 +1029,23 @@
                 {
                     "name": "Sony One Action HITS",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300007S8_20260310T032310SQUARE.png",
-                    "number": "4996",
+                    "number": "4995",
                     "url": "https://jmp2.uk/stvp-AT300007S8",
                     "epgId": "AT300007S8"
+                },
+                {
+                    "name": "Drama Filme - Rakuten TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2600004LH_20260310T032302SQUARE.png",
+                    "number": "4996",
+                    "url": "https://jmp2.uk/stvp-AT2600004LH",
+                    "epgId": "AT2600004LH"
+                },
+                {
+                    "name": "Actionfilme - Rakuten TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT26000054S_20260310T031243SQUARE.png",
+                    "number": "4997",
+                    "url": "https://jmp2.uk/stvp-AT26000054S",
+                    "epgId": "AT26000054S"
                 },
                 {
                     "name": "Komödien - Rakuten TV",

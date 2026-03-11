@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 11/03/2026 00:15",
+    "author": "Actualizada 12/03/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -9,13 +9,6 @@
             "name": "Entertainment",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
-                {
-                    "name": "Comedy Hub",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20260310T031824SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-GBBD25000038Y",
-                    "epgId": "GBBD25000038Y"
-                },
                 {
                     "name": "Entertainment Hub",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20260224T031147SQUARE.png",
@@ -143,6 +136,13 @@
                     "epgId": "GB4600001W9"
                 },
                 {
+                    "name": "Comedy Hub",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20260310T031824SQUARE.png",
+                    "number": "4156",
+                    "url": "https://jmp2.uk/stvp-GBBD25000038Y",
+                    "epgId": "GBBD25000038Y"
+                },
+                {
                     "name": "Dhar Mann TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3600003B3_20251013T054327SQUARE.png",
                     "number": "4157",
@@ -233,18 +233,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality.png",
             "stations": [
                 {
-                    "name": "Sony One Dragons Den",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300008I8_20260310T031842SQUARE.png",
+                    "name": "Escape to the Country",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500006EX_20260310T031829SQUARE.png",
                     "number": "4001",
-                    "url": "https://jmp2.uk/stvp-GB300008I8",
-                    "epgId": "GB300008I8"
+                    "url": "https://jmp2.uk/stvp-GB500006EX",
+                    "epgId": "GB500006EX"
                 },
                 {
-                    "name": "Location Location Location",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB29000059T_20260310T031835SQUARE.png",
+                    "name": "The Osbournes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3600002EB_20260310T031846SQUARE.png",
                     "number": "4002",
-                    "url": "https://jmp2.uk/stvp-GB29000059T",
-                    "epgId": "GB29000059T"
+                    "url": "https://jmp2.uk/stvp-GB3600002EB",
+                    "epgId": "GB3600002EB"
                 },
                 {
                     "name": "Project Runway",
@@ -273,13 +273,6 @@
                     "number": "4067",
                     "url": "https://jmp2.uk/stvp-GB3500003E5",
                     "epgId": "GB3500003E5"
-                },
-                {
-                    "name": "The Osbournes",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3600002EB_20260310T031846SQUARE.png",
-                    "number": "4068",
-                    "url": "https://jmp2.uk/stvp-GB3600002EB",
-                    "epgId": "GB3600002EB"
                 },
                 {
                     "name": "Duck Dynasty",
@@ -317,18 +310,18 @@
                     "epgId": "GBBB3800007BN"
                 },
                 {
+                    "name": "Sony One Dragons Den",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300008I8_20260310T031842SQUARE.png",
+                    "number": "4080",
+                    "url": "https://jmp2.uk/stvp-GB300008I8",
+                    "epgId": "GB300008I8"
+                },
+                {
                     "name": "Come Dine With Me",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC9000062G_20260127T040323SQUARE.png",
                     "number": "4084",
                     "url": "https://jmp2.uk/stvp-GBBC9000062G",
                     "epgId": "GBBC9000062G"
-                },
-                {
-                    "name": "Escape to the Country",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500006EX_20260310T031829SQUARE.png",
-                    "number": "4085",
-                    "url": "https://jmp2.uk/stvp-GB500006EX",
-                    "epgId": "GB500006EX"
                 },
                 {
                     "name": "Homes Under the Hammer",
@@ -371,6 +364,13 @@
                     "number": "4091",
                     "url": "https://jmp2.uk/stvp-GB12000037Y",
                     "epgId": "GB12000037Y"
+                },
+                {
+                    "name": "Location Location Location",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB29000059T_20260310T031835SQUARE.png",
+                    "number": "4092",
+                    "url": "https://jmp2.uk/stvp-GB29000059T",
+                    "epgId": "GB29000059T"
                 },
                 {
                     "name": "Flipping Nation",
@@ -664,6 +664,13 @@
                     "epgId": "GBBD3100002NU"
                 },
                 {
+                    "name": "Live PD Presents",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4600004A9_20260310T031832SQUARE.png",
+                    "number": "4346",
+                    "url": "https://jmp2.uk/stvp-GB4600004A9",
+                    "epgId": "GB4600004A9"
+                },
+                {
                     "name": "Cops & Docs",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700008XB_20251013T054314SQUARE.png",
                     "number": "4347",
@@ -767,6 +774,13 @@
                     "number": "4369",
                     "url": "https://jmp2.uk/stvp-GB28000063B",
                     "epgId": "GB28000063B"
+                },
+                {
+                    "name": "Chaos on Cam",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4600003RY_20260310T031821SQUARE.png",
+                    "number": "4381",
+                    "url": "https://jmp2.uk/stvp-GB4600003RY",
+                    "epgId": "GB4600003RY"
                 },
                 {
                     "name": "U&Transport",
@@ -1553,6 +1567,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Movies.png",
             "stations": [
                 {
+                    "name": "Sony One Action HITS",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000041I_20260310T031838SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-GB3000041I",
+                    "epgId": "GB3000041I"
+                },
+                {
                     "name": "Comedy Movies - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600020OP_20250415T020934SQUARE.png",
                     "number": "4005",
@@ -1719,13 +1740,6 @@
                     "number": "4995",
                     "url": "https://jmp2.uk/stvp-GBAK3504503A",
                     "epgId": "GBAK3504503A"
-                },
-                {
-                    "name": "Sony One Action HITS",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000041I_20260310T031838SQUARE.png",
-                    "number": "4996",
-                    "url": "https://jmp2.uk/stvp-GB3000041I",
-                    "epgId": "GB3000041I"
                 },
                 {
                     "name": "Drama Movies - Rakuten TV",

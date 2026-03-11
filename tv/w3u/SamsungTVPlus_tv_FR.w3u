@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇫🇷 by HL",
-    "author": "Actualizada 11/03/2026 00:15",
+    "author": "Actualizada 12/03/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/fr.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/fr.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_FR.w3u",
@@ -259,13 +259,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Séries TV.png",
             "stations": [
                 {
-                    "name": "Fréquence Novelas",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC800001X0_20260310T031725SQUARE.png",
-                    "number": "4006",
-                    "url": "https://jmp2.uk/stvp-FRBC800001X0",
-                    "epgId": "FRBC800001X0"
-                },
-                {
                     "name": "Plus belle la vie",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD37000020Y_20260113T032405SQUARE.png",
                     "number": "4007",
@@ -378,6 +371,13 @@
                     "epgId": "FR90000160"
                 },
                 {
+                    "name": "Fréquence Novelas",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC800001X0_20260310T031725SQUARE.png",
+                    "number": "4261",
+                    "url": "https://jmp2.uk/stvp-FRBC800001X0",
+                    "epgId": "FRBC800001X0"
+                },
+                {
                     "name": "Passion Novelas",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD15000024B_20241015T042751SQUARE.png",
                     "number": "4263",
@@ -420,6 +420,13 @@
                     "epgId": "FR360000680"
                 },
                 {
+                    "name": "Merhaba Amour",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3800003N7_20260310T031740SQUARE.png",
+                    "number": "4275",
+                    "url": "https://jmp2.uk/stvp-FR3800003N7",
+                    "epgId": "FR3800003N7"
+                },
+                {
                     "name": "Jodha Akbar",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000001TX_20251202T002642SQUARE.png",
                     "number": "4277",
@@ -433,6 +440,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
+                    "name": "Homicide",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20260310T031729SQUARE.png",
+                    "number": "4006",
+                    "url": "https://jmp2.uk/stvp-FRBB49000033R",
+                    "epgId": "FRBB49000033R"
+                },
+                {
                     "name": "Alerte Cobra",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600007GW_20260210T035933SQUARE.png",
                     "number": "4291",
@@ -445,13 +459,6 @@
                     "number": "4293",
                     "url": "https://jmp2.uk/stvp-FR1400002XF",
                     "epgId": "FR1400002XF"
-                },
-                {
-                    "name": "Homicide",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20260310T031729SQUARE.png",
-                    "number": "4297",
-                    "url": "https://jmp2.uk/stvp-FRBB49000033R",
-                    "epgId": "FRBB49000033R"
                 },
                 {
                     "name": "Love Crime & History",
@@ -504,16 +511,9 @@
                 {
                     "name": "J'irai dormir chez vous",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260310T031732SQUARE.png",
-                    "number": "4001",
+                    "number": "4354",
                     "url": "https://jmp2.uk/stvp-FRBD4800001P4",
                     "epgId": "FRBD4800001P4"
-                },
-                {
-                    "name": "BBC Earth",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20260310T031719SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-FR3200001NQ",
-                    "epgId": "FR3200001NQ"
                 },
                 {
                     "name": "RMC alerte secours",
@@ -551,11 +551,25 @@
                     "epgId": "FR700002UP"
                 },
                 {
+                    "name": "La Vie",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900003Y7_20260310T031736SQUARE.png",
+                    "number": "4364",
+                    "url": "https://jmp2.uk/stvp-FR3900003Y7",
+                    "epgId": "FR3900003Y7"
+                },
+                {
                     "name": "Mayday: Catastrophe Aérienne",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR400000413_20251209T004503SQUARE.png",
                     "number": "4369",
                     "url": "https://jmp2.uk/stvp-FR400000413",
                     "epgId": "FR400000413"
+                },
+                {
+                    "name": "Au coeur du danger",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900002FW_20260310T031715SQUARE.png",
+                    "number": "4372",
+                    "url": "https://jmp2.uk/stvp-FR3900002FW",
+                    "epgId": "FR3900002FW"
                 },
                 {
                     "name": "BFM Grands Reportages",
@@ -591,6 +605,13 @@
                     "number": "4487",
                     "url": "https://jmp2.uk/stvp-FRBC4000001IO",
                     "epgId": "FRBC4000001IO"
+                },
+                {
+                    "name": "BBC Earth",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20260310T031719SQUARE.png",
+                    "number": "4489",
+                    "url": "https://jmp2.uk/stvp-FR3200001NQ",
+                    "epgId": "FR3200001NQ"
                 },
                 {
                     "name": "NatureTime",
@@ -917,13 +938,6 @@
                     "epgId": "FR4800002NE"
                 },
                 {
-                    "name": "LooLoo Kids",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR5000001UH_20260310T031711SQUARE.png",
-                    "number": "4777",
-                    "url": "https://jmp2.uk/stvp-FR5000001UH",
-                    "epgId": "FR5000001UH"
-                },
-                {
                     "name": "Pocoyo",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700001VJ_20251111T012101SQUARE.png",
                     "number": "4779",
@@ -1000,6 +1014,20 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Cinéma.png",
             "stations": [
                 {
+                    "name": "Moviesphere",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR42000023H_20260310T031744SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-FR42000023H",
+                    "epgId": "FR42000023H"
+                },
+                {
+                    "name": "Box Office Thriller",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20260310T031722SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-FR3700001AG",
+                    "epgId": "FR3700001AG"
+                },
+                {
                     "name": "Top Films - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600007CB_20250415T020909SQUARE.png",
                     "number": "4005",
@@ -1054,13 +1082,6 @@
                     "number": "4879",
                     "url": "https://jmp2.uk/stvp-FRBA2200010VN",
                     "epgId": "FRBA2200010VN"
-                },
-                {
-                    "name": "Moviesphere",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR42000023H_20260310T031744SQUARE.png",
-                    "number": "4880",
-                    "url": "https://jmp2.uk/stvp-FR42000023H",
-                    "epgId": "FR42000023H"
                 },
                 {
                     "name": "Pluto TV Ciné",
@@ -1152,13 +1173,6 @@
                     "number": "4961",
                     "url": "https://jmp2.uk/stvp-FR3700003N4",
                     "epgId": "FR3700003N4"
-                },
-                {
-                    "name": "Box Office Thriller",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20260310T031722SQUARE.png",
-                    "number": "4964",
-                    "url": "https://jmp2.uk/stvp-FR3700001AG",
-                    "epgId": "FR3700001AG"
                 },
                 {
                     "name": "Shadowz",
