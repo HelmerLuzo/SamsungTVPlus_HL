@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 18/03/2026 00:15",
+    "author": "Actualizada 19/03/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -387,6 +387,13 @@
                     "epgId": "GB2400006I0"
                 },
                 {
+                    "name": "So…Real",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100009M9_20260317T034230SQUARE.png",
+                    "number": "4096",
+                    "url": "https://jmp2.uk/stvp-GBBD1100009M9",
+                    "epgId": "GBBD1100009M9"
+                },
+                {
                     "name": "Reality - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600021LP_20251013T054413SQUARE.png",
                     "number": "4098",
@@ -406,13 +413,6 @@
                     "number": "4102",
                     "url": "https://jmp2.uk/stvp-GB2000007ID",
                     "epgId": "GB2000007ID"
-                },
-                {
-                    "name": "So…Real",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100009M9_20260317T034230SQUARE.png",
-                    "number": "4365",
-                    "url": "https://jmp2.uk/stvp-GBBD1100009M9",
-                    "epgId": "GBBD1100009M9"
                 }
             ]
         },

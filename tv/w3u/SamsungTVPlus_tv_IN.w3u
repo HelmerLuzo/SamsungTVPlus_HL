@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇳 by HL",
-    "author": "Actualizada 18/03/2026 00:15",
+    "author": "Actualizada 19/03/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/in.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/in.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IN.w3u",
@@ -170,22 +170,22 @@
                     "epgId": "IN4900002RV"
                 },
                 {
-                    "name": "NOW 70s",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800001OD_20250910T004936SQUARE.png",
+                    "name": "That's 70s",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800001OD_20260318T003937SQUARE.png",
                     "number": "1457",
                     "url": "https://jmp2.uk/stvp-IN800001OD",
                     "epgId": "IN800001OD"
                 },
                 {
-                    "name": "NOW 80s",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN8000027E_20250910T004940SQUARE.png",
+                    "name": "That's 80s",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN8000027E_20260318T003940SQUARE.png",
                     "number": "1458",
                     "url": "https://jmp2.uk/stvp-IN8000027E",
                     "epgId": "IN8000027E"
                 },
                 {
-                    "name": "NOW ROCK",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800003JE_20250910T004947SQUARE.png",
+                    "name": "That's ROCK",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800003JE_20260318T003943SQUARE.png",
                     "number": "1459",
                     "url": "https://jmp2.uk/stvp-IN800003JE",
                     "epgId": "IN800003JE"
@@ -219,8 +219,8 @@
                     "epgId": "IN800007SR"
                 },
                 {
-                    "name": "NOW 90s00s",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800004YV_20250910T004944SQUARE.png",
+                    "name": "That's 90s00s",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800004YV_20260318T003946SQUARE.png",
                     "number": "1464",
                     "url": "https://jmp2.uk/stvp-IN800004YV",
                     "epgId": "IN800004YV"
@@ -246,18 +246,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Hindi News.png",
             "stations": [
                 {
-                    "name": "Times Now Navbharat",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400059ZR_20260311T004514SQUARE.png",
-                    "number": "1000",
-                    "url": "https://jmp2.uk/stvp-IN400059ZR",
-                    "epgId": "IN400059ZR"
-                },
-                {
                     "name": "Aaj Tak HD",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20260311T004420SQUARE.png",
-                    "number": "1001",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20260318T004134SQUARE.png",
+                    "number": "1000",
                     "url": "https://jmp2.uk/stvp-IN3800001ZH",
                     "epgId": "IN3800001ZH"
+                },
+                {
+                    "name": "Times Now Navbharat",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400059ZR_20260318T004142SQUARE.png",
+                    "number": "1001",
+                    "url": "https://jmp2.uk/stvp-IN400059ZR",
+                    "epgId": "IN400059ZR"
                 },
                 {
                     "name": "News Nation",
@@ -296,7 +296,7 @@
                 },
                 {
                     "name": "TV9 Bharatvarsh",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800003SV_20241024T054102SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800003SV_20260318T004126SQUARE.png",
                     "number": "1027",
                     "url": "https://jmp2.uk/stvp-IN3800003SV",
                     "epgId": "IN3800003SV"
@@ -448,7 +448,7 @@
             "stations": [
                 {
                     "name": "TV9 Marathi",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000003V7_20251203T010217SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000003V7_20260318T004129SQUARE.png",
                     "number": "1059",
                     "url": "https://jmp2.uk/stvp-IN4000003V7",
                     "epgId": "IN4000003V7"
@@ -574,7 +574,7 @@
                 },
                 {
                     "name": "TV9 Telugu",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000048N_20251203T010221SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000048N_20260318T004131SQUARE.png",
                     "number": "1093",
                     "url": "https://jmp2.uk/stvp-IN40000048N",
                     "epgId": "IN40000048N"
@@ -684,13 +684,6 @@
                     "epgId": "IN46000184H"
                 },
                 {
-                    "name": "Korean TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600005NF_20260311T004447SQUARE.png",
-                    "number": "1006",
-                    "url": "https://jmp2.uk/stvp-IN3600005NF",
-                    "epgId": "IN3600005NF"
-                },
-                {
                     "name": "Bollywood Masala",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000555E_20260311T004426SQUARE.png",
                     "number": "1007",
@@ -703,6 +696,13 @@
                     "number": "1112",
                     "url": "https://jmp2.uk/stvp-IN3600006RT",
                     "epgId": "IN3600006RT"
+                },
+                {
+                    "name": "Korean TV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600005NF_20260318T004139SQUARE.png",
+                    "number": "1114",
+                    "url": "https://jmp2.uk/stvp-IN3600005NF",
+                    "epgId": "IN3600005NF"
                 },
                 {
                     "name": "Nazara",
@@ -934,6 +934,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sports.png",
             "stations": [
                 {
+                    "name": "Golf Network",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400057EZ_20260318T004137SQUARE.png",
+                    "number": "1006",
+                    "url": "https://jmp2.uk/stvp-IN400057EZ",
+                    "epgId": "IN400057EZ"
+                },
+                {
                     "name": "Cricket Gold",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1300001NN_20260311T004431SQUARE.png",
                     "number": "1211",
@@ -974,13 +981,6 @@
                     "number": "1231",
                     "url": "https://jmp2.uk/stvp-IN8000085E",
                     "epgId": "IN8000085E"
-                },
-                {
-                    "name": "Golf Network",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400057EZ_20260311T004434SQUARE.png",
-                    "number": "1233",
-                    "url": "https://jmp2.uk/stvp-IN400057EZ",
-                    "epgId": "IN400057EZ"
                 }
             ]
         },
