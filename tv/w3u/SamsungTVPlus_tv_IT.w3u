@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 25/03/2026 00:15",
+    "author": "Actualizada 26/03/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -10,11 +10,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Film.png",
             "stations": [
                 {
-                    "name": "Cinemadame",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20260324T035228SQUARE.png",
+                    "name": "Sony One Film divertenti",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300005J9_20260324T035241SQUARE.png",
                     "number": "4002",
-                    "url": "https://jmp2.uk/stvp-ITBD1400003D0",
-                    "epgId": "ITBD1400003D0"
+                    "url": "https://jmp2.uk/stvp-IT300005J9",
+                    "epgId": "IT300005J9"
                 },
                 {
                     "name": "Film Top - Rakuten TV",
@@ -57,6 +57,13 @@
                     "number": "4872",
                     "url": "https://jmp2.uk/stvp-ITBC1100003KC",
                     "epgId": "ITBC1100003KC"
+                },
+                {
+                    "name": "Cinemadame",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20260324T035228SQUARE.png",
+                    "number": "4873",
+                    "url": "https://jmp2.uk/stvp-ITBD1400003D0",
+                    "epgId": "ITBD1400003D0"
                 },
                 {
                     "name": "Pluto TV Film",
@@ -120,13 +127,6 @@
                     "number": "4905",
                     "url": "https://jmp2.uk/stvp-ITBC1100002ZU",
                     "epgId": "ITBC1100002ZU"
-                },
-                {
-                    "name": "Sony One Film divertenti",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300005J9_20260324T035241SQUARE.png",
-                    "number": "4907",
-                    "url": "https://jmp2.uk/stvp-IT300005J9",
-                    "epgId": "IT300005J9"
                 },
                 {
                     "name": "Cinemalizia",
@@ -303,13 +303,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/News.png",
             "stations": [
                 {
-                    "name": "Rai News 24",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200004WU_20260324T035234SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-IT3200004WU",
-                    "epgId": "IT3200004WU"
-                },
-                {
                     "name": "Euronews IN DIRETTA",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600009QD_20250415T022338SQUARE.png",
                     "number": "4004",
@@ -322,6 +315,13 @@
                     "number": "4551",
                     "url": "https://jmp2.uk/stvp-ITBD1500002NL",
                     "epgId": "ITBD1500002NL"
+                },
+                {
+                    "name": "Rai News 24",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200004WU_20260324T035234SQUARE.png",
+                    "number": "4553",
+                    "url": "https://jmp2.uk/stvp-IT3200004WU",
+                    "epgId": "IT3200004WU"
                 },
                 {
                     "name": "Il Sole 24 Ore TV",
@@ -580,6 +580,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sport.png",
             "stations": [
                 {
+                    "name": "Motor1",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000282Q_20260324T035231SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-IT3000282Q",
+                    "epgId": "IT3000282Q"
+                },
+                {
                     "name": "SuperTennis",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800003V4_20260210T040123SQUARE.png",
                     "number": "4605",
@@ -636,13 +643,6 @@
                     "epgId": "IT2400001AE"
                 },
                 {
-                    "name": "Motor1",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000282Q_20260324T035231SQUARE.png",
-                    "number": "4660",
-                    "url": "https://jmp2.uk/stvp-IT3000282Q",
-                    "epgId": "IT3000282Q"
-                },
-                {
                     "name": "Automoto",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2900003UK_20260203T050018SQUARE.png",
                     "number": "4661",
@@ -697,6 +697,13 @@
             "name": "Serie TV",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serie TV.png",
             "stations": [
+                {
+                    "name": "Soap Latino",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4600001JQ_20260324T035238SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-IT4600001JQ",
+                    "epgId": "IT4600001JQ"
+                },
                 {
                     "name": "Un medico in famiglia",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4000061Q_20260127T040651SQUARE.png",
@@ -794,13 +801,6 @@
                     "number": "4256",
                     "url": "https://jmp2.uk/stvp-IT300007SE",
                     "epgId": "IT300007SE"
-                },
-                {
-                    "name": "Soap Latino",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4600001JQ_20260324T035238SQUARE.png",
-                    "number": "4258",
-                    "url": "https://jmp2.uk/stvp-IT4600001JQ",
-                    "epgId": "IT4600001JQ"
                 },
                 {
                     "name": "K-Drama+",
@@ -1037,13 +1037,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentari.png",
             "stations": [
                 {
-                    "name": "BBC Earth",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20260324T035225SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-IT3200002L5",
-                    "epgId": "IT3200002L5"
-                },
-                {
                     "name": "Discovery",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT31000026G_20251013T054531SQUARE.png",
                     "number": "4344",
@@ -1063,6 +1056,13 @@
                     "number": "4414",
                     "url": "https://jmp2.uk/stvp-IT9000023T",
                     "epgId": "IT9000023T"
+                },
+                {
+                    "name": "BBC Earth",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20260324T035225SQUARE.png",
+                    "number": "4487",
+                    "url": "https://jmp2.uk/stvp-IT3200002L5",
+                    "epgId": "IT3200002L5"
                 },
                 {
                     "name": "WildEarth",

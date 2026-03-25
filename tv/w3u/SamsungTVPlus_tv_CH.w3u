@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇨🇭 by HL",
-    "author": "Actualizada 25/03/2026 00:15",
+    "author": "Actualizada 26/03/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/ch.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/ch.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CH.w3u",
@@ -12,7 +12,7 @@
                 {
                     "name": "Comedy Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD41000043H_20260324T040515SQUARE.png",
-                    "number": "4001",
+                    "number": "4007",
                     "url": "https://jmp2.uk/stvp-CHBD41000043H",
                     "epgId": "CHBD41000043H"
                 },
@@ -43,6 +43,13 @@
                     "number": "4069",
                     "url": "https://jmp2.uk/stvp-CH4800001LT",
                     "epgId": "CH4800001LT"
+                },
+                {
+                    "name": "Dating hinter Gittern",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3000003NM_20260324T040519SQUARE.png",
+                    "number": "4072",
+                    "url": "https://jmp2.uk/stvp-CH3000003NM",
+                    "epgId": "CH3000003NM"
                 },
                 {
                     "name": "Hell's Kitchen",
@@ -218,13 +225,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
                 {
-                    "name": "Plus belle la vie [FR]",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD3700002F2_20260324T040527SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-CHBD3700002F2",
-                    "epgId": "CHBD3700002F2"
-                },
-                {
                     "name": "Poldark",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH300042FH_20260310T032314SQUARE.png",
                     "number": "4231",
@@ -258,6 +258,13 @@
                     "number": "4248",
                     "url": "https://jmp2.uk/stvp-CH37000057T",
                     "epgId": "CH37000057T"
+                },
+                {
+                    "name": "Plus belle la vie [FR]",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD3700002F2_20260324T040527SQUARE.png",
+                    "number": "4250",
+                    "url": "https://jmp2.uk/stvp-CHBD3700002F2",
+                    "epgId": "CHBD3700002F2"
                 },
                 {
                     "name": "Alerte à Malibu [FR]",
@@ -350,6 +357,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
+                    "name": "Alarm für Cobra 11 / Balko",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH300006UT_20260324T040511SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-CH300006UT",
+                    "epgId": "CH300006UT"
+                },
+                {
                     "name": "Crime Serien - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2600007IJ_20250415T021609SQUARE.png",
                     "number": "4005",
@@ -362,13 +376,6 @@
                     "number": "4291",
                     "url": "https://jmp2.uk/stvp-CH48000025D",
                     "epgId": "CH48000025D"
-                },
-                {
-                    "name": "Alarm für Cobra 11 / Balko",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH300006UT_20260324T040511SQUARE.png",
-                    "number": "4292",
-                    "url": "https://jmp2.uk/stvp-CH300006UT",
-                    "epgId": "CH300006UT"
                 },
                 {
                     "name": "Vera",
@@ -447,6 +454,13 @@
                     "epgId": "CHBD800001D0"
                 },
                 {
+                    "name": "Welt Television",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2200006VD_20260324T040535SQUARE.png",
+                    "number": "4551",
+                    "url": "https://jmp2.uk/stvp-CH2200006VD",
+                    "epgId": "CH2200006VD"
+                },
+                {
                     "name": "CNN Headlines",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD1900001JB_20251209T125752SQUARE.png",
                     "number": "4557",
@@ -487,13 +501,6 @@
                     "number": "4576",
                     "url": "https://jmp2.uk/stvp-CH500001V2",
                     "epgId": "CH500001V2"
-                },
-                {
-                    "name": "Le Figaro Live [FR]",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC14000022X_20260324T040507SQUARE.png",
-                    "number": "4578",
-                    "url": "https://jmp2.uk/stvp-CHBC14000022X",
-                    "epgId": "CHBC14000022X"
                 }
             ]
         },
@@ -502,11 +509,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
-                    "name": "Wilder Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20260324T040453SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-CHBA3300028G3",
-                    "epgId": "CHBA3300028G3"
+                    "name": "One Terra",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1500021M5_20260324T040500SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-CHBA1500021M5",
+                    "epgId": "CHBA1500021M5"
                 },
                 {
                     "name": "The Wicked Tuna Channel",
@@ -579,11 +586,11 @@
                     "epgId": "CHBC40000040J"
                 },
                 {
-                    "name": "One Terra",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1500021M5_20260324T040500SQUARE.png",
-                    "number": "4490",
-                    "url": "https://jmp2.uk/stvp-CHBA1500021M5",
-                    "epgId": "CHBA1500021M5"
+                    "name": "Wilder Planet",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20260324T040453SQUARE.png",
+                    "number": "4486",
+                    "url": "https://jmp2.uk/stvp-CHBA3300028G3",
+                    "epgId": "CHBA3300028G3"
                 },
                 {
                     "name": "Terra Mater WILD",
@@ -629,7 +636,7 @@
                 {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH20000288_20260324T035604SQUARE.png",
-                    "number": "4511",
+                    "number": "4001",
                     "url": "https://jmp2.uk/stvp-CH20000288",
                     "epgId": "CH20000288"
                 },
@@ -673,6 +680,13 @@
                     "number": "4605",
                     "url": "https://jmp2.uk/stvp-CHBA22000080G",
                     "epgId": "CHBA22000080G"
+                },
+                {
+                    "name": "Redbull TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4700001E1_20260324T040531SQUARE.png",
+                    "number": "4609",
+                    "url": "https://jmp2.uk/stvp-CH4700001E1",
+                    "epgId": "CH4700001E1"
                 },
                 {
                     "name": "Sportdigital Free",
@@ -770,6 +784,13 @@
                     "number": "4641",
                     "url": "https://jmp2.uk/stvp-CHBD2600014C0",
                     "epgId": "CHBD2600014C0"
+                },
+                {
+                    "name": "INTER 24/7",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3100001XL_20260324T040524SQUARE.png",
+                    "number": "4643",
+                    "url": "https://jmp2.uk/stvp-CH3100001XL",
+                    "epgId": "CH3100001XL"
                 }
             ]
         },

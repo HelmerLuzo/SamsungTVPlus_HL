@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz"
+#EXTINF:-1 tvg-id="GB2300002AI" tvg-name="GB2300002AI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2300002AI_20260324T035055SQUARE.png" group-title="Entertainment" , Tipping Point
+https://jmp2.uk/stvp-GB2300002AI
 #EXTINF:-1 tvg-id="GBBC2300003ZQ" tvg-name="GBBC2300003ZQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20260224T031147SQUARE.png" group-title="Entertainment" , Entertainment Hub
 https://jmp2.uk/stvp-GBBC2300003ZQ
 #EXTINF:-1 tvg-id="GBBD3100003J5" tvg-name="GBBD3100003J5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100003J5_20251013T054433SQUARE.png" group-title="Entertainment" , U&Laughs
@@ -11,8 +13,6 @@ https://jmp2.uk/stvp-GB2700016H5
 https://jmp2.uk/stvp-GBBD3100005RX
 #EXTINF:-1 tvg-id="GBBD2500002QC" tvg-name="GBBD2500002QC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2500002QC_20250107T030732SQUARE.png" group-title="Entertainment" , Pointless UK: 'Powered by Banijay'
 https://jmp2.uk/stvp-GBBD2500002QC
-#EXTINF:-1 tvg-id="GB2300002AI" tvg-name="GB2300002AI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2300002AI_20260324T035055SQUARE.png" group-title="Entertainment" , Tipping Point
-https://jmp2.uk/stvp-GB2300002AI
 #EXTINF:-1 tvg-id="GBBD3000001QB" tvg-name="GBBD3000001QB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000001QB_20250107T030832SQUARE.png" group-title="Entertainment" , Wipeout Xtra Powered by Banijay
 https://jmp2.uk/stvp-GBBD3000001QB
 #EXTINF:-1 tvg-id="GBBD500005ZG" tvg-name="GBBD500005ZG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500005ZG_20250107T030744SQUARE.png" group-title="Entertainment" , Robot Wars by Mech+
@@ -61,10 +61,8 @@ https://jmp2.uk/stvp-GBBD1100003I0
 https://jmp2.uk/stvp-GB2200001N2
 #EXTINF:-1 tvg-id="GB3800007C5" tvg-name="GB3800007C5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3800007C5_20251209T004625SQUARE.png" group-title="Entertainment" , Space Live
 https://jmp2.uk/stvp-GB3800007C5
-#EXTINF:-1 tvg-id="GB500006EX" tvg-name="GB500006EX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500006EX_20260324T035037SQUARE.png" group-title="Reality" , Escape to the Country
-https://jmp2.uk/stvp-GB500006EX
-#EXTINF:-1 tvg-id="GB3600002EB" tvg-name="GB3600002EB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3600002EB_20260324T035052SQUARE.png" group-title="Reality" , The Osbournes
-https://jmp2.uk/stvp-GB3600002EB
+#EXTINF:-1 tvg-id="GBBC900013K9" tvg-name="GBBC900013K9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900013K9_20260324T035040SQUARE.png" group-title="Reality" , Homes Under the Hammer
+https://jmp2.uk/stvp-GBBC900013K9
 #EXTINF:-1 tvg-id="GBBB4600001IK" tvg-name="GBBB4600001IK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB4600001IK_20250107T030734SQUARE.png" group-title="Reality" , Project Runway
 https://jmp2.uk/stvp-GBBB4600001IK
 #EXTINF:-1 tvg-id="GBBC2300002GG" tvg-name="GBBC2300002GG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20251013T054248SQUARE.png" group-title="Reality" , America's Got Talent
@@ -73,6 +71,8 @@ https://jmp2.uk/stvp-GBBC2300002GG
 https://jmp2.uk/stvp-GBBC2300001X5
 #EXTINF:-1 tvg-id="GB3500003E5" tvg-name="GB3500003E5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3500003E5_20260113T032620SQUARE.png" group-title="Reality" , Keeping Up With...
 https://jmp2.uk/stvp-GB3500003E5
+#EXTINF:-1 tvg-id="GB3600002EB" tvg-name="GB3600002EB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3600002EB_20260324T035052SQUARE.png" group-title="Reality" , The Osbournes
+https://jmp2.uk/stvp-GB3600002EB
 #EXTINF:-1 tvg-id="GB2700004BC" tvg-name="GB2700004BC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700004BC_20251125T100004SQUARE.png" group-title="Reality" , Duck Dynasty
 https://jmp2.uk/stvp-GB2700004BC
 #EXTINF:-1 tvg-id="GB200096O2" tvg-name="GB200096O2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB200096O2_20260210T040020SQUARE.png" group-title="Reality" , AMC Reality
@@ -87,8 +87,8 @@ https://jmp2.uk/stvp-GBBB3800007BN
 https://jmp2.uk/stvp-GB300008I8
 #EXTINF:-1 tvg-id="GBBC9000062G" tvg-name="GBBC9000062G" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC9000062G_20260127T040323SQUARE.png" group-title="Reality" , Come Dine With Me
 https://jmp2.uk/stvp-GBBC9000062G
-#EXTINF:-1 tvg-id="GBBC900013K9" tvg-name="GBBC900013K9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900013K9_20260324T035040SQUARE.png" group-title="Reality" , Homes Under the Hammer
-https://jmp2.uk/stvp-GBBC900013K9
+#EXTINF:-1 tvg-id="GB500006EX" tvg-name="GB500006EX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500006EX_20260324T035037SQUARE.png" group-title="Reality" , Escape to the Country
+https://jmp2.uk/stvp-GB500006EX
 #EXTINF:-1 tvg-id="GB3900003W4" tvg-name="GB3900003W4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3900003W4_20251013T054345SQUARE.png" group-title="Reality" , Inside Outside
 https://jmp2.uk/stvp-GB3900003W4
 #EXTINF:-1 tvg-id="GB3000387J" tvg-name="GB3000387J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000387J_20251013T054251SQUARE.png" group-title="Reality" , Antiques Road Trip
@@ -327,6 +327,8 @@ https://jmp2.uk/stvp-GB330000144
 https://jmp2.uk/stvp-GBBD30000038U
 #EXTINF:-1 tvg-id="GBBD2300003IK" tvg-name="GBBD2300003IK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300003IK_20250805T005540SQUARE.png" group-title="Sport" , Red Bull TV
 https://jmp2.uk/stvp-GBBD2300003IK
+#EXTINF:-1 tvg-id="GB43000020B" tvg-name="GB43000020B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB43000020B_20260324T035034SQUARE.png" group-title="Sport" , Dude Perfect
+https://jmp2.uk/stvp-GB43000020B
 #EXTINF:-1 tvg-id="GB2700013Y7" tvg-name="GB2700013Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700013Y7_20260317T034220SQUARE.png" group-title="Sport" , Sky Sports Stories
 https://jmp2.uk/stvp-GB2700013Y7
 #EXTINF:-1 tvg-id="GBBD1100008YW" tvg-name="GBBD1100008YW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20251028T010331SQUARE.png" group-title="Sport" , FIFA+
@@ -425,8 +427,8 @@ https://jmp2.uk/stvp-GB370000369
 https://jmp2.uk/stvp-GB3400001ND
 #EXTINF:-1 tvg-id="GB4200002K6" tvg-name="GB4200002K6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4200002K6_20251209T004616SQUARE.png" group-title="Kids" , Pokémon
 https://jmp2.uk/stvp-GB4200002K6
-#EXTINF:-1 tvg-id="GB3000041I" tvg-name="GB3000041I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000041I_20260324T035044SQUARE.png" group-title="Movies" , Sony One Action HITS
-https://jmp2.uk/stvp-GB3000041I
+#EXTINF:-1 tvg-id="GB300003UI" tvg-name="GB300003UI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300003UI_20260324T035048SQUARE.png" group-title="Movies" , Sony One Comedy HITS
+https://jmp2.uk/stvp-GB300003UI
 #EXTINF:-1 tvg-id="GB2600020OP" tvg-name="GB2600020OP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600020OP_20250415T020934SQUARE.png" group-title="Movies" , Comedy Movies - Rakuten TV
 https://jmp2.uk/stvp-GB2600020OP
 #EXTINF:-1 tvg-id="GB2600017PX" tvg-name="GB2600017PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600017PX_20251230T031130SQUARE.png" group-title="Movies" , Family - Rakuten TV
@@ -457,8 +459,6 @@ https://jmp2.uk/stvp-GBAJ400042T1
 https://jmp2.uk/stvp-GB37000067A
 #EXTINF:-1 tvg-id="GBBA3300059BU" tvg-name="GBBA3300059BU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" group-title="Movies" , MyTime Movie Network
 https://jmp2.uk/stvp-GBBA3300059BU
-#EXTINF:-1 tvg-id="GB300003UI" tvg-name="GB300003UI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300003UI_20260324T035048SQUARE.png" group-title="Movies" , Sony One Comedy HITS
-https://jmp2.uk/stvp-GB300003UI
 #EXTINF:-1 tvg-id="GBBD500007TG" tvg-name="GBBD500007TG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500007TG_20250107T030653SQUARE.png" group-title="Movies" , Grjngo - Western Movies
 https://jmp2.uk/stvp-GBBD500007TG
 #EXTINF:-1 tvg-id="GB32000024G" tvg-name="GB32000024G" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB32000024G_20250107T031100SQUARE.png" group-title="Movies" , British Screen Classics
@@ -475,6 +475,8 @@ https://jmp2.uk/stvp-GB3000370X
 https://jmp2.uk/stvp-GB4100003VP
 #EXTINF:-1 tvg-id="GBAK3504503A" tvg-name="GBAK3504503A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504503A_20250107T022859SQUARE.png" group-title="Movies" , Pluto TV Action
 https://jmp2.uk/stvp-GBAK3504503A
+#EXTINF:-1 tvg-id="GB3000041I" tvg-name="GB3000041I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000041I_20260324T035044SQUARE.png" group-title="Movies" , Sony One Action HITS
+https://jmp2.uk/stvp-GB3000041I
 #EXTINF:-1 tvg-id="GB2600012R3" tvg-name="GB2600012R3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600012R3_20241022T043418SQUARE.png" group-title="Movies" , Drama Movies - Rakuten TV
 https://jmp2.uk/stvp-GB2600012R3
 #EXTINF:-1 tvg-id="GB2600015OS" tvg-name="GB2600015OS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600015OS_20240924T050854SQUARE.png" group-title="Movies" , Action Movies - Rakuten TV
