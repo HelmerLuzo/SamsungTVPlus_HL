@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇺🇸 by HL",
-    "author": "Actualizada 30/03/2026 00:15",
+    "author": "Actualizada 31/03/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/us.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_US.w3u",
@@ -217,6 +217,13 @@
                     "number": "1230",
                     "url": "https://jmp2.uk/stvp-USBD17000117B",
                     "epgId": "USBD17000117B"
+                },
+                {
+                    "name": "The Hunger Games",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900060H4_20260330T002404SQUARE.png",
+                    "number": "1231",
+                    "url": "https://jmp2.uk/stvp-US900060H4",
+                    "epgId": "US900060H4"
                 },
                 {
                     "name": "Pluto TV Fantastic",
