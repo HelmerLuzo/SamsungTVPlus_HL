@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇺🇸 by HL",
-    "author": "Actualizada 01/04/2026 00:15",
+    "author": "Actualizada 02/04/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/us.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_US.w3u",
@@ -177,6 +177,20 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Movies.png",
             "stations": [
                 {
+                    "name": "Movie Hub Action",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260331T031924SQUARE.png",
+                    "number": "1000",
+                    "url": "https://jmp2.uk/stvp-USBD3500032H0",
+                    "epgId": "USBD3500032H0"
+                },
+                {
+                    "name": "The Hunger Games",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900060H4_20260331T204809SQUARE.png",
+                    "number": "1002",
+                    "url": "https://jmp2.uk/stvp-US900060H4",
+                    "epgId": "US900060H4"
+                },
+                {
                     "name": "Movie Hub",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260317T034513SQUARE.png",
                     "number": "1200",
@@ -189,13 +203,6 @@
                     "number": "1201",
                     "url": "https://jmp2.uk/stvp-USBD3500036HP",
                     "epgId": "USBD3500036HP"
-                },
-                {
-                    "name": "Movie Hub Action",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260331T031924SQUARE.png",
-                    "number": "1204",
-                    "url": "https://jmp2.uk/stvp-USBD3500032H0",
-                    "epgId": "USBD3500032H0"
                 },
                 {
                     "name": "Movie Hub Action West",
@@ -238,13 +245,6 @@
                     "number": "1230",
                     "url": "https://jmp2.uk/stvp-USBD17000117B",
                     "epgId": "USBD17000117B"
-                },
-                {
-                    "name": "The Hunger Games",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900060H4_20260330T002404SQUARE.png",
-                    "number": "1231",
-                    "url": "https://jmp2.uk/stvp-US900060H4",
-                    "epgId": "US900060H4"
                 },
                 {
                     "name": "Pluto TV Fantastic",
@@ -434,16 +434,9 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Action & Drama.png",
             "stations": [
                 {
-                    "name": "Nash Bridges",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20260331T031927SQUARE.png",
-                    "number": "1001",
-                    "url": "https://jmp2.uk/stvp-US1900014Y2",
-                    "epgId": "US1900014Y2"
-                },
-                {
                     "name": "Samsung Television Network",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260331T031931SQUARE.png",
-                    "number": "1004",
+                    "number": "1005",
                     "url": "https://jmp2.uk/stvp-US300068X7",
                     "epgId": "US300068X7"
                 },
@@ -637,6 +630,13 @@
                     "epgId": "USBB3500002FL"
                 },
                 {
+                    "name": "Nash Bridges",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20260331T031927SQUARE.png",
+                    "number": "1598",
+                    "url": "https://jmp2.uk/stvp-US1900014Y2",
+                    "epgId": "US1900014Y2"
+                },
+                {
                     "name": "21 Jump Street",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000397_20241105T024257SQUARE.png",
                     "number": "1600",
@@ -733,6 +733,13 @@
             "name": "Crime",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
+                {
+                    "name": "Cold Case Files",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20260331T031916SQUARE.png",
+                    "number": "1003",
+                    "url": "https://jmp2.uk/stvp-USBC390002256",
+                    "epgId": "USBC390002256"
+                },
                 {
                     "name": "Crime Zone",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20260303T093851SQUARE.png",
@@ -900,13 +907,6 @@
                     "number": "1859",
                     "url": "https://jmp2.uk/stvp-USBB3200017MY",
                     "epgId": "USBB3200017MY"
-                },
-                {
-                    "name": "Cold Case Files",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20260331T031916SQUARE.png",
-                    "number": "1862",
-                    "url": "https://jmp2.uk/stvp-USBC390002256",
-                    "epgId": "USBC390002256"
                 },
                 {
                     "name": "Unsolved Mysteries",
@@ -1187,11 +1187,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Home & Food.png",
             "stations": [
                 {
-                    "name": "Amazon Live",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4900004KP_20260331T031910SQUARE.png",
-                    "number": "1002",
-                    "url": "https://jmp2.uk/stvp-US4900004KP",
-                    "epgId": "US4900004KP"
+                    "name": "Epic Gardening TV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000017HT_20260331T031919SQUARE.png",
+                    "number": "1001",
+                    "url": "https://jmp2.uk/stvp-US2000017HT",
+                    "epgId": "US2000017HT"
                 },
                 {
                     "name": "Home Refresh",
@@ -1304,13 +1304,6 @@
                     "number": "2044",
                     "url": "https://jmp2.uk/stvp-USBC600018CF",
                     "epgId": "USBC600018CF"
-                },
-                {
-                    "name": "Epic Gardening TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000017HT_20260331T031919SQUARE.png",
-                    "number": "2095",
-                    "url": "https://jmp2.uk/stvp-US2000017HT",
-                    "epgId": "US2000017HT"
                 },
                 {
                     "name": "BBC Home & Garden",
@@ -1458,6 +1451,13 @@
                     "number": "2144",
                     "url": "https://jmp2.uk/stvp-US2600023WY",
                     "epgId": "US2600023WY"
+                },
+                {
+                    "name": "Amazon Live",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4900004KP_20260331T031910SQUARE.png",
+                    "number": "2155",
+                    "url": "https://jmp2.uk/stvp-US4900004KP",
+                    "epgId": "US4900004KP"
                 }
             ]
         },
@@ -1912,13 +1912,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Comedy.png",
             "stations": [
                 {
-                    "name": "AFV with Alfonso Ribeiro",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100038R9_20260331T031908SQUARE.png",
-                    "number": "1000",
-                    "url": "https://jmp2.uk/stvp-US4100038R9",
-                    "epgId": "US4100038R9"
-                },
-                {
                     "name": "Animation+",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20250902T225851SQUARE.png",
                     "number": "2605",
@@ -1938,6 +1931,13 @@
                     "number": "2620",
                     "url": "https://jmp2.uk/stvp-USBD120001614",
                     "epgId": "USBD120001614"
+                },
+                {
+                    "name": "AFV with Alfonso Ribeiro",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100038R9_20260331T031908SQUARE.png",
+                    "number": "2621",
+                    "url": "https://jmp2.uk/stvp-US4100038R9",
+                    "epgId": "US4100038R9"
                 },
                 {
                     "name": "Hot Ones",
@@ -2163,13 +2163,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality Competition.png",
             "stations": [
                 {
-                    "name": "Forged In Fire",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20260331T031921SQUARE.png",
-                    "number": "1003",
-                    "url": "https://jmp2.uk/stvp-USBD2700014QW",
-                    "epgId": "USBD2700014QW"
-                },
-                {
                     "name": "Hell's Kitchen",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900002Z7_20251125T030826SQUARE.png",
                     "number": "2704",
@@ -2231,6 +2224,13 @@
                     "number": "2729",
                     "url": "https://jmp2.uk/stvp-USBD3500041ZF",
                     "epgId": "USBD3500041ZF"
+                },
+                {
+                    "name": "Forged In Fire",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20260331T031921SQUARE.png",
+                    "number": "2734",
+                    "url": "https://jmp2.uk/stvp-USBD2700014QW",
+                    "epgId": "USBD2700014QW"
                 },
                 {
                     "name": "Ice Road Truckers",
@@ -2302,18 +2302,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Game Shows.png",
             "stations": [
                 {
-                    "name": "Price is Right",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000052H1_20260331T031929SQUARE.png",
-                    "number": "1005",
-                    "url": "https://jmp2.uk/stvp-US5000052H1",
-                    "epgId": "US5000052H1"
-                },
-                {
                     "name": "Let's Make A Deal Classic",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US7000229B_20250826T234540SQUARE.png",
                     "number": "2803",
                     "url": "https://jmp2.uk/stvp-US7000229B",
                     "epgId": "US7000229B"
+                },
+                {
+                    "name": "Price is Right",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000052H1_20260331T031929SQUARE.png",
+                    "number": "2804",
+                    "url": "https://jmp2.uk/stvp-US5000052H1",
+                    "epgId": "US5000052H1"
                 },
                 {
                     "name": "BUZZR",
