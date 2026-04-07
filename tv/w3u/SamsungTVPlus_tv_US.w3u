@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇺🇸 by HL",
-    "author": "Actualizada 07/04/2026 00:15",
+    "author": "Actualizada 08/04/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/us.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_US.w3u",
@@ -45,27 +45,6 @@
                     "epgId": "USBD3000073N"
                 },
                 {
-                    "name": "WSOC Charlotte",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20241112T001219SQUARE.png",
-                    "number": "1122",
-                    "url": "https://jmp2.uk/stvp-USBC1000017D8",
-                    "epgId": "USBC1000017D8"
-                },
-                {
-                    "name": "WBTV News",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20241112T001405SQUARE.png",
-                    "number": "1123",
-                    "url": "https://jmp2.uk/stvp-US700004OA",
-                    "epgId": "US700004OA"
-                },
-                {
-                    "name": "WCNC",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20241112T001524SQUARE.png",
-                    "number": "1124",
-                    "url": "https://jmp2.uk/stvp-US1400004HN",
-                    "epgId": "US1400004HN"
-                },
-                {
                     "name": "FOX Weather",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20250909T213109SQUARE.png",
                     "number": "1130",
@@ -80,11 +59,11 @@
                     "epgId": "US50000551O"
                 },
                 {
-                    "name": "WN Charlotte",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20241112T001950SQUARE.png",
+                    "name": "WeatherNation",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20241112T000830SQUARE.png",
                     "number": "1135",
-                    "url": "https://jmp2.uk/stvp-USBC3200001S5",
-                    "epgId": "USBC3200001S5"
+                    "url": "https://jmp2.uk/stvp-USBC1500009LD",
+                    "epgId": "USBC1500009LD"
                 },
                 {
                     "name": "BBC News",
@@ -178,21 +157,21 @@
             "stations": [
                 {
                     "name": "Movie Hub Action",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260331T031924SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260407T042325SQUARE.png",
                     "number": "1000",
                     "url": "https://jmp2.uk/stvp-USBD3500032H0",
                     "epgId": "USBD3500032H0"
                 },
                 {
                     "name": "The Hunger Games",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900060H4_20260331T204809SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900060H4_20260407T042335SQUARE.png",
                     "number": "1002",
                     "url": "https://jmp2.uk/stvp-US900060H4",
                     "epgId": "US900060H4"
                 },
                 {
                     "name": "Movie Hub",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260317T034513SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260407T042345SQUARE.png",
                     "number": "1200",
                     "url": "https://jmp2.uk/stvp-USBA3000041ZP",
                     "epgId": "USBA3000041ZP"
@@ -735,7 +714,7 @@
             "stations": [
                 {
                     "name": "Cold Case Files",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20260331T031916SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20260407T042320SQUARE.png",
                     "number": "1003",
                     "url": "https://jmp2.uk/stvp-USBC390002256",
                     "epgId": "USBC390002256"
@@ -1188,7 +1167,7 @@
             "stations": [
                 {
                     "name": "Epic Gardening TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000017HT_20260331T031919SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000017HT_20260407T042323SQUARE.png",
                     "number": "1001",
                     "url": "https://jmp2.uk/stvp-US2000017HT",
                     "epgId": "US2000017HT"
@@ -1321,7 +1300,7 @@
                 },
                 {
                     "name": "Plated",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300008AZ_20260303T093938SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300008AZ_20260407T042257SQUARE.png",
                     "number": "2105",
                     "url": "https://jmp2.uk/stvp-USBC1300008AZ",
                     "epgId": "USBC1300008AZ"
@@ -1488,7 +1467,7 @@
                 },
                 {
                     "name": "The NBA Channel",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3600003R7_20260105T175814SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3600003R7_20260407T042337SQUARE.png",
                     "number": "2317",
                     "url": "https://jmp2.uk/stvp-US3600003R7",
                     "epgId": "US3600003R7"
@@ -1516,7 +1495,7 @@
                 },
                 {
                     "name": "CBS Sports HQ",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800005VO_20250401T004857SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800005VO_20260407T042311SQUARE.png",
                     "number": "2330",
                     "url": "https://jmp2.uk/stvp-USBB4800005VO",
                     "epgId": "USBB4800005VO"
@@ -1983,7 +1962,7 @@
                 },
                 {
                     "name": "LOL! Network",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300009VM_20240716T002650SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300009VM_20260407T042308SQUARE.png",
                     "number": "2630",
                     "url": "https://jmp2.uk/stvp-USBC1300009VM",
                     "epgId": "USBC1300009VM"
@@ -2004,7 +1983,7 @@
                 },
                 {
                     "name": "National Lampoon",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800015K5_20260224T212726SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800015K5_20260407T042328SQUARE.png",
                     "number": "2635",
                     "url": "https://jmp2.uk/stvp-US1800015K5",
                     "epgId": "US1800015K5"
@@ -2477,7 +2456,7 @@
                 },
                 {
                     "name": "Backstage",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC10000129R_20250415T005936SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC10000129R_20260407T042305SQUARE.png",
                     "number": "2942",
                     "url": "https://jmp2.uk/stvp-USBC10000129R",
                     "epgId": "USBC10000129R"
@@ -2665,7 +2644,7 @@
                 },
                 {
                     "name": "Ancient Aliens",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300010F5_20250923T020539SQUARE.png",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300010F5_20260407T042314SQUARE.png",
                     "number": "3065",
                     "url": "https://jmp2.uk/stvp-US3300010F5",
                     "epgId": "US3300010F5"
