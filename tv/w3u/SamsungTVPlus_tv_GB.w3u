@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 08/04/2026 00:15",
+    "author": "Actualizada 09/04/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -10,11 +10,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
                 {
-                    "name": "Tipping Point",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2300002AI_20260407T040249SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-GB2300002AI",
-                    "epgId": "GB2300002AI"
+                    "name": "The Graham Norton Show",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4000027F_20260407T040243SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-GB4000027F",
+                    "epgId": "GB4000027F"
                 },
                 {
                     "name": "Entertainment Hub",
@@ -59,6 +59,13 @@
                     "epgId": "GBBD2500002QC"
                 },
                 {
+                    "name": "Tipping Point",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2300002AI_20260407T040249SQUARE.png",
+                    "number": "4110",
+                    "url": "https://jmp2.uk/stvp-GB2300002AI",
+                    "epgId": "GB2300002AI"
+                },
+                {
                     "name": "Wipeout Xtra Powered by Banijay",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000001QB_20250107T030832SQUARE.png",
                     "number": "4114",
@@ -99,13 +106,6 @@
                     "number": "4126",
                     "url": "https://jmp2.uk/stvp-GB4200010V1",
                     "epgId": "GB4200010V1"
-                },
-                {
-                    "name": "The Graham Norton Show",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4000027F_20260407T040243SQUARE.png",
-                    "number": "4136",
-                    "url": "https://jmp2.uk/stvp-GB4000027F",
-                    "epgId": "GB4000027F"
                 },
                 {
                     "name": "Conan O'Brien TV",
@@ -233,13 +233,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality.png",
             "stations": [
                 {
-                    "name": "Homes Under the Hammer",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900013K9_20260407T040234SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-GBBC900013K9",
-                    "epgId": "GBBC900013K9"
-                },
-                {
                     "name": "Project Runway",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB4600001IK_20250107T030734SQUARE.png",
                     "number": "4062",
@@ -329,6 +322,13 @@
                     "number": "4085",
                     "url": "https://jmp2.uk/stvp-GB500006EX",
                     "epgId": "GB500006EX"
+                },
+                {
+                    "name": "Homes Under the Hammer",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900013K9_20260407T040234SQUARE.png",
+                    "number": "4086",
+                    "url": "https://jmp2.uk/stvp-GBBC900013K9",
+                    "epgId": "GBBC900013K9"
                 },
                 {
                     "name": "Inside Outside",
@@ -478,10 +478,10 @@
                 },
                 {
                     "name": "&TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700007OZ_20260407T040225SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB800002OP_20260407T040228SQUARE.png",
                     "number": "4245",
-                    "url": "https://jmp2.uk/stvp-GB3700007OZ",
-                    "epgId": "GB3700007OZ"
+                    "url": "https://jmp2.uk/stvp-GB800002OP",
+                    "epgId": "GB800002OP"
                 },
                 {
                     "name": "Series K: Heart",
@@ -534,7 +534,7 @@
                 {
                     "name": "Crime Network",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100010H1_20260407T040231SQUARE.png",
-                    "number": "4291",
+                    "number": "4003",
                     "url": "https://jmp2.uk/stvp-GBBD4100010H1",
                     "epgId": "GBBD4100010H1"
                 },
@@ -676,6 +676,13 @@
                     "number": "4347",
                     "url": "https://jmp2.uk/stvp-GB3700008XB",
                     "epgId": "GB3700008XB"
+                },
+                {
+                    "name": "60 Days in Jail",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1000002RV_20260407T041311SQUARE.png",
+                    "number": "4349",
+                    "url": "https://jmp2.uk/stvp-GB1000002RV",
+                    "epgId": "GB1000002RV"
                 },
                 {
                     "name": "Mythbusters",
@@ -853,13 +860,6 @@
                     "epgId": "GB2000008XP"
                 },
                 {
-                    "name": "PICK Monkey Rescue",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB270001473_20260407T040237SQUARE.png",
-                    "number": "4442",
-                    "url": "https://jmp2.uk/stvp-GB270001473",
-                    "epgId": "GB270001473"
-                },
-                {
                     "name": "Mystery TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD50000320_20250107T030722SQUARE.png",
                     "number": "4443",
@@ -964,6 +964,13 @@
                     "epgId": "GBBA220000751"
                 },
                 {
+                    "name": "PICK Monkey Rescue",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB270001473_20260407T040237SQUARE.png",
+                    "number": "4500",
+                    "url": "https://jmp2.uk/stvp-GB270001473",
+                    "epgId": "GB270001473"
+                },
+                {
                     "name": "WaterBear",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC300003UQ_20250107T025835SQUARE.png",
                     "number": "4502",
@@ -986,7 +993,7 @@
                 {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4000002H3_20260407T040246SQUARE.png",
-                    "number": "4511",
+                    "number": "4001",
                     "url": "https://jmp2.uk/stvp-GBBC4000002H3",
                     "epgId": "GBBC4000002H3"
                 },
@@ -1248,7 +1255,7 @@
                     "epgId": "GB2700012HS"
                 },
                 {
-                    "name": "GFN Soccer TV",
+                    "name": "GFN Football",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2200002CC_20260407T040222SQUARE.png",
                     "number": "4636",
                     "url": "https://jmp2.uk/stvp-GB2200002CC",
@@ -1574,13 +1581,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Movies.png",
             "stations": [
                 {
-                    "name": "Sony One Comedy HITS",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300003UI_20260407T040240SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-GB300003UI",
-                    "epgId": "GB300003UI"
-                },
-                {
                     "name": "Comedy Movies - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600020OP_20250415T020934SQUARE.png",
                     "number": "4005",
@@ -1684,6 +1684,13 @@
                     "number": "4896",
                     "url": "https://jmp2.uk/stvp-GBBA3300059BU",
                     "epgId": "GBBA3300059BU"
+                },
+                {
+                    "name": "Sony One Comedy HITS",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300003UI_20260407T040240SQUARE.png",
+                    "number": "4905",
+                    "url": "https://jmp2.uk/stvp-GB300003UI",
+                    "epgId": "GB300003UI"
                 },
                 {
                     "name": "Grjngo - Western Movies",

@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇪🇸 by HL",
-    "author": "Actualizada 08/04/2026 00:15",
+    "author": "Actualizada 09/04/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/es.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
@@ -9,13 +9,6 @@
             "name": "Entretenimiento",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entretenimiento.png",
             "stations": [
-                {
-                    "name": "Canal Sur Andalucía",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20260407T040041SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-ESBD3000002GP",
-                    "epgId": "ESBD3000002GP"
-                },
                 {
                     "name": "Estilo y Vida – Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20241126T043113SQUARE.png",
@@ -29,6 +22,13 @@
                     "number": "4007",
                     "url": "https://jmp2.uk/stvp-ESBC4100001NZ",
                     "epgId": "ESBC4100001NZ"
+                },
+                {
+                    "name": "Canal Sur Andalucía",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20260407T040041SQUARE.png",
+                    "number": "4031",
+                    "url": "https://jmp2.uk/stvp-ESBD3000002GP",
+                    "epgId": "ESBD3000002GP"
                 },
                 {
                     "name": "La 2",
@@ -214,7 +214,7 @@
                 {
                     "name": "Cuéntame cómo pasó",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20260407T040047SQUARE.png",
-                    "number": "4006",
+                    "number": "4003",
                     "url": "https://jmp2.uk/stvp-ES400002P5",
                     "epgId": "ES400002P5"
                 },
@@ -337,13 +337,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Noticias.png",
             "stations": [
                 {
-                    "name": "Negocios TV",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20260407T040053SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-ESBD3400001AA",
-                    "epgId": "ESBD3400001AA"
-                },
-                {
                     "name": "Euronews EN DIRECTO",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000968_20250415T021754SQUARE.png",
                     "number": "4005",
@@ -363,6 +356,13 @@
                     "number": "4552",
                     "url": "https://jmp2.uk/stvp-ES300034BT",
                     "epgId": "ES300034BT"
+                },
+                {
+                    "name": "Negocios TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20260407T040053SQUARE.png",
+                    "number": "4553",
+                    "url": "https://jmp2.uk/stvp-ESBD3400001AA",
+                    "epgId": "ESBD3400001AA"
                 },
                 {
                     "name": "El País",
@@ -760,11 +760,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Cine.png",
             "stations": [
                 {
-                    "name": "Cine Friki",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20260407T040044SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-ESBD800001RJ",
-                    "epgId": "ESBD800001RJ"
+                    "name": "Sony One Hits Acción",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20260407T040056SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-ES300006QJ",
+                    "epgId": "ES300006QJ"
                 },
                 {
                     "name": "Runtime Familia",
@@ -956,6 +956,13 @@
                     "epgId": "ES500004NO"
                 },
                 {
+                    "name": "Cine Friki",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20260407T040044SQUARE.png",
+                    "number": "4949",
+                    "url": "https://jmp2.uk/stvp-ESBD800001RJ",
+                    "epgId": "ESBD800001RJ"
+                },
+                {
                     "name": "Thrillers - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4100002WB_20251125T101442SQUARE.png",
                     "number": "4963",
@@ -968,13 +975,6 @@
                     "number": "4994",
                     "url": "https://jmp2.uk/stvp-ESBD80000288",
                     "epgId": "ESBD80000288"
-                },
-                {
-                    "name": "Sony One Hits Acción",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20260407T040056SQUARE.png",
-                    "number": "4996",
-                    "url": "https://jmp2.uk/stvp-ES300006QJ",
-                    "epgId": "ES300006QJ"
                 },
                 {
                     "name": "Películas de Drama - Rakuten TV",
@@ -1121,6 +1121,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentales.png",
             "stations": [
                 {
+                    "name": "Historia y Vida",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20260407T040050SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-ES12000024R",
+                    "epgId": "ES12000024R"
+                },
+                {
                     "name": "Ice Pilots",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20251111T011935SQUARE.png",
                     "number": "4346",
@@ -1154,13 +1161,6 @@
                     "number": "4414",
                     "url": "https://jmp2.uk/stvp-ES1400002CJ",
                     "epgId": "ES1400002CJ"
-                },
-                {
-                    "name": "Historia y Vida",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20260407T040050SQUARE.png",
-                    "number": "4416",
-                    "url": "https://jmp2.uk/stvp-ES12000024R",
-                    "epgId": "ES12000024R"
                 },
                 {
                     "name": "Royalworld - Nobleza y Dinastias",
