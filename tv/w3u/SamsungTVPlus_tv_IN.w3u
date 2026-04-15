@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇳 by HL",
-    "author": "Actualizada 15/04/2026 00:15",
+    "author": "Actualizada 16/04/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/in.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/in.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IN.w3u",
@@ -17,16 +17,23 @@
                     "epgId": "IN38000072R"
                 },
                 {
-                    "name": "Bollygold",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260408T011459SQUARE.png",
+                    "name": "B4U Movies",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900016WI_20260415T004808SQUARE.png",
                     "number": "1001",
+                    "url": "https://jmp2.uk/stvp-IN3900016WI",
+                    "epgId": "IN3900016WI"
+                },
+                {
+                    "name": "Bollygold",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260415T004812SQUARE.png",
+                    "number": "1002",
                     "url": "https://jmp2.uk/stvp-IN4000600Q",
                     "epgId": "IN4000600Q"
                 },
                 {
                     "name": "South Station",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260408T011522SQUARE.png",
-                    "number": "1004",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260415T004754SQUARE.png",
+                    "number": "1006",
                     "url": "https://jmp2.uk/stvp-IN3800008CX",
                     "epgId": "IN3800008CX"
                 },
@@ -57,13 +64,6 @@
                     "number": "1316",
                     "url": "https://jmp2.uk/stvp-IN46000140Q",
                     "epgId": "IN46000140Q"
-                },
-                {
-                    "name": "B4U Movies",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900016WI_20260225T005750SQUARE.png",
-                    "number": "1317",
-                    "url": "https://jmp2.uk/stvp-IN3900016WI",
-                    "epgId": "IN3900016WI"
                 },
                 {
                     "name": "B4U Kadak",
@@ -267,13 +267,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Hindi News.png",
             "stations": [
                 {
-                    "name": "TV9 Bharatvarsh",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800003SV_20260408T011528SQUARE.png",
-                    "number": "1003",
-                    "url": "https://jmp2.uk/stvp-IN3800003SV",
-                    "epgId": "IN3800003SV"
-                },
-                {
                     "name": "Aaj Tak HD",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20260408T011452SQUARE.png",
                     "number": "1013",
@@ -321,6 +314,13 @@
                     "number": "1025",
                     "url": "https://jmp2.uk/stvp-IN400059ZR",
                     "epgId": "IN400059ZR"
+                },
+                {
+                    "name": "TV9 Bharatvarsh",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800003SV_20260415T004800SQUARE.png",
+                    "number": "1027",
+                    "url": "https://jmp2.uk/stvp-IN3800003SV",
+                    "epgId": "IN3800003SV"
                 },
                 {
                     "name": "India TV News",
@@ -650,13 +650,6 @@
                     "epgId": "IN800012RO"
                 },
                 {
-                    "name": "News18 Jammu Kashmir",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600007AU_20240612T015012SQUARE.png",
-                    "number": "1111",
-                    "url": "https://jmp2.uk/stvp-IN1600007AU",
-                    "epgId": "IN1600007AU"
-                },
-                {
                     "name": "News State PUN HAR HIM",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN300083R1_20260311T004500SQUARE.png",
                     "number": "1467",
@@ -699,8 +692,8 @@
             "stations": [
                 {
                     "name": "Kings Of Comedy",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260408T011506SQUARE.png",
-                    "number": "1002",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260415T004747SQUARE.png",
+                    "number": "1003",
                     "url": "https://jmp2.uk/stvp-IN46000184H",
                     "epgId": "IN46000184H"
                 },
@@ -983,11 +976,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sports.png",
             "stations": [
                 {
-                    "name": "Pickleball Now",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600020Q3_20260408T011514SQUARE.png",
-                    "number": "1006",
-                    "url": "https://jmp2.uk/stvp-IN4600020Q3",
-                    "epgId": "IN4600020Q3"
+                    "name": "Sports Live",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000899C_20260415T004757SQUARE.png",
+                    "number": "1004",
+                    "url": "https://jmp2.uk/stvp-IN3000899C",
+                    "epgId": "IN3000899C"
                 },
                 {
                     "name": "Cricket Gold",
@@ -1004,11 +997,11 @@
                     "epgId": "IN270000230"
                 },
                 {
-                    "name": "Sports Live",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000899C_20260408T011525SQUARE.png",
-                    "number": "1214",
-                    "url": "https://jmp2.uk/stvp-IN3000899C",
-                    "epgId": "IN3000899C"
+                    "name": "Pickleball Now",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600020Q3_20260415T004751SQUARE.png",
+                    "number": "1213",
+                    "url": "https://jmp2.uk/stvp-IN4600020Q3",
+                    "epgId": "IN4600020Q3"
                 },
                 {
                     "name": "Fight TV",
