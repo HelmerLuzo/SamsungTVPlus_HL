@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇩🇪 by HL",
-    "author": "Actualizada 22/04/2026 00:15",
+    "author": "Actualizada 23/04/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
@@ -169,6 +169,13 @@
                     "number": "4219",
                     "url": "https://jmp2.uk/stvp-DE22000012Y",
                     "epgId": "DE22000012Y"
+                },
+                {
+                    "name": "Space Live",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE8000012L_20260421T125455SQUARE.png",
+                    "number": "4224",
+                    "url": "https://jmp2.uk/stvp-DE8000012L",
+                    "epgId": "DE8000012L"
                 }
             ]
         },
@@ -213,7 +220,7 @@
                 {
                     "name": "Poldark",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE300061W7_20260421T125452SQUARE.png",
-                    "number": "4003",
+                    "number": "4231",
                     "url": "https://jmp2.uk/stvp-DE300061W7",
                     "epgId": "DE300061W7"
                 },
@@ -406,18 +413,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
-                    "name": "Hudson & Rex",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800002GM_20260421T125450SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-DE4800002GM",
-                    "epgId": "DE4800002GM"
-                },
-                {
-                    "name": "Vera",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200044MH_20260421T125458SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-DE200044MH",
-                    "epgId": "DE200044MH"
+                    "name": "ARD Plus Krimi",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4300001HK_20260421T125445SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-DE4300001HK",
+                    "epgId": "DE4300001HK"
                 },
                 {
                     "name": "Crime Serien - Rakuten TV",
@@ -427,11 +427,25 @@
                     "epgId": "DE2600004U3"
                 },
                 {
+                    "name": "Hudson & Rex",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800002GM_20260421T125450SQUARE.png",
+                    "number": "4291",
+                    "url": "https://jmp2.uk/stvp-DE4800002GM",
+                    "epgId": "DE4800002GM"
+                },
+                {
                     "name": "Alarm für Cobra 11 / Balko",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE300020D3_20260421T123606SQUARE.png",
                     "number": "4292",
                     "url": "https://jmp2.uk/stvp-DE300020D3",
                     "epgId": "DE300020D3"
+                },
+                {
+                    "name": "Vera",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200044MH_20260421T125458SQUARE.png",
+                    "number": "4293",
+                    "url": "https://jmp2.uk/stvp-DE200044MH",
+                    "epgId": "DE200044MH"
                 },
                 {
                     "name": "Abschnitt 40 / GSG9",
@@ -446,13 +460,6 @@
                     "number": "4297",
                     "url": "https://jmp2.uk/stvp-DE3700006DB",
                     "epgId": "DE3700006DB"
-                },
-                {
-                    "name": "ARD Plus Krimi",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4300001HK_20260421T125445SQUARE.png",
-                    "number": "4298",
-                    "url": "https://jmp2.uk/stvp-DE4300001HK",
-                    "epgId": "DE4300001HK"
                 },
                 {
                     "name": "KultKrimi",
@@ -572,6 +579,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
+                    "name": "Wilder Planet",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20260421T125435SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-DEBA3300042XG",
+                    "epgId": "DEBA3300042XG"
+                },
+                {
                     "name": "The Wicked Tuna Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC220000422_20250107T024428SQUARE.png",
                     "number": "4352",
@@ -668,13 +682,6 @@
                     "number": "4435",
                     "url": "https://jmp2.uk/stvp-DEAK3504506A",
                     "epgId": "DEAK3504506A"
-                },
-                {
-                    "name": "Wilder Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20260421T125435SQUARE.png",
-                    "number": "4486",
-                    "url": "https://jmp2.uk/stvp-DEBA3300042XG",
-                    "epgId": "DEBA3300042XG"
                 },
                 {
                     "name": "BBC Earth",
@@ -914,7 +921,7 @@
                 {
                     "name": "DAZN FAST+",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC470000128_20260421T125447SQUARE.png",
-                    "number": "4631",
+                    "number": "4002",
                     "url": "https://jmp2.uk/stvp-DEBC470000128",
                     "epgId": "DEBC470000128"
                 },

@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇨🇭 by HL",
-    "author": "Actualizada 22/04/2026 00:15",
+    "author": "Actualizada 23/04/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/ch.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/ch.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CH.w3u",
@@ -9,6 +9,13 @@
             "name": "Entertainment",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Entertainment.png",
             "stations": [
+                {
+                    "name": "Hochzeit auf den ersten Blick",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4800001LT_20260421T125405SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-CH4800001LT",
+                    "epgId": "CH4800001LT"
+                },
                 {
                     "name": "Comedy Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD41000043H_20260421T123525SQUARE.png",
@@ -36,13 +43,6 @@
                     "number": "4043",
                     "url": "https://jmp2.uk/stvp-CH40000020D",
                     "epgId": "CH40000020D"
-                },
-                {
-                    "name": "Hochzeit auf den ersten Blick",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4800001LT_20260421T125405SQUARE.png",
-                    "number": "4069",
-                    "url": "https://jmp2.uk/stvp-CH4800001LT",
-                    "epgId": "CH4800001LT"
                 },
                 {
                     "name": "Dating hinter Gittern",
@@ -169,6 +169,13 @@
                     "number": "4219",
                     "url": "https://jmp2.uk/stvp-CH220000164",
                     "epgId": "CH220000164"
+                },
+                {
+                    "name": "Space Live",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH800002JA_20260421T125416SQUARE.png",
+                    "number": "4224",
+                    "url": "https://jmp2.uk/stvp-CH800002JA",
+                    "epgId": "CH800002JA"
                 }
             ]
         },
@@ -220,7 +227,7 @@
                 {
                     "name": "Poldark",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH300042FH_20260421T125410SQUARE.png",
-                    "number": "4003",
+                    "number": "4231",
                     "url": "https://jmp2.uk/stvp-CH300042FH",
                     "epgId": "CH300042FH"
                 },
@@ -364,18 +371,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
-                    "name": "Hudson & Rex",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH48000025D_20260421T125408SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-CH48000025D",
-                    "epgId": "CH48000025D"
-                },
-                {
-                    "name": "Vera",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2000332L_20260421T125419SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-CH2000332L",
-                    "epgId": "CH2000332L"
+                    "name": "Schnell ermittelt & Cop stories",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4400006BZ_20260421T125413SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-CH4400006BZ",
+                    "epgId": "CH4400006BZ"
                 },
                 {
                     "name": "Crime Serien - Rakuten TV",
@@ -385,11 +385,25 @@
                     "epgId": "CH2600007IJ"
                 },
                 {
+                    "name": "Hudson & Rex",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH48000025D_20260421T125408SQUARE.png",
+                    "number": "4291",
+                    "url": "https://jmp2.uk/stvp-CH48000025D",
+                    "epgId": "CH48000025D"
+                },
+                {
                     "name": "Alarm für Cobra 11 / Balko",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH300006UT_20260421T123522SQUARE.png",
                     "number": "4292",
                     "url": "https://jmp2.uk/stvp-CH300006UT",
                     "epgId": "CH300006UT"
+                },
+                {
+                    "name": "Vera",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2000332L_20260421T125419SQUARE.png",
+                    "number": "4293",
+                    "url": "https://jmp2.uk/stvp-CH2000332L",
+                    "epgId": "CH2000332L"
                 },
                 {
                     "name": "Top Serien",
@@ -425,13 +439,6 @@
                     "number": "4304",
                     "url": "https://jmp2.uk/stvp-CH900001R9",
                     "epgId": "CH900001R9"
-                },
-                {
-                    "name": "Schnell ermittelt & Cop stories",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4400006BZ_20260421T125413SQUARE.png",
-                    "number": "4306",
-                    "url": "https://jmp2.uk/stvp-CH4400006BZ",
-                    "epgId": "CH4400006BZ"
                 },
                 {
                     "name": "Alerte Cobra",
@@ -530,6 +537,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
+                    "name": "Wilder Planet",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20260421T125357SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-CHBA3300028G3",
+                    "epgId": "CHBA3300028G3"
+                },
+                {
                     "name": "The Wicked Tuna Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000011Y_20250107T025613SQUARE.png",
                     "number": "4352",
@@ -600,13 +614,6 @@
                     "epgId": "CHBC40000040J"
                 },
                 {
-                    "name": "Wilder Planet",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20260421T125357SQUARE.png",
-                    "number": "4486",
-                    "url": "https://jmp2.uk/stvp-CHBA3300028G3",
-                    "epgId": "CHBA3300028G3"
-                },
-                {
                     "name": "One Terra",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1500021M5_20260407T035810SQUARE.png",
                     "number": "4490",
@@ -674,13 +681,6 @@
                     "number": "4521",
                     "url": "https://jmp2.uk/stvp-CHAK3504501A",
                     "epgId": "CHAK3504501A"
-                },
-                {
-                    "name": "Chefclub TV [FR]",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB3900006JN_20260421T125402SQUARE.png",
-                    "number": "4525",
-                    "url": "https://jmp2.uk/stvp-CHBB3900006JN",
-                    "epgId": "CHBB3900006JN"
                 },
                 {
                     "name": "Echappées belles & co [FR]",

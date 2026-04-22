@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇺🇸 by HL",
-    "author": "Actualizada 22/04/2026 00:15",
+    "author": "Actualizada 23/04/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/us.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_US.w3u",
@@ -45,6 +45,27 @@
                     "epgId": "USBD3000073N"
                 },
                 {
+                    "name": "WSOC Charlotte",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20260421T143646SQUARE.png",
+                    "number": "1122",
+                    "url": "https://jmp2.uk/stvp-USBC1000017D8",
+                    "epgId": "USBC1000017D8"
+                },
+                {
+                    "name": "WBTV News",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20260421T143852SQUARE.png",
+                    "number": "1123",
+                    "url": "https://jmp2.uk/stvp-US700004OA",
+                    "epgId": "US700004OA"
+                },
+                {
+                    "name": "WCNC",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20260421T144031SQUARE.png",
+                    "number": "1124",
+                    "url": "https://jmp2.uk/stvp-US1400004HN",
+                    "epgId": "US1400004HN"
+                },
+                {
                     "name": "FOX Weather",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20250909T213109SQUARE.png",
                     "number": "1130",
@@ -59,11 +80,11 @@
                     "epgId": "US50000551O"
                 },
                 {
-                    "name": "WeatherNation",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20260421T133617SQUARE.png",
+                    "name": "WN Charlotte",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20260421T144319SQUARE.png",
                     "number": "1135",
-                    "url": "https://jmp2.uk/stvp-USBC1500009LD",
-                    "epgId": "USBC1500009LD"
+                    "url": "https://jmp2.uk/stvp-USBC3200001S5",
+                    "epgId": "USBC3200001S5"
                 },
                 {
                     "name": "BBC News",
@@ -818,6 +839,13 @@
                     "epgId": "USBB5200007BY"
                 },
                 {
+                    "name": "48 Hours",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000005GY_20260421T142104SQUARE.png",
+                    "number": "1842",
+                    "url": "https://jmp2.uk/stvp-US1000005GY",
+                    "epgId": "US1000005GY"
+                },
+                {
                     "name": "ABC 20/20",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4800001W5_20260421T133700SQUARE.png",
                     "number": "1844",
@@ -844,6 +872,13 @@
                     "number": "1848",
                     "url": "https://jmp2.uk/stvp-USBD42000250Q",
                     "epgId": "USBD42000250Q"
+                },
+                {
+                    "name": "COPS",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US10000092P_20260421T142126SQUARE.png",
+                    "number": "1849",
+                    "url": "https://jmp2.uk/stvp-US10000092P",
+                    "epgId": "US10000092P"
                 },
                 {
                     "name": "Oxygen True Crimes Archive",
@@ -1004,6 +1039,20 @@
                     "number": "1930",
                     "url": "https://jmp2.uk/stvp-USBA3000093U",
                     "epgId": "USBA3000093U"
+                },
+                {
+                    "name": "Jersey Shore",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900012LC_20260421T142158SQUARE.png",
+                    "number": "1932",
+                    "url": "https://jmp2.uk/stvp-US3900012LC",
+                    "epgId": "US3900012LC"
+                },
+                {
+                    "name": "Teen Mom",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000134M_20260421T142302SQUARE.png",
+                    "number": "1933",
+                    "url": "https://jmp2.uk/stvp-US39000134M",
+                    "epgId": "US39000134M"
                 },
                 {
                     "name": "Perform",
@@ -1494,6 +1543,13 @@
                     "epgId": "USBB4800005VO"
                 },
                 {
+                    "name": "CBS Sports Golazo Network",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US100000704_20260421T142122SQUARE.png",
+                    "number": "2331",
+                    "url": "https://jmp2.uk/stvp-US100000704",
+                    "epgId": "US100000704"
+                },
+                {
                     "name": "FOX Sports",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700001QY_20260421T143236SQUARE.png",
                     "number": "2334",
@@ -1585,6 +1641,13 @@
                     "epgId": "US4600006R8"
                 },
                 {
+                    "name": "Bellator MMA",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000006HT_20260421T142118SQUARE.png",
+                    "number": "2357",
+                    "url": "https://jmp2.uk/stvp-US1000006HT",
+                    "epgId": "US1000006HT"
+                },
+                {
                     "name": "DraftKings Network",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700013BW_20251202T005911SQUARE.png",
                     "number": "2358",
@@ -1604,6 +1667,13 @@
                     "number": "2368",
                     "url": "https://jmp2.uk/stvp-USBD12000255B",
                     "epgId": "USBD12000255B"
+                },
+                {
+                    "name": "UEFA Champions League",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000012ML_20260421T142335SQUARE.png",
+                    "number": "2371",
+                    "url": "https://jmp2.uk/stvp-US1000012ML",
+                    "epgId": "US1000012ML"
                 },
                 {
                     "name": "beIN SPORTS XTRA",
@@ -2184,6 +2254,20 @@
                     "epgId": "USBB3500001O6"
                 },
                 {
+                    "name": "Survivor",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900014MX_20260421T142256SQUARE.png",
+                    "number": "2724",
+                    "url": "https://jmp2.uk/stvp-US3900014MX",
+                    "epgId": "US3900014MX"
+                },
+                {
+                    "name": "The Amazing Race",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US390001557_20260421T142318SQUARE.png",
+                    "number": "2725",
+                    "url": "https://jmp2.uk/stvp-US390001557",
+                    "epgId": "US390001557"
+                },
+                {
                     "name": "America's Got Talent",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500006VF_20251219T231953SQUARE.png",
                     "number": "2727",
@@ -2432,6 +2516,13 @@
                     "number": "2935",
                     "url": "https://jmp2.uk/stvp-US700020AX",
                     "epgId": "US700020AX"
+                },
+                {
+                    "name": "The Judge Judy Channel",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900016OI_20260421T142324SQUARE.png",
+                    "number": "2937",
+                    "url": "https://jmp2.uk/stvp-US3900016OI",
+                    "epgId": "US3900016OI"
                 },
                 {
                     "name": "VICE",
@@ -2990,6 +3081,13 @@
                     "epgId": "USBA3000158L"
                 },
                 {
+                    "name": "Nick en Espanol",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000177S_20260421T142211SQUARE.png",
+                    "number": "3611",
+                    "url": "https://jmp2.uk/stvp-US39000177S",
+                    "epgId": "US39000177S"
+                },
+                {
                     "name": "PBS Kids",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600013PC_20260421T142214SQUARE.png",
                     "number": "3614",
@@ -3158,13 +3256,6 @@
                     "epgId": "US29000168D"
                 },
                 {
-                    "name": "BBC Kids",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20260421T142059SQUARE.png",
-                    "number": "3692",
-                    "url": "https://jmp2.uk/stvp-US800003JM",
-                    "epgId": "US800003JM"
-                },
-                {
                     "name": "Rainbow Ruby",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300015BY_20260414T005604SQUARE.png",
                     "number": "3693",
@@ -3295,6 +3386,13 @@
                     "number": "3822",
                     "url": "https://jmp2.uk/stvp-US2700004DX",
                     "epgId": "US2700004DX"
+                },
+                {
+                    "name": "Telemundo Deportes Ahora",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800015QA_20260421T142311SQUARE.png",
+                    "number": "3825",
+                    "url": "https://jmp2.uk/stvp-US800015QA",
+                    "epgId": "US800015QA"
                 },
                 {
                     "name": "WAPA+",
@@ -3721,6 +3819,13 @@
                     "number": "4418",
                     "url": "https://jmp2.uk/stvp-USBC3600008WY",
                     "epgId": "USBC3600008WY"
+                },
+                {
+                    "name": "Yo! MTV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900009ZV_20260421T143435SQUARE.png",
+                    "number": "4430",
+                    "url": "https://jmp2.uk/stvp-US3900009ZV",
+                    "epgId": "US3900009ZV"
                 },
                 {
                     "name": "SMTOWN",
