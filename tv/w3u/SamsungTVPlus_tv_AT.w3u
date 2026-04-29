@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇦🇹 by HL",
-    "author": "Actualizada 29/04/2026 00:15",
+    "author": "Actualizada 30/04/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/at.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/at.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_AT.w3u",
@@ -335,6 +335,13 @@
                     "number": "4265",
                     "url": "https://jmp2.uk/stvp-AT1500002N1",
                     "epgId": "AT1500002N1"
+                },
+                {
+                    "name": "Merhaba Arabische Serien",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT49000019H_20260428T031412SQUARE.png",
+                    "number": "4269",
+                    "url": "https://jmp2.uk/stvp-AT49000019H",
+                    "epgId": "AT49000019H"
                 }
             ]
         },
@@ -514,6 +521,13 @@
                     "number": "4354",
                     "url": "https://jmp2.uk/stvp-ATAJ700009X4",
                     "epgId": "ATAJ700009X4"
+                },
+                {
+                    "name": "N24 Doku",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT22000037P_20260428T031415SQUARE.png",
+                    "number": "4415",
+                    "url": "https://jmp2.uk/stvp-AT22000037P",
+                    "epgId": "AT22000037P"
                 },
                 {
                     "name": "CURIOSITY Now",

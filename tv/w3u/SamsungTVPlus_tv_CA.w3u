@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇨🇦 by HL",
-    "author": "Actualizada 29/04/2026 00:15",
+    "author": "Actualizada 30/04/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/ca.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/ca.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_CA.w3u",
@@ -378,13 +378,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
-                    "name": "Unsolved Mysteries",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000135F_20260428T032038SQUARE.png",
-                    "number": "1003",
-                    "url": "https://jmp2.uk/stvp-CAAJ27000135F",
-                    "epgId": "CAAJ27000135F"
-                },
-                {
                     "name": "Cops",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000189A_20260421T140552SQUARE.png",
                     "number": "1800",
@@ -448,6 +441,13 @@
                     "epgId": "CAAJ2700012PP"
                 },
                 {
+                    "name": "Unsolved Mysteries",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000135F_20260428T032038SQUARE.png",
+                    "number": "1865",
+                    "url": "https://jmp2.uk/stvp-CAAJ27000135F",
+                    "epgId": "CAAJ27000135F"
+                },
+                {
                     "name": "BuzzFeed Unsolved",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2600003M4_20251110T235230SQUARE.png",
                     "number": "1877",
@@ -482,25 +482,25 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality TV.png",
             "stations": [
                 {
-                    "name": "Hell's Kitchen",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600006SV_20260421T140504SQUARE.png",
-                    "number": "1902",
-                    "url": "https://jmp2.uk/stvp-CABB2600006SV",
-                    "epgId": "CABB2600006SV"
-                },
-                {
                     "name": "Fear Factor",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA18000010N_20260428T032153SQUARE.png",
-                    "number": "1903",
+                    "number": "1000",
                     "url": "https://jmp2.uk/stvp-CA18000010N",
                     "epgId": "CA18000010N"
                 },
                 {
                     "name": "American Pickers",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400014EH_20260428T032150SQUARE.png",
-                    "number": "1904",
+                    "number": "1004",
                     "url": "https://jmp2.uk/stvp-CA1400014EH",
                     "epgId": "CA1400014EH"
+                },
+                {
+                    "name": "Hell's Kitchen",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600006SV_20260421T140504SQUARE.png",
+                    "number": "1902",
+                    "url": "https://jmp2.uk/stvp-CABB2600006SV",
+                    "epgId": "CABB2600006SV"
                 },
                 {
                     "name": "Ax Men",
@@ -628,6 +628,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Home & Food.png",
             "stations": [
                 {
+                    "name": "PBS Antiques Roadshow",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700001QB_20260428T032156SQUARE.png",
+                    "number": "1002",
+                    "url": "https://jmp2.uk/stvp-CABD1700001QB",
+                    "epgId": "CABD1700001QB"
+                },
+                {
                     "name": "Property Brothers",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400017PU_20260421T140324SQUARE.png",
                     "number": "2007",
@@ -696,13 +703,6 @@
                     "number": "2038",
                     "url": "https://jmp2.uk/stvp-CAAJ3400016J9",
                     "epgId": "CAAJ3400016J9"
-                },
-                {
-                    "name": "PBS Antiques Roadshow",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700001QB_20260428T032156SQUARE.png",
-                    "number": "2041",
-                    "url": "https://jmp2.uk/stvp-CABD1700001QB",
-                    "epgId": "CABD1700001QB"
                 },
                 {
                     "name": "Antiques Roadshow",
@@ -816,9 +816,16 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sports & Outdoors.png",
             "stations": [
                 {
+                    "name": "PGA Tour",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1300004QB_20260428T032159SQUARE.png",
+                    "number": "1001",
+                    "url": "https://jmp2.uk/stvp-CA1300004QB",
+                    "epgId": "CA1300004QB"
+                },
+                {
                     "name": "MLB Channel",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400001PI_20260428T032050SQUARE.png",
-                    "number": "1001",
+                    "number": "2315",
                     "url": "https://jmp2.uk/stvp-CA1400001PI",
                     "epgId": "CA1400001PI"
                 },
@@ -942,13 +949,6 @@
                     "epgId": "CABA3700006IC"
                 },
                 {
-                    "name": "PGA Tour",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1300004QB_20260428T032159SQUARE.png",
-                    "number": "2436",
-                    "url": "https://jmp2.uk/stvp-CA1300004QB",
-                    "epgId": "CA1300004QB"
-                },
-                {
                     "name": "PickleballTV",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA110000152_20260421T140234SQUARE.png",
                     "number": "2444",
@@ -1058,6 +1058,13 @@
             "name": "Comedy",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Comedy.png",
             "stations": [
+                {
+                    "name": "FailArmy",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700029OC_20260428T032138SQUARE.png",
+                    "number": "1003",
+                    "url": "https://jmp2.uk/stvp-CAAJ2700029OC",
+                    "epgId": "CAAJ2700029OC"
+                },
                 {
                     "name": "Conan O'Brien TV",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700002R4_20260421T141050SQUARE.png",
@@ -1169,13 +1176,6 @@
                     "number": "2679",
                     "url": "https://jmp2.uk/stvp-CA1300001DN",
                     "epgId": "CA1300001DN"
-                },
-                {
-                    "name": "FailArmy",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700029OC_20260428T032138SQUARE.png",
-                    "number": "2682",
-                    "url": "https://jmp2.uk/stvp-CAAJ2700029OC",
-                    "epgId": "CAAJ2700029OC"
                 },
                 {
                     "name": "America’s Funniest Home Videos",
@@ -1455,7 +1455,7 @@
                 {
                     "name": "Brave Wilderness",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2100007GY_20260428T032048SQUARE.png",
-                    "number": "1000",
+                    "number": "3507",
                     "url": "https://jmp2.uk/stvp-CA2100007GY",
                     "epgId": "CA2100007GY"
                 },
@@ -1996,20 +1996,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Ambiance.png",
             "stations": [
                 {
-                    "name": "Stingray Naturescape",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400003T7_20260428T032034SQUARE.png",
-                    "number": "1002",
-                    "url": "https://jmp2.uk/stvp-CAAJ3400003T7",
-                    "epgId": "CAAJ3400003T7"
-                },
-                {
-                    "name": "Spring Vibes",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA14000121V_20260428T032053SQUARE.png",
-                    "number": "1004",
-                    "url": "https://jmp2.uk/stvp-CA14000121V",
-                    "epgId": "CA14000121V"
-                },
-                {
                     "name": "Ocean Vibes",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA7000015K_20260420T153149SQUARE.png",
                     "number": "4505",
@@ -2038,11 +2024,25 @@
                     "epgId": "CA1400015BB"
                 },
                 {
+                    "name": "Spring Vibes",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA14000121V_20260428T032053SQUARE.png",
+                    "number": "4550",
+                    "url": "https://jmp2.uk/stvp-CA14000121V",
+                    "epgId": "CA14000121V"
+                },
+                {
                     "name": "Stingray Holidayscapes",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4000013R_20260421T140734SQUARE.png",
                     "number": "4570",
                     "url": "https://jmp2.uk/stvp-CA4000013R",
                     "epgId": "CA4000013R"
+                },
+                {
+                    "name": "Stingray Naturescape",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400003T7_20260428T032034SQUARE.png",
+                    "number": "4572",
+                    "url": "https://jmp2.uk/stvp-CAAJ3400003T7",
+                    "epgId": "CAAJ3400003T7"
                 },
                 {
                     "name": "ZenLIFE by Stingray",
