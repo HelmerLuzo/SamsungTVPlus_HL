@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 06/05/2026 00:15",
+    "author": "Actualizada 07/05/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -190,6 +190,13 @@
                     "number": "4202",
                     "url": "https://jmp2.uk/stvp-GB4100001E2",
                     "epgId": "GB4100001E2"
+                },
+                {
+                    "name": "H2O & Friends",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1200008XG_20260505T035900SQUARE.png",
+                    "number": "4206",
+                    "url": "https://jmp2.uk/stvp-GB1200008XG",
+                    "epgId": "GB1200008XG"
                 },
                 {
                     "name": "Nolly Africa HD",
@@ -477,6 +484,13 @@
                     "epgId": "GB800002OP"
                 },
                 {
+                    "name": "Series K Edge",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB20009440_20260505T035904SQUARE.png",
+                    "number": "4254",
+                    "url": "https://jmp2.uk/stvp-GB20009440",
+                    "epgId": "GB20009440"
+                },
+                {
                     "name": "Series K: Heart",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4400001OO_20251209T004621SQUARE.png",
                     "number": "4255",
@@ -503,6 +517,13 @@
                     "number": "4258",
                     "url": "https://jmp2.uk/stvp-GB17000066A",
                     "epgId": "GB17000066A"
+                },
+                {
+                    "name": "Series K Legacy",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB200093HQ_20260505T035908SQUARE.png",
+                    "number": "4259",
+                    "url": "https://jmp2.uk/stvp-GB200093HQ",
+                    "epgId": "GB200093HQ"
                 },
                 {
                     "name": "Mr Bean Animated",
@@ -1211,6 +1232,13 @@
                     "number": "4611",
                     "url": "https://jmp2.uk/stvp-GB3800003OS",
                     "epgId": "GB3800003OS"
+                },
+                {
+                    "name": "Wrestling Legends TV",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500013LT_20260505T035911SQUARE.png",
+                    "number": "4613",
+                    "url": "https://jmp2.uk/stvp-GB500013LT",
+                    "epgId": "GB500013LT"
                 },
                 {
                     "name": "Red Bull TV",

@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 06/05/2026 00:15",
+    "author": "Actualizada 07/05/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -10,11 +10,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Film.png",
             "stations": [
                 {
-                    "name": "Adrenaline Movies",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000050E_20260505T035953SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-ITBC11000050E",
-                    "epgId": "ITBC11000050E"
+                    "name": "Romantica",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500004JK_20260505T040010SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-IT500004JK",
+                    "epgId": "IT500004JK"
                 },
                 {
                     "name": "Film Top - Rakuten TV",
@@ -106,13 +106,6 @@
                     "number": "4898",
                     "url": "https://jmp2.uk/stvp-ITAJ3800009J1",
                     "epgId": "ITAJ3800009J1"
-                },
-                {
-                    "name": "Romantica",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500004JK_20260505T040010SQUARE.png",
-                    "number": "4900",
-                    "url": "https://jmp2.uk/stvp-IT500004JK",
-                    "epgId": "IT500004JK"
                 },
                 {
                     "name": "Velvet",
@@ -267,6 +260,13 @@
                     "number": "4992",
                     "url": "https://jmp2.uk/stvp-ITBD1100001B7",
                     "epgId": "ITBD1100001B7"
+                },
+                {
+                    "name": "Adrenaline Movies",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000050E_20260505T035953SQUARE.png",
+                    "number": "4993",
+                    "url": "https://jmp2.uk/stvp-ITBC11000050E",
+                    "epgId": "ITBC11000050E"
                 },
                 {
                     "name": "Pluto TV Film Azione",
@@ -596,7 +596,7 @@
                 {
                     "name": "SuperTennis",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800003V4_20260505T040013SQUARE.png",
-                    "number": "4605",
+                    "number": "4002",
                     "url": "https://jmp2.uk/stvp-IT800003V4",
                     "epgId": "IT800003V4"
                 },
@@ -714,7 +714,7 @@
                 {
                     "name": "Un medico in famiglia",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4000061Q_20260505T040017SQUARE.png",
-                    "number": "4230",
+                    "number": "4003",
                     "url": "https://jmp2.uk/stvp-IT4000061Q",
                     "epgId": "IT4000061Q"
                 },
@@ -752,6 +752,13 @@
                     "number": "4241",
                     "url": "https://jmp2.uk/stvp-ITBD3200003HL",
                     "epgId": "ITBD3200003HL"
+                },
+                {
+                    "name": "H2O & Friends",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1200004E6_20260505T040002SQUARE.png",
+                    "number": "4244",
+                    "url": "https://jmp2.uk/stvp-IT1200004E6",
+                    "epgId": "IT1200004E6"
                 },
                 {
                     "name": "Mutant X",
@@ -1044,20 +1051,6 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentari.png",
             "stations": [
                 {
-                    "name": "II Guerra Mondiale - La Storia",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000023T_20260505T040006SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-IT9000023T",
-                    "epgId": "IT9000023T"
-                },
-                {
-                    "name": "BBC Earth",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20260505T035958SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-IT3200002L5",
-                    "epgId": "IT3200002L5"
-                },
-                {
                     "name": "Discovery",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT31000026G_20251013T054531SQUARE.png",
                     "number": "4344",
@@ -1070,6 +1063,20 @@
                     "number": "4411",
                     "url": "https://jmp2.uk/stvp-ITBC35000016T",
                     "epgId": "ITBC35000016T"
+                },
+                {
+                    "name": "II Guerra Mondiale - La Storia",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000023T_20260505T040006SQUARE.png",
+                    "number": "4414",
+                    "url": "https://jmp2.uk/stvp-IT9000023T",
+                    "epgId": "IT9000023T"
+                },
+                {
+                    "name": "BBC Earth",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20260505T035958SQUARE.png",
+                    "number": "4487",
+                    "url": "https://jmp2.uk/stvp-IT3200002L5",
+                    "epgId": "IT3200002L5"
                 },
                 {
                     "name": "WildEarth",
