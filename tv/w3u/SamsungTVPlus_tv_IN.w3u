@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇳 by HL",
-    "author": "Actualizada 13/05/2026 00:15",
+    "author": "Actualizada 14/05/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/in.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/in.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IN.w3u",
@@ -11,17 +11,17 @@
             "stations": [
                 {
                     "name": "The Movie Club",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260506T005153SQUARE.png",
-                    "number": "1002",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260513T005540SQUARE.png",
+                    "number": "1001",
                     "url": "https://jmp2.uk/stvp-IN38000072R",
                     "epgId": "IN38000072R"
                 },
                 {
-                    "name": "NH Tamil Gold",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400061DB_20260506T005148SQUARE.png",
-                    "number": "1004",
-                    "url": "https://jmp2.uk/stvp-IN400061DB",
-                    "epgId": "IN400061DB"
+                    "name": "Bollygold",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260513T005535SQUARE.png",
+                    "number": "1002",
+                    "url": "https://jmp2.uk/stvp-IN4000600Q",
+                    "epgId": "IN4000600Q"
                 },
                 {
                     "name": "South Station",
@@ -29,13 +29,6 @@
                     "number": "1005",
                     "url": "https://jmp2.uk/stvp-IN3800008CX",
                     "epgId": "IN3800008CX"
-                },
-                {
-                    "name": "Bollygold",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260506T005132SQUARE.png",
-                    "number": "1006",
-                    "url": "https://jmp2.uk/stvp-IN4000600Q",
-                    "epgId": "IN4000600Q"
                 },
                 {
                     "name": "The Movie Club+2",
@@ -113,6 +106,13 @@
                     "number": "1330",
                     "url": "https://jmp2.uk/stvp-IN39000307N",
                     "epgId": "IN39000307N"
+                },
+                {
+                    "name": "NH Tamil Gold",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400061DB_20260513T005538SQUARE.png",
+                    "number": "1331",
+                    "url": "https://jmp2.uk/stvp-IN400061DB",
+                    "epgId": "IN400061DB"
                 }
             ]
         },
@@ -295,13 +295,6 @@
                     "epgId": "INBC2800002WJ"
                 },
                 {
-                    "name": "Republic Bharat",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20240925T102255SQUARE.png",
-                    "number": "1017",
-                    "url": "https://jmp2.uk/stvp-INBA490002119",
-                    "epgId": "INBA490002119"
-                },
-                {
                     "name": "ABP News",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600012BD_20260401T005210SQUARE.png",
                     "number": "1021",
@@ -393,6 +386,13 @@
                     "epgId": "INBC4300010Z6"
                 },
                 {
+                    "name": "Republic Bharat",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20260513T005526SQUARE.png",
+                    "number": "1040",
+                    "url": "https://jmp2.uk/stvp-INBA490002119",
+                    "epgId": "INBA490002119"
+                },
+                {
                     "name": "News24",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900001YE_20250430T011913SQUARE.png",
                     "number": "1470",
@@ -411,13 +411,6 @@
                     "number": "1041",
                     "url": "https://jmp2.uk/stvp-INBC2800005X4",
                     "epgId": "INBC2800005X4"
-                },
-                {
-                    "name": "Republic TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900020A5_20240131T032253SQUARE.png_20240131032254.png",
-                    "number": "1045",
-                    "url": "https://jmp2.uk/stvp-INBA4900020A5",
-                    "epgId": "INBA4900020A5"
                 },
                 {
                     "name": "NDTV 24X7",
@@ -467,6 +460,13 @@
                     "number": "1055",
                     "url": "https://jmp2.uk/stvp-INBA5100022O4",
                     "epgId": "INBA5100022O4"
+                },
+                {
+                    "name": "Republic TV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900020A5_20260513T005528SQUARE.png",
+                    "number": "1056",
+                    "url": "https://jmp2.uk/stvp-INBA4900020A5",
+                    "epgId": "INBA4900020A5"
                 },
                 {
                     "name": "WION",
@@ -712,18 +712,18 @@
                     "epgId": "IN46000184H"
                 },
                 {
-                    "name": "Zee Dil Se",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100003OJ_20260506T005158SQUARE.png",
-                    "number": "1001",
-                    "url": "https://jmp2.uk/stvp-IN2100003OJ",
-                    "epgId": "IN2100003OJ"
-                },
-                {
                     "name": "Korean TV",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600005NF_20260506T005145SQUARE.png",
                     "number": "1003",
                     "url": "https://jmp2.uk/stvp-IN3600005NF",
                     "epgId": "IN3600005NF"
+                },
+                {
+                    "name": "Zee Dil Se",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100003OJ_20260513T005542SQUARE.png",
+                    "number": "1004",
+                    "url": "https://jmp2.uk/stvp-IN2100003OJ",
+                    "epgId": "IN2100003OJ"
                 },
                 {
                     "name": "Comedy King",
@@ -942,6 +942,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Kids.png",
             "stations": [
                 {
+                    "name": "Green Gold TV",
+                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000625P_20260513T005536SQUARE.png",
+                    "number": "1006",
+                    "url": "https://jmp2.uk/stvp-IN4000625P",
+                    "epgId": "IN4000625P"
+                },
+                {
                     "name": "The Jungle Book",
                     "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20260121T010843SQUARE.png",
                     "number": "1264",
@@ -961,13 +968,6 @@
                     "number": "1266",
                     "url": "https://jmp2.uk/stvp-IN2500003JW",
                     "epgId": "IN2500003JW"
-                },
-                {
-                    "name": "Green Gold TV",
-                    "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000625P_20260429T010051SQUARE.png",
-                    "number": "1267",
-                    "url": "https://jmp2.uk/stvp-IN4000625P",
-                    "epgId": "IN4000625P"
                 },
                 {
                     "name": "KidDo MATIX",
