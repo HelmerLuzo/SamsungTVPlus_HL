@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇦🇹 by HL",
-    "author": "Actualizada 03/06/2026 00:15",
+    "author": "Actualizada 04/06/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/at.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/at.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_AT.w3u",
@@ -11,8 +11,8 @@
             "stations": [
                 {
                     "name": "Comedy Mix",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD41000046O_20260505T035242SQUARE.png",
-                    "number": "4002",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD41000046O_20260528T052650SQUARE.png",
+                    "number": "4007",
                     "url": "https://jmp2.uk/stvp-ATBD41000046O",
                     "epgId": "ATBD41000046O"
                 },
@@ -57,6 +57,13 @@
                     "number": "4081",
                     "url": "https://jmp2.uk/stvp-AT2800001N5",
                     "epgId": "AT2800001N5"
+                },
+                {
+                    "name": "Die Geissens",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT320000879_20260528T052708SQUARE.png",
+                    "number": "4083",
+                    "url": "https://jmp2.uk/stvp-AT320000879",
+                    "epgId": "AT320000879"
                 },
                 {
                     "name": "The Graham Norton Show",
@@ -205,8 +212,8 @@
             "stations": [
                 {
                     "name": "Poldark",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300045YS_20260505T035258SQUARE.png",
-                    "number": "4003",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300045YS_20260528T052730SQUARE.png",
+                    "number": "4231",
                     "url": "https://jmp2.uk/stvp-AT300045YS",
                     "epgId": "AT300045YS"
                 },
@@ -357,6 +364,20 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
+                    "name": "Alarm für Cobra 11 / Balko",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300009BI_20260528T052643SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-AT300009BI",
+                    "epgId": "AT300009BI"
+                },
+                {
+                    "name": "Vera",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300044H2_20260528T052746SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-AT300044H2",
+                    "epgId": "AT300044H2"
+                },
+                {
                     "name": "Crime Serien - Rakuten TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT260000634_20260421T125314SQUARE.png",
                     "number": "4005",
@@ -369,20 +390,6 @@
                     "number": "4291",
                     "url": "https://jmp2.uk/stvp-AT4800002G5",
                     "epgId": "AT4800002G5"
-                },
-                {
-                    "name": "Alarm für Cobra 11 / Balko",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300009BI_20260421T123502SQUARE.png",
-                    "number": "4292",
-                    "url": "https://jmp2.uk/stvp-AT300009BI",
-                    "epgId": "AT300009BI"
-                },
-                {
-                    "name": "Vera",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300044H2_20260421T125337SQUARE.png",
-                    "number": "4293",
-                    "url": "https://jmp2.uk/stvp-AT300044H2",
-                    "epgId": "AT300044H2"
                 },
                 {
                     "name": "Top Serien",
@@ -586,6 +593,13 @@
                     "epgId": "ATAK3504503A"
                 },
                 {
+                    "name": "Wheels & Steel",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1000001DC_20260528T052757SQUARE.png",
+                    "number": "4436",
+                    "url": "https://jmp2.uk/stvp-AT1000001DC",
+                    "epgId": "AT1000001DC"
+                },
+                {
                     "name": "Wilder Planet",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300031VR_20260505T085415SQUARE.png",
                     "number": "4486",
@@ -619,6 +633,13 @@
                     "number": "4496",
                     "url": "https://jmp2.uk/stvp-AT4600002H5",
                     "epgId": "AT4600002H5"
+                },
+                {
+                    "name": "ARD Plus Zoo",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1100010IZ_20260528T052635SQUARE.png",
+                    "number": "4498",
+                    "url": "https://jmp2.uk/stvp-AT1100010IZ",
+                    "epgId": "AT1100010IZ"
                 },
                 {
                     "name": "Pluto TV Animals",
@@ -710,6 +731,13 @@
                     "epgId": "ATBD2300001PY"
                 },
                 {
+                    "name": "GRIP - Das Motormagazin",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3200009QJ_20260528T052717SQUARE.png",
+                    "number": "4659",
+                    "url": "https://jmp2.uk/stvp-AT3200009QJ",
+                    "epgId": "AT3200009QJ"
+                },
+                {
                     "name": "Motorvision",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600011EO_20250107T022147SQUARE.png",
                     "number": "4660",
@@ -772,9 +800,16 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Fußball.png",
             "stations": [
                 {
+                    "name": "Scooore",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD26000124P_20260528T052739SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-ATBD26000124P",
+                    "epgId": "ATBD26000124P"
+                },
+                {
                     "name": "DAZN FAST+",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC4700001JX_20260505T085418SQUARE.png",
-                    "number": "4001",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC4700001JX_20260528T052659SQUARE.png",
+                    "number": "4631",
                     "url": "https://jmp2.uk/stvp-ATBC4700001JX",
                     "epgId": "ATBC4700001JX"
                 },
@@ -791,13 +826,6 @@
                     "number": "4639",
                     "url": "https://jmp2.uk/stvp-ATBA3300007PT",
                     "epgId": "ATBA3300007PT"
-                },
-                {
-                    "name": "Scooore",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD26000124P_20260324T040414SQUARE.png",
-                    "number": "4641",
-                    "url": "https://jmp2.uk/stvp-ATBD26000124P",
-                    "epgId": "ATBD26000124P"
                 },
                 {
                     "name": "INTER 24/7",
@@ -822,8 +850,8 @@
             ]
         },
         {
-            "name": "Musik",
-            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Musik.png",
+            "name": "Musik & Ambient",
+            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Musik & Ambient.png",
             "stations": [
                 {
                     "name": "DELUXE RAP",
@@ -859,6 +887,13 @@
                     "number": "4744",
                     "url": "https://jmp2.uk/stvp-ATAJ0500451A",
                     "epgId": "ATAJ0500451A"
+                },
+                {
+                    "name": "Metallica Takeover",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT700006W8_20260528T052725SQUARE.png",
+                    "number": "4747",
+                    "url": "https://jmp2.uk/stvp-AT700006W8",
+                    "epgId": "AT700006W8"
                 },
                 {
                     "name": "Deluxe Lounge HD",

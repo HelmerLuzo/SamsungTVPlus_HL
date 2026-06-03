@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇬🇧 by HL",
-    "author": "Actualizada 03/06/2026 00:15",
+    "author": "Actualizada 04/06/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/gb.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_GB.w3u",
@@ -78,13 +78,6 @@
                     "number": "4118",
                     "url": "https://jmp2.uk/stvp-GBBB38000068U",
                     "epgId": "GBBB38000068U"
-                },
-                {
-                    "name": "Ninja Warrior",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3900002DT_20250107T031200SQUARE.png",
-                    "number": "4120",
-                    "url": "https://jmp2.uk/stvp-GB3900002DT",
-                    "epgId": "GB3900002DT"
                 },
                 {
                     "name": "Family Feud",
@@ -233,18 +226,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Reality.png",
             "stations": [
                 {
-                    "name": "American Idol",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20260512T060041SQUARE.png",
+                    "name": "Keeping Up With...",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3500003E5_20260528T054117SQUARE.png",
                     "number": "4001",
-                    "url": "https://jmp2.uk/stvp-GBBC2300001X5",
-                    "epgId": "GBBC2300001X5"
-                },
-                {
-                    "name": "A New Life In The Sun",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB60000381_20260512T060038SQUARE.png",
-                    "number": "4002",
-                    "url": "https://jmp2.uk/stvp-GB60000381",
-                    "epgId": "GB60000381"
+                    "url": "https://jmp2.uk/stvp-GB3500003E5",
+                    "epgId": "GB3500003E5"
                 },
                 {
                     "name": "Project Runway",
@@ -261,11 +247,11 @@
                     "epgId": "GBBC2300002GG"
                 },
                 {
-                    "name": "Keeping Up With...",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3500003E5_20260421T123829SQUARE.png",
-                    "number": "4067",
-                    "url": "https://jmp2.uk/stvp-GB3500003E5",
-                    "epgId": "GB3500003E5"
+                    "name": "American Idol",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20260528T054034SQUARE.png",
+                    "number": "4065",
+                    "url": "https://jmp2.uk/stvp-GBBC2300001X5",
+                    "epgId": "GBBC2300001X5"
                 },
                 {
                     "name": "The Osbournes",
@@ -311,7 +297,7 @@
                 },
                 {
                     "name": "Sony One Dragons Den",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300008I8_20260421T123826SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300008I8_20260528T054008SQUARE.png",
                     "number": "4080",
                     "url": "https://jmp2.uk/stvp-GB300008I8",
                     "epgId": "GB300008I8"
@@ -350,6 +336,13 @@
                     "number": "4088",
                     "url": "https://jmp2.uk/stvp-GB3000387J",
                     "epgId": "GB3000387J"
+                },
+                {
+                    "name": "A New Life In The Sun",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB60000381_20260528T054029SQUARE.png",
+                    "number": "4089",
+                    "url": "https://jmp2.uk/stvp-GB60000381",
+                    "epgId": "GB60000381"
                 },
                 {
                     "name": "Cash in the Attic",
@@ -421,18 +414,18 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/TV Series.png",
             "stations": [
                 {
-                    "name": "Poldark",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB280000829_20260512T060054SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-GB280000829",
-                    "epgId": "GB280000829"
-                },
-                {
                     "name": "Sky Mix",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20260421T123849SQUARE.png",
                     "number": "4231",
                     "url": "https://jmp2.uk/stvp-GBBD3100006XM",
                     "epgId": "GBBD3100006XM"
+                },
+                {
+                    "name": "Heartland",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB51000044P_20260528T054101SQUARE.png",
+                    "number": "4232",
+                    "url": "https://jmp2.uk/stvp-GB51000044P",
+                    "epgId": "GB51000044P"
                 },
                 {
                     "name": "Sony One FAVES",
@@ -449,11 +442,25 @@
                     "epgId": "GB3000061H"
                 },
                 {
+                    "name": "Poldark",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB280000829_20260528T054148SQUARE.png",
+                    "number": "4236",
+                    "url": "https://jmp2.uk/stvp-GB280000829",
+                    "epgId": "GB280000829"
+                },
+                {
                     "name": "Pluto TV Classic TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504525A_20250107T022629SQUARE.png",
                     "number": "4237",
                     "url": "https://jmp2.uk/stvp-GBAK3504525A",
                     "epgId": "GBAK3504525A"
+                },
+                {
+                    "name": "Nashville",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB5100003NZ_20260528T054133SQUARE.png",
+                    "number": "4238",
+                    "url": "https://jmp2.uk/stvp-GB5100003NZ",
+                    "epgId": "GB5100003NZ"
                 },
                 {
                     "name": "Demand Drama",
@@ -650,6 +657,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentaries.png",
             "stations": [
                 {
+                    "name": "60 Days in Jail",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1000002RV_20260528T054023SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-GB1000002RV",
+                    "epgId": "GB1000002RV"
+                },
+                {
                     "name": "5 Cops",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504500A_20250107T022508SQUARE.png",
                     "number": "4341",
@@ -690,13 +704,6 @@
                     "number": "4347",
                     "url": "https://jmp2.uk/stvp-GB3700008XB",
                     "epgId": "GB3700008XB"
-                },
-                {
-                    "name": "60 Days in Jail",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1000002RV_20260407T041311SQUARE.png",
-                    "number": "4349",
-                    "url": "https://jmp2.uk/stvp-GB1000002RV",
-                    "epgId": "GB1000002RV"
                 },
                 {
                     "name": "Mythbusters",
@@ -1171,6 +1178,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Sport.png",
             "stations": [
                 {
+                    "name": "FIFA+",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20260528T054053SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-GBBD1100008YW",
+                    "epgId": "GBBD1100008YW"
+                },
+                {
                     "name": "talkSPORT",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB30003577_20250131T145302SQUARE.png",
                     "number": "4603",
@@ -1253,13 +1267,6 @@
                     "number": "4625",
                     "url": "https://jmp2.uk/stvp-GB2700013Y7",
                     "epgId": "GB2700013Y7"
-                },
-                {
-                    "name": "FIFA+",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20251028T010331SQUARE.png",
-                    "number": "4631",
-                    "url": "https://jmp2.uk/stvp-GBBD1100008YW",
-                    "epgId": "GBBD1100008YW"
                 },
                 {
                     "name": "DFB Play TV",
@@ -1355,8 +1362,8 @@
             ]
         },
         {
-            "name": "Music",
-            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Music.png",
+            "name": "Music & Ambient",
+            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Music & Ambient.png",
             "stations": [
                 {
                     "name": "Vevo Pop",
@@ -1451,7 +1458,7 @@
                 },
                 {
                     "name": "SMTOWN",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1000001G0_20260505T035857SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1000001G0_20260528T054002SQUARE.png",
                     "number": "4743",
                     "url": "https://jmp2.uk/stvp-GB1000001G0",
                     "epgId": "GB1000001G0"
@@ -1462,6 +1469,55 @@
                     "number": "4744",
                     "url": "https://jmp2.uk/stvp-GBBD3000004VR",
                     "epgId": "GBBD3000004VR"
+                },
+                {
+                    "name": "Metallica Takeover",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB700007MV_20260528T054126SQUARE.png",
+                    "number": "4747",
+                    "url": "https://jmp2.uk/stvp-GB700007MV",
+                    "epgId": "GB700007MV"
+                },
+                {
+                    "name": "Cozy Vibes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1900004ZY_20260528T054045SQUARE.png",
+                    "number": "4763",
+                    "url": "https://jmp2.uk/stvp-GB1900004ZY",
+                    "epgId": "GB1900004ZY"
+                },
+                {
+                    "name": "Storm Vibes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1900005OD_20260528T054221SQUARE.png",
+                    "number": "4764",
+                    "url": "https://jmp2.uk/stvp-GB1900005OD",
+                    "epgId": "GB1900005OD"
+                },
+                {
+                    "name": "Rainy Day Vibes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1800010BQ_20260528T054159SQUARE.png",
+                    "number": "4765",
+                    "url": "https://jmp2.uk/stvp-GB1800010BQ",
+                    "epgId": "GB1800010BQ"
+                },
+                {
+                    "name": "Spring Vibes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1800013A2_20260528T054211SQUARE.png",
+                    "number": "4766",
+                    "url": "https://jmp2.uk/stvp-GB1800013A2",
+                    "epgId": "GB1800013A2"
+                },
+                {
+                    "name": "Island Vibes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1800011SF_20260528T054108SQUARE.png",
+                    "number": "4767",
+                    "url": "https://jmp2.uk/stvp-GB1800011SF",
+                    "epgId": "GB1800011SF"
+                },
+                {
+                    "name": "Ocean Vibes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB180001295_20260528T054140SQUARE.png",
+                    "number": "4768",
+                    "url": "https://jmp2.uk/stvp-GB180001295",
+                    "epgId": "GB180001295"
                 }
             ]
         },

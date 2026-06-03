@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇮🇹 by HL",
-    "author": "Actualizada 03/06/2026 00:15",
+    "author": "Actualizada 04/06/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/it.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/it.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_IT.w3u",
@@ -10,11 +10,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Film.png",
             "stations": [
                 {
-                    "name": "Romantica",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500004JK_20260505T040010SQUARE.png",
-                    "number": "4001",
-                    "url": "https://jmp2.uk/stvp-IT500004JK",
-                    "epgId": "IT500004JK"
+                    "name": "Bizzarro Movies",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20260528T053405SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-ITBA3300024IU",
+                    "epgId": "ITBA3300024IU"
                 },
                 {
                     "name": "Film Top - Rakuten TV",
@@ -106,6 +106,13 @@
                     "number": "4898",
                     "url": "https://jmp2.uk/stvp-ITAJ3800009J1",
                     "epgId": "ITAJ3800009J1"
+                },
+                {
+                    "name": "Romantica",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500004JK_20260528T053632SQUARE.png",
+                    "number": "4900",
+                    "url": "https://jmp2.uk/stvp-IT500004JK",
+                    "epgId": "IT500004JK"
                 },
                 {
                     "name": "Velvet",
@@ -211,13 +218,6 @@
                     "number": "4949",
                     "url": "https://jmp2.uk/stvp-ITBC400001LX",
                     "epgId": "ITBC400001LX"
-                },
-                {
-                    "name": "Bizzarro Movies",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20260324T035219SQUARE.png",
-                    "number": "4951",
-                    "url": "https://jmp2.uk/stvp-ITBA3300024IU",
-                    "epgId": "ITBA3300024IU"
                 },
                 {
                     "name": "Cine Paura",
@@ -595,8 +595,8 @@
             "stations": [
                 {
                     "name": "SuperTennis",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800003V4_20260505T040013SQUARE.png",
-                    "number": "4002",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800003V4_20260528T053717SQUARE.png",
+                    "number": "4605",
                     "url": "https://jmp2.uk/stvp-IT800003V4",
                     "epgId": "IT800003V4"
                 },
@@ -627,6 +627,13 @@
                     "number": "4619",
                     "url": "https://jmp2.uk/stvp-IT600001L6",
                     "epgId": "IT600001L6"
+                },
+                {
+                    "name": "Sportface",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT16000070D_20260528T053649SQUARE.png",
+                    "number": "4623",
+                    "url": "https://jmp2.uk/stvp-IT16000070D",
+                    "epgId": "IT16000070D"
                 },
                 {
                     "name": "Golf Television",
@@ -712,9 +719,16 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serie TV.png",
             "stations": [
                 {
+                    "name": "Soap Turco",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600007QQ_20260528T053640SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-IT3600007QQ",
+                    "epgId": "IT3600007QQ"
+                },
+                {
                     "name": "Un medico in famiglia",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4000061Q_20260505T040017SQUARE.png",
-                    "number": "4003",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4000061Q_20260528T053725SQUARE.png",
+                    "number": "4230",
                     "url": "https://jmp2.uk/stvp-IT4000061Q",
                     "epgId": "IT4000061Q"
                 },
@@ -829,13 +843,6 @@
                     "number": "4260",
                     "url": "https://jmp2.uk/stvp-IT900001A7",
                     "epgId": "IT900001A7"
-                },
-                {
-                    "name": "Soap Turco",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600007QQ_20260224T031359SQUARE.png",
-                    "number": "4266",
-                    "url": "https://jmp2.uk/stvp-IT3600007QQ",
-                    "epgId": "IT3600007QQ"
                 },
                 {
                     "name": "Anche i ricchi piangono",
@@ -1051,6 +1058,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Documentari.png",
             "stations": [
                 {
+                    "name": "II Guerra Mondiale - La Storia",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000023T_20260528T053540SQUARE.png",
+                    "number": "4001",
+                    "url": "https://jmp2.uk/stvp-IT9000023T",
+                    "epgId": "IT9000023T"
+                },
+                {
                     "name": "Discovery",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT31000026G_20251013T054531SQUARE.png",
                     "number": "4344",
@@ -1063,13 +1077,6 @@
                     "number": "4411",
                     "url": "https://jmp2.uk/stvp-ITBC35000016T",
                     "epgId": "ITBC35000016T"
-                },
-                {
-                    "name": "II Guerra Mondiale - La Storia",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000023T_20260505T040006SQUARE.png",
-                    "number": "4414",
-                    "url": "https://jmp2.uk/stvp-IT9000023T",
-                    "epgId": "IT9000023T"
                 },
                 {
                     "name": "BBC Earth",
@@ -1178,8 +1185,8 @@
             ]
         },
         {
-            "name": "Musica",
-            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Musica.png",
+            "name": "Musica e Ambient",
+            "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Musica e Ambient.png",
             "stations": [
                 {
                     "name": "Vevo Pop",
@@ -1232,7 +1239,7 @@
                 },
                 {
                     "name": "SMTOWN",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1000001YA_20260505T035944SQUARE.png",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1000001YA_20260528T053522SQUARE.png",
                     "number": "4726",
                     "url": "https://jmp2.uk/stvp-IT1000001YA",
                     "epgId": "IT1000001YA"
@@ -1266,6 +1273,13 @@
                     "epgId": "ITBC1100011RK"
                 },
                 {
+                    "name": "Metallica Takeover",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT700008NG_20260528T053604SQUARE.png",
+                    "number": "4747",
+                    "url": "https://jmp2.uk/stvp-IT700008NG",
+                    "epgId": "IT700008NG"
+                },
+                {
                     "name": "Hip Hop TV",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000108G_20241022T051632SQUARE.png",
                     "number": "4748",
@@ -1274,10 +1288,52 @@
                 },
                 {
                     "name": "Deluxe Lounge HD",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA1500001R6_20241022T051326SQUARE.png",
-                    "number": "4764",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA1500001R6_20260528T053514SQUARE.png",
+                    "number": "4761",
                     "url": "https://jmp2.uk/stvp-ITBA1500001R6",
                     "epgId": "ITBA1500001R6"
+                },
+                {
+                    "name": "Cozy Vibes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1900005OP_20260528T053532SQUARE.png",
+                    "number": "4763",
+                    "url": "https://jmp2.uk/stvp-IT1900005OP",
+                    "epgId": "IT1900005OP"
+                },
+                {
+                    "name": "Storm Vibes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1900006GN_20260528T053710SQUARE.png",
+                    "number": "4764",
+                    "url": "https://jmp2.uk/stvp-IT1900006GN",
+                    "epgId": "IT1900006GN"
+                },
+                {
+                    "name": "Rainy Day Vibes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT18000058K_20260528T053623SQUARE.png",
+                    "number": "4765",
+                    "url": "https://jmp2.uk/stvp-IT18000058K",
+                    "epgId": "IT18000058K"
+                },
+                {
+                    "name": "Spring Vibes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1800008RR_20260528T053659SQUARE.png",
+                    "number": "4766",
+                    "url": "https://jmp2.uk/stvp-IT1800008RR",
+                    "epgId": "IT1800008RR"
+                },
+                {
+                    "name": "Island Vibes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1800006P9_20260528T053554SQUARE.png",
+                    "number": "4767",
+                    "url": "https://jmp2.uk/stvp-IT1800006P9",
+                    "epgId": "IT1800006P9"
+                },
+                {
+                    "name": "Ocean Vibes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT18000076Y_20260528T053611SQUARE.png",
+                    "number": "4768",
+                    "url": "https://jmp2.uk/stvp-IT18000076Y",
+                    "epgId": "IT18000076Y"
                 }
             ]
         }
