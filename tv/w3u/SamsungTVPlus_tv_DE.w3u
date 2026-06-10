@@ -1,6 +1,6 @@
 {
     "name": "SamsungTVPlus - TV 🇩🇪 by HL",
-    "author": "Actualizada 10/06/2026 00:15",
+    "author": "Actualizada 11/06/2026 00:15",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz",
     "image": "https://helmerluzo.github.io/SamsungTVPlus_HL/icons/de.png",
     "url": "https://helmerluzo.github.io/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_DE.w3u",
@@ -183,20 +183,6 @@
                     "number": "4214",
                     "url": "https://jmp2.uk/stvp-DE1200011HC",
                     "epgId": "DE1200011HC"
-                },
-                {
-                    "name": "Fireplace Vibes",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE22000012Y_20260609T042511SQUARE.png",
-                    "number": "4219",
-                    "url": "https://jmp2.uk/stvp-DE22000012Y",
-                    "epgId": "DE22000012Y"
-                },
-                {
-                    "name": "Space Live",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE8000012L_20260609T042528SQUARE.png",
-                    "number": "4224",
-                    "url": "https://jmp2.uk/stvp-DE8000012L",
-                    "epgId": "DE8000012L"
                 }
             ]
         },
@@ -238,6 +224,13 @@
             "name": "Serien",
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Serien.png",
             "stations": [
+                {
+                    "name": "Stromberg",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE32000175T_20260609T042535SQUARE.png",
+                    "number": "4003",
+                    "url": "https://jmp2.uk/stvp-DE32000175T",
+                    "epgId": "DE32000175T"
+                },
                 {
                     "name": "Poldark",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE300061W7_20260421T125452SQUARE.png",
@@ -365,13 +358,6 @@
                     "epgId": "DE3400003PW"
                 },
                 {
-                    "name": "Stromberg",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE32000175T_20260609T042535SQUARE.png",
-                    "number": "4256",
-                    "url": "https://jmp2.uk/stvp-DE32000175T",
-                    "epgId": "DE32000175T"
-                },
-                {
                     "name": "Pluto TV Sitcoms",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504508A_20250107T024006SQUARE.png",
                     "number": "4257",
@@ -441,11 +427,11 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Crime.png",
             "stations": [
                 {
-                    "name": "Alarm für Cobra 11 / Balko",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE300020D3_20260609T042448SQUARE.png",
-                    "number": "4003",
-                    "url": "https://jmp2.uk/stvp-DE300020D3",
-                    "epgId": "DE300020D3"
+                    "name": "Vera",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200044MH_20260609T045457SQUARE.png",
+                    "number": "4002",
+                    "url": "https://jmp2.uk/stvp-DE200044MH",
+                    "epgId": "DE200044MH"
                 },
                 {
                     "name": "Crime Serien - Rakuten TV",
@@ -462,11 +448,11 @@
                     "epgId": "DE4800002GM"
                 },
                 {
-                    "name": "Vera",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200044MH_20260609T045457SQUARE.png",
-                    "number": "4293",
-                    "url": "https://jmp2.uk/stvp-DE200044MH",
-                    "epgId": "DE200044MH"
+                    "name": "Alarm für Cobra 11 / Balko",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE300020D3_20260609T042448SQUARE.png",
+                    "number": "4292",
+                    "url": "https://jmp2.uk/stvp-DE300020D3",
+                    "epgId": "DE300020D3"
                 },
                 {
                     "name": "Abschnitt 40 / GSG9",
@@ -538,13 +524,6 @@
                     "epgId": "DE2600003TR"
                 },
                 {
-                    "name": "CNN",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD800001S4_20260609T042503SQUARE.png",
-                    "number": "4006",
-                    "url": "https://jmp2.uk/stvp-DEBD800001S4",
-                    "epgId": "DEBD800001S4"
-                },
-                {
                     "name": "Welt",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2200005GX_20260407T035907SQUARE.png",
                     "number": "4551",
@@ -557,6 +536,13 @@
                     "number": "4552",
                     "url": "https://jmp2.uk/stvp-DE4300003MR",
                     "epgId": "DE4300003MR"
+                },
+                {
+                    "name": "CNN",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD800001S4_20260609T042503SQUARE.png",
+                    "number": "4554",
+                    "url": "https://jmp2.uk/stvp-DEBD800001S4",
+                    "epgId": "DEBD800001S4"
                 },
                 {
                     "name": "CNN Headlines International",
@@ -607,6 +593,13 @@
             "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/icons/Dokus & Wissen.png",
             "stations": [
                 {
+                    "name": "Ax Men - Die Holzfäller",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE46000025H_20260609T042456SQUARE.png",
+                    "number": "4006",
+                    "url": "https://jmp2.uk/stvp-DE46000025H",
+                    "epgId": "DE46000025H"
+                },
+                {
                     "name": "The Wicked Tuna Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC220000422_20250107T024428SQUARE.png",
                     "number": "4352",
@@ -619,13 +612,6 @@
                     "number": "4354",
                     "url": "https://jmp2.uk/stvp-DEAJ7000096L",
                     "epgId": "DEAJ7000096L"
-                },
-                {
-                    "name": "Ax Men - Die Holzfäller",
-                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE46000025H_20260609T042456SQUARE.png",
-                    "number": "4362",
-                    "url": "https://jmp2.uk/stvp-DE46000025H",
-                    "epgId": "DE46000025H"
                 },
                 {
                     "name": "Swamp People - überleben im sumpf",
@@ -797,7 +783,7 @@
                 {
                     "name": "The Jamie Oliver Channel",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20260609T042542SQUARE.png",
-                    "number": "4002",
+                    "number": "4511",
                     "url": "https://jmp2.uk/stvp-DE200003PX",
                     "epgId": "DE200003PX"
                 },
@@ -1107,6 +1093,13 @@
                     "epgId": "DEAK0500445A"
                 },
                 {
+                    "name": "Metal.Rocks",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4400001TO_20260609T042521SQUARE.png",
+                    "number": "4745",
+                    "url": "https://jmp2.uk/stvp-DE4400001TO",
+                    "epgId": "DE4400001TO"
+                },
+                {
                     "name": "Metallica Takeover",
                     "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE700004H4_20260528T054439SQUARE.png",
                     "number": "4747",
@@ -1126,6 +1119,13 @@
                     "number": "4753",
                     "url": "https://jmp2.uk/stvp-DE3900002R1",
                     "epgId": "DE3900002R1"
+                },
+                {
+                    "name": "Space Live",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE8000012L_20260609T042528SQUARE.png",
+                    "number": "4760",
+                    "url": "https://jmp2.uk/stvp-DE8000012L",
+                    "epgId": "DE8000012L"
                 },
                 {
                     "name": "Deluxe Lounge HD",
@@ -1175,6 +1175,13 @@
                     "number": "4768",
                     "url": "https://jmp2.uk/stvp-DE1800011L9",
                     "epgId": "DE1800011L9"
+                },
+                {
+                    "name": "Fireplace Vibes",
+                    "image": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE22000012Y_20260609T042511SQUARE.png",
+                    "number": "4769",
+                    "url": "https://jmp2.uk/stvp-DE22000012Y",
+                    "epgId": "DE22000012Y"
                 }
             ]
         },
